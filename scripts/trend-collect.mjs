@@ -16,7 +16,7 @@ import path from 'node:path';
 
 const ROOT = process.cwd();
 const PROFILE = path.join(ROOT, 'scripts', '.naver-profile');
-const arg = process.argv[2];
+const arg = process.argv.slice(2).find((x) => /^\d{4}-\d{2}-\d{2}$/.test(x));
 const kst = new Date(Date.now() + 9 * 3600 * 1000);
 if (!arg) kst.setUTCDate(kst.getUTCDate() - 1);
 const DATE = arg || kst.toISOString().slice(0, 10);
@@ -35,6 +35,17 @@ const ctx = await chromium.launchPersistentContext(PROFILE, {
   args: ['--disable-blink-features=AutomationControlled'],
 });
 const page = ctx.pages()[0] || (await ctx.newPage());
+
+// `node scripts/trend-collect.mjs --login` : 로그인 창만 띄운다. QR 등으로 로그인하면 쿠키가 프로필에 남고 창이 닫힌다.
+if (process.argv.includes('--login')) {
+  await page.goto('https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fcreator-advisor.naver.com%2F', { waitUntil: 'domcontentloaded' });
+  console.log('네이버 로그인 창을 띄웠습니다. 로그인(QR 가능)하면 자동으로 닫힙니다. 최대 10분.');
+  for (let i = 0; i < 600; i++) {
+    await page.waitForTimeout(1000);
+    if (!/nid\.naver\.com/.test(page.url())) { console.log('로그인 완료. 쿠키 저장됨:', PROFILE); await page.waitForTimeout(2000); await ctx.close(); process.exit(0); }
+  }
+  console.log('10분 안에 로그인되지 않았습니다.'); await ctx.close(); process.exit(2);
+}
 
 // 응답 JSON 원본 저장 — 화면 파싱이 틀려도 원본으로 복구할 수 있게
 let n = 0;

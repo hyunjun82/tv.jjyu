@@ -33,7 +33,9 @@ export default function RootLayout({ children }) {
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&family=Gothic+A1:wght@700;800;900&display=swap" />
-        {/* 네이버·다음 사이트 인증 메타는 서치어드바이저 등록 후 여기에 넣는다 */}
+        <meta name="naver-site-verification" content="a98e9b91e35a925b17294b66141d74ec2dd1c0d6" />
+        <meta name="DaumWebMasterTool" content="8a096d27ae1fea3ec2f2d6f4a95c283e6378acb3b363bb4f4dac6af833825300:WoYFtMaR84eZ7MaX1Xjw9A==" />
+        {/* 빙 msvalidate.01 은 영문 원문 값을 받은 뒤 추가 */}
         <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://fundingchoicesmessages.google.com" crossOrigin="anonymous" />
         {/* Offerwall 선로드 — 애드센스 뒤에 붙이면 표시가 2초 넘게 밀린다(퀴즈에서 실측). quiz/game/ticket 과 동일 */}
