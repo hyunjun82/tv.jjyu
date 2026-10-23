@@ -27,6 +27,7 @@ fs.mkdirSync(RAW, { recursive: true });
 // 우리가 보는 주제. 화면의 카드 제목과 같아야 한다.
 const TOPICS = ['방송', '스타·연예인', '드라마', '영화', '스포츠', '게임'];
 
+process.on('unhandledRejection', (e) => { console.error('에러:', e?.message || e); process.exit(1); });
 const ctx = await chromium.launchPersistentContext(PROFILE, {
   headless: false, // 로그인·캡차는 사람이 해야 하므로 창을 띄운다. 자동 실행 때도 창이 잠깐 떴다 닫힌다.
   viewport: { width: 1400, height: 1000 },
@@ -50,18 +51,31 @@ const url = `https://creator-advisor.naver.com/naver_blog/trend/search?date=${DA
 await page.goto(url, { waitUntil: 'domcontentloaded' });
 
 // 로그인 안 된 상태면 안내 화면("'로그인'하고 서비스 이용하기")이 뜬다. 로그인 버튼을 눌러 주고 사람이 로그인할 때까지 기다린다(최대 5분).
-const needLogin = async () => /로그인.{0,3}하고 서비스 이용하기/.test(await page.evaluate(() => document.body.innerText)) || /nid\.naver\.com/.test(page.url());
-if (await needLogin()) {
-  console.log('네이버 로그인이 필요합니다. 뜬 창에서 로그인하면 이어서 진행합니다. (최대 5분 기다림)');
-  const btn = page.getByText(/로그인.{0,3}하고 서비스 이용하기/).first();
-  if (await btn.count()) await btn.click().catch(() => {});
-  for (let i = 0; i < 300; i++) {
+// 화면 읽기 — 페이지가 바뀌는 중이면 실패하므로 빈 문자열로 처리
+const textOf = async (pg) => { try { return await pg.evaluate(() => document.body.innerText); } catch { return ''; } };
+const LOGIN_RE = /로그인.{0,3}하고 서비스 이용하기/;
+const hasTopics = (t) => TOPICS.some((x) => t.includes(x));
+
+// 화면 글자가 뜰 때까지(로그인 안내 또는 주제 카드) 최대 20초
+for (let i = 0; i < 40; i++) { const t = await textOf(page); if (LOGIN_RE.test(t) || hasTopics(t)) break; await page.waitForTimeout(500); }
+
+if (LOGIN_RE.test(await textOf(page))) {
+  console.log('네이버 로그인이 필요합니다. 뜬 창에서 로그인해 주세요. (최대 5분 기다립니다)');
+  try { const btn = page.getByText(LOGIN_RE).first(); if (await btn.count()) await btn.click({ timeout: 5000 }); } catch {}
+  // 로그인 창이 새 탭으로 열릴 수도 있어 컨텍스트의 모든 탭을 본다
+  let ok = false;
+  for (let i = 0; i < 300 && !ok; i++) {
     await page.waitForTimeout(1000);
-    if (/creator-advisor\.naver\.com/.test(page.url()) && !(await needLogin())) break;
-    if (i === 299) { console.log('5분 안에 로그인되지 않아 종료합니다.'); await ctx.close(); process.exit(2); }
+    for (const pg of ctx.pages()) {
+      const u = pg.url(); if (!/creator-advisor\.naver\.com/.test(u)) continue;
+      const t = await textOf(pg); if (t && !LOGIN_RE.test(t)) { ok = true; break; }
+    }
+    if (i % 30 === 29) console.log(`로그인 기다리는 중… ${(i + 1)}초`);
   }
-  // 로그인 뒤 원래 페이지로
-  await page.goto(url, { waitUntil: 'domcontentloaded' });
+  if (!ok) { console.log('5분 안에 로그인되지 않아 종료합니다. 다시 실행해 주세요.'); await ctx.close(); process.exit(2); }
+  console.log('로그인 확인. 트렌드 페이지를 엽니다.');
+  await page.goto(url, { waitUntil: 'domcontentloaded' }).catch(() => {});
+  for (let i = 0; i < 40; i++) { if (hasTopics(await textOf(page))) break; await page.waitForTimeout(500); }
 }
 await page.waitForTimeout(4000);
 
