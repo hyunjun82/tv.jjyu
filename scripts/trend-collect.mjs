@@ -91,31 +91,38 @@ if (LOGIN_RE.test(await textOf(page))) {
 }
 await page.waitForTimeout(4000);
 
+// 트렌드 화면으로 이동: 주소로 바로 가면 홈으로 떨어지므로 메뉴를 눌러 들어간다(SPA)
+const clickText = async (re) => { try { const el = page.getByText(re).first(); if (await el.count()) { await el.click({ timeout: 4000 }); return true; } } catch {} return false; };
+if (!/trends/.test(page.url())) { await clickText(/^트렌드$/); await page.waitForTimeout(2500); }
+await clickText(/검색 유입 트렌드/); await page.waitForTimeout(2000);
+await clickText(/주제별 인기유입검색어/); await page.waitForTimeout(4000);
+console.log('현재 주소:', page.url());
+
 // 화면 전체 텍스트 저장 + 주제 카드 파싱
 const text = await page.evaluate(() => document.body.innerText);
 fs.writeFileSync(path.join(RAW, 'page.txt'), text);
 
-const parsed = await page.evaluate((TOPICS) => {
-  const out = {};
-  // 카드 제목 요소를 찾고, 그 카드(가장 가까운 상위 박스) 안의 줄을 키워드로 읽는다.
-  const all = [...document.querySelectorAll('h2,h3,h4,strong,div,span')];
-  for (const t of TOPICS) {
-    const titleEl = all.find((e) => e.childElementCount === 0 && e.innerText.trim() === t);
-    if (!titleEl) continue;
-    let box = titleEl; for (let i = 0; i < 6 && box.parentElement; i++) { box = box.parentElement; if (box.innerText.split('\n').length > 12) break; }
-    const lines = box.innerText.split('\n').map((s) => s.trim()).filter(Boolean);
-    const items = [];
-    for (let i = 0; i < lines.length; i++) {
-      const l = lines[i]; if (l === t) continue;
-      if (/^(new|▲|▼|[-–]|\d+)$/i.test(l)) { if (items.length) items[items.length - 1].change = l; continue; }
-      items.push({ keyword: l, change: '' });
-    }
-    out[t] = items;
-  }
-  return out;
-}, TOPICS);
+// 응답 JSON 중 주제별 검색어가 들어 있는 것을 찾아 구조화 (화면 파싱보다 안정적)
+const parsed = {};
+for (const f of fs.readdirSync(RAW).filter((x) => x.startsWith('res-'))) {
+  const raw = fs.readFileSync(path.join(RAW, f), 'utf8'); const nl = raw.indexOf('\n'); const u = raw.slice(3, nl); const body = raw.slice(nl + 1);
+  if (!/trend/i.test(u)) continue;
+  try {
+    const j = JSON.parse(body);
+    // 구조를 모르므로 "제목 + 키워드 배열" 꼴을 전부 찾는다
+    const walk = (o, name) => {
+      if (Array.isArray(o)) { if (o.length && o.every((x) => x && typeof x === 'object' && (x.keyword || x.query || x.title))) { if (name) parsed[name] = o.map((x) => ({ keyword: x.keyword || x.query || x.title, change: x.rankChange ?? x.change ?? x.isNew ?? '' })); } else o.forEach((x) => walk(x, name)); }
+      else if (o && typeof o === 'object') { const nm = o.topic || o.theme || o.themeName || o.categoryName || o.name || name; for (const k of Object.keys(o)) walk(o[k], nm); }
+    };
+    walk(j, '');
+  } catch {}
+}
+// JSON 에서 못 찾았으면 화면 텍스트로 대신 (주제 제목 다음 줄들을 키워드로)
+if (!Object.keys(parsed).length) {
+  const lines = text.split('\n').map((s) => s.trim()).filter(Boolean);
+  for (const t of TOPICS) { const i = lines.indexOf(t); if (i < 0) continue; const items = []; for (let k = i + 1; k < lines.length && items.length < 20; k++) { const l = lines[k]; if (TOPICS.includes(l)) break; if (/^(new|▲|▼|[-–]|\d+)$/i.test(l)) { if (items.length) items[items.length - 1].change = l; continue; } items.push({ keyword: l, change: '' }); } parsed[t] = items; }
+}
 
-const shownDate = (text.match(/20\d\d\.\s?\d{1,2}\.\s?\d{1,2}\.?/) || [''])[0];
 const result = { date: DATE, shownDate, collectedAt: new Date().toISOString(), source: url, topics: parsed };
 fs.writeFileSync(path.join(OUT, `${DATE}.json`), JSON.stringify(result, null, 2));
 console.log(`저장: data/trends/${DATE}.json`, Object.fromEntries(Object.entries(parsed).map(([k, v]) => [k, v.length])));
