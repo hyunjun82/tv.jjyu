@@ -58,7 +58,8 @@ page.on('response', async (res) => {
   } catch {}
 });
 
-const url = `https://creator-advisor.naver.com/naver_blog/trend/search?date=${DATE}`;
+// 사장님이 쓰는 실제 트렌드 페이지 주소. 날짜는 화면 기본값(어제)을 그대로 쓰고, 페이지 안 날짜 표시를 결과에 같이 저장한다.
+const url = 'https://creator-advisor.naver.com/naver_blog/stats8207/trends';
 await page.goto(url, { waitUntil: 'domcontentloaded' });
 
 // 로그인 안 된 상태면 안내 화면("'로그인'하고 서비스 이용하기")이 뜬다. 로그인 버튼을 눌러 주고 사람이 로그인할 때까지 기다린다(최대 5분).
@@ -114,7 +115,8 @@ const parsed = await page.evaluate((TOPICS) => {
   return out;
 }, TOPICS);
 
-const result = { date: DATE, collectedAt: new Date().toISOString(), source: url, topics: parsed };
+const shownDate = (text.match(/20\d\d\.\s?\d{1,2}\.\s?\d{1,2}\.?/) || [''])[0];
+const result = { date: DATE, shownDate, collectedAt: new Date().toISOString(), source: url, topics: parsed };
 fs.writeFileSync(path.join(OUT, `${DATE}.json`), JSON.stringify(result, null, 2));
 console.log(`저장: data/trends/${DATE}.json`, Object.fromEntries(Object.entries(parsed).map(([k, v]) => [k, v.length])));
 await ctx.close();
