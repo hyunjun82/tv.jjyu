@@ -116,6 +116,22 @@
           "label": "여자 자기소개 276회 보기",
           "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000638245"
         }
+      ],
+      "images": [
+        {
+          "src": "/img/clip-women-pick.jpg",
+          "cap": "275회 여자들의 첫인상 선택 (SBS 공식 클립)",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638230",
+          "kind": "sbs",
+          "label": "클립 보기"
+        },
+        {
+          "src": "/img/clip-men-pick.jpg",
+          "cap": "274회 남자들의 첫인상 선택 (SBS 공식 클립)",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000637908",
+          "kind": "sbs",
+          "label": "클립 보기"
+        }
       ]
     },
     {
@@ -142,6 +158,22 @@
           "kind": "sbs",
           "label": "남자들의 첫인상 선택 클립",
           "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000637908"
+        }
+      ],
+      "images": [
+        {
+          "src": "/img/clip-men-intro.jpg",
+          "cap": "275회 영수·영호·영식 자기소개",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638231",
+          "kind": "sbs",
+          "label": "클립 보기"
+        },
+        {
+          "src": "/img/clip-men-intro2.jpg",
+          "cap": "275회 영철·광수·상철 자기소개",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638234",
+          "kind": "sbs",
+          "label": "클립 보기"
         }
       ]
     },
@@ -170,6 +202,22 @@
           "label": "여자들의 첫인상 선택 클립",
           "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638230"
         }
+      ],
+      "images": [
+        {
+          "src": "/img/clip-women-intro.jpg",
+          "cap": "276회 영숙·정숙·순자 자기소개",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638568",
+          "kind": "sbs",
+          "label": "클립 보기"
+        },
+        {
+          "src": "/img/clip-women-intro2.jpg",
+          "cap": "276회 영자·옥순·현숙 자기소개",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638561",
+          "kind": "sbs",
+          "label": "클립 보기"
+        }
       ]
     },
     {
@@ -178,7 +226,23 @@
       "heading": "다시보기는 어디서 하고 몇 회까지 나왔나요?",
       "lead": "넷플릭스에 34기 1~3회(10월 7일·14일·21일분)가 올라와 있고, SBS 공식 다시보기는 274~276회를 편당 1,650원에 볼 수 있습니다. 10월 23일 기준 3회까지 방송됐고 277회는 10월 28일(수)입니다.",
       "ott": true,
-      "episodes": true
+      "episodes": true,
+      "images": [
+        {
+          "src": "/img/clip-yeongho-date.jpg",
+          "cap": "276회 여자들의 데이트 선택, 영호의 속마음",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638565",
+          "kind": "sbs",
+          "label": "클립 보기"
+        },
+        {
+          "src": "/img/clip-277-preview.jpg",
+          "cap": "277회(10.28) 예고",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638563",
+          "kind": "sbs",
+          "label": "예고 보기"
+        }
+      ]
     }
   ],
   "cast": [
@@ -574,7 +638,7 @@
     }
   ],
   "source": "SBS 나는 SOLO 공식 프로그램 페이지·VOD 목록(회차·방송일·제목) · 넷플릭스 공식 작품 페이지(등재 회차) · 출연자 직업·나이는 275회·276회 자기소개 자막을 보도한 기사(엑스포츠뉴스·위키트리 10.15, 톱스타뉴스·위키트리·이투데이·스포티비뉴스 10.22) · 회차·클립 링크는 SBS 공식 다시보기(69610)·방송클립영상(69611) 메뉴의 주소",
-  "imageCredit": "회차 이미지는 SBS 공식 VOD 썸네일입니다.",
+  "imageCredit": "이미지는 SBS 나는 SOLO 공식 회차·클립 썸네일입니다.",
   "checkedAt": "2026-10-23",
   "updatedAt": "2026-10-23T14:30:00+09:00",
   "quick": [

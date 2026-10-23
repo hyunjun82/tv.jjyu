@@ -177,6 +177,16 @@
           "label": "마이데일리 기사",
           "url": "https://www.mydaily.co.kr/page/view/2026102220555256452"
         }
+      ],
+      "images": [
+        {
+          "src": "/img/yt-C8nMJxOU3_U.jpg",
+          "cap": "촌장엔터테인먼트TV 「첫인상 선택 후 2년, 이제 결혼합니다」 단독 인터뷰 (10.22)",
+          "url": "https://www.youtube.com/watch?v=C8nMJxOU3_U",
+          "kind": "youtube",
+          "label": "영상 보기",
+          "wide": true
+        }
       ]
     },
     {
@@ -186,6 +196,15 @@
       "lead": "2026년 12월 5일입니다. 2024년 12월 5일 25기 촬영에서 영수가 순자를 첫인상 선택한 날의 2주년에 맞춰 정했다고 영수가 밝혔습니다.",
       "paragraphs": [
         "결혼을 전제로 한 교제는 2026년 8월 11일에 시작했고, 10월 10일에 영수가 결혼하자고 말했습니다. 교제 약 두 달 만의 발표입니다. 예식장 이름과 지역, 공개·비공개 여부는 보도된 기사에 없습니다."
+      ],
+      "images": [
+        {
+          "src": "/img/ep191.jpg",
+          "cap": "25기 1회(191회) 첫인상 선택 · 2025.3.5 방송",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000554575",
+          "kind": "sbs",
+          "label": "191회 보기"
+        }
       ]
     },
     {
@@ -208,6 +227,22 @@
           "label": "최종선택 198회 보기",
           "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000593181"
         }
+      ],
+      "images": [
+        {
+          "src": "/img/ep198.jpg",
+          "cap": "25기 8회(198회) 최종선택 · 2025.4.23 방송",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000593181",
+          "kind": "sbs",
+          "label": "198회 보기"
+        },
+        {
+          "src": "/img/nasolo-25.jpg",
+          "cap": "나는 SOLO 공식 프로그램 이미지",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/main",
+          "kind": "link",
+          "label": "공식 페이지"
+        }
       ]
     },
     {
@@ -229,6 +264,15 @@
           "label": "영숙·순자·영자 자기소개 클립",
           "url": "https://www.youtube.com/watch?v=SVw31vRHSSs"
         }
+      ],
+      "images": [
+        {
+          "src": "/img/ep192.jpg",
+          "cap": "25기 2회(192회) 자기소개 · 2025.3.12 방송",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000555040",
+          "kind": "sbs",
+          "label": "192회 보기"
+        }
       ]
     }
   ],
@@ -246,7 +290,8 @@
           "label": "191회 SBS 다시보기",
           "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000554575"
         }
-      ]
+      ],
+      "thumb": "/img/ep191.jpg"
     },
     {
       "no": "192회",
@@ -260,7 +305,8 @@
           "label": "192회 SBS 다시보기",
           "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000555040"
         }
-      ]
+      ],
+      "thumb": "/img/ep192.jpg"
     },
     {
       "no": "198회",
@@ -274,7 +320,8 @@
           "label": "198회 SBS 다시보기",
           "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000593181"
         }
-      ]
+      ],
+      "thumb": "/img/ep198.jpg"
     }
   ],
   "faq": [
@@ -299,7 +346,7 @@
     }
   ],
   "source": "일간스포츠·마이데일리·텐아시아·톱스타뉴스·MK스포츠·TV리포트 2026.10.22~23 보도 · 25기 방송 내용은 뉴스엔·bnt뉴스·파이낸셜뉴스·엑스포츠뉴스·이투데이 2025년 보도 · 회차 링크는 SBS 공식 다시보기 메뉴(69610)의 191~198회 주소 · 발표 영상은 촌장엔터테인먼트TV 공식 채널(@chonjang)",
-  "imageCredit": "이미지는 SBS 나는 SOLO 공식 프로그램 이미지입니다.",
+  "imageCredit": "이미지는 SBS 나는 SOLO 공식 회차 썸네일과 촌장엔터테인먼트TV 영상 썸네일입니다.",
   "checkedAt": "2026-10-23",
   "updatedAt": "2026-10-23T14:30:00+09:00",
   "quick": [

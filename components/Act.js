@@ -1,3 +1,4 @@
+import { goHref } from '../lib/go';
 // 행동 버튼 — 글 속의 회차·출연자·발표마다 붙는다. kind 로 서비스별 색과 로고를 정한다.
 export const KIND = {
   netflix: { cls: 'netflix', btn: 'btn-nf', lg: 'N', bg: 'var(--nf)' },
@@ -17,12 +18,12 @@ export const kindOf = (k) => KIND[k] || KIND.link;
 /** 작은 버튼(본문·카드·표 안) */
 export function Act({ a, className = '' }) {
   const k = kindOf(a.kind);
-  return <a className={`act ${k.cls} ${className}`} href={a.url} target="_blank" rel="noopener"><span className="lg">{k.lg}</span>{a.label}</a>;
+  return <a className={`act ${k.cls} ${className}`} href={goHref(a.url)}><span className="lg">{k.lg}</span>{a.label}</a>;
 }
 /** 큰 버튼(히어로·하단 바) */
 export function Btn({ a, className = '' }) {
   const k = kindOf(a.kind);
-  return <a className={`btn ${k.btn} ${className}`} href={a.url} target="_blank" rel="noopener"><span className="lg">{k.lg}</span>{a.label}{a.sub && <small>{a.sub}</small>}</a>;
+  return <a className={`btn ${k.btn} ${className}`} href={goHref(a.url)}><span className="lg">{k.lg}</span>{a.label}{a.sub && <small>{a.sub}</small>}</a>;
 }
 export function Acts({ list, tight }) {
   if (!list?.length) return null;

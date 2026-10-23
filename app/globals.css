@@ -269,3 +269,32 @@ footer .wrap{display:flex;flex-direction:column;gap:8px}
 .day .it b{display:block;font-weight:700}.day .it span{color:var(--fg3);font-size:11.5px}
 @media (max-width:900px){.sched{grid-template-columns:repeat(4,1fr)}}
 @media (max-width:560px){.sched{grid-template-columns:repeat(2,1fr)}}
+
+/* 이동 페이지 */
+.gopage{padding-top:40px;min-height:60vh}
+.gocard{max-width:560px;margin:0 auto;text-align:center;border:1px solid var(--line);border-radius:18px;padding:36px 24px 28px;background:var(--card);box-shadow:var(--shadow);display:flex;flex-direction:column;align-items:center;gap:10px}
+.gocard>.lg{width:56px;height:56px;border-radius:16px;display:grid;place-items:center;color:#fff;font-weight:900;font-family:var(--font-display);font-size:16px}
+.gocard .l{font-size:13px;color:var(--fg3);font-weight:600}
+.gocard h1{font-size:24px}
+.gocard .s{font-size:13.5px;color:var(--fg2)}
+.gocard .btn{margin-top:10px;width:100%;max-width:360px}
+.gocard .cnt{font-size:13px;color:var(--fg3);margin-top:4px}
+.gocard .cnt a{text-decoration:underline;text-underline-offset:2px}
+.gocard .u{font-size:11.5px;color:var(--fg3);word-break:break-all;margin-top:8px;opacity:.8}
+.goothers{max-width:560px;margin:28px auto 0}
+.goothers .l{font-size:13px;font-weight:700;color:var(--fg2);margin-bottom:8px}
+
+/* 본문 이미지: 누르면 그 영상/회차로 */
+.figs{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:16px 0 6px}
+.figs.one{grid-template-columns:1fr}
+.figs figure{margin:0;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--card);box-shadow:var(--shadow2)}
+.figs figure.wide{grid-column:1/-1}
+.figs a{display:block;position:relative;aspect-ratio:16/9;background:var(--bg3)}
+.figs.one a{aspect-ratio:21/9}
+.figs img{width:100%;height:100%;object-fit:cover;transition:transform .25s}
+.figs a:hover img{transform:scale(1.03)}
+.figs .play{position:absolute;left:12px;bottom:12px;display:inline-flex;align-items:center;gap:7px;height:36px;padding:0 13px;border-radius:9px;color:#fff;font-weight:700;font-size:13px;font-family:var(--font-display);box-shadow:0 4px 14px rgba(0,0,0,.3)}
+.figs .play .lg{width:18px;height:18px;border-radius:5px;display:inline-grid;place-items:center;font-size:9px;font-weight:900;background:rgba(255,255,255,.25)}
+.figs .play.sbs{background:var(--sbs)}.figs .play.youtube{background:var(--yt)}.figs .play.netflix{background:var(--nf)}.figs .play.link{background:rgba(0,0,0,.65)}
+.figs figcaption{font-size:12.5px;color:var(--fg2);padding:9px 12px}
+@media (max-width:600px){.figs{grid-template-columns:1fr}.figs.one a{aspect-ratio:16/9}}

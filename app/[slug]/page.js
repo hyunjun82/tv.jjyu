@@ -2,6 +2,7 @@ import { getAllPrograms, getProgram, kdate, md } from '../../lib/programs';
 import Tabs from '../../components/Tabs';
 import AdSlot from '../../components/AdSlot';
 import { Act, Acts, Btn, kindOf } from '../../components/Act';
+import { goHref } from '../../lib/go';
 
 const SITE_URL = 'https://tv.jjyu.co.kr';
 const Html = ({ as: Tag = 'p', className, html }) => <Tag className={className} dangerouslySetInnerHTML={{ __html: html }} />;
@@ -52,6 +53,13 @@ export default async function ProgramPage({ params }) {
         <h2>{s.heading}</h2>
         <p className="lead">{s.lead}</p>
         {(s.paragraphs || []).map((t, j) => <Html key={j} html={t} />)}
+        {s.images?.length > 0 && (
+          <div className={`figs ${s.images.length === 1 ? 'one' : ''}`}>{s.images.map((im) => (
+            <figure key={im.src} className={im.wide ? 'wide' : ''}>
+              <a href={goHref(im.url)}><img src={im.src} alt={im.cap} loading="lazy" /><span className={`play ${kindOf(im.kind).cls}`}><span className="lg">{kindOf(im.kind).lg}</span>{im.label}</span></a>
+              <figcaption>{im.cap}</figcaption>
+            </figure>))}</div>
+        )}
         {s.castTable && (
           <div className="table-wrap"><table>
             <thead><tr><th>출연자</th><th>출생연도 · 나이</th><th>직업</th><th>가족</th><th>거주</th><th>바로 보기</th></tr></thead>
@@ -63,7 +71,7 @@ export default async function ProgramPage({ params }) {
         {s.table && <div className="table-wrap"><table><thead><tr>{s.table.head.map((h) => <th key={h}>{h}</th>)}</tr></thead><tbody>{s.table.rows.map((r, j) => <tr key={j}>{r.map((c, k) => <Html as="td" key={k} html={c} />)}</tr>)}</tbody></table></div>}
         {s.ott && p.ott?.length > 0 && (
           <div className="ott">{p.ott.map((o) => { const k = kindOf(o.kind); return (
-            <a key={o.name} href={o.url} target="_blank" rel="noopener"><span className="lg" style={{ background: k.bg }}>{k.lg}</span><span><div className="nm">{o.name}</div><div className="st">{o.status}</div></span><span className="arrow">›</span></a>); })}</div>
+            <a key={o.name} href={goHref(o.url)}><span className="lg" style={{ background: k.bg }}>{k.lg}</span><span><div className="nm">{o.name}</div><div className="st">{o.status}</div></span><span className="arrow">›</span></a>); })}</div>
         )}
         {s.episodes && p.episodes?.length > 0 && (
           <div className="eps">{p.episodes.map((e) => (
@@ -105,14 +113,14 @@ export default async function ProgramPage({ params }) {
             <div className="cta-row">
               {p.ctas.map((c) => <Btn key={c.label} a={c} />)}
             </div>
-            <div className="cta-note">버튼은 각 공식 서비스로 바로 이동합니다 · 다시보기 요금은 각 서비스 기준</div>
+            <div className="cta-note">버튼은 각 공식 서비스로 이동합니다 · 다시보기 요금은 각 서비스 기준</div>
             {p.facts?.length > 0 && <dl className="meta">{p.facts.map(([k, v]) => <div key={k} style={{ display: 'contents' }}><dt>{k}</dt><dd className="num">{v}</dd></div>)}</dl>}
           </div>
           <div className="side">
             <div className="pic"><img src={p.backdrop} alt={p.name} />{!isIssue && p.episodes?.length > 0 && <span className="ep">{p.episodes.filter((e) => !e.soon).slice(-1)[0]?.no} 장면</span>}{p.imageCredit && <span className="cred">{p.imageCredit}</span>}</div>
             {p.next && <div className="panel"><div className="next"><div><div className="l">다음 방송</div><div className="d num">{md(p.next.date)}<small>{p.next.label}</small></div></div><Act a={{ kind: 'sbs2', label: '예고 보기', url: (p.ctas.find((c) => /예고/.test(c.label)) || p.ctas[0]).url }} /><div className="t">{p.next.detail}</div></div></div>}
-            {p.quick?.length > 0 && <div className="panel"><h3>바로가기 <small>공식 페이지로 이동</small></h3><div className="quick">{p.quick.map((q) => { const k = kindOf(q.kind); return <a key={q.label} href={q.url} target="_blank" rel="noopener"><span className="lg" style={{ background: k.bg }}>{k.lg}</span><span>{q.label}</span></a>; })}</div></div>}
-            {isIssue && p.sources?.length > 0 && <div className="panel"><h3>보도 출처 <small>{p.sources.length}곳</small></h3><div className="srcs">{p.sources.map((x, i) => <a key={x.url} href={x.url} target="_blank" rel="noopener"><b>{x.media}{i === 0 && <em>최초</em>}</b><span>{x.date}</span></a>)}</div></div>}
+            {p.quick?.length > 0 && <div className="panel"><h3>바로가기 <small>공식 페이지로 이동</small></h3><div className="quick">{p.quick.map((q) => { const k = kindOf(q.kind); return <a key={q.label} href={goHref(q.url)}><span className="lg" style={{ background: k.bg }}>{k.lg}</span><span>{q.label}</span></a>; })}</div></div>}
+            {isIssue && p.sources?.length > 0 && <div className="panel"><h3>보도 출처 <small>{p.sources.length}곳</small></h3><div className="srcs">{p.sources.map((x, i) => <a key={x.url} href={goHref(x.url)}><b>{x.media}{i === 0 && <em>최초</em>}</b><span>{x.date}</span></a>)}</div></div>}
           </div>
         </div>
       </div>
