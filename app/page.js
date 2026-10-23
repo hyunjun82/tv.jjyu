@@ -17,11 +17,13 @@ function Card({ p }) {
 
 export default function Home() {
   const all = getAllPrograms();
-  const hero = all[0];
-  const variety = all.filter((p) => p.category === '예능');
-  const drama = all.filter((p) => p.category === '드라마');
+  const issues = all.filter((p) => p.type === 'issue');
+  const programs = all.filter((p) => p.type !== 'issue');
+  const hero = programs[0];
+  const variety = programs.filter((p) => p.category === '예능');
+  const drama = programs.filter((p) => p.category === '드라마');
   // 편성 띠: 요일별로 airtime 에 요일이 적힌 프로그램을 배치 (수집기가 편성표를 넣으면 그 데이터로 바뀐다)
-  const byDay = DAYS.map((d) => all.filter((p) => (p.airtime || '').includes(d + '요일')));
+  const byDay = DAYS.map((d) => programs.filter((p) => (p.airtime || '').includes(d + '요일')));
   const todayIdx = (new Date(Date.now() + 9 * 3600 * 1000).getUTCDay() + 6) % 7;
 
   return (
@@ -43,6 +45,17 @@ export default function Home() {
         </div>
       )}
 
+      {issues.length > 0 && (
+        <section className="sec" id="issue">
+          <h2>오늘의 방송 이슈 <small>보도 기준 · 출처 표기</small></h2>
+          <div className="issues">
+            <a className="ibig" href={`/${issues[0].slug}/`}><img src={issues[0].backdrop} alt="" /><div className="in"><div className="kicker"><i />{issues[0].kicker}</div><h3>{issues[0].name}</h3><div className="m">{issues[0].dateLabel} · {issues[0].channel}</div></div></a>
+            <div className="ilist">{issues.slice(1, 6).map((x, i) => <a key={x.slug} href={`/${x.slug}/`}><div className="n num">{i + 2}</div><div><div className="t">{x.name}</div><div className="s">{x.kicker} · {x.dateLabel}</div></div></a>)}
+              {issues.length === 1 && <div className="note">이슈가 쌓이면 여기에 순서대로 올라옵니다</div>}</div>
+          </div>
+        </section>
+      )}
+
       <section className="sec" id="today">
         <h2>이번 주 편성 <small>방송사 공식 편성 기준</small></h2>
         <div className="sched">{DAYS.map((d, i) => (
@@ -55,7 +68,7 @@ export default function Home() {
 
       <section className="sec">
         <h2>지금 많이 찾는 프로그램 <small>네이버 검색 유입 기준</small></h2>
-        <div className="row">{all.map((p) => <Card key={p.slug} p={p} />)}</div>
+        <div className="row">{programs.map((p) => <Card key={p.slug} p={p} />)}</div>
       </section>
 
       <AdSlot />

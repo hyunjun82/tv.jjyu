@@ -4,10 +4,12 @@ const dir = path.join(process.cwd(), 'data', 'programs');
 const files = fs.readdirSync(dir).filter((f) => f.endsWith('.json'));
 let bad = 0;
 const need = ['slug','type','category','title','name','channel','status','backdrop','intro','ctas','sections','source','checkedAt'];
+const needIssue = ['kicker','dateLabel','sources','timeline'];
 for (const f of files) {
   const p = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'));
   const miss = need.filter((k) => p[k] === undefined || p[k] === '');
   if (miss.length) { console.error(`${f}: 필수 항목 없음 → ${miss.join(', ')}`); bad++; }
+  if (p.type === 'issue') { const m2 = needIssue.filter((k) => !p[k]); if (m2.length) { console.error(`${f}: 이슈 필수 항목 없음 → ${m2.join(', ')}`); bad++; } if (!(p.sources || []).every((x) => /^https?:\/\//.test(x.url || ''))) { console.error(`${f}: 출처 URL 없는 보도`); bad++; } }
   if (p.slug !== f.replace('.json', '')) { console.error(`${f}: slug 와 파일명이 다름`); bad++; }
   if (!(p.ctas || []).some((c) => /^https?:\/\//.test(c.url || ''))) { console.error(`${f}: 공식 링크 버튼 없음`); bad++; }
   if (p.title && p.title.length > 40) console.warn(`${f}: 타이틀 ${p.title.length}자 — 40자 넘음`);

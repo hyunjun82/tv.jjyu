@@ -66,12 +66,56 @@ export default async function ProgramPage({ params }) {
               <div className="ac">{e.links.map((l) => <a key={l.label} className={l.kind === 'netflix' ? 'nf' : 'sb'} href={l.url} target="_blank" rel="noopener">{l.label}</a>)}</div>
             </div>))}</div>
         )}
+        {s.timeline && p.timeline?.length > 0 && (
+          <ul className="tl">{p.timeline.map((t, j) => <li key={j} className={t.hot ? 'hot' : ''}><div className="d">{t.date}</div><div className="t">{t.text}</div>{t.source && <div className="s">출처 · {t.url ? <a href={t.url} target="_blank" rel="noopener">{t.source}</a> : t.source}</div>}</li>)}</ul>
+        )}
+        {s.program && p.program && (() => { const pr = all.find((x) => x.slug === p.program); return pr ? (
+          <div className="progcard"><div className="th"><img src={pr.thumb || pr.backdrop} alt="" loading="lazy" /></div><div><div className="t">{pr.name}</div><div className="s">{pr.channel} · {pr.airtime}</div></div><div className="ac"><a href={`/${pr.slug}/`}>출연진 · 다시보기</a></div></div>) : null; })()}
         {s.ott && p.ottNote && <div className="note">{p.ottNote}</div>}
         {(s.after || []).map((t, j) => <Html key={'a' + j} html={t} />)}
       </section>
       {i === 1 && <AdSlot />}
     </div>
   );
+
+  const isIssue = p.type === 'issue';
+  const prog = isIssue && p.program ? all.find((x) => x.slug === p.program) : null;
+  if (isIssue) {
+    const newsLd = { '@context': 'https://schema.org', '@type': 'NewsArticle', headline: p.name, datePublished: p.updatedAt, dateModified: p.updatedAt, image: [`${SITE_URL}${p.backdrop}`], author: { '@type': 'Organization', name: 'TVDAY' }, publisher: { '@type': 'Organization', name: 'TVDAY' }, description: p.intro.replace(/<[^>]+>/g, ''), citation: (p.sources || []).map((x) => x.url) };
+    return (
+      <>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(newsLd) }} />
+        <Tabs />
+        <div className="ihero"><div className="wrap">
+          <div className="hero-main">
+            <div className="kicker"><i />{p.kicker}</div>
+            <h1>{p.title}</h1>
+            <div className="meta"><b>{p.dateLabel}</b><span>·</span><span>{p.channel}</span>{p.firstReport && <><span>·</span><span>최초 보도 {p.firstReport}</span></>}</div>
+            <Html className="summary" html={p.intro} />
+            <div className="cta">
+              {p.ctas.map((c) => { const k = KIND[c.kind] || KIND.tv; return <a key={c.label} className={`btn ${c.kind === 'news' ? 'btn-ghost' : k.cls}`} href={c.url} target="_blank" rel="noopener">{c.label}{c.sub && <small>{c.sub}</small>}</a>; })}
+              {prog && <a className="btn btn-ghost" href={`/${prog.slug}/`}>{prog.shortName} 페이지</a>}
+            </div>
+          </div>
+          <div className="hero-side">
+            <div className="pic"><img src={p.backdrop} alt="" />{p.imageCredit && <span>{p.imageCredit}</span>}</div>
+            {p.sources?.length > 0 && <div className="srcbox"><div className="l">보도 출처</div>{p.sources.map((x, i) => <a key={x.url} href={x.url} target="_blank" rel="noopener"><b>{x.media}{i === 0 && <em>최초</em>}</b><span>{x.date}</span></a>)}</div>}
+          </div>
+        </div></div>
+        <main className="wrap">
+          <nav className="tabs" id="tabs">{tabs.map((t, i) => <a key={t.id} href={`#${t.id}`} className={i === 0 ? 'on' : ''}>{t.tab}</a>)}</nav>
+          {p.sections.map(renderSection)}
+          {p.faq?.length > 0 && (<section className="block" id="faq" style={{ borderBottom: 0 }}><h2>자주 묻는 질문</h2><div className="faq">{p.faq.map((f) => <details key={f.q}><summary>{f.q}</summary><p>{f.a}</p></details>)}</div></section>)}
+          <AdSlot />
+          <p className="cta-note" style={{ fontSize: 12, color: 'var(--fg3)', padding: '0 0 24px' }}>출처 {p.source} · {p.checkedAt} 확인{p.imageCredit ? ` · ${p.imageCredit}` : ''}</p>
+        </main>
+        <div className="stickybar">
+          <a className="btn btn-ghost" href={p.ctas[0].url} target="_blank" rel="noopener">{p.ctas[0].label}</a>
+          {prog && <a className="btn btn-nf" href={`/${prog.slug}/`}>{prog.shortName} 보기</a>}
+        </div>
+      </>
+    );
+  }
 
   return (
     <>
