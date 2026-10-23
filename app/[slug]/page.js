@@ -89,6 +89,7 @@ export default async function ProgramPage({ params }) {
         )}
         {s.ott && p.ottNote && <div className="note">{p.ottNote}</div>}
         {(s.after || []).map((t, j) => <Html key={'a' + j} html={t} />)}
+        {s.related && related.length > 0 && <div className="rgrid" style={{ marginTop: 14 }}>{related.map((r) => <a className="rc" key={r.slug} href={`/${r.slug}/`}><div className="th" style={r.p?.thumb ? { backgroundImage: `url(${r.p.thumb})` } : {}} /><div className="rt">{r.name}</div><div className="rd">{r.desc}</div></a>)}</div>}
         <Acts list={s.actions} />
         {s.castGrid && p.snsNote && <div className="note">{p.snsNote}</div>}
       </section>
@@ -132,7 +133,7 @@ export default async function ProgramPage({ params }) {
           <section className="block" id="faq" style={{ borderBottom: 0 }}><h2>자주 묻는 질문</h2><div className="faq">{p.faq.map((f) => <details key={f.q}><summary>{f.q}</summary><p>{f.a}</p></details>)}</div></section>
         )}
         <AdSlot />
-        {related.length > 0 && (
+        {related.length > 0 && !p.sections.some((s) => s.related) && (
           <section className="related"><h2>함께 보는 페이지</h2><div className="rgrid">{related.map((r) => (
             <a className="rc" key={r.slug} href={`/${r.slug}/`}><div className="th" style={r.p?.thumb ? { backgroundImage: `url(${r.p.thumb})` } : {}} /><div className="rt">{r.name}</div><div className="rd">{r.desc}</div></a>))}</div></section>
         )}

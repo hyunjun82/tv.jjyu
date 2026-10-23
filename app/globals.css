@@ -7,7 +7,7 @@
   --hot:#ff3b5c; --hot-soft:#ffeef1;
   --nf:#e50914; --sbs:#1f6fe8; --sbs-soft:#eaf1fd; --yt:#ff0000; --ig1:#f58529; --ig2:#dd2a7b; --ig3:#8134af;
   --men:#2f7cf6; --men-soft:#e9f1ff; --women:#f0467d; --women-soft:#feecf2;
-  --ok:#1b8a4c; --ok-soft:#eaf7ef;
+  --ok:#1b8a4c; --ok-soft:#eaf7ef; --map:#03c75a;
   --card:#fff; --shadow:0 10px 30px rgba(21,21,27,.08); --shadow2:0 2px 8px rgba(21,21,27,.06);
   --font-display:"Gothic A1","Noto Sans KR",system-ui,sans-serif;
   --font-body:"Noto Sans KR","Apple SD Gothic Neo",system-ui,sans-serif;
@@ -66,12 +66,15 @@ nav.cats a.on{color:var(--fg);font-weight:700}
 .btn-ig{background:linear-gradient(45deg,var(--ig1),var(--ig2) 55%,var(--ig3));box-shadow:0 8px 20px rgba(221,42,123,.3)}
 .btn-news,.btn-ghost{background:var(--card);border:1px solid var(--line2);color:var(--fg2);font-size:14.5px}
 .btn-link{background:var(--bg2);color:var(--fg);font-size:14px}
+.btn-map{background:var(--map);box-shadow:0 8px 20px rgba(3,199,90,.3)}
+.btn-tel{background:var(--fg);color:var(--bg)}
 /* 작은 행동 버튼(본문 안) */
 .act{display:inline-flex;align-items:center;gap:7px;height:38px;padding:0 14px;border-radius:9px;font-size:13.5px;font-weight:700;font-family:var(--font-display);white-space:nowrap;color:#fff;transition:transform .12s,filter .12s}
 .act:hover{transform:translateY(-1px);filter:brightness(1.05)}
 .act .lg{width:18px;height:18px;border-radius:5px;display:inline-grid;place-items:center;font-size:9px;font-weight:900;background:rgba(255,255,255,.25)}
 .act.sbs{background:var(--sbs)} .act.sbs2{background:var(--sbs-soft);color:var(--sbs)} .act.netflix{background:var(--nf)} .act.youtube{background:var(--yt)} .act.insta{background:linear-gradient(45deg,var(--ig1),var(--ig2) 55%,var(--ig3))}
 .act.news,.act.link{background:var(--bg2);color:var(--fg2);border:1px solid var(--line2)}
+.act.map{background:var(--map)} .act.tel{background:var(--fg);color:var(--bg)}
 .acts{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
 .acts.tight{margin-top:10px}
 

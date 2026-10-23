@@ -1,0 +1,229 @@
+{
+  "slug": "today3-yongsan-bongsunga",
+  "type": "place",
+  "category": "맛집",
+  "series": "생방송 투데이",
+  "seriesSlug": "today3",
+  "program": "today3",
+  "title": "생방송투데이 용산 봉숭아 위치 전화번호 가을밤 별미 한 상 다시보기",
+  "name": "용산 봉숭아",
+  "shortName": "용산 봉숭아",
+  "subtitle": "생방송 투데이 4111회 · 이유 있는 맛플리",
+  "channel": "SBS 생방송 투데이",
+  "airtime": "2026.10.21 방송 · 이유 있는 맛플리",
+  "status": "방송 맛집",
+  "backdrop": "/img/today3-4111.jpg",
+  "thumb": "/img/today3-4111.jpg",
+  "badges": [
+    "4111회 · 2026.10.21",
+    "이유 있는 맛플리",
+    "가을밤에 딱! 별미 한 상"
+  ],
+  "facts": [
+    [
+      "상호",
+      "용산 봉숭아"
+    ],
+    [
+      "전화",
+      "02-2135-5300"
+    ],
+    [
+      "주소",
+      "서울 용산구 한강대로15길 18 1층"
+    ],
+    [
+      "방송",
+      "SBS 생방송 투데이 4111회 (2026.10.21)"
+    ],
+    [
+      "코너",
+      "이유 있는 맛플리 · 가을밤에 딱! 별미 한 상"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>용산 봉숭아</b>은 2026.10.21 SBS 생방송 투데이 4111회 「이유 있는 맛플리」 코너(가을밤에 딱! 별미 한 상)에 나온 가게입니다. 주소는 <b>서울 용산구 한강대로15길 18 1층</b>, 전화는 <b>02-2135-5300</b>이며, SBS 공식 방송정보 게시판에 올라온 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "sbs",
+      "label": "4111회 다시보기",
+      "sub": "SBS 공식 · 2026.10.21",
+      "url": "https://programs.sbs.co.kr/culture/today3/vod/54203/22000638546"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "url": "https://map.naver.com/p/search/용산 봉숭아"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "02-2135-5300",
+      "url": "tel:0221355300"
+    }
+  ],
+  "quick": [
+    {
+      "label": "SBS 공식 방송정보",
+      "url": "https://programs.sbs.co.kr/culture/today3/board/54208?cmd=view&page=1&board_no=442104",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=용산 봉숭아",
+      "kind": "map"
+    },
+    {
+      "label": "생방송 투데이 다시보기 목록",
+      "url": "https://programs.sbs.co.kr/culture/today3/vods/54203",
+      "kind": "sbs2"
+    },
+    {
+      "label": "길찾기 (네이버)",
+      "url": "https://map.naver.com/p/search/용산 봉숭아",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "용산 봉숭아은 생방송 투데이 어느 편에 나왔나요?",
+      "lead": "2026.10.21 방송된 4111회 「이유 있는 맛플리」 코너의 가을밤에 딱! 별미 한 상입니다. 회차 전체는 SBS 공식 다시보기에서 볼 수 있습니다.",
+      "paragraphs": [
+        "SBS는 방송 당일 공식 사이트 「방송정보」 게시판에 그날 나온 가게의 상호·주소·연락처를 올립니다. 이 페이지의 가게 정보는 2026.10.21자 게시글 그대로이며, 방송 내용 요약은 SBS 다시보기 회차 제목 기준입니다."
+      ],
+      "images": [
+        {
+          "src": "/img/today3-4111.jpg",
+          "cap": "생방송 투데이 4111회 「가을밤에 딱! 별미 한 상」 (SBS 공식 회차 이미지)",
+          "url": "https://programs.sbs.co.kr/culture/today3/vod/54203/22000638546",
+          "kind": "sbs",
+          "label": "4111회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "4111회 다시보기",
+          "url": "https://programs.sbs.co.kr/culture/today3/vod/54203/22000638546"
+        },
+        {
+          "kind": "link",
+          "label": "SBS 방송정보 원문",
+          "url": "https://programs.sbs.co.kr/culture/today3/board/54208?cmd=view&page=1&board_no=442104"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "용산 봉숭아 위치와 전화번호는?",
+      "lead": "주소 서울 용산구 한강대로15길 18 1층, 전화 02-2135-5300입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "<b>용산 봉숭아</b>"
+          ],
+          [
+            "주소",
+            "서울 용산구 한강대로15길 18 1층"
+          ],
+          [
+            "전화",
+            "02-2135-5300"
+          ],
+          [
+            "방송",
+            "생방송 투데이 4111회 · 2026.10.21"
+          ]
+        ]
+      },
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도",
+          "url": "https://map.naver.com/p/search/용산 봉숭아"
+        },
+        {
+          "kind": "map",
+          "label": "카카오맵",
+          "url": "https://map.kakao.com/?q=용산 봉숭아"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기 02-2135-5300",
+          "url": "tel:0221355300"
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "메뉴·영업시간",
+      "heading": "메뉴와 가격, 영업시간은 어떻게 되나요?",
+      "lead": "메뉴·가격·영업시간은 SBS 방송정보에 실리지 않아 이 페이지에 적지 않았습니다. 네이버 플레이스에서 가게가 올린 메뉴와 영업시간을 확인할 수 있습니다.",
+      "paragraphs": [
+        "방송 직후에는 대기와 품절이 잦습니다. 방문 전 전화로 영업 여부와 주문 가능 여부를 확인하는 편이 안전합니다."
+      ],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 플레이스에서 메뉴·영업시간 보기",
+          "url": "https://map.naver.com/p/search/용산 봉숭아"
+        },
+        {
+          "kind": "tel",
+          "label": "전화로 확인 02-2135-5300",
+          "url": "tel:0221355300"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "같은 날 방송",
+      "heading": "같은 주에 생방송 투데이에 나온 다른 가게는?",
+      "lead": "아래 카드에서 바로 이동합니다. 지난 방송 가게는 매일 쌓입니다.",
+      "related": true
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "SBS 생방송 투데이는 매주 월~금 오후 6시 방송입니다(SBS 공식 프로그램 정보)."
+    },
+    {
+      "q": "다시보기는 어디서 하나요?",
+      "a": "SBS 공식 다시보기에서 4111회를 볼 수 있습니다. 위 「4111회 다시보기」 버튼으로 이동합니다."
+    },
+    {
+      "q": "주소와 전화번호 출처는요?",
+      "a": "SBS 생방송 투데이 공식 사이트 「방송정보」 게시판의 2026.10.21자 게시글입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "today3-danshaodam-nowon",
+      "name": "단샤오담 노원본점",
+      "desc": "10.22 · 맛있는 퇴근 · 딤섬"
+    },
+    {
+      "slug": "today3-sundal-farm",
+      "name": "순달농장",
+      "desc": "10.21 · 삼촌 어디가요? · 영암 귀농"
+    }
+  ],
+  "source": "SBS 생방송 투데이 공식 사이트 방송정보 게시판(2026.10.21자 글: 상호·주소·연락처) · SBS 공식 다시보기 목록(회차 번호·제목·방송일) · 프로그램 정보(편성 시간)",
+  "imageCredit": "이미지는 SBS 생방송 투데이 공식 회차 이미지입니다.",
+  "checkedAt": "2026-10-23",
+  "updatedAt": "2026-10-23T14:20:00+09:00"
+}

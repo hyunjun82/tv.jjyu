@@ -21,7 +21,8 @@ export default function Home() {
   const issues = all.filter((p) => p.type === 'issue');
   const programs = all.filter((p) => p.type !== 'issue');
   const feat = issues[0] || programs[0];
-  const list = [...issues.slice(1), ...programs].slice(0, 4);
+  const places = programs.filter((p) => p.type === 'place');
+  const list = [...issues.slice(1), ...programs.filter((p) => p.type !== 'place'), ...places].slice(0, 4);
   const variety = programs.filter((p) => p.category === '예능');
   const drama = programs.filter((p) => p.category === '드라마');
   const byDay = DAYS.map((d) => programs.filter((p) => (p.airtime || '').includes(d + '요일')));
@@ -29,7 +30,7 @@ export default function Home() {
 
   return (
     <main className="wrap">
-      <div className="hbar"><a className="on" href="/">전체</a><a href="/#issue">오늘의 이슈</a><a href="/#variety">예능</a><a href="/#drama">드라마</a><a href="/#today">이번 주 편성</a><a href="/#variety">나는솔로 기수별</a></div>
+      <div className="hbar"><a className="on" href="/">전체</a><a href="/#issue">오늘의 이슈</a><a href="/#food">오늘 방송 맛집</a><a href="/#variety">예능</a><a href="/#drama">드라마</a><a href="/#today">이번 주 편성</a><a href="/#variety">나는솔로 기수별</a></div>
 
       <div className="top" id="issue">
         {feat && (
@@ -60,6 +61,19 @@ export default function Home() {
           ))}
         </div>
       </div>
+
+      {places.length > 0 && (
+        <section className="sec" id="food">
+          <h2>오늘 방송 맛집 <small>생방송 투데이 · 방송사 공식 방송정보 기준</small></h2>
+          <div className="row">{places.map((p) => (
+            <div className="pc" key={p.slug}>
+              <a className="th" href={`/${p.slug}/`}><img src={p.thumb} alt={p.name} loading="lazy" /><span className="st" style={{ background: 'var(--map)' }}>{p.airtime.split(' 방송')[0]}</span><span className="ch">{p.badges[1]}</span></a>
+              <a className="t" href={`/${p.slug}/`}>{p.name}</a>
+              <div className="s">{p.facts[2][1]}</div>
+              <div className="acts">{p.ctas.slice(0, 3).map((c) => <Act key={c.label} a={{ ...c, label: c.kind === 'tel' ? '전화' : c.kind === 'map' ? '지도' : '다시보기' }} />)}</div>
+            </div>))}</div>
+        </section>
+      )}
 
       <section className="sec" id="variety">
         <h2>예능 · 기수별 출연진 <small>직업 · 나이 · 회차별 다시보기</small></h2>
