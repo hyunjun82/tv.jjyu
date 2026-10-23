@@ -29,7 +29,7 @@ const TOPICS = ['방송', '스타·연예인', '드라마', '영화', '스포츠
 
 process.on('unhandledRejection', (e) => { console.error('에러:', e?.message || e); process.exit(1); });
 const ctx = await chromium.launchPersistentContext(PROFILE, {
-  headless: false, // 로그인·캡차는 사람이 해야 하므로 창을 띄운다. 자동 실행 때도 창이 잠깐 떴다 닫힌다.
+  headless: !process.argv.includes('--login'), // 로그인할 때만 창을 띄우고, 수집은 화면 없이 돈다
   viewport: { width: 1400, height: 1000 },
   locale: 'ko-KR',
   args: ['--disable-blink-features=AutomationControlled'],
@@ -91,11 +91,11 @@ if (LOGIN_RE.test(await textOf(page))) {
 }
 await page.waitForTimeout(4000);
 
-// 트렌드 화면으로 이동: 주소로 바로 가면 홈으로 떨어지므로 메뉴를 눌러 들어간다(SPA)
+// 트렌드 화면: 주소로 간 뒤 10초 동안 오가는 데이터를 전부 받는다(어떤 API 가 트렌드인지 raw 로 확인)
+await page.goto(url, { waitUntil: 'domcontentloaded' }).catch(() => {});
+await page.waitForTimeout(6000);
 const clickText = async (re) => { try { const el = page.getByText(re).first(); if (await el.count()) { await el.click({ timeout: 4000 }); return true; } } catch {} return false; };
-if (!/trends/.test(page.url())) { await clickText(/^트렌드$/); await page.waitForTimeout(2500); }
-await clickText(/검색 유입 트렌드/); await page.waitForTimeout(2000);
-await clickText(/주제별 인기유입검색어/); await page.waitForTimeout(4000);
+for (const re of [/검색 유입 트렌드/, /주제별 인기유입검색어/]) { if (await clickText(re)) await page.waitForTimeout(4000); }
 console.log('현재 주소:', page.url());
 
 // 화면 전체 텍스트 저장 + 주제 카드 파싱
