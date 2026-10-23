@@ -1,0 +1,66 @@
+name: deploy
+
+# quiz.jjyu 와 같은 흐름: GitHub Actions 에서 next build → wrangler deploy → IndexNow 핑.
+# (Cloudflare 빌드 분을 쓰지 않고, 배포 직후 네이버에 새 페이지를 바로 알린다 — quiz 가 가장 빨리 노출된 구조)
+#
+# 준비(한 번만): 저장소 Settings → Secrets and variables → Actions 에
+#   CLOUDFLARE_API_TOKEN, CLOUDFLARE_ACCOUNT_ID (quiz.jjyu 와 같은 값)
+# Cloudflare 쪽 Git 자동 빌드는 연결하지 않는다(이중 빌드 방지).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/programs/**'
+      - 'app/**'
+      - 'components/**'
+      - 'lib/**'
+      - 'public/**'
+      - 'next.config.mjs'
+      - 'package.json'
+      - 'package-lock.json'
+      - 'wrangler.jsonc'
+      - '.github/workflows/deploy.yml'
+  workflow_dispatch: {}
+  # 안전망: 공연 데이터는 퀴즈처럼 매시간 바뀌지 않으므로 하루 4번이면 충분하다 — KST 09·12·15·18시 (UTC 0·3·6·9).
+  schedule:
+    - cron: '0 0,3,6,9 * * *'
+
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - name: 의존성 설치
+        run: npm ci --no-audit --no-fund
+      - name: 발행 점검
+        run: node scripts/verify.mjs
+      - name: 빌드 (next build → out/)
+        run: npm run build
+      - name: 배포 (wrangler deploy)
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "::warning::CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID 시크릿이 없어 배포를 건너뜀 (빌드는 성공)"
+            exit 0
+          fi
+          npx --yes wrangler@4 deploy
+          echo "배포 완료: $(TZ=Asia/Seoul date '+%F %H:%M') KST"
+      - name: IndexNow 핑 (배포 직후)
+        if: success()
+        continue-on-error: true
+        run: bash scripts/indexnow-ping.sh

@@ -1,0 +1,59 @@
+import './globals.css';
+
+const SITE_URL = 'https://tv.jjyu.co.kr';
+const SITE_NAME = 'TVDAY';
+
+export const metadata = {
+  metadataBase: new URL(SITE_URL),
+  title: { default: '드라마·예능 편성과 출연진, 다시보기 | TVDAY', template: '%s | TVDAY' },
+  description: '방영 중인 드라마·예능의 편성 시간, 몇부작, 출연진과 배역, 회차별 방송일, 다시보기 OTT를 방송사·OTT 공식 정보로 정리합니다.',
+  keywords: ['편성표', '출연진', '몇부작', '다시보기', '재방송', '나는솔로', '드라마 기본정보'],
+  openGraph: { type: 'website', locale: 'ko_KR', siteName: SITE_NAME },
+  robots: { index: true, follow: true },
+  icons: { icon: [{ url: '/favicon.svg', type: 'image/svg+xml' }] },
+  alternates: { types: { 'application/rss+xml': `${SITE_URL}/rss.xml` } },
+  manifest: '/site.webmanifest',
+};
+export const viewport = { themeColor: '#0e0f13' };
+
+const siteJsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'WebSite', '@id': `${SITE_URL}/#website`, url: SITE_URL, name: SITE_NAME, description: '드라마·예능 편성·출연진·다시보기 정보', inLanguage: 'ko-KR' },
+    { '@type': 'Organization', '@id': `${SITE_URL}/#org`, name: SITE_NAME, url: SITE_URL },
+  ],
+};
+
+const NAV = [['편성표', '/#today'], ['예능', '/?cat=예능'], ['드라마', '/?cat=드라마'], ['OTT 신작', '/#new'], ['나는솔로', '/?series=nasolo']];
+
+export default function RootLayout({ children }) {
+  return (
+    <html lang="ko" suppressHydrationWarning>
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&family=Gothic+A1:wght@700;800;900&display=swap" />
+        {/* 네이버·다음 사이트 인증 메타는 서치어드바이저 등록 후 여기에 넣는다 */}
+        <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://fundingchoicesmessages.google.com" crossOrigin="anonymous" />
+        {/* Offerwall 선로드 — 애드센스 뒤에 붙이면 표시가 2초 넘게 밀린다(퀴즈에서 실측). quiz/game/ticket 과 동일 */}
+        <script async src="https://fundingchoicesmessages.google.com/i/ca-pub-2442517902625121?ers=1" />
+        <script dangerouslySetInnerHTML={{ __html: "(function(){function s(){if(!window.frames['googlefcPresent']){if(document.body){var i=document.createElement('iframe');i.style='width:0;height:0;border:none;z-index:-1000;left:-1000px;top:-1000px;';i.style.display='none';i.name='googlefcPresent';document.body.appendChild(i);}else{setTimeout(s,0);}}}s();})();" }} />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2442517902625121" crossOrigin="anonymous" />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(siteJsonLd) }} />
+      </head>
+      <body>
+        <header className="gnb"><div className="wrap">
+          <a className="logo" href="/"><i />TVDAY</a>
+          <nav className="cats">{NAV.map(([l, h]) => <a key={l} href={h}>{l}</a>)}</nav>
+          <div className="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>프로그램, 출연진 검색</div>
+        </div></header>
+        {children}
+        <footer><div className="wrap">
+          <div>TVDAY는 방송사·OTT가 공개한 편성·출연 정보를 정리해 제공하며, 영상 시청은 각 공식 서비스에서 이루어집니다. 출연자 정보는 방송에서 공개된 범위만 다룹니다. 프로그램명·이미지의 권리는 각 방송사·제작사에 있습니다.</div>
+          <div>© {new Date().getFullYear()} tv.jjyu.co.kr</div>
+        </div></footer>
+      </body>
+    </html>
+  );
+}

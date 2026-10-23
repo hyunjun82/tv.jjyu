@@ -1,0 +1,15 @@
+export const dynamic = 'force-static';
+import { getAllPrograms } from '../lib/programs';
+const SITE_URL = 'https://tv.jjyu.co.kr';
+export default function sitemap() {
+  const now = new Date();
+  return [
+    { url: `${SITE_URL}/`, lastModified: now, changeFrequency: 'daily', priority: 1 },
+    ...getAllPrograms().map((e) => ({
+      url: `${SITE_URL}/${e.slug}/`,
+      lastModified: e.updatedAt ? new Date(e.updatedAt) : now,
+      changeFrequency: 'daily',
+      priority: 0.8,
+    })),
+  ];
+}

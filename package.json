@@ -1,0 +1,7 @@
+{
+  "name": "tvday",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start", "verify": "node scripts/verify.mjs" },
+  "dependencies": { "next": "^15.3.4", "react": "^19.1.0", "react-dom": "^19.1.0" }
+}

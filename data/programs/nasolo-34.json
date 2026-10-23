@@ -1,0 +1,355 @@
+{
+  "slug": "nasolo-34",
+  "type": "variety-season",
+  "category": "예능",
+  "series": "나는 SOLO",
+  "seriesSlug": "nasolo",
+  "title": "나는솔로 34기 직업과 나이, 남자 여자 출연진과 다시보기 회차",
+  "name": "나는 SOLO 34기",
+  "shortName": "나는솔로 34기",
+  "subtitle": "나는 SOLO 34기 · 274회부터 · 2026.10.7 첫 방송",
+  "channel": "SBS Plus · ENA",
+  "airtime": "매주 수요일 밤 10:30",
+  "status": "방영 중",
+  "backdrop": "/img/ep276.jpg",
+  "thumb": "/img/ep274.jpg",
+  "badges": [
+    "34기 다둥이 특집",
+    "SBS Plus · ENA",
+    "수요일 밤 10:30"
+  ],
+  "facts": [
+    [
+      "채널",
+      "SBS Plus · ENA 공동제작"
+    ],
+    [
+      "편성",
+      "매주 수요일 22:30"
+    ],
+    [
+      "34기 시작",
+      "2026.10.07 (274회)"
+    ],
+    [
+      "방송 회차",
+      "274 · 275 · 276회 (10.23 기준)"
+    ],
+    [
+      "출연",
+      "남 6 · 여 6"
+    ]
+  ],
+  "next": {
+    "date": "2026-10-28",
+    "label": "수요일 밤 10:30",
+    "detail": "277회 · SBS Plus · ENA 동시 방송"
+  },
+  "intro": "34기는 형제자매가 3명 이상인 출연자만 모은 <b>다둥이 특집</b>으로 10월 7일(수) 274회로 시작했고, 매주 수요일 밤 10시 30분 SBS Plus와 ENA에서 동시 방송됩니다. 남자 6명은 275회, 여자 6명은 276회 자기소개에서 직업과 나이를 공개했으며, 최연장자는 1987년생 상철, 최연소는 1994년생 한의사 영자입니다. 다시보기는 <b>넷플릭스</b>에 1~3회가 올라와 있습니다.",
+  "ctas": [
+    {
+      "kind": "netflix",
+      "label": "넷플릭스에서 다시보기",
+      "url": "https://www.netflix.com/kr/title/81551819"
+    },
+    {
+      "kind": "sbs",
+      "label": "SBS 다시보기",
+      "sub": "편당 1,650원",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/vods/69610"
+    }
+  ],
+  "links": [
+    {
+      "label": "공식 홈페이지",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/main"
+    },
+    {
+      "label": "공식 출연진 페이지",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/cast/69644"
+    }
+  ],
+  "ott": [
+    {
+      "kind": "netflix",
+      "name": "넷플릭스",
+      "status": "34기 1~3회 등재 · 구독",
+      "url": "https://www.netflix.com/kr/title/81551819"
+    },
+    {
+      "kind": "sbs",
+      "name": "SBS 다시보기",
+      "status": "274~276회 · 편당 1,650원",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/vods/69610"
+    },
+    {
+      "kind": "tv",
+      "name": "본방송",
+      "status": "수요일 22:30 · SBS Plus · ENA",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/main"
+    }
+  ],
+  "ottNote": "웨이브·티빙·왓챠 등재 여부는 10월 23일 기준 각 서비스 공식 페이지에서 확인되지 않아 적지 않았습니다. 확인되는 대로 이 표에 추가됩니다.",
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "직업과 나이",
+      "heading": "나는솔로 34기 직업과 나이는 어떻게 되나요?",
+      "lead": "남자는 건축사 사무소·외국계 증권사·글로벌 회사·7급 공무원·부동산 신탁·반도체 회사, 여자는 인테리어 자재 팀장·회계사·간호사·한의사·임상병리사·외국계 제약회사입니다. 나이는 1987년생 상철(39세)부터 1994년생 영자(32세)까지입니다.",
+      "paragraphs": [
+        "아래 표는 275회(10월 14일)·276회(10월 21일) 방송 자기소개 자막을 보도한 기사 기준이고, 나이는 기사에 표기된 만 나이입니다. 거주지는 방송에서 공개돼 보도된 사람만 적었습니다."
+      ],
+      "castTable": true
+    },
+    {
+      "id": "sec2",
+      "tab": "남자 출연진",
+      "heading": "남자 출연진은 누구인가요?",
+      "lead": "영수·영호·영식·영철·광수·상철 6명이고, 275회(10월 14일) 자기소개에서 직업을 공개했습니다.",
+      "castGrid": "men",
+      "after": [
+        "276회에서는 영호가 데이트 상대로 선택됐습니다(SBS 공식 회차 제목 「K-장남 공평왕 영호와의 데이트」). 남자 출연자의 거주지는 방송 보도에 없어 적지 않았습니다."
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "여자 출연진",
+      "heading": "여자 출연진은 누구인가요?",
+      "lead": "영숙·정숙·순자·영자·옥순·현숙 6명이고, 276회(10월 21일) 자기소개에서 직업을 공개했습니다.",
+      "castGrid": "women",
+      "after": [
+        "여자 출연자는 전원 서울·세종에 거주하고, 영숙은 부산 출신, 영자는 본가가 광주입니다. 순자는 근무지(서울)만 보도됐습니다."
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "다시보기 회차",
+      "heading": "다시보기는 어디서 하고 몇 회까지 나왔나요?",
+      "lead": "넷플릭스에 34기 1~3회(10월 7일·14일·21일분)가 올라와 있고, SBS 공식 다시보기는 274~276회를 편당 1,650원에 볼 수 있습니다. 10월 23일 기준 3회까지 방송됐고 277회는 10월 28일(수)입니다.",
+      "ott": true,
+      "episodes": true
+    }
+  ],
+  "cast": [
+    {
+      "group": "men",
+      "name": "영수",
+      "initial": "수",
+      "birth": 1989,
+      "age": 37,
+      "job": "건축사 사무소 근무",
+      "family": "8남매 중 막내 (누나 7명)",
+      "region": ""
+    },
+    {
+      "group": "men",
+      "name": "영호",
+      "initial": "호",
+      "birth": 1991,
+      "age": 35,
+      "job": "외국계 증권사 (현재 일본 지사)",
+      "family": "3남매 중 장남",
+      "region": ""
+    },
+    {
+      "group": "men",
+      "name": "영식",
+      "initial": "식",
+      "birth": 1988,
+      "age": 38,
+      "job": "글로벌 회사 근무",
+      "family": "2녀 1남 중 막내",
+      "region": ""
+    },
+    {
+      "group": "men",
+      "name": "영철",
+      "initial": "철",
+      "birth": 1990,
+      "age": 36,
+      "job": "행정직 7급 공무원",
+      "family": "3녀 1남 중 셋째",
+      "region": ""
+    },
+    {
+      "group": "men",
+      "name": "광수",
+      "initial": "광",
+      "birth": 1991,
+      "age": 35,
+      "job": "부동산 신탁회사",
+      "family": "2녀 1남 중 막내",
+      "region": ""
+    },
+    {
+      "group": "men",
+      "name": "상철",
+      "initial": "상",
+      "birth": 1987,
+      "age": 39,
+      "job": "반도체 회사 근무",
+      "family": "2남 1녀 중 둘째 · 최연장자",
+      "region": ""
+    },
+    {
+      "group": "women",
+      "name": "영숙",
+      "initial": "숙",
+      "birth": 1988,
+      "age": 38,
+      "job": "인테리어 자재 회사 패브릭팀 팀장",
+      "family": "8자매 중 막내 · 조카 16명",
+      "region": "서울 (부산 출신)"
+    },
+    {
+      "group": "women",
+      "name": "정숙",
+      "initial": "정",
+      "birth": 1993,
+      "age": 33,
+      "job": "대형 회계법인 회계사 (여의도)",
+      "family": "2녀 1남 중 둘째",
+      "region": "서울 강남구"
+    },
+    {
+      "group": "women",
+      "name": "순자",
+      "initial": "순",
+      "birth": 1991,
+      "age": 35,
+      "job": "13년 차 간호사 (상급종합병원 책임 간호사)",
+      "family": "2남 2녀 중 장녀",
+      "region": ""
+    },
+    {
+      "group": "women",
+      "name": "영자",
+      "initial": "자",
+      "birth": 1994,
+      "age": 32,
+      "job": "한의사 (한방내과 전문의)",
+      "family": "장녀 · 남동생 2명 · 최연소",
+      "region": "세종 (본가 광주)"
+    },
+    {
+      "group": "women",
+      "name": "옥순",
+      "initial": "옥",
+      "birth": 1993,
+      "age": 33,
+      "job": "11년 차 임상병리사",
+      "family": "2녀 1남 중 둘째",
+      "region": "서울 광진구"
+    },
+    {
+      "group": "women",
+      "name": "현숙",
+      "initial": "현",
+      "birth": 1991,
+      "age": 34,
+      "job": "외국계 제약회사 글로벌 허가팀",
+      "family": "2녀 1남 중 장녀",
+      "region": "서울 송파구"
+    }
+  ],
+  "episodes": [
+    {
+      "no": "274회",
+      "sub": "34기 1회",
+      "date": "2026-10-07",
+      "title": "나솔 최초 다둥이 특집!",
+      "desc": "형제자매 3명 이상 출연자 12명 입소",
+      "thumb": "/img/ep274.jpg",
+      "links": [
+        {
+          "kind": "netflix",
+          "label": "넷플릭스",
+          "url": "https://www.netflix.com/kr/title/81551819"
+        },
+        {
+          "kind": "sbs",
+          "label": "SBS 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vods/69610"
+        }
+      ]
+    },
+    {
+      "no": "275회",
+      "sub": "34기 2회",
+      "date": "2026-10-14",
+      "title": "34번지 다둥이들의 자기소개!",
+      "desc": "남자 6명 직업·나이 공개",
+      "thumb": "/img/ep275.jpg",
+      "links": [
+        {
+          "kind": "netflix",
+          "label": "넷플릭스",
+          "url": "https://www.netflix.com/kr/title/81551819"
+        },
+        {
+          "kind": "sbs",
+          "label": "SBS 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vods/69610"
+        }
+      ]
+    },
+    {
+      "no": "276회",
+      "sub": "34기 3회",
+      "date": "2026-10-21",
+      "title": "K-장남 공평왕 영호와의 데이트",
+      "desc": "여자 6명 직업·나이 공개 · 첫 데이트 선택",
+      "thumb": "/img/ep276.jpg",
+      "links": [
+        {
+          "kind": "netflix",
+          "label": "넷플릭스",
+          "url": "https://www.netflix.com/kr/title/81551819"
+        },
+        {
+          "kind": "sbs",
+          "label": "SBS 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vods/69610"
+        }
+      ]
+    },
+    {
+      "no": "277회",
+      "sub": "34기 4회",
+      "date": "2026-10-28",
+      "title": "방송 예정",
+      "desc": "방송 뒤 넷플릭스·SBS 다시보기에 순차 등재",
+      "soon": true,
+      "links": []
+    }
+  ],
+  "faq": [
+    {
+      "q": "34기는 몇 회부터인가요?",
+      "a": "274회(2026년 10월 7일)부터입니다. 10월 23일 기준 276회까지 3회가 방송됐습니다."
+    },
+    {
+      "q": "방송 시간은 언제인가요?",
+      "a": "매주 수요일 밤 10시 30분, SBS Plus와 ENA에서 동시 방송됩니다."
+    },
+    {
+      "q": "34기 최연장자와 최연소는 누구인가요?",
+      "a": "최연장자는 1987년생 상철(39세), 최연소는 1994년생 영자(32세)입니다."
+    },
+    {
+      "q": "다둥이 특집이 무슨 뜻인가요?",
+      "a": "형제자매가 3명 이상인 출연자만 모은 기수입니다. 영수는 8남매 막내, 영숙은 8자매 막내로 조카가 16명입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "gageumchae",
+      "name": "가금채",
+      "desc": "넷플릭스 중국 시대극 · 몇부작 · OTT"
+    }
+  ],
+  "source": "SBS 나는 SOLO 공식 프로그램 페이지·VOD 목록(회차·방송일·제목) · 넷플릭스 공식 작품 페이지(등재 회차) · 출연자 직업·나이는 275회·276회 자기소개 자막을 보도한 기사(엑스포츠뉴스·위키트리 10.15, 톱스타뉴스·위키트리·이투데이·스포티비뉴스 10.22)",
+  "imageCredit": "회차 이미지는 SBS 공식 VOD 썸네일입니다.",
+  "checkedAt": "2026-10-23",
+  "updatedAt": "2026-10-23T13:00:00+09:00"
+}
