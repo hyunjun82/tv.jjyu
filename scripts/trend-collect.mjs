@@ -49,11 +49,19 @@ page.on('response', async (res) => {
 const url = `https://creator-advisor.naver.com/naver_blog/trend/search?date=${DATE}`;
 await page.goto(url, { waitUntil: 'domcontentloaded' });
 
-// 로그인 화면이면 사람이 로그인할 때까지 기다린다(최대 5분)
-for (let i = 0; i < 300; i++) {
-  if (/creator-advisor\.naver\.com/.test(page.url()) && !/nid\.naver\.com/.test(page.url())) break;
-  if (i === 0) console.log('네이버 로그인이 필요합니다. 뜬 창에서 로그인하면 이어서 진행합니다.');
-  await page.waitForTimeout(1000);
+// 로그인 안 된 상태면 안내 화면("'로그인'하고 서비스 이용하기")이 뜬다. 로그인 버튼을 눌러 주고 사람이 로그인할 때까지 기다린다(최대 5분).
+const needLogin = async () => /로그인.{0,3}하고 서비스 이용하기/.test(await page.evaluate(() => document.body.innerText)) || /nid\.naver\.com/.test(page.url());
+if (await needLogin()) {
+  console.log('네이버 로그인이 필요합니다. 뜬 창에서 로그인하면 이어서 진행합니다. (최대 5분 기다림)');
+  const btn = page.getByText(/로그인.{0,3}하고 서비스 이용하기/).first();
+  if (await btn.count()) await btn.click().catch(() => {});
+  for (let i = 0; i < 300; i++) {
+    await page.waitForTimeout(1000);
+    if (/creator-advisor\.naver\.com/.test(page.url()) && !(await needLogin())) break;
+    if (i === 299) { console.log('5분 안에 로그인되지 않아 종료합니다.'); await ctx.close(); process.exit(2); }
+  }
+  // 로그인 뒤 원래 페이지로
+  await page.goto(url, { waitUntil: 'domcontentloaded' });
 }
 await page.waitForTimeout(4000);
 
