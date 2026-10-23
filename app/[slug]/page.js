@@ -20,7 +20,7 @@ function CastCard({ c, color }) {
   return (
     <div className="cc" style={{ '--c': color }}>
       <div className="top">
-        <div className="av">{c.initial}</div>
+        {c.img ? <img className="av" src={c.img} alt={c.name} loading="lazy" /> : <div className="av">{c.initial}</div>}
         <div><div className="n">{c.name}{c.sub && <small>{c.sub}</small>}</div>{c.birth && <div className="a num">{c.birth}년생 · {c.age}세{c.ep ? ` · ${c.ep} 자기소개` : ''}</div>}</div>
       </div>
       <div className="j">{c.job}</div>
