@@ -30,7 +30,7 @@ export default function Home() {
 
   return (
     <main className="wrap">
-      <div className="hbar"><a className="on" href="/">전체</a><a href="/#issue">오늘의 이슈</a><a href="/#food">오늘 방송 맛집</a><a href="/#variety">예능</a><a href="/#drama">드라마</a><a href="/#today">이번 주 편성</a><a href="/#variety">나는솔로 기수별</a></div>
+      <div className="hbar"><a className="on" href="/">전체</a><a href="/cat/issue/">오늘의 이슈</a><a href="/cat/food/">방송 맛집</a><a href="/cat/variety/">예능</a><a href="/cat/drama/">드라마</a><a href="/cat/nasolo/">나는솔로 기수별</a><a href="/#today">이번 주 편성</a></div>
 
       <div className="top" id="issue">
         {feat && (
@@ -64,7 +64,7 @@ export default function Home() {
 
       {places.length > 0 && (
         <section className="sec" id="food">
-          <h2>오늘 방송 맛집 <small>생방송 투데이 · 방송사 공식 방송정보 기준</small></h2>
+          <h2>오늘 방송 맛집 <small>생방송 투데이 · 방송사 공식 방송정보 기준</small><a className="more" href="/cat/food/">전체 보기 ›</a></h2>
           <div className="row">{places.map((p) => (
             <div className="pc" key={p.slug}>
               <a className="th" href={`/${p.slug}/`}><img src={p.thumb} alt={p.name} loading="lazy" /><span className="st" style={{ background: 'var(--map)' }}>{p.airtime.split(' 방송')[0]}</span><span className="ch">{p.badges[1]}</span></a>
@@ -76,14 +76,14 @@ export default function Home() {
       )}
 
       <section className="sec" id="variety">
-        <h2>예능 · 기수별 출연진 <small>직업 · 나이 · 회차별 다시보기</small></h2>
+        <h2>예능 · 기수별 출연진 <small>직업 · 나이 · 회차별 다시보기</small><a className="more" href="/cat/variety/">전체 보기 ›</a></h2>
         {variety.length ? <div className="row">{variety.map((p) => <Card key={p.slug} p={p} />)}</div> : <div className="note">수집되는 예능이 늘어나면 여기에 채워집니다</div>}
       </section>
 
       <AdSlot />
 
       <section className="sec" id="drama">
-        <h2>드라마 · OTT 신작 <small>몇부작 · 공개일 · 보러 가기</small></h2>
+        <h2>드라마 · OTT 신작 <small>몇부작 · 공개일 · 보러 가기</small><a className="more" href="/cat/drama/">전체 보기 ›</a></h2>
         {drama.length ? <div className="row">{drama.map((p) => <Card key={p.slug} p={p} />)}</div> : <div className="note">수집되는 드라마가 늘어나면 여기에 채워집니다</div>}
       </section>
 

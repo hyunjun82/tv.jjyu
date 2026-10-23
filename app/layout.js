@@ -10,7 +10,7 @@ export const metadata = {
   keywords: ['편성표', '출연진', '몇부작', '다시보기', '재방송', '나는솔로', '드라마 기본정보'],
   openGraph: { type: 'website', locale: 'ko_KR', siteName: SITE_NAME },
   robots: { index: true, follow: true },
-  icons: { icon: [{ url: '/favicon.svg', type: 'image/svg+xml' }] },
+  icons: { icon: [{ url: '/favicon.svg', type: 'image/svg+xml' }, { url: '/favicon-32.png', sizes: '32x32', type: 'image/png' }], apple: [{ url: '/icon-192.png', sizes: '192x192' }] },
   alternates: { types: { 'application/rss+xml': `${SITE_URL}/rss.xml` } },
   manifest: '/site.webmanifest',
 };
@@ -24,7 +24,7 @@ const siteJsonLd = {
   ],
 };
 
-const NAV = [['오늘의 이슈', '/#issue'], ['방송 맛집', '/#food'], ['예능', '/#variety'], ['드라마', '/#drama'], ['이번 주 편성', '/#today']];
+const NAV = [['오늘의 이슈', '/cat/issue/'], ['방송 맛집', '/cat/food/'], ['예능', '/cat/variety/'], ['드라마', '/cat/drama/'], ['나는솔로', '/cat/nasolo/']];
 
 export default function RootLayout({ children }) {
   return (
@@ -40,6 +40,8 @@ export default function RootLayout({ children }) {
         <script async src="https://fundingchoicesmessages.google.com/i/ca-pub-2442517902625121?ers=1" />
         <script dangerouslySetInnerHTML={{ __html: "(function(){function s(){if(!window.frames['googlefcPresent']){if(document.body){var i=document.createElement('iframe');i.style='width:0;height:0;border:none;z-index:-1000;left:-1000px;top:-1000px;';i.style.display='none';i.name='googlefcPresent';document.body.appendChild(i);}else{setTimeout(s,0);}}}s();})();" }} />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2442517902625121" crossOrigin="anonymous" />
+        {/* 자동 광고(전면 광고 포함) 페이지 단위 활성화 — 애드센스 사이트 설정에서 전면 광고를 켜 두면 사이트 안 페이지 이동(/go/ 포함) 때 뜬다 */}
+        <script dangerouslySetInnerHTML={{ __html: "(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:'ca-pub-2442517902625121',enable_page_level_ads:true});" }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(siteJsonLd) }} />
       </head>
       <body>

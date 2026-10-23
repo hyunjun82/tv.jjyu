@@ -82,7 +82,7 @@ export default async function ProgramPage({ params }) {
             </div>))}</div>
         )}
         {s.timeline && p.timeline?.length > 0 && (
-          <ul className="tl">{p.timeline.map((t, j) => <li key={j} className={t.hot ? 'hot' : ''}><div className="d">{t.date}</div><div className="t">{t.text}</div>{t.source && <div className="s">출처 · {t.url ? <a href={t.url} target="_blank" rel="noopener">{t.source}</a> : t.source}</div>}{t.btn && <div className="b"><Act a={t.btn} /></div>}</li>)}</ul>
+          <ul className="tl">{p.timeline.map((t, j) => <li key={j} className={t.hot ? 'hot' : ''}><div className="d">{t.date}</div><div className="t">{t.text}</div>{t.source && <div className="s">출처 · {t.url ? <a href={goHref(t.url)}>{t.source}</a> : t.source}</div>}{t.btn && <div className="b"><Act a={t.btn} /></div>}</li>)}</ul>
         )}
         {s.program && prog && (
           <div className="progcard"><div className="th"><img src={prog.thumb || prog.backdrop} alt="" loading="lazy" /></div><div><div className="t">{prog.name}</div><div className="s">{prog.channel} · {prog.airtime}</div></div><a className="act link" href={`/${prog.slug}/`}>출연진 · 다시보기</a></div>
@@ -102,7 +102,7 @@ export default async function ProgramPage({ params }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <Tabs />
       <div className="wrap">
-        <div className="crumb"><a href="/">홈</a><span>›</span><a href={`/#${p.category === '예능' ? 'variety' : 'drama'}`}>{p.category}</a>{p.series && <><span>›</span><span>{p.series}</span></>}<span>›</span><span>{p.shortName || p.name}</span></div>
+        <div className="crumb"><a href="/">홈</a><span>›</span><a href={p.type === 'place' ? '/cat/food/' : p.type === 'issue' ? '/cat/issue/' : p.category === '예능' ? '/cat/variety/' : '/cat/drama/'}>{p.type === 'place' ? '방송 맛집' : p.type === 'issue' ? '오늘의 이슈' : p.category}</a>{p.series && <><span>›</span><span>{p.series}</span></>}<span>›</span><span>{p.shortName || p.name}</span></div>
         <div className="hero">
           <div className="info">
             {isIssue
