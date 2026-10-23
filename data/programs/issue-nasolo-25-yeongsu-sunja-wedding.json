@@ -9,7 +9,7 @@
   "dateLabel": "2026.10.22 발표",
   "firstReport": "일간스포츠 10.22 20:21",
   "title": "나는솔로 25기 영수 순자 결혼 발표, 결혼식 날짜와 첫인상 선택 2주년",
-  "name": "25기 영수·순자, 12월 5일 결혼한다 — 첫인상 선택 2주년에 맞춘 날짜",
+  "name": "25기 영수·순자, 12월 5일 결혼한다, 첫인상 선택 2주년에 맞춘 날짜",
   "shortName": "25기 영수 순자 결혼",
   "subtitle": "",
   "channel": "ENA · SBS Plus",
@@ -23,15 +23,25 @@
   "intro": "나는 SOLO 25기 출연자 <b>영수와 순자가 2026년 12월 5일 결혼</b>한다고 10월 22일 유튜브 '촌장엔터테인먼트TV' 단독 인터뷰에서 발표했습니다. 결혼식 날짜는 2024년 12월 5일 25기 촬영 첫인상 선택일의 2주년에 맞췄고, 두 사람은 2026년 8월 11일 교제를 시작해 10월 10일 결혼을 결심했습니다. 방송 당시 영수는 영자를, 순자는 상철을 최종 선택했던 조합이라 '역대 반전 커플'로 보도됐습니다.",
   "ctas": [
     {
-      "kind": "news",
-      "label": "기사 원문 보기",
-      "sub": "일간스포츠",
-      "url": "https://isplus.com/article/view/isp202610220232"
+      "kind": "youtube",
+      "label": "결혼 발표 인터뷰 영상",
+      "sub": "촌장엔터테인먼트TV · 10.22",
+      "url": "https://www.youtube.com/watch?v=C8nMJxOU3_U"
     },
     {
       "kind": "sbs",
-      "label": "나는 SOLO 공식 페이지",
-      "url": "https://programs.sbs.co.kr/plus/iamsolo/main"
+      "label": "25기 첫인상 선택 191회 보기",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000554575"
+    },
+    {
+      "kind": "sbs2",
+      "label": "25기 최종선택 198회 보기",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000593181"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (일간스포츠)",
+      "url": "https://isplus.com/article/view/isp202610220232"
     }
   ],
   "links": [],
@@ -73,19 +83,34 @@
       "date": "2024.12.05",
       "text": "25기 촬영 첫인상 선택 — 영수가 순자를 선택. 순자는 영수·영철·광수·상철 4표로 첫인상 인기녀",
       "source": "뉴스엔 2025.3.6",
-      "url": "https://v.daum.net/v/20250306061512260"
+      "url": "https://v.daum.net/v/20250306061512260",
+      "btn": {
+        "label": "191회 보기",
+        "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000554575",
+        "kind": "sbs"
+      }
     },
     {
       "date": "2025.03.05",
       "text": "25기 첫 방송 (ENA·SBS Plus)",
       "source": "bnt뉴스 2025.3.6",
-      "url": "https://v.daum.net/v/20250306073202358"
+      "url": "https://v.daum.net/v/20250306073202358",
+      "btn": {
+        "label": "191회 보기",
+        "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000554575",
+        "kind": "sbs"
+      }
     },
     {
       "date": "2025.04.23",
       "text": "최종선택 방송 — 순자는 상철과 커플 성립(이후 실제 연인으로 이어지지 않음), 영수는 영자를 선택했으나 불성립",
       "source": "이투데이 2025.4.24",
-      "url": "https://www.etoday.co.kr/news/view/2464818"
+      "url": "https://www.etoday.co.kr/news/view/2464818",
+      "btn": {
+        "label": "198회 보기",
+        "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000593181",
+        "kind": "sbs"
+      }
     },
     {
       "date": "2026.04~05",
@@ -116,7 +141,12 @@
       "text": "'촌장엔터테인먼트TV' 단독 인터뷰로 결혼 발표, 청첩장 공개",
       "source": "일간스포츠",
       "url": "https://isplus.com/article/view/isp202610220232",
-      "hot": true
+      "hot": true,
+      "btn": {
+        "label": "발표 영상",
+        "url": "https://www.youtube.com/watch?v=C8nMJxOU3_U",
+        "kind": "youtube"
+      }
     },
     {
       "date": "2026.12.05",
@@ -135,7 +165,19 @@
       "paragraphs": [
         "인터뷰에서 영수는 두 달 넘게 만나면서 서로 언성이 올라간 적이 없다고 했고, 순자는 내년은 너무 오래 기다려야 해서 올해 12월 5일로 하자고 했다고 말했습니다. 예식장 계약금을 냈고 양가 부모님 인사를 마쳤으며, 청첩장에는 웨딩 사진 대신 25기 첫인상 선택 장면을 넣었습니다. 혼인신고는 상견례 뒤 할 예정이라고 마이데일리가 전했습니다."
       ],
-      "timeline": true
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "youtube",
+          "label": "단독 인터뷰 영상 보기",
+          "url": "https://www.youtube.com/watch?v=C8nMJxOU3_U"
+        },
+        {
+          "kind": "news",
+          "label": "마이데일리 기사",
+          "url": "https://www.mydaily.co.kr/page/view/2026102220555256452"
+        }
+      ]
     },
     {
       "id": "sec2",
@@ -153,6 +195,19 @@
       "lead": "첫인상 선택에서 영수는 순자를 골랐지만, 최종선택에서 영수는 영자를, 순자는 상철을 선택했습니다. 순자·상철 커플은 성립됐으나 실제 연인으로 이어지지 않았습니다.",
       "paragraphs": [
         "25기는 2025년 3월 5일 첫 방송, 4월 23일 최종선택 방송이었고 촬영지는 경남 김해 솔로나라 25번지였습니다. 방송 뒤 약 2년간 동료로 지내다, 영수의 독창회에 순자가 찾아간 일을 계기로 서로 호감을 확인했다고 텐아시아가 전했습니다. 순자는 2026년 봄 나솔사계에도 출연했는데 18기 영호의 최종선택을 받았으나 선택하지 않았습니다."
+      ],
+      "episodes": true,
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "첫인상 선택 191회 보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000554575"
+        },
+        {
+          "kind": "sbs",
+          "label": "최종선택 198회 보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000593181"
+        }
       ]
     },
     {
@@ -162,11 +217,66 @@
       "lead": "2025년 3월 12일 자기소개 방송 기준으로 영수는 1991년생 성악가 겸 보험회사 본부장, 순자는 1991년생 라이프케어 회사 직원입니다.",
       "paragraphs": [
         "영수는 자기소개에서 '어바웃 타임' OST를 즉석에서 불렀고, 순자는 공대 출신에 취미가 뜨개질이며 만 90세 외할머니의 소원인 결혼을 이뤄드리고 싶다고 말했습니다(파이낸셜뉴스·엑스포츠뉴스 2025.3.13). 이 페이지는 방송과 기사에서 공개된 범위만 다루며 본명·사생활은 싣지 않습니다."
+      ],
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "자기소개 192회 보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000555040"
+        },
+        {
+          "kind": "youtube",
+          "label": "영숙·순자·영자 자기소개 클립",
+          "url": "https://www.youtube.com/watch?v=SVw31vRHSSs"
+        }
       ]
     }
   ],
   "cast": [],
-  "episodes": [],
+  "episodes": [
+    {
+      "no": "191회",
+      "sub": "25기 1회",
+      "date": "2025-03-05",
+      "title": "귀여운 솔로들이 모인 25번지",
+      "desc": "입소 · 첫인상 선택 — 영수가 순자를 선택",
+      "links": [
+        {
+          "kind": "sbs",
+          "label": "191회 SBS 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000554575"
+        }
+      ]
+    },
+    {
+      "no": "192회",
+      "sub": "25기 2회",
+      "date": "2025-03-12",
+      "title": "첫날부터 바쁜 솔로 남녀들",
+      "desc": "자기소개 — 영수 성악가 겸 보험회사 본부장, 순자 라이프케어 회사",
+      "links": [
+        {
+          "kind": "sbs",
+          "label": "192회 SBS 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000555040"
+        }
+      ]
+    },
+    {
+      "no": "198회",
+      "sub": "25기 8회",
+      "date": "2025-04-23",
+      "title": "두 삼각관계의 결말",
+      "desc": "최종선택 — 순자·상철 성립, 영수→영자 불성립",
+      "links": [
+        {
+          "kind": "sbs",
+          "label": "198회 SBS 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000593181"
+        }
+      ]
+    }
+  ],
   "faq": [
     {
       "q": "결혼식은 언제인가요?",
@@ -188,8 +298,30 @@
       "desc": "방영 중 · 출연진 직업 · 다시보기"
     }
   ],
-  "source": "일간스포츠·마이데일리·텐아시아·톱스타뉴스·MK스포츠·TV리포트 2026.10.22~23 보도 · 25기 방송 내용은 뉴스엔·bnt뉴스·파이낸셜뉴스·엑스포츠뉴스·이투데이 2025년 보도",
+  "source": "일간스포츠·마이데일리·텐아시아·톱스타뉴스·MK스포츠·TV리포트 2026.10.22~23 보도 · 25기 방송 내용은 뉴스엔·bnt뉴스·파이낸셜뉴스·엑스포츠뉴스·이투데이 2025년 보도 · 회차 링크는 SBS 공식 다시보기 메뉴(69610)의 191~198회 주소 · 발표 영상은 촌장엔터테인먼트TV 공식 채널(@chonjang)",
   "imageCredit": "이미지는 SBS 나는 SOLO 공식 프로그램 이미지입니다.",
   "checkedAt": "2026-10-23",
-  "updatedAt": "2026-10-23T13:40:00+09:00"
+  "updatedAt": "2026-10-23T14:30:00+09:00",
+  "quick": [
+    {
+      "label": "25기 자기소개 192회",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000555040",
+      "kind": "sbs"
+    },
+    {
+      "label": "영수·영자·순자 자기소개 클립",
+      "url": "https://www.youtube.com/watch?v=SVw31vRHSSs",
+      "kind": "youtube"
+    },
+    {
+      "label": "넷플릭스 25기~28기",
+      "url": "https://www.netflix.com/kr/title/81551819",
+      "kind": "netflix"
+    },
+    {
+      "label": "촌장엔터테인먼트TV 채널",
+      "url": "https://www.youtube.com/@chonjang",
+      "kind": "youtube"
+    }
+  ]
 }

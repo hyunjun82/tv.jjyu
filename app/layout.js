@@ -5,8 +5,8 @@ const SITE_NAME = 'TVDAY';
 
 export const metadata = {
   metadataBase: new URL(SITE_URL),
-  title: { default: '드라마·예능 편성과 출연진, 다시보기 | TVDAY', template: '%s | TVDAY' },
-  description: '방영 중인 드라마·예능의 편성 시간, 몇부작, 출연진과 배역, 회차별 방송일, 다시보기 OTT를 방송사·OTT 공식 정보로 정리합니다.',
+  title: { default: '방송 이슈와 출연진, 회차별 다시보기 | TVDAY', template: '%s | TVDAY' },
+  description: '오늘의 방송 이슈와 드라마·예능 출연진·회차 정보를 방송사·OTT 공식 자료와 보도 기준으로 정리하고, 회차별 다시보기·공식 영상으로 바로 연결합니다.',
   keywords: ['편성표', '출연진', '몇부작', '다시보기', '재방송', '나는솔로', '드라마 기본정보'],
   openGraph: { type: 'website', locale: 'ko_KR', siteName: SITE_NAME },
   robots: { index: true, follow: true },
@@ -14,7 +14,7 @@ export const metadata = {
   alternates: { types: { 'application/rss+xml': `${SITE_URL}/rss.xml` } },
   manifest: '/site.webmanifest',
 };
-export const viewport = { themeColor: '#0e0f13' };
+export const viewport = { themeColor: '#6a3df5' };
 
 const siteJsonLd = {
   '@context': 'https://schema.org',
@@ -24,7 +24,7 @@ const siteJsonLd = {
   ],
 };
 
-const NAV = [['편성표', '/#today'], ['예능', '/?cat=예능'], ['드라마', '/?cat=드라마'], ['OTT 신작', '/#new'], ['나는솔로', '/?series=nasolo']];
+const NAV = [['오늘의 이슈', '/#issue'], ['예능', '/#variety'], ['드라마', '/#drama'], ['이번 주 편성', '/#today']];
 
 export default function RootLayout({ children }) {
   return (
@@ -46,7 +46,7 @@ export default function RootLayout({ children }) {
         <header className="gnb"><div className="wrap">
           <a className="logo" href="/"><i />TVDAY</a>
           <nav className="cats">{NAV.map(([l, h]) => <a key={l} href={h}>{l}</a>)}</nav>
-          <div className="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>프로그램, 출연진 검색</div>
+          <div className="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>프로그램 · 출연자 · 이슈 검색</div>
         </div></header>
         {children}
         <footer><div className="wrap">

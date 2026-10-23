@@ -48,15 +48,20 @@
   "intro": "34기는 형제자매가 3명 이상인 출연자만 모은 <b>다둥이 특집</b>으로 10월 7일(수) 274회로 시작했고, 매주 수요일 밤 10시 30분 SBS Plus와 ENA에서 동시 방송됩니다. 남자 6명은 275회, 여자 6명은 276회 자기소개에서 직업과 나이를 공개했으며, 최연장자는 1987년생 상철, 최연소는 1994년생 한의사 영자입니다. 다시보기는 <b>넷플릭스</b>에 1~3회가 올라와 있습니다.",
   "ctas": [
     {
+      "kind": "sbs",
+      "label": "276회 다시보기",
+      "sub": "SBS 공식 · 10.21 방송",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000638245"
+    },
+    {
       "kind": "netflix",
-      "label": "넷플릭스에서 다시보기",
+      "label": "넷플릭스에서 34기 보기",
       "url": "https://www.netflix.com/kr/title/81551819"
     },
     {
-      "kind": "sbs",
-      "label": "SBS 다시보기",
-      "sub": "편당 1,650원",
-      "url": "https://programs.sbs.co.kr/plus/iamsolo/vods/69610"
+      "kind": "sbs2",
+      "label": "277회 예고 보기",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638563"
     }
   ],
   "links": [
@@ -79,8 +84,8 @@
     {
       "kind": "sbs",
       "name": "SBS 다시보기",
-      "status": "274~276회 · 편당 1,650원",
-      "url": "https://programs.sbs.co.kr/plus/iamsolo/vods/69610"
+      "status": "274~276회 · 회차별 다시보기",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000638245"
     },
     {
       "kind": "tv",
@@ -99,7 +104,19 @@
       "paragraphs": [
         "아래 표는 275회(10월 14일)·276회(10월 21일) 방송 자기소개 자막을 보도한 기사 기준이고, 나이는 기사에 표기된 만 나이입니다. 거주지는 방송에서 공개돼 보도된 사람만 적었습니다."
       ],
-      "castTable": true
+      "castTable": true,
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "남자 자기소개 275회 보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000637926"
+        },
+        {
+          "kind": "sbs",
+          "label": "여자 자기소개 276회 보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000638245"
+        }
+      ]
     },
     {
       "id": "sec2",
@@ -109,6 +126,23 @@
       "castGrid": "men",
       "after": [
         "276회에서는 영호가 데이트 상대로 선택됐습니다(SBS 공식 회차 제목 「K-장남 공평왕 영호와의 데이트」). 남자 출연자의 거주지는 방송 보도에 없어 적지 않았습니다."
+      ],
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "영수·영호·영식 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638231"
+        },
+        {
+          "kind": "sbs",
+          "label": "영철·광수·상철 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638234"
+        },
+        {
+          "kind": "sbs",
+          "label": "남자들의 첫인상 선택 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000637908"
+        }
       ]
     },
     {
@@ -119,6 +153,23 @@
       "castGrid": "women",
       "after": [
         "여자 출연자는 전원 서울·세종에 거주하고, 영숙은 부산 출신, 영자는 본가가 광주입니다. 순자는 근무지(서울)만 보도됐습니다."
+      ],
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "영숙·정숙·순자 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638568"
+        },
+        {
+          "kind": "sbs",
+          "label": "영자·옥순·현숙 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638561"
+        },
+        {
+          "kind": "sbs",
+          "label": "여자들의 첫인상 선택 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638230"
+        }
       ]
     },
     {
@@ -139,7 +190,21 @@
       "age": 37,
       "job": "건축사 사무소 근무",
       "family": "8남매 중 막내 (누나 7명)",
-      "region": ""
+      "region": "",
+      "ep": "275회",
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "영수 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638231",
+          "sub": "SBS 공식 · 275회"
+        },
+        {
+          "kind": "sbs2",
+          "label": "275회 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000637926"
+        }
+      ]
     },
     {
       "group": "men",
@@ -149,7 +214,21 @@
       "age": 35,
       "job": "외국계 증권사 (현재 일본 지사)",
       "family": "3남매 중 장남",
-      "region": ""
+      "region": "",
+      "ep": "275회",
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "영호 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638231",
+          "sub": "SBS 공식 · 275회"
+        },
+        {
+          "kind": "sbs2",
+          "label": "275회 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000637926"
+        }
+      ]
     },
     {
       "group": "men",
@@ -159,7 +238,21 @@
       "age": 38,
       "job": "글로벌 회사 근무",
       "family": "2녀 1남 중 막내",
-      "region": ""
+      "region": "",
+      "ep": "275회",
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "영식 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638231",
+          "sub": "SBS 공식 · 275회"
+        },
+        {
+          "kind": "sbs2",
+          "label": "275회 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000637926"
+        }
+      ]
     },
     {
       "group": "men",
@@ -169,7 +262,21 @@
       "age": 36,
       "job": "행정직 7급 공무원",
       "family": "3녀 1남 중 셋째",
-      "region": ""
+      "region": "",
+      "ep": "275회",
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "영철 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638234",
+          "sub": "SBS 공식 · 275회"
+        },
+        {
+          "kind": "sbs2",
+          "label": "275회 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000637926"
+        }
+      ]
     },
     {
       "group": "men",
@@ -179,7 +286,21 @@
       "age": 35,
       "job": "부동산 신탁회사",
       "family": "2녀 1남 중 막내",
-      "region": ""
+      "region": "",
+      "ep": "275회",
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "광수 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638234",
+          "sub": "SBS 공식 · 275회"
+        },
+        {
+          "kind": "sbs2",
+          "label": "275회 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000637926"
+        }
+      ]
     },
     {
       "group": "men",
@@ -189,7 +310,21 @@
       "age": 39,
       "job": "반도체 회사 근무",
       "family": "2남 1녀 중 둘째 · 최연장자",
-      "region": ""
+      "region": "",
+      "ep": "275회",
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "상철 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638234",
+          "sub": "SBS 공식 · 275회"
+        },
+        {
+          "kind": "sbs2",
+          "label": "275회 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000637926"
+        }
+      ]
     },
     {
       "group": "women",
@@ -199,7 +334,21 @@
       "age": 38,
       "job": "인테리어 자재 회사 패브릭팀 팀장",
       "family": "8자매 중 막내 · 조카 16명",
-      "region": "서울 (부산 출신)"
+      "region": "서울 (부산 출신)",
+      "ep": "276회",
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "영숙 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638568",
+          "sub": "SBS 공식 · 276회"
+        },
+        {
+          "kind": "sbs2",
+          "label": "276회 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000638245"
+        }
+      ]
     },
     {
       "group": "women",
@@ -209,7 +358,21 @@
       "age": 33,
       "job": "대형 회계법인 회계사 (여의도)",
       "family": "2녀 1남 중 둘째",
-      "region": "서울 강남구"
+      "region": "서울 강남구",
+      "ep": "276회",
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "정숙 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638568",
+          "sub": "SBS 공식 · 276회"
+        },
+        {
+          "kind": "sbs2",
+          "label": "276회 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000638245"
+        }
+      ]
     },
     {
       "group": "women",
@@ -219,7 +382,21 @@
       "age": 35,
       "job": "13년 차 간호사 (상급종합병원 책임 간호사)",
       "family": "2남 2녀 중 장녀",
-      "region": ""
+      "region": "",
+      "ep": "276회",
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "순자 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638568",
+          "sub": "SBS 공식 · 276회"
+        },
+        {
+          "kind": "sbs2",
+          "label": "276회 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000638245"
+        }
+      ]
     },
     {
       "group": "women",
@@ -229,7 +406,21 @@
       "age": 32,
       "job": "한의사 (한방내과 전문의)",
       "family": "장녀 · 남동생 2명 · 최연소",
-      "region": "세종 (본가 광주)"
+      "region": "세종 (본가 광주)",
+      "ep": "276회",
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "영자 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638561",
+          "sub": "SBS 공식 · 276회"
+        },
+        {
+          "kind": "sbs2",
+          "label": "276회 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000638245"
+        }
+      ]
     },
     {
       "group": "women",
@@ -239,7 +430,21 @@
       "age": 33,
       "job": "11년 차 임상병리사",
       "family": "2녀 1남 중 둘째",
-      "region": "서울 광진구"
+      "region": "서울 광진구",
+      "ep": "276회",
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "옥순 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638561",
+          "sub": "SBS 공식 · 276회"
+        },
+        {
+          "kind": "sbs2",
+          "label": "276회 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000638245"
+        }
+      ]
     },
     {
       "group": "women",
@@ -249,7 +454,21 @@
       "age": 34,
       "job": "외국계 제약회사 글로벌 허가팀",
       "family": "2녀 1남 중 장녀",
-      "region": "서울 송파구"
+      "region": "서울 송파구",
+      "ep": "276회",
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "현숙 자기소개 클립",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638561",
+          "sub": "SBS 공식 · 276회"
+        },
+        {
+          "kind": "sbs2",
+          "label": "276회 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000638245"
+        }
+      ]
     }
   ],
   "episodes": [
@@ -262,14 +481,14 @@
       "thumb": "/img/ep274.jpg",
       "links": [
         {
-          "kind": "netflix",
-          "label": "넷플릭스",
-          "url": "https://www.netflix.com/kr/title/81551819"
+          "kind": "sbs",
+          "label": "274회 SBS 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000637402"
         },
         {
-          "kind": "sbs",
-          "label": "SBS 다시보기",
-          "url": "https://programs.sbs.co.kr/plus/iamsolo/vods/69610"
+          "kind": "netflix",
+          "label": "넷플릭스 34기",
+          "url": "https://www.netflix.com/kr/title/81551819"
         }
       ]
     },
@@ -282,14 +501,14 @@
       "thumb": "/img/ep275.jpg",
       "links": [
         {
-          "kind": "netflix",
-          "label": "넷플릭스",
-          "url": "https://www.netflix.com/kr/title/81551819"
+          "kind": "sbs",
+          "label": "275회 SBS 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000637926"
         },
         {
-          "kind": "sbs",
-          "label": "SBS 다시보기",
-          "url": "https://programs.sbs.co.kr/plus/iamsolo/vods/69610"
+          "kind": "netflix",
+          "label": "넷플릭스 34기",
+          "url": "https://www.netflix.com/kr/title/81551819"
         }
       ]
     },
@@ -302,14 +521,14 @@
       "thumb": "/img/ep276.jpg",
       "links": [
         {
-          "kind": "netflix",
-          "label": "넷플릭스",
-          "url": "https://www.netflix.com/kr/title/81551819"
+          "kind": "sbs",
+          "label": "276회 SBS 다시보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000638245"
         },
         {
-          "kind": "sbs",
-          "label": "SBS 다시보기",
-          "url": "https://programs.sbs.co.kr/plus/iamsolo/vods/69610"
+          "kind": "netflix",
+          "label": "넷플릭스 34기",
+          "url": "https://www.netflix.com/kr/title/81551819"
         }
       ]
     },
@@ -320,7 +539,13 @@
       "title": "방송 예정",
       "desc": "방송 뒤 넷플릭스·SBS 다시보기에 순차 등재",
       "soon": true,
-      "links": []
+      "links": [
+        {
+          "kind": "sbs",
+          "label": "277회 예고 보기",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638563"
+        }
+      ]
     }
   ],
   "faq": [
@@ -348,8 +573,41 @@
       "desc": "넷플릭스 중국 시대극 · 몇부작 · OTT"
     }
   ],
-  "source": "SBS 나는 SOLO 공식 프로그램 페이지·VOD 목록(회차·방송일·제목) · 넷플릭스 공식 작품 페이지(등재 회차) · 출연자 직업·나이는 275회·276회 자기소개 자막을 보도한 기사(엑스포츠뉴스·위키트리 10.15, 톱스타뉴스·위키트리·이투데이·스포티비뉴스 10.22)",
+  "source": "SBS 나는 SOLO 공식 프로그램 페이지·VOD 목록(회차·방송일·제목) · 넷플릭스 공식 작품 페이지(등재 회차) · 출연자 직업·나이는 275회·276회 자기소개 자막을 보도한 기사(엑스포츠뉴스·위키트리 10.15, 톱스타뉴스·위키트리·이투데이·스포티비뉴스 10.22) · 회차·클립 링크는 SBS 공식 다시보기(69610)·방송클립영상(69611) 메뉴의 주소",
   "imageCredit": "회차 이미지는 SBS 공식 VOD 썸네일입니다.",
   "checkedAt": "2026-10-23",
-  "updatedAt": "2026-10-23T13:00:00+09:00"
+  "updatedAt": "2026-10-23T14:30:00+09:00",
+  "quick": [
+    {
+      "label": "남자 자기소개 클립",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638231",
+      "kind": "sbs"
+    },
+    {
+      "label": "여자 자기소개 클립",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638568",
+      "kind": "sbs"
+    },
+    {
+      "label": "남자 첫인상 선택",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000637908",
+      "kind": "sbs"
+    },
+    {
+      "label": "여자 첫인상 선택",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638230",
+      "kind": "sbs"
+    },
+    {
+      "label": "영호 데이트 선택",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638565",
+      "kind": "sbs"
+    },
+    {
+      "label": "공식 출연진 페이지",
+      "url": "https://programs.sbs.co.kr/plus/iamsolo/cast/69644",
+      "kind": "link"
+    }
+  ],
+  "snsNote": "34기 출연자의 인스타그램 등 개인 SNS는 방송·기사에서 공개된 계정이 없어 싣지 않았습니다. 공개되면 출연자 카드에 버튼이 추가됩니다."
 }
