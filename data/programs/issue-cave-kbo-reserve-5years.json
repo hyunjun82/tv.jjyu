@@ -1,0 +1,186 @@
+{
+  "slug": "issue-cave-kbo-reserve-5years",
+  "type": "issue",
+  "category": "스포츠",
+  "series": "",
+  "seriesSlug": "",
+  "program": "",
+  "kicker": "KBO · 외국인 선수 보류권",
+  "dateLabel": "2025.11.27 발단",
+  "firstReport": "노컷뉴스 2025.11.27 10:31",
+  "title": "케이브 KBO 5년 보류권 제약, 두산 재계약 불발 뒤 행보",
+  "name": "전 두산 외국인 타자 제이크 케이브, 5년 보류권에 묶여 KBO 다른 팀 못 가",
+  "shortName": "케이브 5년 보류권",
+  "subtitle": "",
+  "channel": "노컷뉴스 보도",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-cave-kbo-reserve-5years.jpg",
+  "thumb": "/img/auto/issue-cave-kbo-reserve-5years.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "'케이브'는 <b>2025시즌 두산 베어스에서 뛴 외국인 타자 제이크 케이브(Jake Cave)</b>입니다. 두산은 2025년 11월 25일 KBO에 낸 보류선수 명단에 재계약 의사를 표시해 그를 넣었지만 실제 재계약은 하지 않았고, KBO 규정상 케이브는 두산이 동의하지 않는 한 5년간 국내 다른 구단에 입단할 수 없게 됐습니다. 케이브는 11월 27일 SNS에서 KBO 다른 팀에서 뛰고 싶지만 원소속팀이 막고 있다고 밝혔고, 2026년에는 멕시코리그와 미국 마이너리그에서 뛰고 있습니다.",
+  "ctas": [
+    {
+      "kind": "news",
+      "label": "기사 원문 (노컷뉴스)",
+      "url": "https://www.nocutnews.co.kr/news/6434664"
+    },
+    {
+      "kind": "news",
+      "label": "보류권 규정 원문 (뉴데일리)",
+      "url": "https://www.newdaily.co.kr/site/data/html/2025/11/27/2025112700125.html"
+    },
+    {
+      "kind": "news",
+      "label": "화이트삭스 트레이드 (NBC Sports)",
+      "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/white-sox-acquire-jake-cave-from-rays"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "노컷뉴스",
+      "date": "2025.11.27 10:31",
+      "url": "https://www.nocutnews.co.kr/news/6434664"
+    },
+    {
+      "media": "뉴데일리",
+      "date": "2025.11.27 10:38",
+      "url": "https://www.newdaily.co.kr/site/data/html/2025/11/27/2025112700125.html"
+    },
+    {
+      "media": "마이데일리",
+      "date": "2025.11.27 15:16",
+      "url": "https://www.mydaily.co.kr/page/view/2025112715164351341"
+    },
+    {
+      "media": "뉴스21통신",
+      "date": "2025.11.28 09:54",
+      "url": "https://www.news21tongsin.co.kr/news/284204"
+    },
+    {
+      "media": "NBC Sports",
+      "date": "2026.08.31",
+      "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/white-sox-acquire-jake-cave-from-rays"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2025 시즌",
+      "text": "두산과 100만 달러 계약. 136경기 타율 0.299, 16홈런, 87타점, OPS 0.814",
+      "source": "노컷뉴스 2025.11.27",
+      "url": "https://www.nocutnews.co.kr/news/6434664"
+    },
+    {
+      "date": "2025.11.25",
+      "text": "두산, KBO에 낸 보류선수 명단에 재계약 의사 표시와 함께 케이브 포함",
+      "source": "노컷뉴스·뉴데일리",
+      "url": "https://www.newdaily.co.kr/site/data/html/2025/11/27/2025112700125.html"
+    },
+    {
+      "date": "2025.11.27",
+      "text": "케이브 SNS 작별 글: 두산 팬에 감사, KBO 다른 팀에서 뛰고 싶지만 원소속팀이 계약을 막았다고 밝힘",
+      "source": "노컷뉴스",
+      "url": "https://www.nocutnews.co.kr/news/6434664",
+      "hot": true
+    },
+    {
+      "date": "2026.02",
+      "text": "멕시코리그 팀과 계약 (2026.2.21 보도)",
+      "source": "네이트 스포츠 2026.2.21",
+      "url": "https://m.news.nate.com/view/20260221n11094"
+    },
+    {
+      "date": "2026.06 하순",
+      "text": "탬파베이 레이스와 마이너리그 계약",
+      "source": "NBC Sports 2026.8.31",
+      "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/white-sox-acquire-jake-cave-from-rays"
+    },
+    {
+      "date": "2026.08.31",
+      "text": "탬파베이에서 시카고 화이트삭스로 현금 트레이드, 트리플A 샬럿 소속",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/white-sox-acquire-jake-cave-from-rays"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "케이브는 누구",
+      "heading": "케이브는 누구인가요?",
+      "lead": "2025시즌 두산 베어스에서 뛴 외국인 외야수 제이크 케이브입니다. 2025년 기준 33세였습니다.",
+      "paragraphs": [
+        "두산과 100만 달러에 계약해 2025시즌 정규리그 136경기에서 타율 0.299, 16홈런, 87타점, OPS 0.814를 기록했습니다(노컷뉴스). 시즌 뒤 두산과 재계약하지 못했고, 2026년 2월 멕시코리그 팀과 계약한 뒤 6월 탬파베이 레이스와 마이너리그 계약을 맺었으며, 8월 31일 시카고 화이트삭스로 현금 트레이드됐습니다(NBC Sports)."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "news",
+          "label": "노컷뉴스 기사",
+          "url": "https://www.nocutnews.co.kr/news/6434664"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "5년 보류권",
+      "heading": "KBO 외국인 선수 5년 보류권은 어떤 규정인가요?",
+      "lead": "전 소속구단이 재계약을 제안하면 그 선수는 5년 동안 국내 다른 구단에 입단할 수 없고, 전 소속구단이 동의할 때만 예외가 됩니다.",
+      "paragraphs": [
+        "뉴데일리가 인용한 KBO 외국인 선수 고용 규정의 '독점 교섭 기간: 보류권' 조항은 '전 소속구단이 재계약을 제안한 경우, 해당 선수는 5년 동안 국내 타 구단에 입단할 수 없다. 단, 전 소속 구단이 동의할 경우 예외로 한다'입니다. 보류선수 명단에 재계약 의사를 표시해도 실제 계약으로 이어지지 않는 사례가 해마다 나온다고 노컷뉴스와 뉴데일리가 전했습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "뉴데일리 기사",
+          "url": "https://www.newdaily.co.kr/site/data/html/2025/11/27/2025112700125.html"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "양측 입장",
+      "heading": "케이브와 두산은 각각 뭐라고 했나요?",
+      "lead": "케이브는 다른 KBO 팀에서 뛰고 싶다고 했고, 두산은 끝까지 재계약을 고민했기 때문에 보류할 수밖에 없었다는 입장입니다.",
+      "paragraphs": [
+        "케이브는 2025년 11월 27일 SNS에 '올해 내게 보내준 두산 팬의 성원에 감사하다'고 쓰고, 두산은 다른 계획을 가지고 있으며 원소속팀이 다른 구단과의 계약을 불가능하게 했다고 밝혔습니다(노컷뉴스·뉴데일리).",
+        "노컷뉴스에 따르면 두산 구단 관계자는 재계약까지 고민했기 때문에 보류할 수밖에 없었다고 설명했습니다. 당시 두산은 대체 외국인 타자를 찾고 있었습니다. KBO의 공식 입장은 확인된 보도에 없습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "마이데일리 기사",
+          "url": "https://www.mydaily.co.kr/page/view/2025112715164351341"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "케이브는 누구인가요?",
+      "a": "2025시즌 두산 베어스에서 뛴 외국인 타자 제이크 케이브입니다."
+    },
+    {
+      "q": "케이브는 KBO에 언제 돌아올 수 있나요?",
+      "a": "규정상 두산이 동의하지 않으면 5년 동안 국내 다른 구단에 입단할 수 없습니다. 두산이 보류권을 풀었다는 보도는 확인되지 않았습니다."
+    },
+    {
+      "q": "케이브는 지금 어디서 뛰나요?",
+      "a": "2026년 8월 31일 탬파베이에서 시카고 화이트삭스로 트레이드돼 트리플A 샬럿 소속이 됐습니다(NBC Sports)."
+    }
+  ],
+  "related": [],
+  "source": "노컷뉴스·뉴데일리·마이데일리 2025.11.27, 뉴스21통신 2025.11.28 보도, 네이트 스포츠 2026.2.21 보도 제목, NBC Sports 2026.8.31",
+  "imageCredit": "",
+  "checkedAt": "2026-10-24",
+  "updatedAt": "2026-10-24T16:00:00+09:00",
+  "quick": []
+}

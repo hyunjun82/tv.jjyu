@@ -1,0 +1,157 @@
+{
+  "slug": "issue-kt-wiz-release-10",
+  "type": "issue",
+  "category": "스포츠",
+  "series": "",
+  "seriesSlug": "",
+  "program": "",
+  "kicker": "KBO · kt wiz 선수단 정리",
+  "dateLabel": "2026.10.22 발표",
+  "firstReport": "뉴스1 10.22 14:38",
+  "title": "kt선수 10명 방출, 조이현·최동환 등 재계약 불가 명단",
+  "name": "kt wiz, 조이현·최동환 등 10명과 재계약하지 않기로, 투수만 8명",
+  "shortName": "kt 10명 방출",
+  "subtitle": "",
+  "channel": "뉴스1 보도",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-kt-wiz-release-10.jpg",
+  "thumb": "/img/auto/issue-kt-wiz-release-10.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "2026시즌 정규리그 우승팀 <b>kt wiz가 10월 22일 선수 10명과 재계약하지 않기로 했다</b>고 발표했습니다. 대상은 투수 최동환·조이현·이현민·이준명·권효준·김민성·정정우·김규한, 포수 박치성, 외야수 최동희입니다. 구단은 같은 날 이보다 약 3시간 앞서 12년간 kt에서 뛴 문상철의 현역 은퇴를 별도 보도자료로 알렸습니다.",
+  "ctas": [
+    {
+      "kind": "news",
+      "label": "기사 원문 (뉴스1)",
+      "url": "https://www.news1.kr/sports/baseball/6328678"
+    },
+    {
+      "kind": "news",
+      "label": "명단·통산 기록 (마이데일리)",
+      "url": "https://www.mydaily.co.kr/page/view/2026102214140303113"
+    },
+    {
+      "kind": "news",
+      "label": "문상철 은퇴와 함께 (MHN)",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1607433"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "뉴스1",
+      "date": "10.22 14:38",
+      "url": "https://www.news1.kr/sports/baseball/6328678"
+    },
+    {
+      "media": "MHN",
+      "date": "10.22 14:53",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1607433"
+    },
+    {
+      "media": "마이데일리",
+      "date": "10.22 15:00",
+      "url": "https://www.mydaily.co.kr/page/view/2026102214140303113"
+    },
+    {
+      "media": "STN뉴스",
+      "date": "10.22 17:36",
+      "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=324498"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026 시즌",
+      "text": "kt wiz 정규리그 우승",
+      "source": "마이데일리 10.22",
+      "url": "https://www.mydaily.co.kr/page/view/2026102214140303113"
+    },
+    {
+      "date": "2026.10.22",
+      "text": "문상철 현역 은퇴 별도 보도자료 배포",
+      "source": "MHN 10.22",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1607433"
+    },
+    {
+      "date": "2026.10.22",
+      "text": "약 3시간 뒤 선수 10명 재계약 불가 발표",
+      "source": "뉴스1·마이데일리·MHN",
+      "url": "https://www.news1.kr/sports/baseball/6328678",
+      "hot": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "명단",
+      "heading": "kt에서 방출된 선수 10명은 누구인가요?",
+      "lead": "투수 8명, 포수 1명, 외야수 1명입니다.",
+      "paragraphs": [
+        "투수는 최동환, 조이현, 이현민, 이준명, 권효준, 김민성, 정정우, 김규한이고, 포수 박치성, 외야수 최동희입니다(마이데일리·STN뉴스). 구단 표현은 '조이현 등 10명의 선수들에 대해 재계약하지 않기로 했다'입니다."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "news",
+          "label": "마이데일리 기사",
+          "url": "https://www.mydaily.co.kr/page/view/2026102214140303113"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "방출 사유",
+      "heading": "kt는 방출 사유를 밝혔나요?",
+      "lead": "개인별 사유는 밝히지 않았습니다. 보도자료는 10명에 대해 두 줄 분량이었다고 MHN이 전했습니다.",
+      "paragraphs": [
+        "MHN에 따르면 kt 보도자료에는 선수별 설명이나 평가가 없었고, 기사에도 구단 관계자의 직접 발언은 실리지 않았습니다. 반면 같은 날 은퇴한 문상철에 대해서는 약 3시간 앞서 별도 보도자료를 냈습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "MHN 기사",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1607433"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "베테랑",
+      "heading": "조이현·최동환은 어떤 선수인가요?",
+      "lead": "둘 다 다른 구단에서 방출된 뒤 kt에서 재기를 노린 베테랑 투수로, 2026시즌에는 1군 기록이 없었습니다.",
+      "paragraphs": [
+        "조이현은 2014년 한화에 2차 5라운드로 지명된 뒤 SK(현 SSG)를 거쳐 kt에 입단했습니다. 2026년에는 퓨처스리그 24경기에서 평균자책점 5.67을 기록했고, 1군 통산은 116경기 10승 18패 1홀드 1세이브, 평균자책점 6.29입니다(마이데일리).",
+        "최동환은 2009년 LG에 2차 2라운드로 입단해 LG에서 오래 뛴 뒤 kt로 옮겼습니다. 2025년 kt에서 20경기 1승 1패, 평균자책점 8.68을 기록했고 2026년에는 퓨처스리그 36경기에 나섰습니다. 1군 통산은 364경기 11승 7패 16홀드 4세이브, 평균자책점 5.28입니다(마이데일리)."
+      ],
+      "actions": [],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "kt는 몇 명을 방출했나요?",
+      "a": "10명입니다. 투수 8명, 포수 1명, 외야수 1명입니다."
+    },
+    {
+      "q": "언제 발표했나요?",
+      "a": "2026년 10월 22일입니다. 같은 날 문상철의 은퇴도 별도로 발표했습니다."
+    },
+    {
+      "q": "방출 이유는 무엇인가요?",
+      "a": "구단은 '재계약하지 않기로 했다'고만 밝혔고 선수별 사유는 공개하지 않았습니다."
+    }
+  ],
+  "related": [],
+  "source": "뉴스1·MHN·마이데일리·STN뉴스 2026.10.22 보도",
+  "imageCredit": "",
+  "checkedAt": "2026-10-24",
+  "updatedAt": "2026-10-24T16:00:00+09:00",
+  "quick": []
+}

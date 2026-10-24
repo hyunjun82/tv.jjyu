@@ -1,0 +1,188 @@
+{
+  "slug": "issue-korail-fare-support",
+  "type": "issue",
+  "category": "사회",
+  "series": "",
+  "seriesSlug": "",
+  "program": "",
+  "kicker": "코레일 · 2026 하반기 여행가는 달",
+  "dateLabel": "2026.10.01~11.30 시행",
+  "firstReport": "매일신문 2026.09.15 16:03",
+  "title": "코레일 기차표 지원, 인구감소지역 운임 100% 쿠폰 환급",
+  "name": "코레일, 인구감소지역 41곳 기차여행하면 운임 전액을 할인쿠폰으로 돌려준다",
+  "shortName": "코레일 기차표 지원",
+  "subtitle": "",
+  "channel": "매일신문 보도",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-korail-fare-support.jpg",
+  "thumb": "/img/auto/issue-korail-fare-support.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "코레일은 <b>2026년 10월 1일부터 11월 30일까지 전국 41개 인구감소지역 자유여행상품 이용객이 현지에서 QR코드로 방문 인증을 하면 열차 운임과 같은 금액의 할인쿠폰</b>을 지급합니다. 문화체육관광부·한국관광공사의 하반기 '여행가는 달'에 맞춘 행사로, 9월 15일 발표와 함께 예매가 시작됐습니다. 현금 환급이 아니라 다음 열차 이용 때 쓰는 쿠폰이며, 일반 승차권은 대상이 아닙니다. 테마열차 5종 운임 50% 할인과 내일로 2만 원 할인도 함께 진행됩니다.",
+  "ctas": [
+    {
+      "kind": "link",
+      "label": "코레일 홈페이지 (레츠코레일)",
+      "url": "https://www.letskorail.com/"
+    },
+    {
+      "kind": "news",
+      "label": "발표 기사 (매일신문)",
+      "url": "https://www.imaeil.com/page/view/2026091516025588871"
+    },
+    {
+      "kind": "news",
+      "label": "세부 조건 (한국철도일보)",
+      "url": "https://www.korearailroad.kr/news/articleView.html?idxno=195252"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "매일신문",
+      "date": "2026.09.15 16:03",
+      "url": "https://www.imaeil.com/page/view/2026091516025588871"
+    },
+    {
+      "media": "한국철도일보",
+      "date": "2026.09.15 16:11",
+      "url": "https://www.korearailroad.kr/news/articleView.html?idxno=195252"
+    },
+    {
+      "media": "글로벌이코노믹",
+      "date": "2026.09.15 16:12",
+      "url": "https://www.g-enews.com/article/Real-Estate/2026/09/202609151612082494ea13369bfa_1"
+    },
+    {
+      "media": "매일신문",
+      "date": "2026.10.16 17:00",
+      "url": "https://www.imaeil.com/page/view/2026101607055318603"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.03.16",
+      "text": "상반기 '여행가는 달'(4~5월)에 같은 방식으로 인구감소지역 열차운임 100% 할인쿠폰 시행 발표",
+      "source": "이코노믹리뷰 3.16",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=733348"
+    },
+    {
+      "date": "2026.09.15",
+      "text": "하반기 할인 발표. 인구감소지역 자유여행상품·테마열차 예매 시작",
+      "source": "매일신문 9.15",
+      "url": "https://www.imaeil.com/page/view/2026091516025588871",
+      "hot": true
+    },
+    {
+      "date": "2026.09.24",
+      "text": "내일로 할인 상품 예매 시작",
+      "source": "매일신문 9.15",
+      "url": "https://www.imaeil.com/page/view/2026091516025588871"
+    },
+    {
+      "date": "2026.10.01",
+      "text": "할인 적용 기간 시작(10~11월 운행 열차)",
+      "source": "한국철도일보 9.15",
+      "url": "https://www.korearailroad.kr/news/articleView.html?idxno=195252",
+      "hot": true
+    },
+    {
+      "date": "2026.11.30",
+      "text": "할인 적용 기간 종료",
+      "source": "매일신문 9.15",
+      "url": "https://www.imaeil.com/page/view/2026091516025588871"
+    },
+    {
+      "date": "2026.12 말",
+      "text": "지정 13개 지역 인증 선착순 2,000명에게 디지털 온누리상품권 2만 원 일괄 지급",
+      "source": "매일신문 9.15",
+      "url": "https://www.imaeil.com/page/view/2026091516025588871"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "지원 대상",
+      "heading": "코레일 기차표 지원 대상은 누구인가요?",
+      "lead": "전국 41개 인구감소지역으로 가는 코레일 자유여행상품을 이용한 승객입니다. 일반 승차권만 산 경우는 대상이 아닙니다.",
+      "paragraphs": [
+        "할인은 10월과 11월 두 달간 운행하는 열차에 적용됩니다. 매일신문(10.16)은 평소 이 상품의 할인율이 50%인데 이번 기간에는 운임 전액을 쿠폰으로 돌려준다고 전했습니다. 쿠폰 환급 비용은 코레일과 한국관광공사가 절반씩 부담합니다(매일신문 9.15)."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "news",
+          "label": "매일신문 9.15 기사",
+          "url": "https://www.imaeil.com/page/view/2026091516025588871"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "신청 방법",
+      "heading": "어떻게 신청하고 쿠폰은 언제 받나요?",
+      "lead": "코레일 홈페이지나 '코레일+' 앱에서 대상 자유여행상품을 예매하고, 현지 지정 관광지나 디지털관광주민증 혜택업체에서 QR코드로 방문 인증을 하면 됩니다.",
+      "paragraphs": [
+        "인증을 마치면 이용한 열차 운임과 같은 금액의 할인쿠폰이 상품 이용 후 10일 이내에 지급되고, 다음 열차를 탈 때 쓸 수 있습니다(매일신문 9.15·한국철도일보). 매일신문(10.16)은 쿠폰을 1년간 쓸 수 있다고 보도했습니다. 예매 상황에 따라 상품이 조기 마감될 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "레츠코레일 바로가기",
+          "url": "https://www.letskorail.com/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "함께 받는 할인",
+      "heading": "테마열차·내일로 할인도 있나요?",
+      "lead": "테마열차 5종은 운임 50% 할인, 내일로는 권종과 관계없이 2만 원 할인입니다.",
+      "paragraphs": [
+        "할인 테마열차는 동해산타열차, 백두대간 협곡열차, 서해금빛열차, 남도해양열차, 정선아리랑열차입니다. 내일로는 할인 후 Youth권(만 29세 이하) 연속 7일권 6만 원·선택 3일권 5만 원, Adult권 연속 7일권 9만 원·선택 3일권 8만 원입니다(매일신문 9.15·한국철도일보). 테마열차와 내일로 할인, 온누리상품권 비용은 한국관광공사가 전액 부담합니다.",
+        "이민성 코레일 여객사업본부장은 '여행하기 좋은 가을을 맞아 다양한 할인 혜택을 마련했다'고 말했습니다(매일신문 9.15)."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "한국철도일보 기사",
+          "url": "https://www.korearailroad.kr/news/articleView.html?idxno=195252"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "코레일 기차표 지원 기간은 언제까지인가요?",
+      "a": "2026년 10월 1일부터 11월 30일까지 운행하는 열차가 대상입니다."
+    },
+    {
+      "q": "현금으로 돌려받나요?",
+      "a": "아니요. 이용한 열차 운임과 같은 금액의 할인쿠폰으로 지급되며 다음 열차 이용 때 씁니다."
+    },
+    {
+      "q": "일반 승차권도 지원되나요?",
+      "a": "아니요. 인구감소지역 자유여행상품으로 예매하고 현지에서 QR 방문 인증을 해야 합니다."
+    }
+  ],
+  "related": [],
+  "source": "매일신문·한국철도일보·글로벌이코노믹 2026.9.15, 매일신문 10.16, 이코노믹리뷰 3.16 보도",
+  "imageCredit": "",
+  "checkedAt": "2026-10-24",
+  "updatedAt": "2026-10-24T16:00:00+09:00",
+  "quick": [
+    {
+      "label": "레츠코레일",
+      "url": "https://www.letskorail.com/",
+      "kind": "link"
+    }
+  ]
+}
