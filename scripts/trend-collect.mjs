@@ -21,7 +21,12 @@ const DATE = arg || kst.toISOString().slice(0, 10);
 const OUT = path.join(ROOT, 'data', 'trends'); fs.mkdirSync(OUT, { recursive: true });
 
 // 우리가 보는 주제. 어드바이저가 제공하는 32개 중 방송·연예 쪽.
-const TOPICS = ['방송', '스타·연예인', '드라마', '영화', '스포츠', '게임', '공연·전시', '음악'];
+const DEF = ['방송', '스타·연예인', '드라마', '영화', '스포츠', '게임', '공연·전시', '음악', '국내여행'];
+const targ = process.argv.find((x) => x.startsWith('--topics='));
+const TOPICS = targ ? targ.slice(9).split(',').map((x) => x.trim()).filter(Boolean) : DEF;
+const darg = process.argv.find((x) => x.startsWith('--days='));
+const DAYS = Math.min(30, Math.max(1, Number(darg ? darg.slice(7) : 1) || 1));
+const dateBack = (iso, n) => { const d = new Date(iso + 'T00:00:00Z'); d.setUTCDate(d.getUTCDate() - n); return d.toISOString().slice(0, 10); };
 const API = 'https://creator-advisor.naver.com/api/v6/trend/category';
 
 process.on('unhandledRejection', (e) => { console.error('에러:', e?.message || e); process.exit(1); });
@@ -38,18 +43,33 @@ if (LOGIN) {
 // 세션 확인 겸 홈 한 번 열기(쿠키 갱신) → API 호출
 await page.goto('https://creator-advisor.naver.com/naver_blog/stats8207/trends', { waitUntil: 'domcontentloaded' }).catch(() => {});
 await page.waitForTimeout(1500);
-const qs = new URLSearchParams({ categories: TOPICS.join(','), contentType: 'text', date: DATE, hasRankChange: 'true', interval: 'day', limit: '20', service: 'naver_blog' });
-const res = await page.request.get(`${API}?${qs}`, { headers: { accept: 'application/json' } });
-const status = res.status(); const body = await res.text();
-let json = null; try { json = JSON.parse(body); } catch {}
-if (status !== 200 || !json?.data) {
-  const loginNeeded = /nid\.naver\.com|로그인/.test(body) || status === 401 || status === 403;
-  console.error(`API 실패 (HTTP ${status}). ${loginNeeded ? '로그인이 풀렸습니다 → node scripts/trend-collect.mjs --login 후 다시 실행' : body.slice(0, 200)}`);
-  await ctx.close(); process.exit(loginNeeded ? 3 : 1);
+const merged = {};
+for (let n = 0; n < DAYS; n++) {
+  const D = dateBack(DATE, n);
+  const qs = new URLSearchParams({ categories: TOPICS.join(','), contentType: 'text', date: D, hasRankChange: 'true', interval: 'day', limit: '20', service: 'naver_blog' });
+  const res = await page.request.get(`${API}?${qs}`, { headers: { accept: 'application/json' } });
+  const status = res.status(); const body = await res.text();
+  let json = null; try { json = JSON.parse(body); } catch {}
+  if (status !== 200 || !json?.data) {
+    const loginNeeded = /nid\.naver\.com|로그인/.test(body) || status === 401 || status === 403;
+    console.error(`API 실패 ${D} (HTTP ${status}). ${loginNeeded ? '로그인이 풀렸습니다 → node scripts/trend-collect.mjs --login 후 다시 실행' : body.slice(0, 200)}`);
+    await ctx.close(); process.exit(loginNeeded ? 3 : 1);
+  }
+  const topics = {};
+  for (const c of json.data) topics[c.category] = (c.queryList || []).map((q) => ({ query: q.query, rank: q.rank, rankChange: q.rankChange, ratio: q.ratio }));
+  const result = { date: D, collectedAt: new Date().toISOString(), source: `${API}?${qs}`, topics };
+  const fp = path.join(OUT, `${D}.json`);
+  let prev = {}; try { prev = JSON.parse(fs.readFileSync(fp, 'utf8')).topics || {}; } catch {}
+  result.topics = { ...prev, ...topics };
+  fs.writeFileSync(fp, JSON.stringify(result, null, 2));
+  console.log(`저장: data/trends/${D}.json`, Object.fromEntries(Object.entries(topics).map(([k, v]) => [k, v.length])));
+  for (const [cat, list] of Object.entries(topics)) for (const q of list) { const k = cat + '|' + q.query; (merged[k] ||= { cat, query: q.query, days: 0, best: 99, ratio: 0 }); merged[k].days++; merged[k].best = Math.min(merged[k].best, q.rank); merged[k].ratio += Number(q.ratio) || 0; }
+  await page.waitForTimeout(700);
 }
-const topics = {};
-for (const c of json.data) topics[c.category] = (c.queryList || []).map((q) => ({ query: q.query, rank: q.rank, rankChange: q.rankChange, ratio: q.ratio }));
-const result = { date: DATE, collectedAt: new Date().toISOString(), source: `${API}?${qs}`, topics };
-fs.writeFileSync(path.join(OUT, `${DATE}.json`), JSON.stringify(result, null, 2));
-console.log(`저장: data/trends/${DATE}.json`, Object.fromEntries(Object.entries(topics).map(([k, v]) => [k, v.length])));
+if (DAYS > 1) {
+  const top = Object.values(merged).sort((a, b) => b.days - a.days || a.best - b.best);
+  const fp = path.join(OUT, `summary-${DATE}-${DAYS}d.json`);
+  fs.writeFileSync(fp, JSON.stringify({ date: DATE, days: DAYS, topics: TOPICS, ranking: top }, null, 2));
+  console.log(`합계 순위 저장: ${path.relative(ROOT, fp)} (${top.length}개)`);
+}
 await ctx.close();
