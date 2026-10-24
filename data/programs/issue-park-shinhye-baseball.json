@@ -1,0 +1,186 @@
+{
+  "slug": "issue-park-shinhye-baseball",
+  "type": "issue",
+  "category": "연예",
+  "series": "",
+  "seriesSlug": "",
+  "program": "",
+  "kicker": "박신혜 · 준플레이오프 직관",
+  "dateLabel": "2026.10.20 직관",
+  "firstReport": "OSEN 10.21 08:32",
+  "title": "박신혜 야구 직관, 준PO 3차전 김도영 만루홈런 현장",
+  "name": "박신혜, 출산 한 달 만에 잠실 준PO 직관, KIA 13-1 승리 현장 SNS 공개",
+  "shortName": "박신혜 야구 직관",
+  "subtitle": "",
+  "channel": "OSEN 보도",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-park-shinhye-baseball.jpg",
+  "thumb": "/img/auto/issue-park-shinhye-baseball.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "배우 <b>박신혜가 2026년 10월 20일 잠실야구장에서 열린 KBO 준플레이오프 3차전 LG 트윈스-KIA 타이거즈 경기를 직접 관람</b>하고 본인 SNS에 사진과 영상을 올렸습니다. 이 경기는 <b>KIA가 13-1로 이겨 3연승으로 플레이오프 진출</b>을 확정한 경기로, 박신혜는 2회 김도영의 만루홈런 장면을 촬영해 공유했습니다. 9월 22일 둘째를 출산한 지 약 한 달 만의 직관이라 화제가 됐습니다.",
+  "ctas": [
+    {
+      "kind": "news",
+      "label": "기사 원문 (OSEN)",
+      "sub": "10.21 08:32",
+      "url": "https://www.osen.co.kr/article/G1112896061"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (텐아시아)",
+      "sub": "10.21 11:41",
+      "url": "https://www.tenasia.co.kr/article/2026102152204"
+    },
+    {
+      "kind": "news",
+      "label": "경기 결과 기사 (더팩트)",
+      "url": "https://news.tf.co.kr/read/ogmeta/2378679.htm"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "OSEN",
+      "date": "10.21 08:32",
+      "url": "https://www.osen.co.kr/article/G1112896061"
+    },
+    {
+      "media": "마이데일리",
+      "date": "10.21 08:56",
+      "url": "https://www.mydaily.co.kr/page/view/2026102108240112940"
+    },
+    {
+      "media": "텐아시아",
+      "date": "10.21 11:41",
+      "url": "https://www.tenasia.co.kr/article/2026102152204"
+    },
+    {
+      "media": "뉴스엔",
+      "date": "10.21",
+      "url": "https://www.newsen.com/news_view.php?uid=202610211258036110"
+    },
+    {
+      "media": "더팩트 (경기 결과)",
+      "date": "10.21 03:53",
+      "url": "https://news.tf.co.kr/read/ogmeta/2378679.htm"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.09.22",
+      "text": "둘째 출산. 소속사 솔트엔터테인먼트 발표",
+      "source": "텐아시아 10.21",
+      "url": "https://www.tenasia.co.kr/article/2026102152204"
+    },
+    {
+      "date": "2026.10.20",
+      "text": "잠실야구장 준PO 3차전 LG-KIA 직관. SNS에 \"가을야구 못 참지!!!!\" 게시",
+      "source": "텐아시아 10.21",
+      "url": "https://www.tenasia.co.kr/article/2026102152204",
+      "hot": true
+    },
+    {
+      "date": "2026.10.20",
+      "text": "2회초 1사 만루 김도영 만루홈런(7-0), KIA 13-1 승리로 3연승 플레이오프 진출. 철거 예정인 잠실야구장의 마지막 경기",
+      "source": "더팩트 10.21",
+      "url": "https://news.tf.co.kr/read/ogmeta/2378679.htm"
+    },
+    {
+      "date": "2026.10.21",
+      "text": "SNS에 \"직관한 나 너무 기특하잖아. 직관 승률 캬\" 게시, 언론 보도 시작",
+      "source": "OSEN 10.21",
+      "url": "https://www.osen.co.kr/article/G1112896061"
+    },
+    {
+      "date": "2026.10.25 14:00",
+      "text": "KIA-삼성 플레이오프 1차전 (대구)",
+      "source": "더팩트 10.21",
+      "url": "https://news.tf.co.kr/read/ogmeta/2378679.htm"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "직관 경기",
+      "heading": "박신혜가 직관한 경기는 어떤 경기였나요?",
+      "lead": "2026년 10월 20일 잠실야구장 KBO 준플레이오프 3차전 LG 트윈스-KIA 타이거즈 경기입니다. KIA가 13-1로 이겨 시리즈 3연승으로 플레이오프 진출을 확정했습니다.",
+      "paragraphs": [
+        "2회초 KIA가 3-0으로 앞선 1사 만루에서 김도영이 145m 만루홈런을 쳐 7-0을 만들었습니다. 잠실야구장은 이번 시즌을 끝으로 철거될 예정이라 LG가 패하면서 이 경기가 잠실 고별전이 됐다고 더팩트가 보도했습니다. 마이데일리는 김도영이 준플레이오프 MVP에 올랐다고 전했습니다."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "news",
+          "label": "더팩트 경기 기사",
+          "url": "https://news.tf.co.kr/read/ogmeta/2378679.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "SNS 게시물",
+      "heading": "박신혜는 SNS에 무엇을 올렸나요?",
+      "lead": "\"가을야구 못 참지!!!!\"라는 글과 함께 잠실야구장 사진·영상을 올렸고, 김도영 만루홈런 장면과 베이스를 도는 모습, KIA 응원 두건을 쓴 셀카를 공유했습니다.",
+      "paragraphs": [
+        "이어 \"직관한 나 너무 기특하잖아. 직관 승률 캬\", \"라이브로 듣다니. 자기 전에 생각날 멜로디\", \"왕꿀잼\" 등의 글을 남겼다고 OSEN이 전했습니다. 마이데일리는 박신혜가 테이블석이 아닌 일반 관중석에 앉았다고 보도했습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "OSEN 기사",
+          "url": "https://www.osen.co.kr/article/G1112896061"
+        },
+        {
+          "kind": "news",
+          "label": "마이데일리 기사",
+          "url": "https://www.mydaily.co.kr/page/view/2026102108240112940"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "근황",
+      "heading": "박신혜 출산은 언제였나요?",
+      "lead": "2026년 9월 22일 둘째를 출산했고, 소속사 솔트엔터테인먼트가 산모와 아이 모두 건강하다고 발표했습니다.",
+      "paragraphs": [
+        "박신혜는 2022년 1월 배우 최태준과 결혼했습니다. KIA 타이거즈 팬으로 알려져 있습니다. 이 페이지는 본인 SNS와 보도된 사실만 다루며 자녀 관련 신상은 싣지 않습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "텐아시아 기사",
+          "url": "https://www.tenasia.co.kr/article/2026102152204"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "박신혜는 어느 팀 팬인가요?",
+      "a": "KIA 타이거즈 팬으로 보도됐고, 이번에도 KIA 응원석 차림으로 직관했습니다."
+    },
+    {
+      "q": "직관한 경기 결과는요?",
+      "a": "10월 20일 준플레이오프 3차전에서 KIA가 LG를 13-1로 이겨 플레이오프에 진출했습니다."
+    },
+    {
+      "q": "출산 후 얼마 만의 직관인가요?",
+      "a": "9월 22일 출산 후 약 한 달 만입니다."
+    }
+  ],
+  "related": [],
+  "source": "OSEN·마이데일리·텐아시아·뉴스엔 2026.10.21 보도(박신혜 본인 SNS 게시물 인용) · 경기 결과는 더팩트 10.21 보도",
+  "imageCredit": "",
+  "checkedAt": "2026-10-24",
+  "updatedAt": "2026-10-24T16:00:00+09:00",
+  "quick": []
+}

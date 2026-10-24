@@ -1,0 +1,180 @@
+{
+  "slug": "issue-son-yejin-hyunbin-homemeal",
+  "type": "issue",
+  "category": "연예",
+  "series": "",
+  "seriesSlug": "",
+  "program": "",
+  "kicker": "손예진 · SNS 집밥 게시물",
+  "dateLabel": "2026.10.21 게시",
+  "firstReport": "마이데일리 10.21 20:37",
+  "title": "손예진 현빈 밥상 공개, SNS에 올린 집밥 메뉴와 남긴 글",
+  "name": "손예진, 직접 차린 집밥 사진 공개 \"다 같이 먹을 때가 제일 행복\"",
+  "shortName": "손예진 현빈 밥상",
+  "subtitle": "",
+  "channel": "마이데일리 보도",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-son-yejin-hyunbin-homemeal.jpg",
+  "thumb": "/img/auto/issue-son-yejin-hyunbin-homemeal.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "배우 <b>손예진이 2026년 10월 21일 본인 SNS에 직접 차린 집밥 사진 여러 장을 올렸습니다</b>. 게시글에는 \"정신없이 요리하고 앉아서 다 같이 먹을 때가 제일 행복. 여러분도 건강하고 맛있는 것들 많이 드세요\"라고 적었습니다. 같은 날 저녁 마이데일리가 처음 보도했고, 남편 현빈을 포함한 가족을 위한 밥상이라는 점이 알려지며 '손예진 현빈 밥상'이 화제가 됐습니다.",
+  "ctas": [
+    {
+      "kind": "news",
+      "label": "기사 원문 (마이데일리)",
+      "sub": "10.21 20:37",
+      "url": "https://www.mydaily.co.kr/page/view/2026102119221254090"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (일간스포츠)",
+      "sub": "10.22 00:02",
+      "url": "https://isplus.com/article/view/isp202610220001"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (TV리포트)",
+      "url": "https://tvreport.co.kr/star/article/1084963/"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "마이데일리",
+      "date": "10.21 20:37",
+      "url": "https://www.mydaily.co.kr/page/view/2026102119221254090"
+    },
+    {
+      "media": "TV리포트",
+      "date": "10.21",
+      "url": "https://tvreport.co.kr/star/article/1084963/"
+    },
+    {
+      "media": "일간스포츠",
+      "date": "10.22 00:02",
+      "url": "https://isplus.com/article/view/isp202610220001"
+    },
+    {
+      "media": "뉴시스",
+      "date": "10.22 09:26",
+      "url": "https://www.newsis.com/view/NISX20261022_0003836149"
+    },
+    {
+      "media": "뉴스1",
+      "date": "10.23 08:00",
+      "url": "https://www.news1.kr/entertain/celebrity-topic/6329350"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2022.03",
+      "text": "손예진·현빈 결혼",
+      "source": "뉴시스 10.22",
+      "url": "https://www.newsis.com/view/NISX20261022_0003836149"
+    },
+    {
+      "date": "2026.10.21",
+      "text": "손예진, 본인 SNS에 집밥 사진과 글 게시. 해시태그 '내일은 또 뭐 먹지', '메뉴 고민'",
+      "source": "마이데일리·뉴시스",
+      "url": "https://www.mydaily.co.kr/page/view/2026102119221254090",
+      "hot": true
+    },
+    {
+      "date": "2026.10.21 20:37",
+      "text": "마이데일리 첫 보도, 이후 TV리포트·일간스포츠·뉴시스 등 잇따라 보도",
+      "source": "마이데일리",
+      "url": "https://www.mydaily.co.kr/page/view/2026102119221254090"
+    },
+    {
+      "date": "2026.10.23",
+      "text": "뉴스1 보도로 화제 이어짐",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/entertain/celebrity-topic/6329350"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "게시물 내용",
+      "heading": "손예진은 SNS에 뭐라고 썼나요?",
+      "lead": "\"정신없이 요리하고 앉아서 다 같이 먹을 때가 제일 행복. 여러분도 건강하고 맛있는 것들 많이 드세요\"라고 적었습니다.",
+      "paragraphs": [
+        "해시태그로 '내일은 또 뭐 먹지', '메뉴 고민'을 달았다고 마이데일리와 뉴시스가 전했습니다. 사진은 하루 한 끼가 아니라 여러 차례 차린 밥상을 모은 것이라고 TV리포트가 보도했습니다. 게시일은 마이데일리·일간스포츠·뉴시스·TV리포트 모두 10월 21일로 적었습니다."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "news",
+          "label": "마이데일리 기사",
+          "url": "https://www.mydaily.co.kr/page/view/2026102119221254090"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "메뉴",
+      "heading": "손예진 밥상에는 어떤 메뉴가 있었나요?",
+      "lead": "일간스포츠는 미역국, 소고기뭇국, 계란찜, 오징어볶음, 갈치구이, 각종 반찬, 김밥이 사진에 담겼다고 보도했습니다.",
+      "paragraphs": [
+        "마이데일리는 흑미밥, 고기·생선 요리, 계란찜, 나물과 채소 반찬, 쌈 채소를 곁들인 매콤한 고기볶음, 김밥을 꼽았습니다. 메뉴명은 손예진이 직접 적은 것이 아니라 각 매체가 사진을 보고 설명한 내용입니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "일간스포츠 기사",
+          "url": "https://isplus.com/article/view/isp202610220001"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "근황",
+      "heading": "손예진 현빈 부부 근황은 어떻게 보도됐나요?",
+      "lead": "두 사람은 2022년 3월 결혼했습니다. 일간스포츠는 손예진이 최근 넷플릭스 오리지널 시리즈 '스캔들'에 출연했다고 전했습니다.",
+      "paragraphs": [
+        "TV리포트는 손예진이 과거 JTBC '냉장고를 부탁해'에 출연해 남편이 좋아하는 음식으로 김치찌개와 계란찜을 꼽은 적이 있다고 덧붙였습니다. 이 페이지는 손예진 본인이 공개한 게시물과 보도된 사실만 다루며, 가족의 사생활은 싣지 않습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "TV리포트 기사",
+          "url": "https://tvreport.co.kr/star/article/1084963/"
+        },
+        {
+          "kind": "news",
+          "label": "뉴시스 기사",
+          "url": "https://www.newsis.com/view/NISX20261022_0003836149"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "손예진 밥상 게시물은 언제 올라왔나요?",
+      "a": "2026년 10월 21일 손예진 본인 SNS에 올라왔습니다."
+    },
+    {
+      "q": "현빈이 직접 게시물에 등장하나요?",
+      "a": "보도는 남편 현빈을 포함한 가족을 위해 차린 밥상이라고 전했고, 현빈 본인의 별도 게시물이나 발언은 보도되지 않았습니다."
+    },
+    {
+      "q": "어떤 음식이었나요?",
+      "a": "일간스포츠 보도 기준 미역국, 소고기뭇국, 계란찜, 오징어볶음, 갈치구이, 반찬, 김밥 등입니다."
+    }
+  ],
+  "related": [],
+  "source": "마이데일리·TV리포트 2026.10.21, 일간스포츠·뉴시스 10.22, 뉴스1 10.23 보도 · 게시물 문구는 손예진 본인 SNS 게시물을 인용한 보도 기준",
+  "imageCredit": "",
+  "checkedAt": "2026-10-24",
+  "updatedAt": "2026-10-24T16:00:00+09:00",
+  "quick": []
+}

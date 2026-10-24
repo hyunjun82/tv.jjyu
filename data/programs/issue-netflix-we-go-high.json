@@ -1,0 +1,170 @@
+{
+  "slug": "issue-netflix-we-go-high",
+  "type": "issue",
+  "category": "예능",
+  "series": "",
+  "seriesSlug": "",
+  "program": "위 고 하이",
+  "kicker": "넷플릭스 · 걸그룹 오디션 제작 발표",
+  "dateLabel": "2026.10.21 발표",
+  "firstReport": "한국일보 10.21 11:32",
+  "title": "넷플릭스 위고하이, 예고생 걸그룹 오디션 지원 자격과 데뷔 방식",
+  "name": "넷플릭스, 예술고 학생 대상 걸그룹 오디션 '위 고 하이' 제작, SM C&C와 데뷔 지원",
+  "shortName": "넷플릭스 위고하이",
+  "subtitle": "",
+  "channel": "넷플릭스",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-netflix-we-go-high.jpg",
+  "thumb": "/img/auto/issue-netflix-we-go-high.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "<b>넷플릭스가 2026년 10월 21일 K팝 걸그룹 오디션 '위 고 하이(We Go High)' 제작을 확정하고 참가자 모집을 시작</b>했습니다. 전국 예술·방송 계열 고등학교 학생들이 학교의 명예와 각자의 꿈을 걸고 경쟁하는 형식이며, 몬스테라하우스의 박진경·이재석 PD가 연출합니다. 프로그램으로 결성된 그룹은 종영 뒤 데뷔하고, <b>넷플릭스와 SM C&C가 MOU를 맺어 데뷔와 활동을 지원</b>합니다. 공개 시기는 아직 발표되지 않았습니다.",
+  "ctas": [
+    {
+      "kind": "news",
+      "label": "기사 원문 (한국일보)",
+      "sub": "10.21 11:32",
+      "url": "https://www.hankookilbo.com/news/article/amp/A2026102111230002278"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (한국경제)",
+      "sub": "10.21 11:35",
+      "url": "https://www.hankyung.com/article/202610215641H"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (텐아시아)",
+      "sub": "10.22 14:21",
+      "url": "https://www.tenasia.co.kr/article/2026102286814"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "한국일보",
+      "date": "10.21 11:32",
+      "url": "https://www.hankookilbo.com/news/article/amp/A2026102111230002278"
+    },
+    {
+      "media": "한국경제",
+      "date": "10.21 11:35",
+      "url": "https://www.hankyung.com/article/202610215641H"
+    },
+    {
+      "media": "뉴시스",
+      "date": "10.21",
+      "url": "https://www.newsis.com/view/NISX20261021_0003835683"
+    },
+    {
+      "media": "엑스포츠뉴스",
+      "date": "10.21",
+      "url": "https://www.xportsnews.com/article/2209867"
+    },
+    {
+      "media": "텐아시아",
+      "date": "10.22 14:21",
+      "url": "https://www.tenasia.co.kr/article/2026102286814"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.10.21",
+      "text": "넷플릭스, '위 고 하이' 제작 확정 발표 및 참가자 모집 시작",
+      "source": "한국일보·한국경제",
+      "url": "https://www.hankookilbo.com/news/article/amp/A2026102111230002278",
+      "hot": true
+    },
+    {
+      "date": "2026.10.21",
+      "text": "넷플릭스·SM C&C, 결성 그룹 데뷔·활동 지원 MOU 체결 공개",
+      "source": "한국경제 10.21",
+      "url": "https://www.hankyung.com/article/202610215641H"
+    },
+    {
+      "date": "2026.10.22",
+      "text": "텐아시아 [공식] 보도로 세부 지원 자격·연출진 재확인",
+      "source": "텐아시아",
+      "url": "https://www.tenasia.co.kr/article/2026102286814"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "프로그램",
+      "heading": "넷플릭스 '위 고 하이'는 어떤 프로그램인가요?",
+      "lead": "예술·방송 계열 고등학교 학생들이 K팝 걸그룹 데뷔를 놓고 경쟁하는 넷플릭스 오디션 프로그램입니다. 학교의 명예와 각자의 꿈을 걸고 노래와 춤을 겨루며, 경쟁자가 동료가 되는 과정을 담는다고 발표됐습니다.",
+      "paragraphs": [
+        "연출은 몬스테라하우스의 박진경·이재석 PD가 맡습니다. 넷플릭스를 통해 전 세계에 공개됩니다. 공개일과 회차 수는 발표되지 않았습니다."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "news",
+          "label": "한국일보 기사",
+          "url": "https://www.hankookilbo.com/news/article/amp/A2026102111230002278"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "지원 자격",
+      "heading": "위 고 하이 지원 자격은 어떻게 되나요?",
+      "lead": "예술 또는 방송 계열 전공이 있는 고등학교의 1·2학년 재학생과 2027학년도 입학 예정자가 지원할 수 있습니다.",
+      "paragraphs": [
+        "모집은 10월 21일 시작했고, 세부 지원 방법은 넷플릭스 코리아 공식 SNS 채널에 안내돼 있다고 한국일보·텐아시아가 전했습니다. 모집 마감일은 보도된 기사에 없습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "텐아시아 기사",
+          "url": "https://www.tenasia.co.kr/article/2026102286814"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "데뷔",
+      "heading": "위 고 하이 우승자는 어떻게 데뷔하나요?",
+      "lead": "프로그램으로 결성된 걸그룹은 종영 뒤 데뷔하며, 넷플릭스와 SM C&C가 MOU에 따라 각자 역할에 맞게 그룹의 성장과 활동을 지원합니다.",
+      "paragraphs": [
+        "한국경제는 양사가 글로벌 무대 활동을 목표로 데뷔와 활동을 지원한다고 보도했습니다. 그룹 인원수와 데뷔 시기는 발표되지 않았습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "한국경제 기사",
+          "url": "https://www.hankyung.com/article/202610215641H"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "위 고 하이는 언제 공개되나요?",
+      "a": "공개 시기는 아직 발표되지 않았습니다."
+    },
+    {
+      "q": "누가 지원할 수 있나요?",
+      "a": "예술·방송 계열 고등학교 1·2학년 재학생과 2027학년도 입학 예정자입니다."
+    },
+    {
+      "q": "어느 소속사로 데뷔하나요?",
+      "a": "넷플릭스와 SM C&C가 MOU를 맺고 데뷔·활동을 지원한다고 발표됐습니다. 구체적인 소속 형태는 보도되지 않았습니다."
+    }
+  ],
+  "related": [],
+  "source": "한국일보·한국경제·뉴시스·엑스포츠뉴스 2026.10.21, 텐아시아 10.22 보도 · 발표 주체 넷플릭스",
+  "imageCredit": "",
+  "checkedAt": "2026-10-24",
+  "updatedAt": "2026-10-24T16:00:00+09:00",
+  "quick": []
+}

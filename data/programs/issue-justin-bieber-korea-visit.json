@@ -1,0 +1,186 @@
+{
+  "slug": "issue-justin-bieber-korea-visit",
+  "type": "issue",
+  "category": "연예",
+  "series": "",
+  "seriesSlug": "",
+  "program": "",
+  "kicker": "저스틴 비버 · 13년 만의 방한",
+  "dateLabel": "2026.10.23 입국",
+  "firstReport": "한국경제 10.23 07:36",
+  "title": "저스틴 비버 내한 13년 만에, 공연 아닌 성수동 팝업 방문",
+  "name": "저스틴 비버, 13년 만에 한국 왔다, 공연이 아니라 자기 브랜드 팝업 때문",
+  "shortName": "저스틴 비버 내한",
+  "subtitle": "",
+  "channel": "한국경제 보도",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-justin-bieber-korea-visit.jpg",
+  "thumb": "/img/auto/issue-justin-bieber-korea-visit.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "팝스타 <b>저스틴 비버가 아내 헤일리 비버와 함께 2026년 10월 23일 새벽 인천국제공항으로 입국</b>했습니다. 2013년 첫 내한공연 이후 약 13년 만의 방한입니다. 이번 방한은 <b>공연이 아니라</b> 그가 이끄는 패션·라이프스타일 브랜드 '스카이라크(SKYLRK)'의 국내 첫 팝업스토어(서울 성수동, 10월 22~25일)에 맞춘 것으로 보도됐고, 보도된 기사 어디에도 이번 방한 중 공연 일정은 없습니다. 비버는 본인 SNS에 \"Made it to Seoul\"이라는 문구와 입국 심사·서울 풍경 사진을 올려 방문을 알렸습니다.",
+  "ctas": [
+    {
+      "kind": "news",
+      "label": "기사 원문 (뉴시스)",
+      "sub": "10.23 08:41",
+      "url": "https://www.newsis.com/view/NISX20261023_0003837796"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (한국경제)",
+      "sub": "10.23 07:36",
+      "url": "https://www.hankyung.com/article/202610239942H"
+    },
+    {
+      "kind": "insta",
+      "label": "저스틴 비버 공식 인스타그램",
+      "url": "https://www.instagram.com/justinbieber/"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "한국경제",
+      "date": "10.23 07:36",
+      "url": "https://www.hankyung.com/article/202610239942H"
+    },
+    {
+      "media": "뉴시스",
+      "date": "10.23 08:41",
+      "url": "https://www.newsis.com/view/NISX20261023_0003837796"
+    },
+    {
+      "media": "MHN",
+      "date": "10.23 23:06",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1611361"
+    },
+    {
+      "media": "인사이트",
+      "date": "10.24 09:53",
+      "url": "https://www.insight.co.kr/news/579009"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2013",
+      "text": "첫 내한공연. 이번 방한 전 마지막 한국 방문",
+      "source": "뉴시스 10.23",
+      "url": "https://www.newsis.com/view/NISX20261023_0003837796"
+    },
+    {
+      "date": "2025.07",
+      "text": "브랜드 '스카이라크' 첫 컬렉션 출시 (2025년 4월 '드류하우스'와 결별 후 독자 추진)",
+      "source": "한국경제 10.23",
+      "url": "https://www.hankyung.com/article/202610239942H"
+    },
+    {
+      "date": "2026.10.22",
+      "text": "스카이라크 국내 첫 팝업스토어 서울 성수동에서 개장 (25일까지). 개장 전부터 대기 줄",
+      "source": "뉴시스·한국경제 10.23",
+      "url": "https://www.newsis.com/view/NISX20261023_0003837796"
+    },
+    {
+      "date": "2026.10.23 새벽",
+      "text": "아내 헤일리 비버와 인천국제공항으로 입국. 본인 SNS에 \"Made it to Seoul\" 게시",
+      "source": "한국경제·뉴시스 10.23",
+      "url": "https://www.hankyung.com/article/202610239942H",
+      "hot": true
+    },
+    {
+      "date": "2026.10.23",
+      "text": "본인 SNS에 성수동 팝업 방문·야외 테라스 탁구 장면 게시 (인사이트 보도)",
+      "source": "인사이트 10.24",
+      "url": "https://www.insight.co.kr/news/579009"
+    },
+    {
+      "date": "2026.10.25",
+      "text": "성수동 팝업스토어 운영 종료 예정일",
+      "source": "뉴시스 10.23",
+      "url": "https://www.newsis.com/view/NISX20261023_0003837796"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "공연 여부",
+      "heading": "저스틴 비버 이번 내한, 공연이 있나요?",
+      "lead": "없습니다. 뉴시스·한국경제 보도 모두 이번 방한을 브랜드 '스카이라크' 팝업스토어 개장에 맞춘 방문으로 설명했고, 공연 일정은 언급하지 않았습니다.",
+      "paragraphs": [
+        "기사에 나온 비버의 한국 공연은 2013년 첫 내한공연뿐입니다. 팬과의 공식 만남 행사도 보도된 내용이 없습니다. 비버는 2022년 건강 문제로 월드투어를 중단했고, 2026년 4월 코첼라 밸리 뮤직 앤드 아츠 페스티벌에 헤드라이너로 섰다고 뉴시스가 전했습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "뉴시스 기사",
+          "url": "https://www.newsis.com/view/NISX20261023_0003837796"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "성수동 팝업",
+      "heading": "성수동 스카이라크 팝업은 언제까지 하나요?",
+      "lead": "2026년 10월 22일부터 25일까지 서울 성동구 성수동에서 운영합니다. 스카이라크의 국내 첫 팝업스토어입니다.",
+      "paragraphs": [
+        "개장 전날 새벽부터 방문객이 줄을 섰다고 뉴시스가 보도했습니다. 한국경제에 따르면 스카이라크는 2025년 7월 첫 컬렉션을 낸 브랜드로 의류·신발·선글라스·오디오 제품을 다루며, 도쿄 팝업에서도 긴 대기 줄이 생기고 제품이 매진됐습니다. 정확한 팝업 주소와 운영 시간은 보도된 기사에 없습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "한국경제 기사",
+          "url": "https://www.hankyung.com/article/202610239942H"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "서울 행보",
+      "heading": "저스틴 비버는 서울에서 어디를 갔나요?",
+      "lead": "본인 SNS 게시물 기준으로 입국 사실과 성수동 팝업 방문이 확인됩니다. 인사이트는 비버가 SNS에 팝업 야외 테라스에서 브랜드 관계자들과 탁구를 치는 장면을 올렸다고 전했습니다.",
+      "paragraphs": [
+        "종로구 안국동 삼계탕 전문점 방문은 '서울가이드' 등 제3자 SNS 영상과 온라인 목격담을 근거로 한 보도로, 비버 본인이나 관계자가 확인한 내용은 아닙니다. 소속사 등의 공식 일정 발표는 보도된 기사에 없습니다."
+      ],
+      "actions": [
+        {
+          "kind": "insta",
+          "label": "저스틴 비버 인스타그램",
+          "url": "https://www.instagram.com/justinbieber/"
+        },
+        {
+          "kind": "news",
+          "label": "인사이트 기사",
+          "url": "https://www.insight.co.kr/news/579009"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "저스틴 비버 내한공연이 열리나요?",
+      "a": "보도된 기사에는 이번 방한 중 공연 일정이 없습니다. 브랜드 팝업스토어에 맞춘 방문으로 보도됐습니다."
+    },
+    {
+      "q": "언제 입국했나요?",
+      "a": "2026년 10월 23일 새벽 아내 헤일리 비버와 인천국제공항으로 입국했습니다. 2013년 이후 약 13년 만입니다."
+    },
+    {
+      "q": "팝업스토어는 어디서 언제까지 하나요?",
+      "a": "서울 성동구 성수동에서 10월 22일부터 25일까지 운영합니다."
+    }
+  ],
+  "related": [],
+  "source": "한국경제·뉴시스 2026.10.23, MHN 10.23, 인사이트 10.24 보도 · 입국·팝업 방문은 저스틴 비버 본인 SNS 게시물을 인용한 보도 기준",
+  "imageCredit": "",
+  "checkedAt": "2026-10-24",
+  "updatedAt": "2026-10-24T16:00:00+09:00",
+  "quick": []
+}

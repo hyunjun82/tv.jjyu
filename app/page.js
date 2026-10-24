@@ -20,9 +20,10 @@ export default function Home() {
   const all = getAllPrograms();
   const issues = all.filter((p) => p.type === 'issue');
   const programs = all.filter((p) => p.type !== 'issue');
-  const feat = issues[0] || programs[0];
+  const isAuto = (x) => String(x?.backdrop || '').startsWith('/img/auto/');
+  const feat = issues.find((x) => !isAuto(x)) || programs.find((x) => !isAuto(x)) || issues[0] || programs[0];
   const places = programs.filter((p) => p.type === 'place');
-  const list = [...issues.slice(1), ...programs.filter((p) => p.type !== 'place'), ...places].slice(0, 4);
+  const list = [...issues.filter((x) => x !== feat), ...programs.filter((p) => p.type !== 'place' && p !== feat), ...places].slice(0, 4);
   const variety = programs.filter((p) => p.category === '예능');
   const drama = programs.filter((p) => p.category === '드라마');
   const byDay = DAYS.map((d) => programs.filter((p) => (p.airtime || '').includes(d + '요일')));
