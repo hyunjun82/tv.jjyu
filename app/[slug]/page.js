@@ -13,7 +13,7 @@ export function generateStaticParams() { return getAllPrograms().map((p) => ({ s
 export async function generateMetadata({ params }) {
   const { slug } = await params; const p = getProgram(slug); if (!p) return {};
   const desc = `${p.name} · ${p.channel}${p.airtime ? ' · ' + p.airtime : ''}. ${strip(p.intro).slice(0, 120)}`;
-  return { title: p.title, description: desc, alternates: { canonical: `/${p.slug}/` }, openGraph: { title: p.title, description: desc, type: 'article', images: [p.backdrop] } };
+  return { title: p.title, description: desc, alternates: { canonical: `/${p.slug}/` }, openGraph: { title: p.title, description: desc, type: 'article', images: [p.og || p.backdrop] } };
 }
 
 function CastCard({ c, color }) {
@@ -41,8 +41,8 @@ export default async function ProgramPage({ params }) {
 
   const jsonLd = { '@context': 'https://schema.org', '@graph': [
     isIssue
-      ? { '@type': 'NewsArticle', headline: p.name, datePublished: p.updatedAt, dateModified: p.updatedAt, image: [`${SITE_URL}${p.backdrop}`], author: { '@type': 'Organization', name: 'TVDAY' }, publisher: { '@type': 'Organization', name: 'TVDAY' }, description: strip(p.intro), citation: (p.sources || []).map((x) => x.url) }
-      : { '@type': 'TVSeries', name: p.name, url: `${SITE_URL}/${p.slug}/`, image: `${SITE_URL}${p.backdrop}`, description: strip(p.intro), actor: (p.cast || []).map((c) => ({ '@type': 'Person', name: c.name })) },
+      ? { '@type': 'NewsArticle', headline: p.name, datePublished: p.updatedAt, dateModified: p.updatedAt, image: [`${SITE_URL}${p.og || p.backdrop}`], author: { '@type': 'Organization', name: 'TVDAY' }, publisher: { '@type': 'Organization', name: 'TVDAY' }, description: strip(p.intro), citation: (p.sources || []).map((x) => x.url) }
+      : { '@type': 'TVSeries', name: p.name, url: `${SITE_URL}/${p.slug}/`, image: `${SITE_URL}${p.og || p.backdrop}`, description: strip(p.intro), actor: (p.cast || []).map((c) => ({ '@type': 'Person', name: c.name })) },
     p.faq?.length && { '@type': 'FAQPage', mainEntity: p.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
     { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: '홈', item: `${SITE_URL}/` }, { '@type': 'ListItem', position: 2, name: p.category, item: `${SITE_URL}/#${p.category === '예능' ? 'variety' : 'drama'}` }, { '@type': 'ListItem', position: 3, name: p.shortName || p.name }] },
   ].filter(Boolean) };
