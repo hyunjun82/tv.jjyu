@@ -10,7 +10,8 @@ export const metadata = {
   keywords: ['편성표', '출연진', '몇부작', '다시보기', '재방송', '나는솔로', '드라마 기본정보'],
   openGraph: { type: 'website', locale: 'ko_KR', siteName: SITE_NAME },
   robots: { index: true, follow: true },
-  icons: { icon: [{ url: '/favicon.svg', type: 'image/svg+xml' }, { url: '/favicon-32.png', sizes: '32x32', type: 'image/png' }], apple: [{ url: '/icon-192.png', sizes: '192x192' }] },
+  applicationName: 'TVDAY',
+  icons: { icon: [{ url: '/favicon.ico', sizes: '48x48' }, { url: '/favicon-32.png', sizes: '32x32', type: 'image/png' }, { url: '/icon-96.png', sizes: '96x96', type: 'image/png' }, { url: '/icon-192.png', sizes: '192x192', type: 'image/png' }, { url: '/favicon.svg', type: 'image/svg+xml' }], apple: [{ url: '/apple-touch-icon.png', sizes: '180x180' }] },
   alternates: { types: { 'application/rss+xml': `${SITE_URL}/rss.xml` } },
   manifest: '/site.webmanifest',
 };
