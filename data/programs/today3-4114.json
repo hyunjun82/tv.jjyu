@@ -1,0 +1,186 @@
+{
+  "slug": "today3-4114",
+  "type": "place",
+  "category": "맛집",
+  "series": "생방송 투데이",
+  "seriesSlug": "today3",
+  "program": "today3",
+  "title": "생방송투데이 10월 26일 맛집 오늘 방송 위치 전화번호 총정리",
+  "name": "생방송 투데이 10월 26일 4114회 방송 맛집",
+  "shortName": "10.26 생방송 투데이 맛집",
+  "subtitle": "",
+  "channel": "SBS 생방송 투데이",
+  "airtime": "2026.10.26 (월) 방송 · 4114회",
+  "status": "방송 맛집",
+  "backdrop": "/img/today3-4114.jpg",
+  "thumb": "/img/today3-4114.jpg",
+  "badges": [
+    "4114회 · 10.26",
+    "2곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "SBS 생방송 투데이 4114회"
+    ],
+    [
+      "방송일",
+      "2026.10.26 (월)"
+    ],
+    [
+      "회차 제목",
+      "불타는 닭곱대 / 불타는 닭발·곱창·대창"
+    ],
+    [
+      "소개된 곳",
+      "2곳 (SBS 방송정보 기준)"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.10.26 (월) SBS 생방송 투데이 4114회에 나온 곳은 <b>2곳</b>입니다. <b>야장조개</b>, <b>닭벼슬포차 신촌점</b> 등이며, 상호·주소·연락처는 SBS 공식 「방송정보」 게시판 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "sbs",
+      "label": "4114회 다시보기",
+      "sub": "SBS 공식 · 10.26 방송",
+      "url": "https://programs.sbs.co.kr/culture/today3/vod/54203/22000638772"
+    },
+    {
+      "kind": "link",
+      "label": "SBS 공식 방송정보 원문",
+      "url": "https://programs.sbs.co.kr/culture/today3/board/54208?cmd=view&page=1&board_no=442119"
+    }
+  ],
+  "quick": [
+    {
+      "label": "야장조개",
+      "url": "/today3-4114-1/",
+      "kind": "map"
+    },
+    {
+      "label": "닭벼슬포차 신촌점",
+      "url": "/today3-4114-2/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "10월 26일 생방송 투데이에 나온 맛집은 어디인가요?",
+      "lead": "4114회 「불타는 닭곱대 / 불타는 닭발·곱창·대창」 방송분입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "<a href=\"/today3-4114-1/\">야장조개</a>",
+            "",
+            "경기 시흥시 오이도로 179-1",
+            "0507-1397-0343"
+          ],
+          [
+            "<a href=\"/today3-4114-2/\">닭벼슬포차 신촌점</a>",
+            "",
+            "서울 서대문구 연세로7길 34-6",
+            "0507-1377-8977"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/today3-4114.jpg",
+          "cap": "생방송 투데이 4114회 (SBS 공식 회차 이미지)",
+          "url": "https://programs.sbs.co.kr/culture/today3/vod/54203/22000638772",
+          "kind": "sbs",
+          "label": "4114회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "4114회 다시보기",
+          "url": "https://programs.sbs.co.kr/culture/today3/vod/54203/22000638772"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "10.26 생방송 투데이 코너별로 어떤 곳이 나왔나요?",
+      "lead": "SBS 방송정보 게시글의 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "내용",
+          "상호"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "<a href=\"/today3-4114-1/\">야장조개</a>, <a href=\"/today3-4114-2/\">닭벼슬포차 신촌점</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "생방송 투데이는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "SBS 생방송 투데이는 매주 월~금 오후 6시 방송합니다(SBS 공식 프로그램 정보).",
+      "paragraphs": [
+        "4114회 다시보기는 SBS 공식 사이트에서 볼 수 있습니다. 가게별 위치·전화는 위 표의 상호를 누르면 나옵니다."
+      ],
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "4114회 다시보기",
+          "url": "https://programs.sbs.co.kr/culture/today3/vod/54203/22000638772"
+        },
+        {
+          "kind": "sbs2",
+          "label": "생방송 투데이 다시보기 목록",
+          "url": "https://programs.sbs.co.kr/culture/today3/vods/54203"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "SBS 생방송 투데이는 매주 월~금 오후 6시 방송입니다(SBS 공식 프로그램 정보)."
+    },
+    {
+      "q": "가게 정보 출처는요?",
+      "a": "SBS 생방송 투데이 공식 사이트 「방송정보」 게시판의 2026.10.26 (월)자 게시글입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "today3-4114-1",
+      "name": "야장조개",
+      "desc": "10.26 · "
+    },
+    {
+      "slug": "today3-4114-2",
+      "name": "닭벼슬포차 신촌점",
+      "desc": "10.26 · "
+    }
+  ],
+  "source": "SBS 생방송 투데이 공식 방송정보 게시판(2026.10.26 (월)자) · SBS 공식 다시보기(4114회)",
+  "imageCredit": "SBS 공식 회차 이미지",
+  "checkedAt": "2026-10-26",
+  "updatedAt": "2026-10-26T17:25:53+09:00"
+}
