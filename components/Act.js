@@ -4,6 +4,7 @@ export const KIND = {
   netflix: { cls: 'netflix', btn: 'btn-nf', lg: 'N', bg: 'var(--nf)' },
   sbs: { cls: 'sbs', btn: 'btn-sbs', lg: 'SBS', bg: 'var(--sbs)' },
   sbs2: { cls: 'sbs2', btn: 'btn-sbs2', lg: 'SBS', bg: 'var(--sbs)' },
+  kbs: { cls: 'sbs', btn: 'btn-sbs', lg: 'KBS', bg: 'var(--sbs)' },
   youtube: { cls: 'youtube', btn: 'btn-yt', lg: '▶', bg: 'var(--yt)' },
   insta: { cls: 'insta', btn: 'btn-ig', lg: '◎', bg: 'var(--ig2)' },
   news: { cls: 'news', btn: 'btn-news', lg: '記', bg: 'var(--fg3)' },

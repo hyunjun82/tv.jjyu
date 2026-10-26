@@ -5,3 +5,4 @@ data/trends/raw/
 node_modules/
 out/
 scripts/.naver-profile/
+.collect-made

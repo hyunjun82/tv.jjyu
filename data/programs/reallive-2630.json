@@ -1,0 +1,174 @@
+{
+  "slug": "reallive-2630",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 10월 23일 오늘 방송 2630회 코너 다시보기",
+  "name": "2TV 생생정보 10월 23일 2630회 방송 내용",
+  "shortName": "10.23 생생정보 2630회",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.10.23 (금) 오후 6시 35분 · 2630회",
+  "status": "방송 맛집",
+  "backdrop": "/img/reallive-2630.jpg",
+  "thumb": "/img/reallive-2630.jpg",
+  "badges": [
+    "2630회 · 10.23",
+    "코너 5개"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 2TV 생생정보 2630회"
+    ],
+    [
+      "방송일",
+      "2026.10.23 (금) 오후 6시 35분"
+    ],
+    [
+      "코너",
+      "시골빵집 · 맛집 맞수다 · 해피 벌(고)쓰(고)데이 · 골든타임 히어로 · 나나랜드"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.10.23 (금) KBS 2TV 생생정보 2630회는 「시골빵집」, 「맛집 맞수다」, 「해피 벌(고)쓰(고)데이」, 「골든타임 히어로」, 「나나랜드」 코너로 방송됐습니다. 코너별 내용은 KBS 공식 회차 소개 그대로입니다. 가게 상호·주소는 KBS 공식 회차 정보에 없어 이 페이지에 적지 않았습니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2630회 다시보기",
+      "sub": "KBS 공식 · 10.23 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026191023-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "생생정보 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 생생정보 다시보기 목록",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/list.html?smenu=c2cc5a",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 코너",
+      "heading": "10월 23일 생생정보에는 어떤 코너가 나왔나요?",
+      "lead": "2630회 코너는 모두 5개입니다(KBS 공식 회차 소개).",
+      "table": {
+        "head": [
+          "코너",
+          "내용"
+        ],
+        "rows": [
+          [
+            "시골빵집",
+            "장날에만 볼 수 있는 특별한 샐러드빵"
+          ],
+          [
+            "맛집 맞수다",
+            "뼈대 있는 한판 대결! 김치등갈비찜 vs 고구마줄기감자탕"
+          ],
+          [
+            "해피 벌(고)쓰(고)데이",
+            "서태훈의 경상북도 안동시"
+          ],
+          [
+            "골든타임 히어로",
+            "다리 붕괴! 시민들 구한 영웅들"
+          ],
+          [
+            "나나랜드",
+            "사과밭 부부의 달콤한 인생"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2630.jpg",
+          "cap": "2TV 생생정보 2630회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026191023-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2630회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2630회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026191023-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "음식 코너",
+      "heading": "10.23 생생정보 음식 코너는?",
+      "lead": "코너 제목에 음식이 나온 코너만 모았습니다.",
+      "table": {
+        "head": [
+          "코너",
+          "내용"
+        ],
+        "rows": [
+          [
+            "시골빵집",
+            "장날에만 볼 수 있는 특별한 샐러드빵"
+          ],
+          [
+            "맛집 맞수다",
+            "뼈대 있는 한판 대결! 김치등갈비찜 vs 고구마줄기감자탕"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "생생정보는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송합니다(KBS 공식 회차 편성 시각).",
+      "paragraphs": [
+        "2630회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2630회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026191023-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 생생정보 다시보기 목록",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/list.html?smenu=c2cc5a"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송입니다(KBS 공식 회차 편성 시각)."
+    },
+    {
+      "q": "가게 주소는 어디서 보나요?",
+      "a": "KBS 공식 회차 정보에는 가게 상호·주소가 나오지 않습니다. 정확한 곳은 공식 다시보기 방송 화면에서 확인할 수 있습니다."
+    }
+  ],
+  "related": [],
+  "source": "KBS 2TV 생생정보 공식 회차 데이터(2026.10.23 (금) 2630회: 코너 제목·방송 시각·다시보기·이미지)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-10-26",
+  "updatedAt": "2026-10-26T17:12:08+09:00"
+}
