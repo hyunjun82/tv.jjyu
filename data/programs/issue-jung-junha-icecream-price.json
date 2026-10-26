@@ -1,0 +1,197 @@
+{
+  "slug": "issue-jung-junha-icecream-price",
+  "type": "issue",
+  "category": "연예",
+  "series": "",
+  "seriesSlug": "",
+  "program": "",
+  "kicker": "정준하 · 요거트 아이스크림 가격 논란",
+  "dateLabel": "2026.10.14 논란 · 10.24 해명",
+  "firstReport": "TV리포트 10.14 15:44",
+  "title": "정준하 아이스크림 가격 7500원 논란, 브랜드 헬레니카와 가게",
+  "name": "정준하 아이스크림 한 컵 7500원 논란, 정준하 '가격은 본사가 정한다'",
+  "shortName": "정준하 아이스크림 가격",
+  "subtitle": "",
+  "channel": "TV리포트 보도",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-jung-junha-icecream-price.jpg",
+  "thumb": "/img/auto/issue-jung-junha-icecream-price.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "방송인 정준하가 3년 준비해 국내에 들여온 미국 시애틀 요거트 아이스크림 브랜드 <b>'헬레니카'</b>의 싱글컵 가격 <b>7500원</b>을 두고 10월 14일부터 온라인에서 의견이 갈렸습니다. 매장은 서울 강동구 고덕동에 있고, 용산 아이파크몰에서 10월 28일까지 팝업을 열고 있습니다. 정준하는 10월 24일 MBC '놀면 뭐하니?'에서 가격은 본사가 정한다고 해명했고, 시애틀 본사를 찾아가 논의하겠다고 말했습니다.",
+  "ctas": [
+    {
+      "kind": "news",
+      "label": "가격 논란 기사 (일간스포츠)",
+      "url": "https://isplus.com/article/view/isp202610140208"
+    },
+    {
+      "kind": "news",
+      "label": "놀면 뭐하니 해명 기사 (스포츠월드)",
+      "url": "https://www.sportsworldi.com/newsView/20261025506589"
+    },
+    {
+      "kind": "news",
+      "label": "용산 팝업 현장 기사 (세계일보)",
+      "url": "https://www.segye.com/newsView/20261015523507"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "TV리포트",
+      "date": "10.14 15:44",
+      "url": "https://tvreport.co.kr/entertainment/article/1083004/"
+    },
+    {
+      "media": "위키트리",
+      "date": "10.14 16:43",
+      "url": "https://www.wikitree.co.kr/articles/1166220"
+    },
+    {
+      "media": "일간스포츠",
+      "date": "10.14 16:47",
+      "url": "https://isplus.com/article/view/isp202610140208"
+    },
+    {
+      "media": "세계일보",
+      "date": "10.16 06:00",
+      "url": "https://www.segye.com/newsView/20261015523507"
+    },
+    {
+      "media": "MK스포츠",
+      "date": "10.25 01:06",
+      "url": "https://www.mksports.co.kr/news/entertain/12184904"
+    },
+    {
+      "media": "스포츠월드",
+      "date": "10.25 13:30",
+      "url": "https://www.sportsworldi.com/newsView/20261025506589"
+    },
+    {
+      "media": "파이낸셜포스트",
+      "date": "10.26 13:45",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=282488"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.09",
+      "text": "유튜브 채널 '정준하하하'에 요거트 브랜드 매장 오픈 영상 공개",
+      "source": "TV리포트 10.14",
+      "url": "https://tvreport.co.kr/entertainment/article/1083004/"
+    },
+    {
+      "date": "2026.09.29",
+      "text": "서울 용산 아이파크몰 용산점 3층에 팝업스토어 개장(10.28까지)",
+      "source": "세계일보 10.16",
+      "url": "https://www.segye.com/newsView/20261015523507"
+    },
+    {
+      "date": "2026.10.14",
+      "text": "'한 컵 7500원' 방문 후기가 온라인에 올라오며 가격 갑론을박",
+      "source": "TV리포트·일간스포츠 10.14",
+      "url": "https://isplus.com/article/view/isp202610140208",
+      "hot": true
+    },
+    {
+      "date": "2026.10.24",
+      "text": "MBC '놀면 뭐하니?' 출연, '가격은 본사가 정한다'는 설명과 시애틀 본사 방문 계획 언급",
+      "source": "스포츠월드 10.25",
+      "url": "https://www.sportsworldi.com/newsView/20261025506589",
+      "hot": true
+    },
+    {
+      "date": "2026.10.28",
+      "text": "용산 팝업스토어 운영 종료 예정일",
+      "source": "세계일보 10.16",
+      "url": "https://www.segye.com/newsView/20261015523507"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "가격",
+      "heading": "정준하 아이스크림 가격은 얼마인가요?",
+      "lead": "싱글컵 7500원, 미디움컵 9800원입니다. 맛을 하나 추가하면 1000원이 더 붙습니다(TV리포트·세계일보). 스포츠월드는 라지컵을 1만 4500원으로 전했습니다.",
+      "paragraphs": [
+        "가격이 알려진 계기는 10월 14일 온라인에 올라온 방문 후기입니다. 작성자는 용산에서 정준하가 직접 아이스크림을 팔고 있었지만 한 컵 7500원이라 옆 가게 푸딩을 샀다고 적었습니다.",
+        "온라인 반응은 '밥 한 끼 가격'이라는 비판과, 젤라토류는 원래 그 정도 가격이고 미국 현지 싱글 가격(6.95달러, 약 9200~9300원)보다 오히려 싸다는 반박으로 나뉘었습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "TV리포트 기사",
+          "url": "https://tvreport.co.kr/entertainment/article/1083004/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "브랜드·가게",
+      "heading": "정준하 아이스크림 브랜드와 가게는 어디인가요?",
+      "lead": "브랜드는 미국 시애틀에 본점이 있는 요거트 아이스크림 '헬레니카'입니다. 국내 매장은 서울 강동구 고덕동에 있습니다(위키트리·세계일보).",
+      "paragraphs": [
+        "정준하는 3년 전 시애틀에서 처음 먹고 반해 약 3년 준비 끝에 국내에 들여왔다고 밝혔습니다. 그는 유튜브 영상에서 '아이스크림이 아니라 몸에 좋은 요거트를 아이스크림처럼 먹는 것'이라며 '이제 마지막이다, 더 이상 브랜드는 오픈 안 할 것'이라고 말했습니다.",
+        "강동 본점과 별도로 9월 29일부터 10월 28일까지 서울 용산구 아이파크몰 용산점 3층 '도파민 스테이션'에서 팝업스토어를 운영합니다. 세계일보는 10월 15일 오후 정준하가 팝업 현장에서 직접 손님을 맞았다고 전했습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "세계일보 팝업 현장 기사",
+          "url": "https://www.segye.com/newsView/20261015523507"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "정준하 입장",
+      "heading": "정준하는 아이스크림 가격 논란에 뭐라고 했나요?",
+      "lead": "10월 24일 방송된 MBC '놀면 뭐하니?'에서 '가만히 있으면 넘어갈 걸 왜 논란을 키우냐'며 억울함을 내비쳤고, 방송이 나갈 때쯤 시애틀 본사에 가서 가격 문제를 잘 얘기하고 오겠다고 말했습니다.",
+      "paragraphs": [
+        "같은 방송에서 유재석은 '이야기를 들어보니 가격을 본사에서 정한다고 하더라, 정준하도 억울하고 답답해한다'고 전했습니다(파이낸셜포스트·MK스포츠).",
+        "헬레니카 본사나 국내 운영사가 따로 낸 공식 입장, 가격 조정 여부는 확인된 보도가 없습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "스포츠월드 기사",
+          "url": "https://www.sportsworldi.com/newsView/20261025506589"
+        },
+        {
+          "kind": "news",
+          "label": "MK스포츠 기사",
+          "url": "https://www.mksports.co.kr/news/entertain/12184904"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "정준하 아이스크림 가게는 어디에 있나요?",
+      "a": "본 매장은 서울 강동구 고덕동에 있고, 10월 28일까지 서울 용산 아이파크몰 용산점 3층에서 팝업스토어를 운영합니다."
+    },
+    {
+      "q": "가격은 누가 정했나요?",
+      "a": "10월 24일 '놀면 뭐하니?'에서 유재석과 정준하는 미국 본사가 가격을 정한다고 설명했습니다. 본사 측 공식 입장은 보도되지 않았습니다."
+    },
+    {
+      "q": "가격이 바뀌나요?",
+      "a": "정준하가 시애틀 본사와 논의하겠다고 말했지만, 가격 변경은 아직 발표되지 않았습니다."
+    }
+  ],
+  "related": [],
+  "source": "TV리포트·위키트리·일간스포츠 2026.10.14 · 세계일보 10.16 · MK스포츠·스포츠월드 10.25 · 파이낸셜포스트 10.26 보도",
+  "imageCredit": "",
+  "checkedAt": "2026-10-26",
+  "updatedAt": "2026-10-26T16:00:00+09:00",
+  "quick": []
+}

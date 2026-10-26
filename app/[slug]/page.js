@@ -77,7 +77,7 @@ export default async function ProgramPage({ params }) {
           <div className="eps">{p.episodes.map((e) => (
             <div key={e.no} className={`ep ${e.soon ? 'soon' : ''}`}>
               <div className="th">{e.thumb ? <><img src={e.thumb} alt={e.no} loading="lazy" /><span>{e.no}</span></> : e.no}</div>
-              <div className="in"><div className="d num">{kdate(e.date)} · {e.sub}</div><div className="t">{e.title}</div><div className="s">{e.desc}</div></div>
+              <div className="in"><div className="d num">{e.date ? `${kdate(e.date)} · ${e.sub}` : e.sub}</div><div className="t">{e.title}</div><div className="s">{e.desc}</div></div>
               <div className="ac">{e.links.map((l) => <Act key={l.label} a={l} />)}</div>
             </div>))}</div>
         )}

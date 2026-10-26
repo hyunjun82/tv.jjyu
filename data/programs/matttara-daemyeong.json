@@ -1,0 +1,335 @@
+{
+  "slug": "matttara-daemyeong",
+  "type": "variety-season",
+  "category": "예능",
+  "series": "",
+  "seriesSlug": "",
+  "title": "맛따라 길따라 대명이따라 촬영지·PD, 공명 출연과 재방송",
+  "name": "맛따라 길따라 대명이따라",
+  "shortName": "맛따라 길따라 대명이따라",
+  "subtitle": "tvN 예능 · 2026.10.23 첫 방송 · 매주 금요일 밤 8:35",
+  "channel": "tvN",
+  "airtime": "매주 금요일 저녁 8:35",
+  "status": "방영 중",
+  "backdrop": "/img/matttara-daemyeong-ep2-preview.jpg",
+  "thumb": "/img/matttara-daemyeong-c1.jpg",
+  "badges": [
+    "tvN 금요 예능",
+    "김대명·박지환·공명",
+    "해파랑길 '해파랑 상회'",
+    "티빙 다시보기"
+  ],
+  "facts": [
+    [
+      "편성",
+      "tvN 금요일 저녁 8시 35분"
+    ],
+    [
+      "첫 방송",
+      "2026.10.23 (금)"
+    ],
+    [
+      "출연",
+      "김대명 · 박지환 · 공명"
+    ],
+    [
+      "방송 회차",
+      "1화까지 (10.23) · 2화 10.30"
+    ],
+    [
+      "크리에이터",
+      "나영석 · 변수민 (티빙 표기)"
+    ],
+    [
+      "다시보기",
+      "티빙"
+    ]
+  ],
+  "next": {
+    "date": "2026-10-30",
+    "label": "금요일 밤 8:35",
+    "detail": "2화 · tvN (공식 2회 미리보기)"
+  },
+  "intro": "tvN 예능 <b>〈맛따라 길따라 대명이따라〉</b>는 맛집을 찾아 전국을 누비던 김대명이 박지환·공명과 함께 해파랑길을 걷는 트레커를 위한 식당 <b>'해파랑 상회'</b>를 운영하는 프로그램입니다(tvN 공식 소개). 2026년 10월 23일 첫 방송했고 매주 금요일 저녁 8시 35분 방송됩니다. 티빙 작품 정보의 크리에이터는 <b>나영석·변수민</b>이며, 공명은 '한 장 담당' 막내로 고정 출연합니다. 2화는 10월 30일입니다.",
+  "ctas": [
+    {
+      "kind": "tving",
+      "label": "1화 다시보기",
+      "url": "https://www.tving.com/contents/E004644174",
+      "sub": "티빙 · tvN 공식 연결"
+    },
+    {
+      "kind": "link",
+      "label": "tvN 공식 홈페이지",
+      "url": "https://tvn.cjenm.com/ko/foodtraildaemyeung/"
+    },
+    {
+      "kind": "tving",
+      "label": "티빙 작품 페이지",
+      "url": "https://www.tving.com/contents/P001792810"
+    }
+  ],
+  "quick": [
+    {
+      "label": "tvN 공식 홈페이지",
+      "url": "https://tvn.cjenm.com/ko/foodtraildaemyeung/",
+      "kind": "link"
+    },
+    {
+      "label": "티빙 1화",
+      "url": "https://www.tving.com/contents/E004644174",
+      "kind": "tving"
+    }
+  ],
+  "links": [],
+  "ott": [
+    {
+      "kind": "tving",
+      "name": "티빙",
+      "status": "tvN 공식 다시보기 (1화 등재)",
+      "url": "https://www.tving.com/contents/P001792810"
+    },
+    {
+      "kind": "tv",
+      "name": "본방송",
+      "status": "금 20:35 · tvN",
+      "url": "https://tvn.cjenm.com/ko/foodtraildaemyeung/"
+    }
+  ],
+  "ottNote": "tvN 공식 홈페이지의 다시보기는 티빙으로 연결됩니다. 넷플릭스·웨이브 등 다른 OTT 공개는 확인되지 않았습니다.",
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "프로그램 소개",
+      "heading": "맛따라 길따라 대명이따라는 어떤 프로그램이고 몇부작인가요?",
+      "lead": "부산에서 강원도 고성까지 동해안을 따라 약 750km를 걷는 해파랑길에 트레커를 위한 '해파랑 상회'를 열고 손님을 맞는 예능입니다(tvN 공식 소개). 몇부작인지는 공식 발표가 확인되지 않았습니다.",
+      "paragraphs": [
+        "tvN 공식 소개에 따르면 김대명은 허기진 배를 채워주는 '한 끼 담당' 사장님, 박지환은 커피를 내려주는 '한 잔 담당' 바리스타, 공명은 추억 사진을 남겨주는 '한 장 담당' 막내입니다. 김대명은 앞서 웹예능 '맛따라 멋따라 대명이따라'에서 전국의 음식점을 찾아다녔고, 이번에는 직접 음식을 만드는 사장으로 나섭니다(텐아시아 10.7).",
+        "1화 시청률은 보도에서 확인하지 못해 적지 않았습니다. 전작은 같은 시간대의 '우주떡집'이었습니다(톱스타뉴스)."
+      ],
+      "images": [
+        {
+          "src": "/img/matttara-daemyeong-menu.jpg",
+          "cap": "해파랑 상회의 시그니처 메뉴 갓물국수·열무비빔국수·생레몬 에이드 · tvN 공식 클립",
+          "url": "https://tvn.cjenm.com/ko/foodtraildaemyeung/",
+          "kind": "link",
+          "label": "tvN 공식 클립"
+        }
+      ],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "tvN 공식 홈페이지",
+          "url": "https://tvn.cjenm.com/ko/foodtraildaemyeung/"
+        },
+        {
+          "kind": "tving",
+          "label": "티빙 1화",
+          "url": "https://www.tving.com/contents/E004644174"
+        }
+      ]
+    },
+    {
+      "id": "sec-place",
+      "tab": "촬영지",
+      "heading": "맛따라 길따라 대명이따라 촬영지(위치)는 어디인가요?",
+      "lead": "tvN 공식 소개가 밝힌 장소는 동해안 트레킹 코스 '해파랑길'(부산~강원 고성, 약 750km) 위의 '해파랑 상회'입니다. 상회의 정확한 주소는 공식적으로 공개되지 않았습니다.",
+      "paragraphs": [
+        "1화 방송을 다룬 보도에 따르면 김대명과 박지환은 개업 전날 경상북도 울진에서 3시간 트레킹 끝에 해파랑 상회에 도착했고(TV리포트 10.23), 해파랑길 24코스 시작점에서 트레킹에 나섰습니다(MHN 10.23). 이 페이지는 공식 소개와 방송 보도에 나온 지역·코스까지만 적고 상회의 구체적인 위치는 적지 않습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "TV리포트 10.23",
+          "url": "https://tvreport.co.kr/broadcast/article/1085511/"
+        },
+        {
+          "kind": "news",
+          "label": "MHN 10.23",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1611292"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "출연진·PD",
+      "heading": "맛따라 길따라 대명이따라 PD는 누구이고 공명도 나오나요?",
+      "lead": "티빙 작품 정보의 크리에이터는 나영석·변수민이고, 제작은 에그이즈커밍입니다(텐아시아 10.8). 공명은 tvN 공식 출연진 3인 중 한 명으로 '한 장 담당' 막내입니다.",
+      "paragraphs": [
+        "1화에서 나영석 PD는 '아무래도 이름을 걸고 하니까 터지느냐 은퇴하느냐'라고 농담했고, 김대명은 '여기에 연기 인생이 걸려 있나요?'라고 되물었습니다(MHN 10.23). 1화 방송 보도는 개업 준비와 첫 영업을 김대명·박지환 중심으로 전했고, tvN 공식 출연자 소개는 공명을 '대명X공명 명 브라더스'이자 지환의 애제자 '바리스타 명'으로 소개합니다.",
+        "아래 카드의 소개와 사진은 tvN 공식 홈페이지 출연자 소개입니다."
+      ],
+      "castList": true,
+      "actions": [
+        {
+          "kind": "link",
+          "label": "tvN 공식 출연자 소개",
+          "url": "https://tvn.cjenm.com/ko/foodtraildaemyeung/"
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "회차·재방송",
+      "heading": "맛따라 길따라 대명이따라 재방송과 다시보기는?",
+      "lead": "다시보기는 티빙에서 볼 수 있습니다. tvN 공식 편성표(10월 26일 확인)에 1화 재방송이 10월 26일(월) 낮 12시 30분, 27일(화) 오후 4시 20분에 잡혀 있습니다. 편성은 바뀔 수 있습니다.",
+      "table": {
+        "head": [
+          "날짜",
+          "시간",
+          "회차"
+        ],
+        "rows": [
+          [
+            "10.25 (일)",
+            "12:10",
+            "1화 재방송"
+          ],
+          [
+            "10.26 (월)",
+            "12:30",
+            "1화 재방송"
+          ],
+          [
+            "10.27 (화)",
+            "16:20",
+            "1화 재방송"
+          ],
+          [
+            "10.30 (금)",
+            "20:35",
+            "2화 본방송"
+          ]
+        ]
+      },
+      "after": [
+        "출처: tvN 공식 홈페이지 편성 데이터·공식 2회 미리보기."
+      ],
+      "ott": true,
+      "episodes": true
+    }
+  ],
+  "cast": [
+    {
+      "group": "main",
+      "name": "김대명",
+      "sub": "'한 끼 담당' 사장님",
+      "initial": "김",
+      "img": "/img/matttara-daemyeong-c1.jpg",
+      "job": "'맛따라' 전국을 누비던 맛집 수집가에서 '길따라' 맛집 사장님으로 데뷔.",
+      "family": "해파랑 상회",
+      "actions": [
+        {
+          "kind": "link",
+          "label": "tvN 출연자 소개",
+          "url": "https://tvn.cjenm.com/ko/foodtraildaemyeung/"
+        }
+      ]
+    },
+    {
+      "group": "main",
+      "name": "박지환",
+      "sub": "'한 잔 담당' 바리스타",
+      "initial": "박",
+      "img": "/img/matttara-daemyeong-c2.jpg",
+      "job": "친구 대명 따라 해파랑길까지 왔다! 커피 향과 함께 등장한 '바리스타 박'.",
+      "family": "해파랑 상회",
+      "actions": [
+        {
+          "kind": "link",
+          "label": "tvN 출연자 소개",
+          "url": "https://tvn.cjenm.com/ko/foodtraildaemyeung/"
+        }
+      ]
+    },
+    {
+      "group": "main",
+      "name": "공명",
+      "sub": "'한 장 담당' 막내",
+      "initial": "공",
+      "img": "/img/matttara-daemyeong-c3.jpg",
+      "job": "홀 번쩍! 주방 번쩍! 필요한 곳이면 어디든 출동하는 막내. 대명X공명 '명 브라더스'.",
+      "family": "해파랑 상회",
+      "actions": [
+        {
+          "kind": "link",
+          "label": "tvN 출연자 소개",
+          "url": "https://tvn.cjenm.com/ko/foodtraildaemyeung/"
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "no": "1화",
+      "sub": "금요일 방송",
+      "date": "2026-10-23",
+      "title": "해파랑길 위 '해파랑 상회' OPEN, 영업 D-1 트레킹과 갓물국수",
+      "desc": "'해파랑길'에 트레커를 위한 '해파랑 상회' OPEN. 영업 D-1 직접 트레킹에 나선 대명X지환, 살얼음 동동 '갓물국수'와 새콤달콤 '열무비빔국수' 준비 (tvN 공식 1회 미리보기).",
+      "thumb": "",
+      "soon": false,
+      "links": [
+        {
+          "kind": "tving",
+          "label": "티빙 1화",
+          "url": "https://www.tving.com/contents/E004644174"
+        }
+      ]
+    },
+    {
+      "no": "2화",
+      "sub": "금요일 방송",
+      "date": "2026-10-30",
+      "title": "방송 예정",
+      "desc": "'해파랑 상회' 본격 영업. 7세 최연소 트레커와 9,000km 넘게 걸어온 최장 거리 트레커 방문, 청어알비빔밥·막창순대·똠얌라면 공개, 영업 2일 차 예상치 못한 오픈런 (tvN 공식 2회 미리보기).",
+      "thumb": "/img/matttara-daemyeong-ep2-preview.jpg",
+      "soon": true,
+      "links": [
+        {
+          "kind": "link",
+          "label": "tvN 공식 홈페이지",
+          "url": "https://tvn.cjenm.com/ko/foodtraildaemyeung/"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "맛따라 길따라 대명이따라 촬영지는 어디인가요?",
+      "a": "tvN 공식 소개 기준 동해안 해파랑길(부산~강원 고성) 위의 '해파랑 상회'입니다. 1화 보도에는 경북 울진·해파랑길 24코스가 나왔고, 상회의 정확한 주소는 공개되지 않았습니다."
+    },
+    {
+      "q": "맛따라 길따라 대명이따라 PD는 누구인가요?",
+      "a": "티빙 작품 정보에 크리에이터 나영석·변수민으로 표기돼 있습니다. 제작사는 에그이즈커밍입니다(텐아시아 10.8)."
+    },
+    {
+      "q": "공명도 출연하나요?",
+      "a": "네. tvN 공식 출연진은 김대명·박지환·공명 3명이고, 공명은 '한 장 담당' 막내입니다."
+    },
+    {
+      "q": "재방송·OTT는 어디서 보나요?",
+      "a": "다시보기는 티빙입니다. tvN 편성표상 1화 재방송은 10.26(월) 12:30, 10.27(화) 16:20입니다(10.26 확인)."
+    },
+    {
+      "q": "몇부작인가요? 시청률은?",
+      "a": "몇부작인지와 1화 시청률은 공식 발표·보도에서 확인하지 못했습니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "100-days-of-lies",
+      "name": "100일의 거짓말",
+      "desc": "tvN 토일드라마"
+    },
+    {
+      "slug": "nahonsan-670",
+      "name": "나 혼자 산다 670회",
+      "desc": "MBC 예능"
+    }
+  ],
+  "snsNote": "출연자 개인 SNS는 싣지 않았습니다.",
+  "source": "tvN 공식 홈페이지(프로그램 소개·출연자 소개·1·2회 미리보기·공식 클립 이미지·편성 데이터) · 티빙 작품 페이지(P001792810: 크리에이터·출연·1화) · 보도: TV리포트 10.7·10.13·10.23, 텐아시아 10.7·10.8·10.23, 톱스타뉴스·MHN 10.23",
+  "imageCredit": "이미지는 tvN 공식 홈페이지의 출연자 사진과 공식 클립 썸네일입니다.",
+  "checkedAt": "2026-10-26",
+  "updatedAt": "2026-10-26T16:00:00+09:00"
+}

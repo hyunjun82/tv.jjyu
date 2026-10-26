@@ -1,0 +1,179 @@
+{
+  "slug": "issue-yoon-mira-75",
+  "type": "issue",
+  "category": "예능",
+  "series": "미운 우리 새끼",
+  "seriesSlug": "",
+  "program": "",
+  "kicker": "미운 우리 새끼 516회 · 10.25 방송",
+  "dateLabel": "2026.10.25 방송",
+  "firstReport": "TV리포트 10.20 09:00",
+  "title": "윤미라 75세 미우새 첫 출연, 옷방 3개 싱글 일상 방송 내용",
+  "name": "75세 배우 윤미라, 데뷔 58년 만에 첫 관찰 예능 '미우새'로 일상 공개",
+  "shortName": "윤미라 75세 미우새",
+  "subtitle": "",
+  "channel": "SBS",
+  "airtime": "일 밤 9:00",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-yoon-mira-75.jpg",
+  "thumb": "/img/auto/issue-yoon-mira-75.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "배우 <b>윤미라</b>가 2026년 10월 25일 방송된 SBS <b>'미운 우리 새끼' 516회</b>에 새 멤버로 출연해 일상을 공개했습니다. 1969년 영화 '사랑하고 있어요'로 데뷔한 뒤 처음 하는 관찰 예능입니다. 방송에서는 호텔 조식과 쇼핑, '서방은 없어도 옷방은 3개'라는 드레스룸, 결혼에 대한 생각이 소개됐습니다.",
+  "ctas": [
+    {
+      "kind": "sbs",
+      "label": "516회 윤미라 선공개 영상",
+      "sub": "SBS 공식 클립",
+      "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC482612245"
+    },
+    {
+      "kind": "news",
+      "label": "방송 예고 기사 (서울경제)",
+      "url": "https://m.sedaily.com/article/20105245"
+    },
+    {
+      "kind": "news",
+      "label": "방송 후 기사 (TV리포트)",
+      "url": "https://tvreport.co.kr/entertainment/article/1085897/"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "인사이트",
+      "date": "10.19 16:47",
+      "url": "https://www.insight.co.kr/news/578282"
+    },
+    {
+      "media": "TV리포트",
+      "date": "10.20 09:00",
+      "url": "https://tvreport.co.kr/entertainment/article/1084415/"
+    },
+    {
+      "media": "서울경제",
+      "date": "10.23 10:59",
+      "url": "https://m.sedaily.com/article/20105245"
+    },
+    {
+      "media": "머니투데이",
+      "date": "10.25 16:30",
+      "url": "https://www.mt.co.kr/entertainment/2026/10/25/2026102516307243756"
+    },
+    {
+      "media": "TV리포트",
+      "date": "10.26 11:12",
+      "url": "https://tvreport.co.kr/entertainment/article/1085897/"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1969",
+      "text": "영화 '사랑하고 있어요'로 데뷔",
+      "source": "서울경제 10.23",
+      "url": "https://m.sedaily.com/article/20105245"
+    },
+    {
+      "date": "2026.10.18",
+      "text": "미우새 방송 말미에 윤미라 합류 예고 영상 공개",
+      "source": "인사이트 10.19",
+      "url": "https://www.insight.co.kr/news/578282"
+    },
+    {
+      "date": "2026.10.25",
+      "text": "미운 우리 새끼 516회, 윤미라 첫 일상 공개",
+      "source": "SBS · 머니투데이",
+      "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC482612245",
+      "hot": true,
+      "btn": {
+        "label": "선공개 영상",
+        "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC482612245",
+        "kind": "sbs"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "출연 방송",
+      "heading": "윤미라 75세 일상은 어느 방송에 나왔나요?",
+      "lead": "SBS '미운 우리 새끼'입니다. 2026년 10월 25일 일요일 밤 9시 방송된 516회에 새 멤버로 합류했습니다(SBS 공식 클립 안내).",
+      "paragraphs": [
+        "앞서 10월 18일 방송 말미에 합류 예고 영상이 나갔습니다. 서울경제는 윤미라가 데뷔 58년 만에 관찰 예능에 처음 출연한다고 전했고, 지난해 유튜브 채널을 열어 일상을 공개해 왔다고 덧붙였습니다.",
+        "같은 회차에는 가수 KCM과 김범수의 만남도 방송됐습니다(머니투데이)."
+      ],
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "SBS 선공개 영상",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC482612245"
+        },
+        {
+          "kind": "link",
+          "label": "미우새 공식 홈페이지",
+          "url": "https://programs.sbs.co.kr/enter/woori/main"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "방송 내용",
+      "heading": "미우새에서 윤미라는 어떤 일상을 보여줬나요?",
+      "lead": "호텔 회원권으로 지인과 조식을 먹고 단골 편집숍에서 쇼핑하는 하루가 방송됐습니다. 스페셜 MC 조혜련은 '지금까지 나온 미우새들과 너무 다르다'고 말했습니다(서울경제·머니투데이).",
+      "paragraphs": [
+        "윤미라는 물 세안 뒤 로션과 립밤만 바르는 피부 관리법을 소개했고, 옷방 3개를 공개하며 '서방만 없지 옷방은 3개나 된다'고 말했습니다(TV리포트·인사이트).",
+        "여동생과의 식사 자리에서는 '나도 결혼을 포기하진 않는다, 앞으로 짝이 있겠지'라고 말했고, 이상형으로 '4살 연상까지'를 꼽았다가 4살 연상이 79세라는 말에 '오히려 4살 연하'로 바꿔 웃음을 줬습니다(TV리포트 10.26)."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "TV리포트 방송 후 기사",
+          "url": "https://tvreport.co.kr/entertainment/article/1085897/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "배우 윤미라",
+      "heading": "배우 윤미라는 어떤 작품에 출연했나요?",
+      "lead": "1969년 영화 '사랑하고 있어요'로 데뷔했고, 드라마 '서울의 달', '정 때문에', '솔약국집 아들들' 등에 출연했습니다(TV리포트).",
+      "paragraphs": [
+        "대종상 영화제 신인상과 여우주연상, 백상예술대상 여자 최우수 연기상, MBC·KBS 연기대상 최우수 연기상을 받았다고 TV리포트가 전했습니다. 영화 '처녀뱃사공', '고가'와 드라마 '소문난 칠공주', '아내의 유혹'에도 출연했습니다."
+      ],
+      "actions": [],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "윤미라가 나온 방송은 무엇인가요?",
+      "a": "SBS '미운 우리 새끼' 516회(2026년 10월 25일 방송)입니다."
+    },
+    {
+      "q": "윤미라는 몇 년생인가요?",
+      "a": "TV리포트 보도 기준 1951년생이며, 방송에서는 75세로 소개됐습니다."
+    },
+    {
+      "q": "미우새에 계속 나오나요?",
+      "a": "새 멤버로 합류했다고 보도됐습니다. 다음 출연 회차는 공식 발표를 확인해야 합니다."
+    }
+  ],
+  "related": [],
+  "source": "SBS 미운 우리 새끼 공식 클립(516회 본방송 10월 25일 안내) · 인사이트 10.19 · TV리포트 10.20·10.26 · 서울경제 10.23 · 머니투데이 10.25 보도",
+  "imageCredit": "",
+  "checkedAt": "2026-10-26",
+  "updatedAt": "2026-10-26T16:00:00+09:00",
+  "quick": [
+    {
+      "label": "미우새 공식 홈페이지",
+      "url": "https://programs.sbs.co.kr/enter/woori/main",
+      "kind": "sbs"
+    }
+  ]
+}

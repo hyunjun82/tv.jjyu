@@ -1,0 +1,208 @@
+{
+  "slug": "issue-sbs-unanswered-1509",
+  "type": "issue",
+  "category": "사회",
+  "series": "그것이 알고 싶다",
+  "seriesSlug": "",
+  "program": "",
+  "kicker": "그것이 알고 싶다 1509회 · 10.24 방송",
+  "dateLabel": "2026.10.24 방송",
+  "firstReport": "톱스타뉴스 10.23 09:28",
+  "title": "그것이 알고싶다 1509회 강서 고문 살인사건, 방송 내용과 다시보기",
+  "name": "그알 1509회, 강서 반지하 사망 사건 속 '국가 프로젝트' 문건을 추적했다",
+  "shortName": "그것이 알고싶다 1509회",
+  "subtitle": "",
+  "channel": "SBS",
+  "airtime": "토 밤 11:10",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-sbs-unanswered-1509.jpg",
+  "thumb": "/img/auto/issue-sbs-unanswered-1509.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "SBS '그것이 알고 싶다' <b>1509회 '국프와 514번의 처벌 - 강서 고문 살인사건의 진실'</b> 편이 2026년 10월 24일 토요일 밤 11시 10분 방송됐습니다. 방송은 지난 6월 서울 강서구의 한 반지하방에서 28세 여성이 동거하던 남자친구의 폭행으로 숨진 사건을 다뤘습니다. 제작진은 피해자 휴대전화에서 나온 '국가 프로젝트(국프)' 문건이 피해자를 통제하고 처벌하는 명분으로 쓰였는지 추적했습니다.",
+  "ctas": [
+    {
+      "kind": "sbs",
+      "label": "1509회 SBS 다시보기",
+      "sub": "SBS 공식 · 10.24 방송",
+      "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000638667"
+    },
+    {
+      "kind": "sbs2",
+      "label": "1509회 공식 예고 영상",
+      "url": "https://programs.sbs.co.kr/culture/unansweredquestions/clip/55073/22000638666"
+    },
+    {
+      "kind": "news",
+      "label": "방송 후 기사 (머니투데이)",
+      "url": "https://www.mt.co.kr/society/2026/10/25/2026102510442184883"
+    },
+    {
+      "kind": "news",
+      "label": "방송 후 기사 (파이낸셜뉴스)",
+      "url": "https://www.fnnews.com/news/202610251507306850"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "톱스타뉴스",
+      "date": "10.23 09:28",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16255680"
+    },
+    {
+      "media": "마이데일리",
+      "date": "10.23",
+      "url": "https://www.mydaily.co.kr/page/view/2026102308234732684"
+    },
+    {
+      "media": "머니투데이",
+      "date": "10.24 18:00",
+      "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102418007219047"
+    },
+    {
+      "media": "머니투데이",
+      "date": "10.25 11:00",
+      "url": "https://www.mt.co.kr/society/2026/10/25/2026102510442184883"
+    },
+    {
+      "media": "파이낸셜뉴스",
+      "date": "10.26 04:00",
+      "url": "https://www.fnnews.com/news/202610251507306850"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.06.20",
+      "text": "오후 2시 24분께 '동거 중인 여자친구가 의식을 잃었다'는 남자친구의 119 신고 접수. 구급대 도착 당시 여성은 심정지 상태 (방송 내용)",
+      "source": "머니투데이 10.24",
+      "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102418007219047"
+    },
+    {
+      "date": "2026.10.23",
+      "text": "1509회 예고 보도 시작",
+      "source": "톱스타뉴스 10.23",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16255680"
+    },
+    {
+      "date": "2026.10.24",
+      "text": "그것이 알고 싶다 1509회 '국프와 514번의 처벌' 방송",
+      "source": "SBS",
+      "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000638667",
+      "hot": true,
+      "btn": {
+        "label": "1509회 보기",
+        "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000638667",
+        "kind": "sbs"
+      }
+    },
+    {
+      "date": "2026.10.25",
+      "text": "방송 후 보도: 가해 남성의 '국프는 덜 싸우기 위한 규칙' 주장과 전문가 분석 소개",
+      "source": "머니투데이 10.25",
+      "url": "https://www.mt.co.kr/society/2026/10/25/2026102510442184883"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "1509회 방송",
+      "heading": "그것이 알고싶다 1509회는 어떤 내용인가요?",
+      "lead": "2026년 10월 24일 방송된 1509회 '국프와 514번의 처벌 - 강서 고문 살인사건의 진실' 편입니다. 서울 강서구 반지하방에서 28세 여성이 동거하던 4살 연하 남자친구에게 장시간 폭행당해 숨진 사건을 다뤘습니다.",
+      "paragraphs": [
+        "SBS 공식 회차 소개에 따르면 집 안 홈캠에 3시간 20분 분량의 영상이 남아 있었고, 남자친구가 여성을 514회 폭행한 것으로 나옵니다. 방송은 현관문이 1m 거리에 있었는데도 피해자가 왜 벗어날 수 없었는지를 핵심 질문으로 삼았습니다.",
+        "이 페이지는 피해자와 가해자의 신상, 폭행 장면 묘사는 싣지 않습니다. 방송에서 피해자는 가명으로 소개됐습니다."
+      ],
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "1509회 다시보기",
+          "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000638667"
+        },
+        {
+          "kind": "sbs",
+          "label": "공식 예고 영상",
+          "url": "https://programs.sbs.co.kr/culture/unansweredquestions/clip/55073/22000638666"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "국가 프로젝트",
+      "heading": "방송에서 말한 '국프(국가 프로젝트)'는 무엇인가요?",
+      "lead": "제작진이 피해자 휴대전화와 클라우드 계정에서 찾은 문건입니다. '뚜리국'이라는 가상의 나라를 설정하고 입법부·사법부·금융기관 같은 항목과 규칙을 적어 둔 문서로 보도됐습니다.",
+      "paragraphs": [
+        "머니투데이·파이낸셜뉴스 방송 후 보도에 따르면 문건의 의사소통 지침에는 상대를 처벌하는 규칙이 적혀 있었고, 처벌을 집행할 권한은 남성에게만 있었습니다. 남성은 제작진에게 '국프는 둘이 정한 규칙이고 덜 싸우기 위해 만든 것'이라고 말했습니다.",
+        "방송에 출연한 전문가는 감정적 흥분이 아니라 자신이 만든 규칙을 강요하며 통제하는 과정에서 폭행이 이뤄졌다고 분석했습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "머니투데이 방송 후 기사",
+          "url": "https://www.mt.co.kr/society/2026/10/25/2026102510442184883"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "사건 경위",
+      "heading": "방송에서 소개한 사건 경위와 남성 측 주장은 무엇인가요?",
+      "lead": "방송에 따르면 사건은 6월 20일 오후 2시 24분께 남자친구가 '동거 중인 여자친구가 의식을 잃었다'고 119에 신고하면서 알려졌고, 구급대가 도착했을 때 여성은 이미 심정지 상태였습니다(머니투데이 10.24).",
+      "paragraphs": [
+        "경찰이 출동하자 남자친구는 폭행 사실을 인정하면서 '여자친구의 거짓말을 참지 못해 우발적으로 저지른 실수'라고 주장했다고 방송은 전했습니다(머니투데이 10.24). 방송 후 보도에서도 남성은 살해할 의도는 없었다고 주장했고, 남성의 부모는 피해자가 아들을 가스라이팅했다고 주장했습니다. 남성은 유가족을 평생 부양하며 사죄하겠다는 뜻을 밝혔습니다(파이낸셜뉴스 10.26).",
+        "1509회 방송과 이를 다룬 보도에는 기소·재판 단계가 나오지 않습니다."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "news",
+          "label": "머니투데이 예고 기사",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102418007219047"
+        },
+        {
+          "kind": "news",
+          "label": "파이낸셜뉴스 방송 후 기사",
+          "url": "https://www.fnnews.com/news/202610251507306850"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "그것이 알고싶다 1509회는 언제 방송됐나요?",
+      "a": "2026년 10월 24일 토요일 밤 11시 10분 SBS에서 방송됐습니다. SBS 홈페이지 다시보기 메뉴에서 볼 수 있습니다."
+    },
+    {
+      "q": "1509회 부제는 무엇인가요?",
+      "a": "'국프와 514번의 처벌 - 강서 고문 살인사건의 진실'입니다."
+    },
+    {
+      "q": "'국프'는 무슨 뜻인가요?",
+      "a": "'국가 프로젝트'의 줄임말입니다. 제작진이 피해자 휴대전화에서 찾은, 가상의 나라 '뚜리국'과 처벌 규칙을 적은 문건을 가리킵니다."
+    }
+  ],
+  "related": [],
+  "source": "SBS 그것이 알고 싶다 공식 1509회 다시보기·예고 페이지 · 톱스타뉴스·마이데일리 10.23, 머니투데이 10.24·10.25, 파이낸셜뉴스 10.26의 1509회 방송 내용 보도",
+  "imageCredit": "",
+  "checkedAt": "2026-10-26",
+  "updatedAt": "2026-10-26T16:00:00+09:00",
+  "quick": [
+    {
+      "label": "그것이 알고 싶다 공식 홈페이지",
+      "url": "https://programs.sbs.co.kr/culture/unansweredquestions/main",
+      "kind": "sbs"
+    },
+    {
+      "label": "1509회 다시보기",
+      "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000638667",
+      "kind": "sbs"
+    }
+  ]
+}

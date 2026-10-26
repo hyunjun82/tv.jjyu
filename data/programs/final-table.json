@@ -1,0 +1,403 @@
+{
+  "slug": "final-table",
+  "type": "drama",
+  "category": "드라마",
+  "series": "",
+  "seriesSlug": "",
+  "title": "파이널 테이블 등장인물·원작·편성표, OTT와 시청률",
+  "name": "파이널 테이블",
+  "shortName": "파이널 테이블",
+  "subtitle": "JTBC 토일드라마 · 12부작 · 2026.10.24 첫 방송",
+  "channel": "JTBC",
+  "airtime": "매주 토요일 밤 10:40 · 일요일 밤 10:30",
+  "status": "방영 중",
+  "backdrop": "/img/final-table-poster.jpg",
+  "thumb": "/img/final-table-c1.jpg",
+  "badges": [
+    "JTBC 토일드라마",
+    "12부작 (보도 기준)",
+    "디즈니+",
+    "요리 서바이벌 소재 드라마"
+  ],
+  "facts": [
+    [
+      "편성",
+      "JTBC 토 밤 10시 40분 · 일 밤 10시 30분"
+    ],
+    [
+      "첫 방송",
+      "2026.10.24 (토)"
+    ],
+    [
+      "회차",
+      "12부작 (보도 기준)"
+    ],
+    [
+      "방송 회차",
+      "2회까지 (10.25)"
+    ],
+    [
+      "극본 · 연출",
+      "김도훈"
+    ],
+    [
+      "제공 · 제작",
+      "SLL · 비에이엔터테인먼트·영화사두중"
+    ]
+  ],
+  "next": null,
+  "intro": "JTBC 토일드라마 <b>〈파이널 테이블〉</b>은 예능이 아니라 <b>드라마</b>입니다. JTBC 공식 소개는 '최고의 한국인 요리사를 뽑는 더 테이블: K 셰프 2026 대회를 위해 전 세계에서 모인 한국인 셰프들이 벌이는 화려한 음식과 기막힌 사연들의 향연을 담은 드라마'입니다. 2026년 10월 24일 시작해 토요일 밤 10시 40분·일요일 밤 10시 30분 방송되며 <b>12부작</b>으로 보도됐습니다. 안효섭·홍화연·장률·정유진이 출연하고, 1회 1.9%·2회 2.4%(닐슨코리아 전국)를 기록했습니다. 국내 OTT는 <b>디즈니+</b>입니다.",
+  "ctas": [
+    {
+      "kind": "link",
+      "label": "JTBC 공식 다시보기",
+      "url": "https://tv.jtbc.co.kr/replay/pr10011969/pm10072398",
+      "sub": "회차별"
+    },
+    {
+      "kind": "link",
+      "label": "공식 등장인물",
+      "url": "https://tv.jtbc.co.kr/cast/pr10011969"
+    },
+    {
+      "kind": "link",
+      "label": "JTBC 공식 홈페이지",
+      "url": "https://tv.jtbc.co.kr/finaltable"
+    }
+  ],
+  "quick": [
+    {
+      "label": "JTBC 공식 홈페이지",
+      "url": "https://tv.jtbc.co.kr/finaltable",
+      "kind": "link"
+    },
+    {
+      "label": "공식 등장인물",
+      "url": "https://tv.jtbc.co.kr/cast/pr10011969",
+      "kind": "link"
+    },
+    {
+      "label": "다시보기",
+      "url": "https://tv.jtbc.co.kr/replay/pr10011969/pm10072398",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [
+    {
+      "kind": "tv",
+      "name": "디즈니+",
+      "status": "국내 공개 (보도 기준)",
+      "url": "https://tv.jtbc.co.kr/finaltable"
+    },
+    {
+      "kind": "tv",
+      "name": "아마존 프라임 비디오",
+      "status": "해외 공개 (보도 기준)",
+      "url": "https://tv.jtbc.co.kr/finaltable"
+    },
+    {
+      "kind": "tv",
+      "name": "JTBC 다시보기",
+      "status": "회차별",
+      "url": "https://tv.jtbc.co.kr/replay/pr10011969/pm10072398"
+    },
+    {
+      "kind": "tv",
+      "name": "본방송",
+      "status": "토 22:40 · 일 22:30 · JTBC",
+      "url": "https://tv.jtbc.co.kr/finaltable"
+    }
+  ],
+  "ottNote": "디즈니+(국내)·프라임 비디오(해외) 공개는 위키트리(10.24) 보도 기준이며, 디즈니 플러스 코리아 예고편 설명에 10월 25일 공개가 적혀 있었다고 보도됐습니다. 각 서비스 작품 페이지 주소는 확인하지 못해 JTBC 공식 홈페이지로 연결했습니다. 넷플릭스·티빙 공개는 확인되지 않았습니다.",
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "기본정보",
+      "heading": "파이널 테이블은 드라마인가요? 편성표와 몇부작은?",
+      "lead": "JTBC 토일드라마입니다. 토요일 밤 10시 40분, 일요일 밤 10시 30분 방송되며(JTBC 공식 홈페이지) 12부작으로 보도됐습니다(위키트리 10.24).",
+      "paragraphs": [
+        "극본과 연출은 '해를 품은 달'·'로열 패밀리'의 김도훈 감독이 맡았고, 제공 SLL, 제작 비에이엔터테인먼트·영화사두중입니다(iMBC연예·한국일보). 10월 24일 1회, 25일 2회가 방송됐습니다.",
+        "제목 '파이널 테이블'의 뜻을 따로 설명한 공식 자료는 확인하지 못했습니다. 극 중 셰프들이 겨루는 요리 서바이벌 대회 이름은 '더 테이블: K 셰프 2026'으로, 라운드마다 새 주제가 주어지는 방식입니다(한국일보 10.25)."
+      ],
+      "table": {
+        "head": [
+          "회차",
+          "전국 시청률"
+        ],
+        "rows": [
+          [
+            "1회 (10.24)",
+            "1.9%"
+          ],
+          [
+            "2회 (10.25)",
+            "2.4%"
+          ]
+        ]
+      },
+      "after": [
+        "닐슨코리아 전국 기준이며 머니투데이(10.25)·텐아시아(10.26) 보도에서 가져왔습니다."
+      ],
+      "images": [
+        {
+          "src": "/img/final-table-backdrop.jpg",
+          "cap": "JTBC 공식 홈페이지 메인 이미지",
+          "url": "https://tv.jtbc.co.kr/finaltable",
+          "kind": "link",
+          "label": "JTBC 공식 홈페이지",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "JTBC 다시보기",
+          "url": "https://tv.jtbc.co.kr/replay/pr10011969/pm10072398"
+        },
+        {
+          "kind": "news",
+          "label": "위키트리 10.24",
+          "url": "https://www.wikitree.co.kr/articles/1168304"
+        }
+      ]
+    },
+    {
+      "id": "sec-origin",
+      "tab": "원작",
+      "heading": "파이널 테이블 원작이 있나요?",
+      "lead": "JTBC 공식 소개와 보도에 원작 표기는 없습니다. 극본·연출 모두 김도훈 감독으로 소개됐습니다(iMBC연예 10.24).",
+      "paragraphs": [
+        "한국일보(10.25)는 이 작품을 요리 서바이벌 프로그램을 드라마의 주요 소재로 접목한 작품으로 소개하며, 넷플릭스 '흑백요리사'·'마스터 셰프 코리아'로 익숙해진 포맷에 드라마 서사를 더했다고 평했습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "한국일보 10.25",
+          "url": "https://www.hankookilbo.com/news/article/A2026102508370004831"
+        },
+        {
+          "kind": "news",
+          "label": "iMBC연예 10.24",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522341"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "등장인물",
+      "heading": "파이널 테이블 등장인물과 인물관계도는?",
+      "lead": "천재 요리사 강한(안효섭), 파밀리아의 새 오너 최송이(홍화연), 스타 셰프 차우진(장률), 대회 총괄 프로듀서 선정원(정유진)이 중심입니다. 평연그룹 회장 문해선은 장영남이 연기합니다.",
+      "paragraphs": [
+        "JTBC 공식 등장인물 페이지는 인물을 강한·최송이·차우진·선정원과 평연 그룹 사람들·파밀리아 사람들·엑셉시옹 사람들·참가 셰프들·심사위원단으로 나눠 소개합니다. 최송이의 아버지 최승효는 평연그룹과의 갈등 끝에 목숨을 잃었고, 강한은 '크리스 K'라는 이름으로 명성을 쌓은 셰프이며, 차우진은 크리스 K에게 복수할 기회로 대회 출전을 받아들입니다(JTBC 공식 인물 소개).",
+        "아래 카드의 소개문과 사진은 JTBC 공식 등장인물 페이지에서 옮겼습니다(사진은 정사각형으로 잘라 사용)."
+      ],
+      "castList": true,
+      "actions": [
+        {
+          "kind": "link",
+          "label": "JTBC 공식 등장인물",
+          "url": "https://tv.jtbc.co.kr/cast/pr10011969"
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "다시보기",
+      "heading": "파이널 테이블 다시보기와 OTT는 어디인가요?",
+      "lead": "JTBC 공식 홈페이지 다시보기에서 회차별로 볼 수 있고, 국내 OTT는 디즈니+, 해외는 아마존 프라임 비디오로 보도됐습니다(위키트리 10.24).",
+      "ott": true,
+      "episodes": true
+    }
+  ],
+  "cast": [
+    {
+      "group": "main",
+      "name": "강한",
+      "sub": "안효섭",
+      "initial": "강",
+      "img": "/img/final-table-c1.jpg",
+      "job": "베일에 싸인 천재 요리사. 10살 무렵 해외로 떠나 25년간 베일에 싸인 시간을 보낸 한국인 요리사.",
+      "family": "주요인물",
+      "actions": [
+        {
+          "kind": "link",
+          "label": "안효섭 인물 소개",
+          "url": "https://tv.jtbc.co.kr/cast/PR10011969/1"
+        }
+      ]
+    },
+    {
+      "group": "main",
+      "name": "최송이",
+      "sub": "홍화연",
+      "initial": "최",
+      "img": "/img/final-table-c2.jpg",
+      "job": "'파밀리아'를 이끌 새로운 오너. 레스토랑 '파밀리아'의 홀 매니저이자, 오너 셰프인 최승효의 외동딸.",
+      "family": "주요인물",
+      "actions": [
+        {
+          "kind": "link",
+          "label": "홍화연 인물 소개",
+          "url": "https://tv.jtbc.co.kr/cast/PR10011969/2"
+        }
+      ]
+    },
+    {
+      "group": "main",
+      "name": "차우진",
+      "sub": "장률",
+      "initial": "차",
+      "img": "/img/final-table-c3.jpg",
+      "job": "완벽을 추구하는 국내 최고의 스타 셰프. 국내 최고의 컨템포러리 레스토랑 '엑셉시옹'의 오너 셰프.",
+      "family": "주요인물",
+      "actions": [
+        {
+          "kind": "link",
+          "label": "장률 인물 소개",
+          "url": "https://tv.jtbc.co.kr/cast/PR10011969/3"
+        }
+      ]
+    },
+    {
+      "group": "main",
+      "name": "선정원",
+      "sub": "정유진",
+      "initial": "선",
+      "img": "/img/final-table-c4.jpg",
+      "job": "'더 테이블: K 셰프 2026' 총괄 프로듀서. 평연미디어 팀장급 책임 프로듀서.",
+      "family": "주요인물",
+      "actions": [
+        {
+          "kind": "link",
+          "label": "정유진 인물 소개",
+          "url": "https://tv.jtbc.co.kr/cast/PR10011969/4"
+        }
+      ]
+    },
+    {
+      "group": "support",
+      "name": "문해선",
+      "sub": "장영남",
+      "initial": "문",
+      "img": "/img/final-table-c5.jpg",
+      "job": "국내 외식업계 1위 평연그룹의 회장. 평연 F&B의 대표이사이자 평연그룹 회장.",
+      "family": "평연 그룹 사람들",
+      "actions": [
+        {
+          "kind": "link",
+          "label": "장영남 인물 소개",
+          "url": "https://tv.jtbc.co.kr/cast/PR10011969/5"
+        }
+      ]
+    },
+    {
+      "group": "support",
+      "name": "백현주",
+      "sub": "차지연",
+      "initial": "백",
+      "img": "/img/final-table-c6.jpg",
+      "job": "평연미디어 대표. 평연그룹 회장 해선과는 배다른 자매.",
+      "family": "평연 그룹 사람들",
+      "actions": [
+        {
+          "kind": "link",
+          "label": "차지연 인물 소개",
+          "url": "https://tv.jtbc.co.kr/cast/PR10011969/5"
+        }
+      ]
+    },
+    {
+      "group": "support",
+      "name": "강산",
+      "sub": "지승현",
+      "initial": "강",
+      "img": "/img/final-table-c7.jpg",
+      "job": "강한의 아버지. 조선 말기 대령숙수 집안의 궁중 요리 전수자.",
+      "family": "강한의 가족",
+      "actions": [
+        {
+          "kind": "link",
+          "label": "지승현 인물 소개",
+          "url": "https://tv.jtbc.co.kr/cast/PR10011969/1"
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "no": "1회",
+      "sub": "토요일 방송",
+      "date": "2026-10-24",
+      "title": "천재 셰프 강한과 파밀리아의 오너 최송이가 날 선 충돌로 인연을…",
+      "desc": "천재 셰프 강한과 폐업 위기에 놓인 레스토랑 파밀리아의 오너 최송이가 날 선 충돌로 인연을 시작하고, 평연그룹이 요리 서바이벌 '더 테이블: K 셰프 2026' 제작에 나섰습니다(머니투데이 10.25).",
+      "thumb": "",
+      "soon": false,
+      "links": [
+        {
+          "kind": "link",
+          "label": "JTBC 다시보기",
+          "url": "https://tv.jtbc.co.kr/replay/pr10011969/pm10072398"
+        }
+      ]
+    },
+    {
+      "no": "2회",
+      "sub": "일요일 방송",
+      "date": "2026-10-25",
+      "title": "강한이 파밀리아를 되살리고 요리 서바이벌 참가를 결심합니다…",
+      "desc": "강한이 위기의 파밀리아를 위해 요리에 나섰고, 출국을 포기한 뒤 최송이에게 '더 테이블: K 셰프 2026' 출전을 제안했습니다(텐아시아 10.26).",
+      "thumb": "",
+      "soon": false,
+      "links": [
+        {
+          "kind": "link",
+          "label": "JTBC 다시보기",
+          "url": "https://tv.jtbc.co.kr/replay/pr10011969/pm10072398"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "파이널 테이블은 드라마인가요, 예능인가요?",
+      "a": "JTBC 토일드라마입니다. 요리 서바이벌 대회를 소재로 한 드라마이며 예능 프로그램이 아닙니다."
+    },
+    {
+      "q": "파이널 테이블 OTT는 어디인가요?",
+      "a": "국내는 디즈니+, 해외는 아마존 프라임 비디오로 보도됐습니다(위키트리 10.24). JTBC 공식 홈페이지 다시보기도 있습니다."
+    },
+    {
+      "q": "파이널 테이블 원작이 있나요?",
+      "a": "공식 소개와 보도에 원작 표기가 없습니다. 극본·연출은 김도훈 감독입니다."
+    },
+    {
+      "q": "파이널 테이블 몇부작이고 편성표는?",
+      "a": "12부작으로 보도됐고, JTBC에서 토요일 밤 10시 40분·일요일 밤 10시 30분 방송됩니다."
+    },
+    {
+      "q": "파이널 테이블 시청률은?",
+      "a": "1회 1.9%, 2회 2.4%입니다(닐슨코리아 전국, 텐아시아 10.26)."
+    },
+    {
+      "q": "파이널 테이블 뜻은 무엇인가요?",
+      "a": "제목 뜻을 설명한 공식 자료는 확인하지 못했습니다. 극 중 대회 이름은 '더 테이블: K 셰프 2026'입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "100-days-of-lies",
+      "name": "100일의 거짓말",
+      "desc": "tvN 토일드라마 · 몇부작·등장인물"
+    },
+    {
+      "slug": "not-you-other-love",
+      "name": "너 말고 다른 연애",
+      "desc": "KBS 2TV 토일드라마 · OTT"
+    }
+  ],
+  "source": "JTBC 공식 홈페이지(방송 시간·프로그램 소개·등장인물 소개·공식 이미지·다시보기) · 보도: 위키트리·iMBC연예·머니투데이 10.24, 머니투데이·한국일보 10.25, 텐아시아 10.26",
+  "imageCredit": "이미지는 JTBC 공식 홈페이지의 대표 이미지와 등장인물 사진입니다.",
+  "checkedAt": "2026-10-26",
+  "updatedAt": "2026-10-26T16:00:00+09:00"
+}
