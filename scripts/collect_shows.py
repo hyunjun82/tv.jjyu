@@ -279,11 +279,19 @@ def run_sbs(key):
         reg = datetime.datetime.strptime(post['REG_DATE'][:10], '%Y-%m-%d').date()
         if (NOW.date() - reg).days > DAYS:
             continue
-        m = re.search(r'(\d{1,2})월\s*(\d{1,2})일', post['TITLE'])
-        d = datetime.date(reg.year, int(m.group(1)), int(m.group(2))) if m else reg
+        # 생활의 달인 글은 방송 며칠 뒤에 올라오기도 한다 → 제목의 '[1,051회]' 회차 번호로 다시보기 회차를 찾는다.
+        mn = re.search(r'\[\s*([\d,]+)\s*회\s*\]', post['TITLE'])
+        ep = None
+        if mn:
+            num = int(mn.group(1).replace(',', ''))
+            ep = next((dict(v, date=k) for k, v in vods.items() if v.get('no') == num), None)
+            d = datetime.date.fromisoformat(ep['date']) if ep else reg
+        else:
+            m = re.search(r'(\d{1,2})월\s*(\d{1,2})일', post['TITLE'])
+            d = datetime.date(reg.year, int(m.group(1)), int(m.group(2))) if m else reg
+            ep = vods.get(d.isoformat())
         if d < MIN_DATE:
             continue
-        ep = vods.get(d.isoformat())
         if not ep:  # 게시글은 올라왔지만 다시보기 회차가 아직 없음 → 다음 실행 때
             print(f'[{key}] {d} 다시보기 회차 아직 없음 — 건너뜀')
             continue
