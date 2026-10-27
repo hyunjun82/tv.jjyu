@@ -1,7 +1,6 @@
 import { getAllGo, getGo, hostLabel } from '../../../lib/go';
 import { getProgram } from '../../../lib/programs';
 import { kindOf } from '../../../components/Act';
-import Go from '../../../components/Go';
 import AdSlot from '../../../components/AdSlot';
 
 export function generateStaticParams() { return getAllGo().map((g) => ({ id: g.id })); }
@@ -22,8 +21,8 @@ export default async function GoPage({ params }) {
         <h1>{g.label}</h1>
         {g.sub && <div className="s">{g.sub}</div>}
         <div className="s">{g.fromName}{g.where && g.where !== '대표' ? ` · ${g.where}` : ''}</div>
-        <a className={`btn ${k.btn}`} href={g.url} rel="noopener"><span className="lg">{k.lg}</span>지금 바로 이동</a>
-        <div className="cnt"><Go url={g.url} /> · <a href={`/${g.from}/`}>{g.fromName} 페이지로 돌아가기</a></div>
+        <a className="btn btn-go" href={g.url} rel="noopener"><span className="lg">{k.lg}</span>지금 바로 이동</a>
+        <div className="cnt">위 버튼을 누르면 공식 페이지로 이동합니다 · <a href={`/${g.from}/`}>{g.fromName} 페이지로 돌아가기</a></div>
         <div className="u">{g.url}</div>
       </div>
       <AdSlot />

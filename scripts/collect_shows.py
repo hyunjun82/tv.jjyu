@@ -116,7 +116,7 @@ def sbs_vods(cfg):
         if d and d not in out:
             out[d] = dict(mediaid=x['mediaid'], no=(x.get('content') or {}).get('contentnumber'),
                           title=(x.get('content') or {}).get('contenttitle') or x.get('title', ''),
-                          img=(x.get('thumb') or {}).get('large'))
+                          img=(x.get('thumb') or {}).get('large'), synopsis=x.get('synopsis') or '')
     return out
 
 
@@ -131,12 +131,18 @@ def sbs_detail(cfg, no):
 
 
 def parse_today3(lines):
-    """'N. 코너 - 제목 편' / '▶상호' / '주소: ' / '연락처: '"""
-    shops, corner, topic, cur = [], '', '', None
+    """'1. 코너 - 제목 편' / '1-①. 코너 - 제목 편' / '1-②. 제목 편'(앞 코너 이어짐) / '▶상호' / '주소: ' / '연락처: '"""
+    shops, corner, topic, cur, last = [], '', '', None, {}
     for ln in lines:
-        m = re.match(r'^\d+\.\s*(.+?)\s*[-–]\s*(.+?)\s*(편)?$', ln)
+        m = re.match(r'^(\d+)(?:\s*-\s*[\u2460-\u2473\d]+)?\.\s*(.+)$', ln)
         if m and not ln.startswith('▶'):
-            corner, topic = m.group(1).strip(), m.group(2).strip()
+            num, body = m.group(1), re.sub(r'\s*편\s*$', '', m.group(2).strip())
+            mm = re.match(r'^(.+?)\s+[-–]\s+(.+)$', body)
+            if mm:
+                corner, topic = mm.group(1).strip(), mm.group(2).strip()
+                last[num] = corner
+            else:
+                corner, topic = last.get(num, body), body
             continue
         if ln.startswith('▶'):
             cur = dict(name=ln.lstrip('▶ ').strip(), corner=corner, topic=topic, addr='', tel='')
@@ -147,6 +153,35 @@ def parse_today3(lines):
         elif cur and re.match(r'^(연락처|전화|문의)\s*[:：]', ln):
             cur['tel'] = re.sub(r'^(연락처|전화|문의)\s*[:：]\s*', '', ln)
     return [s for s in shops if s['name'] and (s['addr'] or s['tel'])]
+
+
+def menus_of(topic):
+    """공식 코너 제목('즉석 꽃게 무침/ 꽃게 무침에 빠진 생새우/ 제철 해산물 한솥')을 메뉴 목록으로."""
+    return [x.strip() for x in re.split(r'\s*/\s*', topic or '') if x.strip()]
+
+
+FOOD = re.compile(r'맛|먹|요리|메뉴|음식|밥|국|탕|찌개|전골|찜|구이|볶음|무침|면|국수|짬뽕|짜장|만두|떡|빵|케이크|디저트|커피|카페|고기|갈비|삼겹|곱창|대창|막창|닭|오리|족발|보쌈|치킨|회|초밥|해산물|조개|게|새우|굴|문어|낙지|김치|순대|피자|버거|돈가스|정식|한상|한솥|백반|분식|떡볶이|어묵|전$|파전|칼국수|냉면|라면|우동|스테이크|샐러드|도시락|반찬|젓갈|장어|생선|매운탕')
+
+
+def menu_label(shop):
+    return '방송 메뉴' if FOOD.search(shop['topic'] + ' ' + shop['corner']) else '방송 내용'
+
+
+def region_of(addr):
+    t = (addr or '').split()
+    return ' '.join(t[:2]) if len(t) >= 2 else ''
+
+
+def synopsis_rows(text):
+    """SBS 다시보기 회차 소개 → [코너, 내용] (공식 표기 그대로)"""
+    rows = []
+    for ln in (text or '').splitlines():
+        ln = ln.strip()
+        if not ln:
+            continue
+        m = re.match(r'^(.+?)(?:\s*ㅣ\s*|\s+[l|]\s+)(.+)$', ln)
+        rows.append([m.group(1).strip(), m.group(2).strip()] if m else [ln, ''])
+    return rows
 
 
 def parse_lifemaster(lines):
@@ -178,50 +213,64 @@ def shop_page(key, cfg, d, ep, shop, idx, post_url, ep_slug, siblings):
     no, name, corner, topic = ep['no'], shop['name'], shop['corner'], shop['topic']
     img = save_img(ep['img'], f'{key}-{no}')
     q = urllib.parse.quote(name + ' ' + ' '.join(shop['addr'].split()[:2]))
+    menus = menus_of(topic)
+    region = region_of(shop['addr'])
+    mtxt = ', '.join(f'「{m}」' for m in menus)
     facts = [['상호', name]]
-    if shop['tel']: facts.append(['전화', shop['tel']])
+    if region: facts.append(['지역', region])
     if shop['addr']: facts.append(['주소', shop['addr']])
-    facts += [['방송', f'SBS {cfg["name"]} {no}회 ({kdate(d)})'], ['코너', corner if corner == topic else f'{corner} · {topic}']]
+    if shop['tel']: facts.append(['전화', shop['tel']])
+    ml = menu_label(shop)
+    if menus: facts.append([ml, ' · '.join(menus)])
+    facts += [['방송', f'SBS {cfg["name"]} {no}회 ({kdate(d)})'], ['코너', corner]]
     ctas = [dict(kind='sbs', label=f'{no}회 다시보기', sub=f'SBS 공식 · {md(d)} 방송', url=vod),
-            dict(kind='map', label='네이버 지도로 보기', url=f'https://map.naver.com/p/search/{q}')]
+            dict(kind='map', label='네이버 지도로 보기', sub='영업시간 · 메뉴판 확인', url=f'https://map.naver.com/p/search/{q}')]
     if tel_href(shop['tel']):
         ctas.append(dict(kind='tel', label='전화 걸기', sub=shop['tel'], url=tel_href(shop['tel'])))
     info = [x for x in [f'주소는 <b>{shop["addr"]}</b>' if shop['addr'] else '', f'전화는 <b>{shop["tel"]}</b>' if shop['tel'] else ''] if x]
-    rows = [[f'<a href="/{s["slug"]}/">{s["name"]}</a>', s['corner'], s['addr'] or '—'] for s in siblings]
+    rows = [[f'<a href="/{s["slug"]}/">{s["name"]}</a>', s['topic'] if s['topic'] != s['corner'] else s['corner'], s['addr'] or '—'] for s in siblings]
+    loc = [r for r in [['상호', name], ['주소', shop['addr']], ['지역', region], ['전화', shop['tel']]] if r[1]]
     p = dict(
         slug=slug, type='place', category='맛집', series=cfg['name'], seriesSlug=key, program=key,
         title=title40([f'{cfg["short"]} {name}', '위치 전화번호', f'{d.month}월 {d.day}일', topic]),
         name=name, shortName=name, subtitle='', channel=f'SBS {cfg["name"]}',
         airtime=f'{kdate(d)} 방송 · {corner}', status='방송 맛집' if key == 'today3' else '방송 가게',
-        backdrop=img or '', thumb=img or '', badges=[f'{no}회 · {md(d)}', corner] + ([topic] if topic != corner else []),
+        backdrop=img or '', thumb=img or '', badges=[f'{no}회 · {md(d)}', corner] + ([region] if region else []),
         facts=facts, next=None,
-        intro=(f'<b>{name}</b>은(는) {kdate(d)} SBS {cfg["name"]} {no}회 「{corner}」'
-               + (f'({topic})' if topic != corner else '') + ' 편에 나온 곳입니다. '
-               + ('·'.join(info) + '이며, ' if info else '') + 'SBS 공식 「방송정보」 게시판에 올라온 그대로입니다.'),
+        intro=(f'<b>{name}</b>은(는) {kdate(d)} SBS {cfg["name"]} {no}회 「{corner}」 편에 나온 곳입니다. '
+               + (f'방송에서 소개된 {"메뉴는" if ml == "방송 메뉴" else "내용은"} {mtxt}입니다. ' if menus else '')
+               + (', '.join(info) + '입니다. ' if info else '') + '상호·주소·연락처·메뉴명은 SBS 공식 「방송정보」 게시판과 다시보기 회차 소개 그대로입니다.'),
         ctas=ctas,
         quick=[dict(label='SBS 공식 방송정보', url=post_url, kind='link'),
                dict(label='카카오맵에서 보기', url=f'https://map.kakao.com/?q={q}', kind='map'),
                dict(label=f'{cfg["name"]} 다시보기 목록', url=f'https://programs.sbs.co.kr/{cfg["path"]}/vods/{cfg["vodmenu"]}', kind='sbs2')],
         links=[], ott=[],
         sections=[
-            dict(id='sec1', tab='방송 내용', heading=f'{name}은(는) {cfg["name"]} 어느 편에 나왔나요?',
-                 lead=f'{kdate(d)} 방송된 {no}회 「{corner}」 코너입니다. 이날 회차 제목은 「{ep["title"]}」입니다.',
-                 paragraphs=[f'SBS는 공식 사이트 「방송정보」 게시판에 그날 나온 곳의 상호·주소·연락처를 올립니다. 이 페이지의 정보는 {kdate(d)}자 게시글 그대로입니다.'],
+            dict(id='sec1', tab=ml, heading=f'{name} {cfg["short"]}에 나온 {"메뉴는" if ml == "방송 메뉴" else "내용은"} 무엇인가요?',
+                 lead=(f'{kdate(d)} {no}회 「{corner}」 편에서 소개된 {"메뉴는" if ml == "방송 메뉴" else "내용은"} {mtxt}입니다.' if menus else f'{kdate(d)} {no}회 「{corner}」 편입니다.'),
+                 table=(dict(head=[ml, '코너', '방송일'], rows=[[m, corner, kdate(d)] for m in menus]) if menus else None),
+                 paragraphs=[f'{"메뉴명은" if ml == "방송 메뉴" else "내용은"} SBS가 공식 게시판과 다시보기 회차 소개에 적은 코너 제목 그대로입니다. 이날 {no}회 제목은 「{ep["title"]}」입니다.'],
                  images=([dict(src=img, cap=f'{cfg["name"]} {no}회 (SBS 공식 회차 이미지)', url=vod, kind='sbs', label=f'{no}회 다시보기', wide=True)] if img else []),
                  actions=[dict(kind='sbs', label=f'{no}회 다시보기', url=vod), dict(kind='link', label='SBS 공식 방송정보 원문', url=post_url)]),
-            dict(id='sec2', tab='위치·연락처', heading=f'{name} 위치와 전화번호는?',
-                 lead=(f'주소: {shop["addr"]}' if shop['addr'] else '주소는 공식 게시글에 없습니다.') + (f' · 전화: {shop["tel"]}' if shop['tel'] else ''),
-                 paragraphs=['영업시간·메뉴 가격은 SBS 공식 게시글에 없어 적지 않았습니다. 방문 전 전화로 확인하세요.'],
+            dict(id='sec2', tab='위치·전화', heading=f'{name} 위치·주소·전화번호는?',
+                 lead=(f'주소는 {shop["addr"]}입니다.' if shop['addr'] else '주소는 공식 게시글에 없습니다.') + (f' 전화는 {shop["tel"]}입니다.' if shop['tel'] else ''),
+                 table=dict(head=['항목', '내용'], rows=loc), paragraphs=['아래 지도 버튼을 누르면 이 주소로 바로 검색됩니다.'],
                  actions=[c for c in ctas if c['kind'] != 'sbs']),
-            dict(id='sec3', tab=f'{md(d)} 방송 전체', heading=f'{md(d)} {cfg["name"]}에 나온 곳은 어디인가요?',
+            dict(id='sec3', tab='가격·영업시간·주차', heading=f'{name} 가격·영업시간·주차는?',
+                 lead='SBS 공식 방송정보에는 상호·주소·연락처만 나옵니다. 메뉴 가격·영업시간·휴무일·주차 여부는 공식 자료에 없어 이 페이지에 적지 않았습니다.',
+                 table=dict(head=['확인할 것', '확인하는 곳'], rows=[['영업시간 · 휴무일', '지도 앱의 가게 정보 또는 전화'], ['메뉴 가격', '지도 앱의 메뉴판 또는 전화'], ['주차 · 예약', '전화' + (f' ({shop["tel"]})' if shop['tel'] else '')]]),
+                 paragraphs=['가게가 지도 앱에 직접 올린 정보는 수시로 바뀝니다. 방문 전 한 번 더 확인하세요.'],
+                 actions=[c for c in ctas if c['kind'] != 'sbs']),
+            dict(id='sec4', tab=f'{md(d)} 방송 전체', heading=f'{md(d)} {cfg["name"]}에 나온 곳은 어디인가요?',
                  lead=f'{no}회에 SBS 방송정보로 올라온 곳은 모두 {len(siblings)}곳입니다.',
-                 table=dict(head=['상호', '코너', '주소'], rows=rows), paragraphs=[],
+                 table=dict(head=['상호', '방송 메뉴', '주소'], rows=rows), paragraphs=[],
                  actions=[dict(kind='link', label=f'{md(d)} 방송 맛집 총정리', url=f'/{ep_slug}/')]),
         ],
         cast=[], episodes=[],
         faq=[dict(q='몇 시 방송인가요?', a=f'SBS {cfg["name"]}는 {cfg["air"]} 방송입니다(SBS 공식 프로그램 정보).'),
              dict(q='다시보기는 어디서 하나요?', a=f'SBS 공식 다시보기에서 {no}회를 볼 수 있습니다. 위 「{no}회 다시보기」 버튼으로 이동합니다.'),
-             dict(q='주소와 전화번호 출처는요?', a=f'SBS {cfg["name"]} 공식 사이트 「방송정보」 게시판의 {kdate(d)}자 게시글입니다.')],
+             dict(q='주소와 전화번호 출처는요?', a=f'SBS {cfg["name"]} 공식 사이트 「방송정보」 게시판의 {kdate(d)}자 게시글입니다.'),
+             dict(q='가격·영업시간·주차 정보는 왜 없나요?', a='SBS 공식 방송정보에 나오지 않는 정보라 적지 않았습니다. 지도 앱의 가게 정보나 전화로 확인하세요.')],
         related=[dict(slug=s['slug'], name=s['name'], desc=f'{md(d)} · {s["corner"]}') for s in siblings if s['slug'] != slug][:6],
         source=f'SBS {cfg["name"]} 공식 방송정보 게시판({kdate(d)}자: 상호·주소·연락처) · SBS 공식 다시보기({no}회 번호·제목·이미지) · 프로그램 정보(편성)',
         imageCredit='SBS 공식 회차 이미지' if img else '',
@@ -235,7 +284,8 @@ def episode_page(key, cfg, d, ep, siblings, post_url):
     slug = f'{key}-{no}'
     vod = f'https://programs.sbs.co.kr/{cfg["path"]}/vod/{cfg["vodmenu"]}/{ep["mediaid"]}'
     img = save_img(ep['img'], f'{key}-{no}')
-    rows = [[f'<a href="/{s["slug"]}/">{s["name"]}</a>', s['corner'], s['addr'] or '—', s['tel'] or '—'] for s in siblings]
+    rows = [[f'<a href="/{s["slug"]}/">{s["name"]}</a>', ' · '.join(menus_of(s['topic'])) or s['corner'], s['addr'] or '—', s['tel'] or '—'] for s in siblings]
+    syn = synopsis_rows(ep.get('synopsis'))
     word = '맛집' if key == 'today3' else '달인 가게'
     return dict(
         slug=slug, type='place', category='맛집', series=cfg['name'], seriesSlug=key, program=key,
@@ -251,13 +301,16 @@ def episode_page(key, cfg, d, ep, siblings, post_url):
         links=[], ott=[],
         sections=[dict(id='sec1', tab='오늘 나온 곳', heading=f'{d.month}월 {d.day}일 {cfg["name"]}에 나온 {word}은 어디인가요?',
                        lead=f'{no}회 「{ep["title"]}」 방송분입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.',
-                       table=dict(head=['상호', '코너', '주소', '전화'], rows=rows), paragraphs=[],
+                       table=dict(head=['상호', '방송 메뉴', '주소', '전화'], rows=rows), paragraphs=[],
                        images=([dict(src=img, cap=f'{cfg["name"]} {no}회 (SBS 공식 회차 이미지)', url=vod, kind='sbs', label=f'{no}회 다시보기', wide=True)] if img else []),
                        actions=[dict(kind='sbs', label=f'{no}회 다시보기', url=vod)]),
                   dict(id='sec2', tab='코너별', heading=f'{md(d)} {cfg["name"]} 코너별로 어떤 곳이 나왔나요?',
                        lead='SBS 방송정보 게시글의 코너 순서 그대로입니다.',
                        table=dict(head=['코너', '내용', '상호'], rows=[[c, t, ', '.join(f'<a href="/{x["slug"]}/">{x["name"]}</a>' for x in siblings if x['corner'] == c and x['topic'] == t)] for c, t in dict.fromkeys((x['corner'], x['topic']) for x in siblings)]),
                        paragraphs=[]),
+                  *([dict(id='sec2b', tab='전체 코너', heading=f'{md(d)} {cfg["name"]} {no}회 전체 코너는?',
+                          lead='SBS 공식 다시보기 회차 소개에 적힌 이날 코너 전체입니다. 가게 정보는 위 표의 맛집 코너만 공개됩니다.',
+                          table=dict(head=['코너', '내용'], rows=[[a, b or '—'] for a, b in syn]), paragraphs=[])] if syn else []),
                   dict(id='sec3', tab='방송 시간', heading=f'{cfg["name"]}는 언제 방송하고 다시보기는 어디서 하나요?',
                        lead=f'SBS {cfg["name"]}는 {cfg["air"]} 방송합니다(SBS 공식 프로그램 정보).',
                        paragraphs=[f'{no}회 다시보기는 SBS 공식 사이트에서 볼 수 있습니다. 가게별 위치·전화는 위 표의 상호를 누르면 나옵니다.'],
