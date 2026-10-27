@@ -5,7 +5,8 @@
   1) SBS 생방송 투데이   : 방송정보 게시판(today3_bd01) 상호·주소·연락처 + 공식 다시보기(회차 번호·제목·이미지)
   2) SBS 생활의 달인     : 방송정보 게시판(lifemaster_bd01) '방송협조' 가게명·주소·전화 + 공식 다시보기
                            (달인 개인 이름·나이 등 '달인 프로필'은 일반인 개인정보라 쓰지 않는다)
-  3) KBS 2TV 생생정보    : KBS 공식 회차 데이터(코너 제목·회차·방송일·다시보기). 가게 상호·주소는 KBS 공식 출처에 없어 넣지 않는다.
+  3) KBS 생생정보·6시 내고향·동네 한 바퀴·한국인의 밥상 : scripts/collect_kbs.py
+     (KBS 시청자상담실 「방송정보」 취재 연락처 + KBS 공식 회차 데이터)
 
 이미 만든 페이지(같은 slug 파일)는 건드리지 않는다. 사용: python3 scripts/collect_shows.py [--days 7]
 """
@@ -433,10 +434,13 @@ def run_kbs():
 
 
 if __name__ == '__main__':
-    for fn, arg in [(run_sbs, 'today3'), (run_sbs, 'lifemaster'), (run_kbs, None)]:
+    sys.modules['collect_shows'] = sys.modules['__main__']
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import collect_kbs
+    for fn, arg in [(run_sbs, 'today3'), (run_sbs, 'lifemaster'), (collect_kbs.run, None)]:
         try:
             fn(arg) if arg else fn()
         except Exception as e:  # 한 출처가 실패해도 나머지는 계속
-            print('수집 실패', arg or 'reallive', e)
+            print('수집 실패', arg or 'kbs', e)
     print(f'새 페이지 {len(made)}개')
     open(os.path.join(ROOT, '.collect-made'), 'w').write('\n'.join(made))

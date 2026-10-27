@@ -1,0 +1,303 @@
+{
+  "slug": "sixhour-8648",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 10월 26일 오늘 방송 맛집 위치 전화번호 총정리",
+  "name": "6시 내고향 10월 26일 8648회 방송 맛집·장소",
+  "shortName": "10.26 6시 내고향 8648회",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.10.26 (월) · 8648회",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8648.jpg",
+  "thumb": "/img/sixhour-8648.jpg",
+  "badges": [
+    "8648회 · 10.26",
+    "14곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8648회"
+    ],
+    [
+      "방송일",
+      "2026.10.26 (월)"
+    ],
+    [
+      "소개된 곳",
+      "14곳 (KBS 방송정보 기준)"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.10.26 (월) KBS 1TV 6시 내고향 8648회에 나온 곳은 <b>14곳</b>입니다. <b>안동종가문화원 주식회사 농업회사법인</b>, <b>오색 송편 빚기 체험</b>, <b>안동축협직영점 묵향</b>, <b>예미정안동문어본점</b>, <b>안동간고등어종합식품</b>, <b>예미정 본채</b> 등이며, 상호·주소·전화는 KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8648회 다시보기",
+      "sub": "KBS 공식 · 10.26 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183628-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11419"
+    }
+  ],
+  "quick": [
+    {
+      "label": "오색 송편 빚기 체험",
+      "url": "/sixhour-8648-1/",
+      "kind": "map"
+    },
+    {
+      "label": "안동축협직영점 묵향",
+      "url": "/sixhour-8648-2/",
+      "kind": "map"
+    },
+    {
+      "label": "예미정안동문어본점",
+      "url": "/sixhour-8648-3/",
+      "kind": "map"
+    },
+    {
+      "label": "예미정 본채",
+      "url": "/sixhour-8648-4/",
+      "kind": "map"
+    },
+    {
+      "label": "밀레니엄안동찜닭",
+      "url": "/sixhour-8648-5/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "10월 26일 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8648회 KBS 방송정보에 올라온 곳은 14곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "안동종가문화원 주식회사 농업회사법인",
+            "생강청",
+            "—",
+            "054-853-0045 / 0507-1410-0085"
+          ],
+          [
+            "<a href=\"/sixhour-8648-1/\">오색 송편 빚기 체험</a>",
+            "안동의 보물을 찾아라",
+            "경북 안동시 풍천면 하회북촌길 20-6 하회주막&민박",
+            "010-3820-2783"
+          ],
+          [
+            "<a href=\"/sixhour-8648-2/\">안동축협직영점 묵향</a>",
+            "안동의 보물을 찾아라",
+            "경북 안동시 경동로 220",
+            "054-840-7710"
+          ],
+          [
+            "<a href=\"/sixhour-8648-3/\">예미정안동문어본점</a>",
+            "문어",
+            "경북 안동시 경동로 818",
+            "054-821-8880"
+          ],
+          [
+            "안동간고등어종합식품",
+            "간고등어",
+            "—",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8648-4/\">예미정 본채</a>",
+            "식당 / 간고등어",
+            "경북 안동시 옹정골길 111",
+            "054-822-0500"
+          ],
+          [
+            "<a href=\"/sixhour-8648-5/\">밀레니엄안동찜닭</a>",
+            "찜닭",
+            "경북 안동시 번영길 9 1층",
+            "054-855-5414"
+          ],
+          [
+            "대마종자유",
+            "현장 이벤트",
+            "—",
+            "—"
+          ],
+          [
+            "대종자유 / 대마너츠",
+            "현장 이벤트",
+            "—",
+            "—"
+          ],
+          [
+            "헴프씨드음료",
+            "현장 이벤트",
+            "—",
+            "—"
+          ],
+          [
+            "헴프씨드 김",
+            "현장 이벤트",
+            "—",
+            "—"
+          ],
+          [
+            "연화단지",
+            "안동 두부",
+            "—",
+            "080-560-5600"
+          ],
+          [
+            "사과 언덕 농장",
+            "안동 사과",
+            "—",
+            "010-2000-8985"
+          ],
+          [
+            "헴프앤알바이오",
+            "안동 헴프씨드",
+            "—",
+            "054-843-3660"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8648.jpg",
+          "cap": "6시 내고향 8648회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183628-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8648회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8648회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183628-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11419"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "10.26 6시 내고향 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "대구 총국 - 당신 생각뿐~ 생강",
+            "안동종가문화원 주식회사 농업회사법인"
+          ],
+          [
+            "안동의 보물을 찾아라",
+            "<a href=\"/sixhour-8648-1/\">오색 송편 빚기 체험</a>, <a href=\"/sixhour-8648-2/\">안동축협직영점 묵향</a>"
+          ],
+          [
+            "먹어봤니껴? 안동의 맛",
+            "<a href=\"/sixhour-8648-3/\">예미정안동문어본점</a>, 안동간고등어종합식품, <a href=\"/sixhour-8648-4/\">예미정 본채</a>, <a href=\"/sixhour-8648-5/\">밀레니엄안동찜닭</a>"
+          ],
+          [
+            "현장 이벤트 - 안동 헴프의 운명 전쟁",
+            "대마종자유, 대종자유 / 대마너츠, 헴프씨드음료, 헴프씨드 김"
+          ],
+          [
+            "청년회장이 간다 - 손헌수의 진품명품",
+            "연화단지, 사과 언덕 농장, 헴프앤알바이오"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "6시 내고향는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 6시 내고향는 평일 오후 6시 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "8648회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8648회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183628-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "6시 내고향 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 6시 내고향는 평일 오후 6시 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "가게 정보 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.10.26 (월)자 6시 내고향 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8648-1",
+      "name": "오색 송편 빚기 체험",
+      "desc": "10.26 · 안동의 보물을 찾아라"
+    },
+    {
+      "slug": "sixhour-8648-2",
+      "name": "안동축협직영점 묵향",
+      "desc": "10.26 · 안동의 보물을 찾아라"
+    },
+    {
+      "slug": "sixhour-8648-3",
+      "name": "예미정안동문어본점",
+      "desc": "10.26 · 문어"
+    },
+    {
+      "slug": "sixhour-8648-4",
+      "name": "예미정 본채",
+      "desc": "10.26 · 식당 / 간고등어"
+    },
+    {
+      "slug": "sixhour-8648-5",
+      "name": "밀레니엄안동찜닭",
+      "desc": "10.26 · 찜닭"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.10.26 (월)) · KBS 공식 회차 데이터(8648회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-10-27",
+  "updatedAt": "2026-10-27T14:50:55+09:00"
+}

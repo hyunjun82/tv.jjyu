@@ -1,0 +1,352 @@
+{
+  "slug": "reallive-2630-1",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 사과샐러드빵 위치 전화번호 10월 23일 바로구운빵",
+  "name": "사과샐러드빵",
+  "shortName": "사과샐러드빵",
+  "subtitle": "",
+  "channel": "KBS 2TV 2TV 생생정보",
+  "airtime": "2026.10.23 (금) 방송 · 시골빵집",
+  "status": "방송 맛집",
+  "backdrop": "/img/reallive-2630.jpg",
+  "thumb": "/img/reallive-2630.jpg",
+  "badges": [
+    "2630회 · 10.23",
+    "시골빵집",
+    "경기도 이천시"
+  ],
+  "facts": [
+    [
+      "상호",
+      "사과샐러드빵"
+    ],
+    [
+      "방송 메뉴",
+      "바로구운빵"
+    ],
+    [
+      "지역",
+      "경기도 이천시"
+    ],
+    [
+      "주소",
+      "경기도 이천시 관고동 9-27"
+    ],
+    [
+      "전화",
+      "031-637-6113"
+    ],
+    [
+      "방송",
+      "KBS 2TV 2TV 생생정보 2630회 (2026.10.23 (금))"
+    ],
+    [
+      "코너",
+      "시골빵집"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>사과샐러드빵</b>은(는) 2026.10.23 (금) KBS 2TV 2TV 생생정보 2630회 「시골빵집」(장날에만 볼 수 있는 특별한 샐러드빵) 편에 나온 곳입니다. 방송 메뉴는 「바로구운빵」입니다. 주소는 <b>경기도 이천시 관고동 9-27</b>, 전화는 <b>031-637-6113</b>입니다. KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2630회 다시보기",
+      "sub": "KBS 공식 · 10.23 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026191023-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%82%AC%EA%B3%BC%EC%83%90%EB%9F%AC%EB%93%9C%EB%B9%B5%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9D%B4%EC%B2%9C%EC%8B%9C"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "031-637-6113",
+      "url": "tel:0316376113"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11416",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%82%AC%EA%B3%BC%EC%83%90%EB%9F%AC%EB%93%9C%EB%B9%B5%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9D%B4%EC%B2%9C%EC%8B%9C",
+      "kind": "map"
+    },
+    {
+      "label": "2TV 생생정보 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "사과샐러드빵 생생정보 어느 코너에 나왔나요?",
+      "lead": "2026.10.23 (금) KBS 2TV 2TV 생생정보 2630회 「시골빵집」(장날에만 볼 수 있는 특별한 샐러드빵) 편에 나온 곳입니다. 방송에서 소개된 메뉴는 「바로구운빵」입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.10.23 (금)"
+          ],
+          [
+            "회차",
+            "2630회"
+          ],
+          [
+            "코너",
+            "시골빵집"
+          ],
+          [
+            "코너 제목",
+            "장날에만 볼 수 있는 특별한 샐러드빵"
+          ],
+          [
+            "방송 메뉴",
+            "바로구운빵"
+          ],
+          [
+            "KBS 표기",
+            "바로구운빵 (사과샐러드빵)"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "상호·주소·전화는 KBS 시청자상담실 「방송정보」의 2026.10.23 (금)자 2TV 생생정보 취재 연락처 그대로입니다."
+      ],
+      "images": [
+        {
+          "src": "/img/reallive-2630.jpg",
+          "cap": "2TV 생생정보 2630회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026191023-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2630회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2630회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026191023-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11416"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "사과샐러드빵 위치·주소·전화번호는?",
+      "lead": "주소는 경기도 이천시 관고동 9-27입니다. 전화는 031-637-6113입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "사과샐러드빵"
+          ],
+          [
+            "주소",
+            "경기도 이천시 관고동 9-27"
+          ],
+          [
+            "지역",
+            "경기도 이천시"
+          ],
+          [
+            "전화",
+            "031-637-6113"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "아래 지도 버튼을 누르면 이 주소로 바로 검색됩니다."
+      ],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%82%AC%EA%B3%BC%EC%83%90%EB%9F%AC%EB%93%9C%EB%B9%B5%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9D%B4%EC%B2%9C%EC%8B%9C"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "031-637-6113",
+          "url": "tel:0316376113"
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "가격·영업시간·주차",
+      "heading": "사과샐러드빵 가격·영업시간·주차는?",
+      "lead": "KBS 방송정보에는 이 곳의 가격·영업시간·주차가 나오지 않아 적지 않았습니다.",
+      "table": {
+        "head": [
+          "확인할 것",
+          "확인하는 곳"
+        ],
+        "rows": [
+          [
+            "영업시간 · 휴무일",
+            "지도 앱의 가게 정보 또는 전화"
+          ],
+          [
+            "메뉴 가격",
+            "지도 앱의 메뉴판 또는 전화"
+          ],
+          [
+            "주차 · 예약",
+            "전화 (031-637-6113)"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%82%AC%EA%B3%BC%EC%83%90%EB%9F%AC%EB%93%9C%EB%B9%B5%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9D%B4%EC%B2%9C%EC%8B%9C"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "031-637-6113",
+          "url": "tel:0316376113"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "10.23 방송 전체",
+      "heading": "10.23 2TV 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2630회 KBS 방송정보에 올라온 곳은 모두 7곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2630-1/\">사과샐러드빵</a>",
+            "바로구운빵",
+            "경기도 이천시 관고동 9-27"
+          ],
+          [
+            "<a href=\"/reallive-2630-2/\">사거리매운양푼등갈비찜 본점</a>",
+            "맛집 맞수다",
+            "서울특별시 광진구 긴고랑로 30 우일빌딩1층"
+          ],
+          [
+            "<a href=\"/reallive-2630-3/\">고구마줄기 감자탕 뼈집</a>",
+            "맛집 맞수다",
+            "인천광역시 미추홀구 석정로 414 1층"
+          ],
+          [
+            "<a href=\"/reallive-2630-4/\">회곡양조장</a>",
+            "해피 벌(고)쓰(고)데이",
+            "경상북도 안동시 풍산읍 산업단지5길 39"
+          ],
+          [
+            "<a href=\"/reallive-2630-5/\">종가찜닭</a>",
+            "해피 벌(고)쓰(고)데이",
+            "경상북도 안동시 번영길 11"
+          ],
+          [
+            "<a href=\"/reallive-2630-6/\">안동하회마을</a>",
+            "해피 벌(고)쓰(고)데이",
+            "경상북도 안동시 풍천면 전서로 186"
+          ],
+          [
+            "<a href=\"/reallive-2630-7/\">잉매힐스사과농원</a>",
+            "나나랜드",
+            "강원특별자치도 정선군 임계면 송원동길 12-26"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "10.23 생생정보 총정리",
+          "url": "/reallive-2630/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 2TV 2TV 생생정보는 평일 오후 6시 35분 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "주소와 전화번호 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.10.23 (금)자 2TV 생생정보 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2630-2",
+      "name": "사거리매운양푼등갈비찜 본점",
+      "desc": "10.23 · 맛집 맞수다"
+    },
+    {
+      "slug": "reallive-2630-3",
+      "name": "고구마줄기 감자탕 뼈집",
+      "desc": "10.23 · 맛집 맞수다"
+    },
+    {
+      "slug": "reallive-2630-4",
+      "name": "회곡양조장",
+      "desc": "10.23 · 해피 벌(고)쓰(고)데이"
+    },
+    {
+      "slug": "reallive-2630-5",
+      "name": "종가찜닭",
+      "desc": "10.23 · 해피 벌(고)쓰(고)데이"
+    },
+    {
+      "slug": "reallive-2630-6",
+      "name": "안동하회마을",
+      "desc": "10.23 · 해피 벌(고)쓰(고)데이"
+    },
+    {
+      "slug": "reallive-2630-7",
+      "name": "잉매힐스사과농원",
+      "desc": "10.23 · 나나랜드"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.10.23 (금) 2TV 생생정보 취재 연락처) · KBS 공식 회차 데이터(2630회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-10-27",
+  "updatedAt": "2026-10-27T14:50:55+09:00"
+}

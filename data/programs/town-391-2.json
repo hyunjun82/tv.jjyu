@@ -1,0 +1,333 @@
+{
+  "slug": "town-391-2",
+  "type": "place",
+  "category": "맛집",
+  "series": "동네 한 바퀴",
+  "seriesSlug": "town",
+  "program": "town",
+  "title": "동네 한바퀴 사양제 위치 주소 10월 24일 전북특별자치도 진안군",
+  "name": "사양제",
+  "shortName": "사양제",
+  "subtitle": "",
+  "channel": "KBS 1TV 동네 한 바퀴",
+  "airtime": "2026.10.24 (토) 방송 · 제391화 가을이 오래 머물다",
+  "status": "방송 장소",
+  "backdrop": "/img/town-391.jpg",
+  "thumb": "/img/town-391.jpg",
+  "badges": [
+    "391회 · 10.24",
+    "제391화 가을이 오래 머물다",
+    "전북 진안군"
+  ],
+  "facts": [
+    [
+      "상호",
+      "사양제"
+    ],
+    [
+      "지역",
+      "전북 진안군"
+    ],
+    [
+      "주소",
+      "전북 진안군 진안읍 단양리 663-1"
+    ],
+    [
+      "방송",
+      "KBS 1TV 동네 한 바퀴 391회 (2026.10.24 (토))"
+    ],
+    [
+      "코너",
+      "제391화 가을이 오래 머물다"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>사양제</b>은(는) 2026.10.24 (토) KBS 1TV 동네 한 바퀴 391회 「제391화 가을이 오래 머물다」(전북특별자치도 진안군) 편에 나온 곳입니다. 주소는 <b>전북 진안군 진안읍 단양리 663-1</b>입니다. KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "391회 다시보기",
+      "sub": "KBS 공식 · 10.24 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/town/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2018-0429&program_id=PS-2026171823-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%82%AC%EC%96%91%EC%A0%9C%20%EC%A0%84%EB%B6%81%20%EC%A7%84%EC%95%88%EA%B5%B0"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11417",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%82%AC%EC%96%91%EC%A0%9C%20%EC%A0%84%EB%B6%81%20%EC%A7%84%EC%95%88%EA%B5%B0",
+      "kind": "map"
+    },
+    {
+      "label": "동네 한 바퀴 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/town",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "사양제 동네 한바퀴 어느 코너에 나왔나요?",
+      "lead": "2026.10.24 (토) KBS 1TV 동네 한 바퀴 391회 「제391화 가을이 오래 머물다」(전북특별자치도 진안군) 편에 나온 곳입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.10.24 (토)"
+          ],
+          [
+            "회차",
+            "391회"
+          ],
+          [
+            "코너",
+            "제391화 가을이 오래 머물다"
+          ],
+          [
+            "코너 제목",
+            "전북특별자치도 진안군"
+          ],
+          [
+            "KBS 표기",
+            "사양제"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "상호·주소·전화는 KBS 시청자상담실 「방송정보」의 2026.10.24 (토)자 동네 한 바퀴 취재 연락처 그대로입니다."
+      ],
+      "images": [
+        {
+          "src": "/img/town-391.jpg",
+          "cap": "동네 한 바퀴 391회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/town/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2018-0429&program_id=PS-2026171823-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04",
+          "kind": "kbs",
+          "label": "391회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "391회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/town/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2018-0429&program_id=PS-2026171823-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11417"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "사양제 위치·주소·전화번호는?",
+      "lead": "주소는 전북 진안군 진안읍 단양리 663-1입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "사양제"
+          ],
+          [
+            "주소",
+            "전북 진안군 진안읍 단양리 663-1"
+          ],
+          [
+            "지역",
+            "전북 진안군"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "아래 지도 버튼을 누르면 이 주소로 바로 검색됩니다."
+      ],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%82%AC%EC%96%91%EC%A0%9C%20%EC%A0%84%EB%B6%81%20%EC%A7%84%EC%95%88%EA%B5%B0"
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "가격·영업시간·주차",
+      "heading": "사양제 가격·영업시간·주차는?",
+      "lead": "KBS 방송정보에는 이 곳의 가격·영업시간·주차가 나오지 않아 적지 않았습니다.",
+      "table": {
+        "head": [
+          "확인할 것",
+          "확인하는 곳"
+        ],
+        "rows": [
+          [
+            "영업시간 · 휴무일",
+            "지도 앱의 가게 정보 또는 전화"
+          ],
+          [
+            "메뉴 가격",
+            "지도 앱의 메뉴판 또는 전화"
+          ],
+          [
+            "주차 · 예약",
+            "전화"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%82%AC%EC%96%91%EC%A0%9C%20%EC%A0%84%EB%B6%81%20%EC%A7%84%EC%95%88%EA%B5%B0"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "10.24 방송 전체",
+      "heading": "10.24 동네 한 바퀴에 나온 곳은 어디인가요?",
+      "lead": "391회 KBS 방송정보에 올라온 곳은 모두 10곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "진안홍삼축제",
+            "제391화 가을이 오래 머물다",
+            "—"
+          ],
+          [
+            "<a href=\"/town-391-1/\">마이카트체험장</a>",
+            "제391화 가을이 오래 머물다",
+            "전북 진안군 진안읍 단양리 820"
+          ],
+          [
+            "<a href=\"/town-391-2/\">사양제</a>",
+            "제391화 가을이 오래 머물다",
+            "전북 진안군 진안읍 단양리 663-1"
+          ],
+          [
+            "<a href=\"/town-391-3/\">마조마을</a>",
+            "제391화 가을이 오래 머물다",
+            "전북 진안군 정천면 봉학리 1088"
+          ],
+          [
+            "<a href=\"/town-391-4/\">진안가위박물관</a>",
+            "제391화 가을이 오래 머물다",
+            "전북 진안군 진안읍 단양리 690-15"
+          ],
+          [
+            "<a href=\"/town-391-5/\">농민후계자홍삼</a>",
+            "제391화 가을이 오래 머물다",
+            "전북 진안군 진안읍 군하리 285-14"
+          ],
+          [
+            "<a href=\"/town-391-6/\">마이산힐링하우스</a>",
+            "홍삼돈가스, 인삼샐러드",
+            "전북 진안군 진안읍 단양리 681"
+          ],
+          [
+            "<a href=\"/town-391-7/\">섬바위</a>",
+            "제391화 가을이 오래 머물다",
+            "전북 진안군 안천면 삼락리 1159-1"
+          ],
+          [
+            "<a href=\"/town-391-8/\">섬바위가든</a>",
+            "매운탕",
+            "전북 진안군 용담면 송풍리 1122-1"
+          ],
+          [
+            "<a href=\"/town-391-9/\">영웅문식품</a>",
+            "가시오가피",
+            "전북 진안군 백운면 동창리 661-6"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "10.24 동네 한바퀴 총정리",
+          "url": "/town-391/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 동네 한 바퀴는 매주 토요일 오후 7시 10분 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "주소와 전화번호 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.10.24 (토)자 동네 한 바퀴 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "town-391-1",
+      "name": "마이카트체험장",
+      "desc": "10.24 · 제391화 가을이 오래 머물다"
+    },
+    {
+      "slug": "town-391-3",
+      "name": "마조마을",
+      "desc": "10.24 · 제391화 가을이 오래 머물다"
+    },
+    {
+      "slug": "town-391-4",
+      "name": "진안가위박물관",
+      "desc": "10.24 · 제391화 가을이 오래 머물다"
+    },
+    {
+      "slug": "town-391-5",
+      "name": "농민후계자홍삼",
+      "desc": "10.24 · 제391화 가을이 오래 머물다"
+    },
+    {
+      "slug": "town-391-6",
+      "name": "마이산힐링하우스",
+      "desc": "10.24 · 홍삼돈가스, 인삼샐러드"
+    },
+    {
+      "slug": "town-391-7",
+      "name": "섬바위",
+      "desc": "10.24 · 제391화 가을이 오래 머물다"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.10.24 (토) 동네 한 바퀴 취재 연락처) · KBS 공식 회차 데이터(391회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-10-27",
+  "updatedAt": "2026-10-27T14:50:55+09:00"
+}
