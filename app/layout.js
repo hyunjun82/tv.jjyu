@@ -25,7 +25,7 @@ const siteJsonLd = {
   ],
 };
 
-const NAV = [['오늘의 이슈', '/cat/issue/'], ['방송 맛집', '/cat/food/'], ['예능', '/cat/variety/'], ['드라마', '/cat/drama/'], ['나는솔로', '/cat/nasolo/']];
+const NAV = [['오늘의 이슈', '/cat/issue/'], ['방송 맛집', '/food/'], ['예능', '/cat/variety/'], ['드라마', '/cat/drama/'], ['나는솔로', '/cat/nasolo/']];
 
 export default function RootLayout({ children }) {
   return (

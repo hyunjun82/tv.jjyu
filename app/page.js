@@ -31,7 +31,7 @@ export default function Home() {
 
   return (
     <main className="wrap">
-      <div className="hbar"><a className="on" href="/">전체</a><a href="/cat/issue/">오늘의 이슈</a><a href="/cat/food/">방송 맛집</a><a href="/cat/variety/">예능</a><a href="/cat/drama/">드라마</a><a href="/cat/nasolo/">나는솔로 기수별</a><a href="/#today">이번 주 편성</a></div>
+      <div className="hbar"><a className="on" href="/">전체</a><a href="/cat/issue/">오늘의 이슈</a><a href="/food/">방송 맛집</a><a href="/cat/variety/">예능</a><a href="/cat/drama/">드라마</a><a href="/cat/nasolo/">나는솔로 기수별</a><a href="/#today">이번 주 편성</a></div>
 
       <div className="top" id="issue">
         {feat && (
@@ -65,7 +65,7 @@ export default function Home() {
 
       {places.length > 0 && (
         <section className="sec" id="food">
-          <h2>오늘 방송 맛집 <small>생방송 투데이 · 방송사 공식 방송정보 기준</small><a className="more" href="/cat/food/">전체 보기 ›</a></h2>
+          <h2>오늘 방송 맛집 <small>6시 내고향 · 동네 한바퀴 · 생방송투데이 · 생생정보 · 생활의 달인 · 한국인의 밥상</small><a className="more" href="/food/">전체 보기 ›</a></h2>
           <div className="row">{places.map((p) => (
             <div className="pc" key={p.slug}>
               <a className="th" href={`/${p.slug}/`}><img src={p.thumb} alt={p.name} loading="lazy" /><span className="st" style={{ background: 'var(--map)' }}>{p.airtime.split(' 방송')[0]}</span><span className="ch">{p.badges[1]}</span></a>

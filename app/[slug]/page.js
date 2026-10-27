@@ -103,7 +103,7 @@ export default async function ProgramPage({ params }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <Tabs />
       <div className="wrap">
-        <div className="crumb"><a href="/">홈</a><span>›</span><a href={p.type === 'place' ? '/cat/food/' : p.type === 'issue' ? '/cat/issue/' : p.category === '예능' ? '/cat/variety/' : '/cat/drama/'}>{p.type === 'place' ? '방송 맛집' : p.type === 'issue' ? '오늘의 이슈' : p.category}</a>{p.series && <><span>›</span><span>{p.series}</span></>}<span>›</span><span>{p.shortName || p.name}</span></div>
+        <div className="crumb"><a href="/">홈</a><span>›</span><a href={p.type === 'place' ? (p.program ? `/food/${p.program}/` : '/food/') : p.type === 'issue' ? '/cat/issue/' : p.category === '예능' ? '/cat/variety/' : '/cat/drama/'}>{p.type === 'place' ? '방송 맛집' : p.type === 'issue' ? '오늘의 이슈' : p.category}</a>{p.series && <><span>›</span><span>{p.series}</span></>}<span>›</span><span>{p.shortName || p.name}</span></div>
         <div className="hero">
           <div className="info">
             {isIssue
