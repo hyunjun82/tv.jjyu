@@ -1,0 +1,251 @@
+{
+  "slug": "sixhour-8649",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 10월 27일 오늘 방송 맛집 위치 전화번호 총정리",
+  "name": "6시 내고향 10월 27일 8649회 방송 맛집·장소",
+  "shortName": "10.27 6시 내고향 8649회",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.10.27 (화) · 8649회",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8649.jpg",
+  "thumb": "/img/sixhour-8649.jpg",
+  "badges": [
+    "8649회 · 10.27",
+    "6곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8649회"
+    ],
+    [
+      "방송일",
+      "2026.10.27 (화)"
+    ],
+    [
+      "소개된 곳",
+      "6곳 (KBS 방송정보 기준)"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.10.27 (화) KBS 1TV 6시 내고향 8649회에 나온 곳은 <b>6곳</b>입니다. <b>밀양꾸지뽕영농</b>, <b>괴산 산막이마을</b>, <b>괴산 산막이옛길</b>, <b>괴산 산막이느티나무집</b>, <b>성주 선바위</b>, <b>솔별농장</b> 등이며, 상호·주소·전화는 KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8649회 다시보기",
+      "sub": "KBS 공식 · 10.27 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183629-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11420"
+    }
+  ],
+  "quick": [
+    {
+      "label": "괴산 산막이마을",
+      "url": "/sixhour-8649-1/",
+      "kind": "map"
+    },
+    {
+      "label": "괴산 산막이옛길",
+      "url": "/sixhour-8649-2/",
+      "kind": "map"
+    },
+    {
+      "label": "괴산 산막이느티나무집",
+      "url": "/sixhour-8649-3/",
+      "kind": "map"
+    },
+    {
+      "label": "성주 선바위",
+      "url": "/sixhour-8649-4/",
+      "kind": "map"
+    },
+    {
+      "label": "솔별농장",
+      "url": "/sixhour-8649-5/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "10월 27일 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8649회 KBS 방송정보에 올라온 곳은 6곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "밀양꾸지뽕영농",
+            "꾸지뽕",
+            "—",
+            "055-354-9333 (010-9097-7934)"
+          ],
+          [
+            "<a href=\"/sixhour-8649-1/\">괴산 산막이마을</a>",
+            "마을",
+            "충청북도 괴산군 칠성면 사은리 산48-1",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8649-2/\">괴산 산막이옛길</a>",
+            "옛길",
+            "충북 괴산군 칠성면 사은리 522",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8649-3/\">괴산 산막이느티나무집</a>",
+            "식당",
+            "충북 괴산군 칠성면 산막이옛길 315-10",
+            "010-9607-2012"
+          ],
+          [
+            "<a href=\"/sixhour-8649-4/\">성주 선바위</a>",
+            "명소",
+            "경상북도 성주군 금수강산면 영천리 산186",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8649-5/\">솔별농장</a>",
+            "아욱",
+            "강원특별자치도 원주시 신림면 석동구미길 97-1",
+            "010-5391-5111"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8649.jpg",
+          "cap": "6시 내고향 8649회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183629-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8649회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8649회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183629-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11420"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "10.27 6시 내고향 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "아낌없이 주는 꾸지뽕",
+            "밀양꾸지뽕영농"
+          ],
+          [
+            "추억 복원소 - 산막이옛길에는 추억이 쌓이고",
+            "<a href=\"/sixhour-8649-1/\">괴산 산막이마을</a>, <a href=\"/sixhour-8649-2/\">괴산 산막이옛길</a>, <a href=\"/sixhour-8649-3/\">괴산 산막이느티나무집</a>"
+          ],
+          [
+            "달려라 고향버스",
+            "<a href=\"/sixhour-8649-4/\">성주 선바위</a>"
+          ],
+          [
+            "홍보 장사 만만세 - 아욱 하나면 밥상 걱정 아웃!",
+            "<a href=\"/sixhour-8649-5/\">솔별농장</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "6시 내고향는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 6시 내고향는 평일 오후 6시 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "8649회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8649회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183629-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "6시 내고향 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 6시 내고향는 평일 오후 6시 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "가게 정보 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.10.27 (화)자 6시 내고향 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8649-1",
+      "name": "괴산 산막이마을",
+      "desc": "10.27 · 마을"
+    },
+    {
+      "slug": "sixhour-8649-2",
+      "name": "괴산 산막이옛길",
+      "desc": "10.27 · 옛길"
+    },
+    {
+      "slug": "sixhour-8649-3",
+      "name": "괴산 산막이느티나무집",
+      "desc": "10.27 · 식당"
+    },
+    {
+      "slug": "sixhour-8649-4",
+      "name": "성주 선바위",
+      "desc": "10.27 · 명소"
+    },
+    {
+      "slug": "sixhour-8649-5",
+      "name": "솔별농장",
+      "desc": "10.27 · 아욱"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.10.27 (화)) · KBS 공식 회차 데이터(8649회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-10-27",
+  "updatedAt": "2026-10-27T20:16:27+09:00"
+}

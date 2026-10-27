@@ -1,0 +1,307 @@
+{
+  "slug": "sixhour-8649-4",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 성주 선바위 위치 주소 10월 27일 명소",
+  "name": "성주 선바위",
+  "shortName": "성주 선바위",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.10.27 (화) 방송 · 달려라 고향버스",
+  "status": "방송 장소",
+  "backdrop": "/img/sixhour-8649.jpg",
+  "thumb": "/img/sixhour-8649.jpg",
+  "badges": [
+    "8649회 · 10.27",
+    "달려라 고향버스",
+    "경상북도 성주군"
+  ],
+  "facts": [
+    [
+      "상호",
+      "성주 선바위"
+    ],
+    [
+      "방송 메뉴",
+      "명소"
+    ],
+    [
+      "지역",
+      "경상북도 성주군"
+    ],
+    [
+      "주소",
+      "경상북도 성주군 금수강산면 영천리 산186"
+    ],
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8649회 (2026.10.27 (화))"
+    ],
+    [
+      "코너",
+      "달려라 고향버스"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>성주 선바위</b>은(는) 2026.10.27 (화) KBS 1TV 6시 내고향 8649회 「달려라 고향버스」 편에 나온 곳입니다. 방송 메뉴는 「명소」입니다. 주소는 <b>경상북도 성주군 금수강산면 영천리 산186</b>입니다. KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8649회 다시보기",
+      "sub": "KBS 공식 · 10.27 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183629-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%84%B1%EC%A3%BC%20%EC%84%A0%EB%B0%94%EC%9C%84%20%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%EC%84%B1%EC%A3%BC%EA%B5%B0"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11420",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%84%B1%EC%A3%BC%20%EC%84%A0%EB%B0%94%EC%9C%84%20%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%EC%84%B1%EC%A3%BC%EA%B5%B0",
+      "kind": "map"
+    },
+    {
+      "label": "6시 내고향 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "성주 선바위 6시 내고향 어느 코너에 나왔나요?",
+      "lead": "2026.10.27 (화) KBS 1TV 6시 내고향 8649회 「달려라 고향버스」 편에 나온 곳입니다. 방송에서 소개된 메뉴는 「명소」입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.10.27 (화)"
+          ],
+          [
+            "회차",
+            "8649회"
+          ],
+          [
+            "코너",
+            "달려라 고향버스"
+          ],
+          [
+            "방송 메뉴",
+            "명소"
+          ],
+          [
+            "KBS 표기",
+            "명소 문의 (성주 선바위)"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "상호·주소·전화는 KBS 시청자상담실 「방송정보」의 2026.10.27 (화)자 6시 내고향 취재 연락처 그대로입니다."
+      ],
+      "images": [
+        {
+          "src": "/img/sixhour-8649.jpg",
+          "cap": "6시 내고향 8649회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183629-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8649회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8649회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183629-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11420"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "성주 선바위 위치·주소·전화번호는?",
+      "lead": "주소는 경상북도 성주군 금수강산면 영천리 산186입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "성주 선바위"
+          ],
+          [
+            "주소",
+            "경상북도 성주군 금수강산면 영천리 산186"
+          ],
+          [
+            "지역",
+            "경상북도 성주군"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "아래 지도 버튼을 누르면 이 주소로 바로 검색됩니다."
+      ],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%84%B1%EC%A3%BC%20%EC%84%A0%EB%B0%94%EC%9C%84%20%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%EC%84%B1%EC%A3%BC%EA%B5%B0"
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "가격·영업시간·주차",
+      "heading": "성주 선바위 가격·영업시간·주차는?",
+      "lead": "KBS 방송정보에는 이 곳의 가격·영업시간·주차가 나오지 않아 적지 않았습니다.",
+      "table": {
+        "head": [
+          "확인할 것",
+          "확인하는 곳"
+        ],
+        "rows": [
+          [
+            "영업시간 · 휴무일",
+            "지도 앱의 가게 정보 또는 전화"
+          ],
+          [
+            "메뉴 가격",
+            "지도 앱의 메뉴판 또는 전화"
+          ],
+          [
+            "주차 · 예약",
+            "전화"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%84%B1%EC%A3%BC%20%EC%84%A0%EB%B0%94%EC%9C%84%20%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%EC%84%B1%EC%A3%BC%EA%B5%B0"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "10.27 방송 전체",
+      "heading": "10.27 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8649회 KBS 방송정보에 올라온 곳은 모두 6곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "밀양꾸지뽕영농",
+            "꾸지뽕",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8649-1/\">괴산 산막이마을</a>",
+            "마을",
+            "충청북도 괴산군 칠성면 사은리 산48-1"
+          ],
+          [
+            "<a href=\"/sixhour-8649-2/\">괴산 산막이옛길</a>",
+            "옛길",
+            "충북 괴산군 칠성면 사은리 522"
+          ],
+          [
+            "<a href=\"/sixhour-8649-3/\">괴산 산막이느티나무집</a>",
+            "식당",
+            "충북 괴산군 칠성면 산막이옛길 315-10"
+          ],
+          [
+            "<a href=\"/sixhour-8649-4/\">성주 선바위</a>",
+            "명소",
+            "경상북도 성주군 금수강산면 영천리 산186"
+          ],
+          [
+            "<a href=\"/sixhour-8649-5/\">솔별농장</a>",
+            "아욱",
+            "강원특별자치도 원주시 신림면 석동구미길 97-1"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "10.27 6시 내고향 총정리",
+          "url": "/sixhour-8649/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 6시 내고향는 평일 오후 6시 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "주소와 전화번호 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.10.27 (화)자 6시 내고향 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8649-1",
+      "name": "괴산 산막이마을",
+      "desc": "10.27 · 마을"
+    },
+    {
+      "slug": "sixhour-8649-2",
+      "name": "괴산 산막이옛길",
+      "desc": "10.27 · 옛길"
+    },
+    {
+      "slug": "sixhour-8649-3",
+      "name": "괴산 산막이느티나무집",
+      "desc": "10.27 · 식당"
+    },
+    {
+      "slug": "sixhour-8649-5",
+      "name": "솔별농장",
+      "desc": "10.27 · 아욱"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.10.27 (화) 6시 내고향 취재 연락처) · KBS 공식 회차 데이터(8649회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-10-27",
+  "updatedAt": "2026-10-27T20:16:27+09:00"
+}
