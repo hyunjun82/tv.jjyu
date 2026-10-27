@@ -56,6 +56,7 @@ jobs:
         run: |
           pip install --quiet 'pillow>=11.2' || true
           python3 scripts/collect_shows.py --days 7
+          python3 scripts/build_place.py
       - name: 새 페이지 커밋
         id: commit
         continue-on-error: true

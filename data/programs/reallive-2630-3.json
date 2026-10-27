@@ -5,28 +5,32 @@
   "series": "2TV 생생정보",
   "seriesSlug": "reallive",
   "program": "reallive",
-  "title": "생생정보 고구마줄기 감자탕 뼈집 위치 전화번호 10월 23일",
+  "title": "생생정보 맛집 미추홀구 고구마줄기 감자탕 뼈집 고구마줄기감자탕 영업시간",
   "name": "고구마줄기 감자탕 뼈집",
   "shortName": "고구마줄기 감자탕 뼈집",
   "subtitle": "",
-  "channel": "KBS 2TV 2TV 생생정보",
-  "airtime": "2026.10.23 (금) 방송 · 맛집 맞수다",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.10.23 (금) 방송",
   "status": "방송 맛집",
   "backdrop": "/img/reallive-2630.jpg",
   "thumb": "/img/reallive-2630.jpg",
   "badges": [
-    "2630회 · 10.23",
-    "맛집 맞수다",
-    "인천광역시 미추홀구"
+    "생생정보",
+    "인천 미추홀구",
+    "감자탕"
   ],
   "facts": [
     [
-      "상호",
-      "고구마줄기 감자탕 뼈집"
+      "방송 메뉴",
+      "고구마줄기감자탕"
     ],
     [
-      "지역",
-      "인천광역시 미추홀구"
+      "영업시간",
+      "매일 07:00 ~ 23:00"
+    ],
+    [
+      "휴무",
+      "정기 휴무 표기 없음"
     ],
     [
       "주소",
@@ -37,50 +41,55 @@
       "032-872-3334"
     ],
     [
-      "방송",
-      "KBS 2TV 2TV 생생정보 2630회 (2026.10.23 (금))"
+      "가까운 역",
+      "주안역 4번 출구에서 239m · 도보 4분"
     ],
     [
-      "코너",
-      "맛집 맞수다"
+      "분류",
+      "감자탕"
+    ],
+    [
+      "방송",
+      "KBS 2TV 생생정보 2630회 · 2026.10.23 (금) · 맛집 맞수다"
     ]
   ],
   "next": null,
-  "intro": "<b>고구마줄기 감자탕 뼈집</b>은(는) 2026.10.23 (금) KBS 2TV 2TV 생생정보 2630회 「맛집 맞수다」(뼈대 있는 한판 대결! 김치등갈비찜 vs 고구마줄기감자탕) 편에 나온 곳입니다. 주소는 <b>인천광역시 미추홀구 석정로 414 1층</b>, 전화는 <b>032-872-3334</b>입니다. KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "intro": "<b>고구마줄기 감자탕 뼈집</b>은(는) 인천 미추홀구 주안동의 감자탕 집입니다. 영업시간은 매일 07:00 ~ 23:00, 휴무는 정기 휴무 표기 없음. 주안역 4번 출구에서 239m · 도보 4분. 2026.10.23 (금) KBS 2TV 생생정보 2630회 「맛집 맞수다」에 나왔습니다.",
   "ctas": [
-    {
-      "kind": "kbs",
-      "label": "2630회 다시보기",
-      "sub": "KBS 공식 · 10.23 방송",
-      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026191023-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
-    },
-    {
-      "kind": "map",
-      "label": "네이버 지도로 보기",
-      "sub": "위치 · 길찾기",
-      "url": "https://map.naver.com/p/search/%EA%B3%A0%EA%B5%AC%EB%A7%88%EC%A4%84%EA%B8%B0%20%EA%B0%90%EC%9E%90%ED%83%95%20%EB%BC%88%EC%A7%91%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC"
-    },
     {
       "kind": "tel",
       "label": "전화 걸기",
       "sub": "032-872-3334",
       "url": "tel:0328723334"
+    },
+    {
+      "kind": "map",
+      "label": "카카오맵 길찾기",
+      "sub": "영업시간 · 메뉴",
+      "url": "https://place.map.kakao.com/387910364"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도",
+      "sub": "위치 보기",
+      "url": "https://map.naver.com/p/search/%EA%B3%A0%EA%B5%AC%EB%A7%88%EC%A4%84%EA%B8%B0%20%EA%B0%90%EC%9E%90%ED%83%95%20%EB%BC%88%EC%A7%91%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%84%9D%EC%A0%95%EB%A1%9C%20414%201%EC%B8%B5"
+    },
+    {
+      "kind": "kbs",
+      "label": "2630회 다시보기",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026191023-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+      "sub": "KBS 공식 · 10.23 방송"
     }
   ],
   "quick": [
     {
-      "label": "KBS 공식 방송정보",
-      "url": "https://iaudience.kbs.co.kr/broadcast/11416",
-      "kind": "link"
-    },
-    {
-      "label": "카카오맵에서 보기",
-      "url": "https://map.kakao.com/?q=%EA%B3%A0%EA%B5%AC%EB%A7%88%EC%A4%84%EA%B8%B0%20%EA%B0%90%EC%9E%90%ED%83%95%20%EB%BC%88%EC%A7%91%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC",
+      "label": "카카오맵 장소 정보",
+      "url": "https://place.map.kakao.com/387910364",
       "kind": "map"
     },
     {
-      "label": "2TV 생생정보 공식 홈페이지",
-      "url": "https://program.kbs.co.kr/2tv/culture/reallive",
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11416",
       "kind": "link"
     }
   ],
@@ -88,10 +97,111 @@
   "ott": [],
   "sections": [
     {
-      "id": "sec1",
+      "id": "hours",
+      "tab": "영업시간·휴무",
+      "heading": "고구마줄기 감자탕 뼈집 영업시간과 휴무일은?",
+      "lead": "영업시간은 매일 07:00 ~ 23:00입니다. 휴무는 정기 휴무 표기 없음.",
+      "table": {
+        "head": [
+          "요일",
+          "영업시간"
+        ],
+        "rows": [
+          [
+            "월",
+            "07:00 ~ 23:00"
+          ],
+          [
+            "화",
+            "07:00 ~ 23:00"
+          ],
+          [
+            "수",
+            "07:00 ~ 23:00"
+          ],
+          [
+            "목",
+            "07:00 ~ 23:00"
+          ],
+          [
+            "금",
+            "07:00 ~ 23:00"
+          ],
+          [
+            "토",
+            "07:00 ~ 23:00"
+          ],
+          [
+            "일",
+            "07:00 ~ 23:00"
+          ]
+        ],
+        "cls": "hours"
+      },
+      "paragraphs": [
+        "카카오맵 영업정보 기준입니다(2026-10-27 확인). 공휴일·명절 영업은 전화로 확인하세요."
+      ],
+      "actions": [
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "032-872-3334",
+          "url": "tel:0328723334"
+        }
+      ]
+    },
+    {
+      "id": "way",
+      "tab": "주차·가는 길",
+      "heading": "고구마줄기 감자탕 뼈집 주차되나요? 가는 길은?",
+      "lead": "주차 정보는 확인되지 않았습니다. 주안역 4번 출구에서 239m · 도보 4분.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "주소",
+            "인천광역시 미추홀구 석정로 414 1층"
+          ],
+          [
+            "지번",
+            "주안동 24-26"
+          ],
+          [
+            "가까운 역",
+            "주안역 4번 출구에서 239m · 도보 4분"
+          ],
+          [
+            "전화",
+            "032-872-3334"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "주소·전화는 방송사 공식 방송정보, 주차·역·시설은 카카오맵 정보입니다."
+      ],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "카카오맵 길찾기",
+          "sub": "영업시간 · 메뉴",
+          "url": "https://place.map.kakao.com/387910364"
+        },
+        {
+          "kind": "map",
+          "label": "네이버 지도",
+          "sub": "위치 보기",
+          "url": "https://map.naver.com/p/search/%EA%B3%A0%EA%B5%AC%EB%A7%88%EC%A4%84%EA%B8%B0%20%EA%B0%90%EC%9E%90%ED%83%95%20%EB%BC%88%EC%A7%91%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%84%9D%EC%A0%95%EB%A1%9C%20414%201%EC%B8%B5"
+        }
+      ]
+    },
+    {
+      "id": "tv",
       "tab": "방송 내용",
-      "heading": "고구마줄기 감자탕 뼈집 생생정보 어느 코너에 나왔나요?",
-      "lead": "2026.10.23 (금) KBS 2TV 2TV 생생정보 2630회 「맛집 맞수다」(뼈대 있는 한판 대결! 김치등갈비찜 vs 고구마줄기감자탕) 편에 나온 곳입니다.",
+      "heading": "고구마줄기 감자탕 뼈집 생생정보 몇 회에 나왔나요?",
+      "lead": "2026.10.23 (금) KBS 2TV 생생정보 2630회 「맛집 맞수다」 편에 나왔습니다.",
       "table": {
         "head": [
           "항목",
@@ -109,20 +219,10 @@
           [
             "코너",
             "맛집 맞수다"
-          ],
-          [
-            "코너 제목",
-            "뼈대 있는 한판 대결! 김치등갈비찜 vs 고구마줄기감자탕"
-          ],
-          [
-            "KBS 표기",
-            "고구마줄기 감자탕 뼈집"
           ]
         ]
       },
-      "paragraphs": [
-        "상호·주소·전화는 KBS 시청자상담실 「방송정보」의 2026.10.23 (금)자 2TV 생생정보 취재 연락처 그대로입니다."
-      ],
+      "paragraphs": [],
       "images": [
         {
           "src": "/img/reallive-2630.jpg",
@@ -137,157 +237,58 @@
         {
           "kind": "kbs",
           "label": "2630회 다시보기",
-          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026191023-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026191023-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "sub": "KBS 공식 · 10.23 방송"
         },
         {
           "kind": "link",
-          "label": "KBS 공식 방송정보 원문",
+          "label": "KBS 공식 방송정보",
           "url": "https://iaudience.kbs.co.kr/broadcast/11416"
         }
       ]
     },
     {
-      "id": "sec2",
-      "tab": "위치·전화",
-      "heading": "고구마줄기 감자탕 뼈집 위치·주소·전화번호는?",
-      "lead": "주소는 인천광역시 미추홀구 석정로 414 1층입니다. 전화는 032-872-3334입니다.",
+      "id": "same",
+      "tab": "같은 날 방송",
+      "heading": "2026.10.23 생생정보에 같이 나온 곳은?",
+      "lead": "같은 회차(2630회)에 나온 곳입니다.",
+      "paragraphs": [],
       "table": {
         "head": [
-          "항목",
+          "상호",
           "내용"
         ],
         "rows": [
           [
-            "상호",
-            "고구마줄기 감자탕 뼈집"
-          ],
-          [
-            "주소",
-            "인천광역시 미추홀구 석정로 414 1층"
-          ],
-          [
-            "지역",
-            "인천광역시 미추홀구"
-          ],
-          [
-            "전화",
-            "032-872-3334"
-          ]
-        ]
-      },
-      "paragraphs": [
-        "아래 지도 버튼을 누르면 이 주소로 바로 검색됩니다."
-      ],
-      "actions": [
-        {
-          "kind": "map",
-          "label": "네이버 지도로 보기",
-          "sub": "위치 · 길찾기",
-          "url": "https://map.naver.com/p/search/%EA%B3%A0%EA%B5%AC%EB%A7%88%EC%A4%84%EA%B8%B0%20%EA%B0%90%EC%9E%90%ED%83%95%20%EB%BC%88%EC%A7%91%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC"
-        },
-        {
-          "kind": "tel",
-          "label": "전화 걸기",
-          "sub": "032-872-3334",
-          "url": "tel:0328723334"
-        }
-      ]
-    },
-    {
-      "id": "sec3",
-      "tab": "가격·영업시간·주차",
-      "heading": "고구마줄기 감자탕 뼈집 가격·영업시간·주차는?",
-      "lead": "KBS 방송정보에는 이 곳의 가격·영업시간·주차가 나오지 않아 적지 않았습니다.",
-      "table": {
-        "head": [
-          "확인할 것",
-          "확인하는 곳"
-        ],
-        "rows": [
-          [
-            "영업시간 · 휴무일",
-            "지도 앱의 가게 정보 또는 전화"
-          ],
-          [
-            "메뉴 가격",
-            "지도 앱의 메뉴판 또는 전화"
-          ],
-          [
-            "주차 · 예약",
-            "전화 (032-872-3334)"
-          ]
-        ]
-      },
-      "paragraphs": [],
-      "actions": [
-        {
-          "kind": "map",
-          "label": "네이버 지도로 보기",
-          "sub": "위치 · 길찾기",
-          "url": "https://map.naver.com/p/search/%EA%B3%A0%EA%B5%AC%EB%A7%88%EC%A4%84%EA%B8%B0%20%EA%B0%90%EC%9E%90%ED%83%95%20%EB%BC%88%EC%A7%91%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC"
-        },
-        {
-          "kind": "tel",
-          "label": "전화 걸기",
-          "sub": "032-872-3334",
-          "url": "tel:0328723334"
-        }
-      ]
-    },
-    {
-      "id": "sec4",
-      "tab": "10.23 방송 전체",
-      "heading": "10.23 2TV 생생정보에 나온 곳은 어디인가요?",
-      "lead": "2630회 KBS 방송정보에 올라온 곳은 모두 7곳입니다.",
-      "table": {
-        "head": [
-          "상호",
-          "방송 메뉴·코너",
-          "주소"
-        ],
-        "rows": [
-          [
-            "<a href=\"/reallive-2630-1/\">사과샐러드빵</a>",
-            "바로구운빵",
-            "경기도 이천시 관고동 9-27"
+            "<a href=\"/reallive-2630-1/\">바로구운빵</a>",
+            "10.23 · 사과샐러드빵"
           ],
           [
             "<a href=\"/reallive-2630-2/\">사거리매운양푼등갈비찜 본점</a>",
-            "맛집 맞수다",
-            "서울특별시 광진구 긴고랑로 30 우일빌딩1층"
-          ],
-          [
-            "<a href=\"/reallive-2630-3/\">고구마줄기 감자탕 뼈집</a>",
-            "맛집 맞수다",
-            "인천광역시 미추홀구 석정로 414 1층"
+            "10.23 · 맛집 맞수다"
           ],
           [
             "<a href=\"/reallive-2630-4/\">회곡양조장</a>",
-            "해피 벌(고)쓰(고)데이",
-            "경상북도 안동시 풍산읍 산업단지5길 39"
+            "10.23 · 해피 벌(고)쓰(고)데이"
           ],
           [
             "<a href=\"/reallive-2630-5/\">종가찜닭</a>",
-            "해피 벌(고)쓰(고)데이",
-            "경상북도 안동시 번영길 11"
+            "10.23 · 해피 벌(고)쓰(고)데이"
           ],
           [
             "<a href=\"/reallive-2630-6/\">안동하회마을</a>",
-            "해피 벌(고)쓰(고)데이",
-            "경상북도 안동시 풍천면 전서로 186"
+            "10.23 · 해피 벌(고)쓰(고)데이"
           ],
           [
             "<a href=\"/reallive-2630-7/\">잉매힐스사과농원</a>",
-            "나나랜드",
-            "강원특별자치도 정선군 임계면 송원동길 12-26"
+            "10.23 · 나나랜드"
           ]
         ]
       },
-      "paragraphs": [],
       "actions": [
         {
           "kind": "link",
-          "label": "10.23 생생정보 총정리",
+          "label": "2630회 방송 맛집 총정리",
           "url": "/reallive-2630/"
         }
       ]
@@ -297,19 +298,23 @@
   "episodes": [],
   "faq": [
     {
-      "q": "몇 시 방송인가요?",
-      "a": "KBS 2TV 2TV 생생정보는 평일 오후 6시 35분 방송입니다(KBS 공식 회차 편성)."
+      "q": "고구마줄기 감자탕 뼈집 영업시간은?",
+      "a": "매일 07:00 ~ 23:00. 휴무: 정기 휴무 표기 없음. (카카오맵, 2026-10-27 확인)"
     },
     {
-      "q": "주소와 전화번호 출처는요?",
-      "a": "KBS 시청자상담실 「방송정보」 2026.10.23 (금)자 2TV 생생정보 취재 연락처입니다."
+      "q": "고구마줄기 감자탕 뼈집 가까운 역은?",
+      "a": "주안역 4번 출구에서 239m · 도보 4분"
+    },
+    {
+      "q": "고구마줄기 감자탕 뼈집 생생정보 몇 회에 나왔나요?",
+      "a": "2026.10.23 (금) 방송 2630회 「맛집 맞수다」입니다."
     }
   ],
   "related": [
     {
       "slug": "reallive-2630-1",
-      "name": "사과샐러드빵",
-      "desc": "10.23 · 바로구운빵"
+      "name": "바로구운빵",
+      "desc": "10.23 · 사과샐러드빵"
     },
     {
       "slug": "reallive-2630-2",
@@ -337,8 +342,75 @@
       "desc": "10.23 · 나나랜드"
     }
   ],
-  "source": "KBS 시청자상담실 방송정보(2026.10.23 (금) 2TV 생생정보 취재 연락처) · KBS 공식 회차 데이터(2630회 방송일·이미지·다시보기)",
+  "source": "KBS 시청자상담실 방송정보(2026.10.23 (금) 2TV 생생정보 취재 연락처) · KBS 공식 회차 데이터(2630회 방송일·이미지·다시보기) · 카카오맵 장소 정보(메뉴·가격·영업시간·주차·역, 2026-10-27 확인)",
   "imageCredit": "KBS 공식 회차 이미지",
   "checkedAt": "2026-10-27",
-  "updatedAt": "2026-10-27T14:50:55+09:00"
+  "updatedAt": "2026-10-27T15:15:08+09:00",
+  "broadcast": {
+    "program": "reallive",
+    "series": "2TV 생생정보",
+    "channel": "KBS 2TV 생생정보",
+    "date": "2026.10.23 (금)",
+    "no": "2630",
+    "corner": "맛집 맞수다",
+    "menu": "",
+    "topic": "뼈대 있는 한판 대결! 김치등갈비찜 vs 고구마줄기감자탕",
+    "name": "고구마줄기 감자탕 뼈집",
+    "addr": "인천광역시 미추홀구 석정로 414 1층",
+    "tel": "032-872-3334",
+    "official": [],
+    "vod": {
+      "kind": "kbs",
+      "label": "2630회 다시보기",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026191023-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+      "sub": "KBS 공식 · 10.23 방송"
+    },
+    "post": "https://iaudience.kbs.co.kr/broadcast/11416",
+    "postLabel": "KBS 공식 방송정보",
+    "ep": "/reallive-2630/",
+    "image": "/img/reallive-2630.jpg",
+    "imageCredit": "KBS 공식 회차 이미지",
+    "siblings": [
+      {
+        "slug": "reallive-2630-1",
+        "name": "바로구운빵",
+        "desc": "10.23 · 사과샐러드빵"
+      },
+      {
+        "slug": "reallive-2630-2",
+        "name": "사거리매운양푼등갈비찜 본점",
+        "desc": "10.23 · 맛집 맞수다"
+      },
+      {
+        "slug": "reallive-2630-4",
+        "name": "회곡양조장",
+        "desc": "10.23 · 해피 벌(고)쓰(고)데이"
+      },
+      {
+        "slug": "reallive-2630-5",
+        "name": "종가찜닭",
+        "desc": "10.23 · 해피 벌(고)쓰(고)데이"
+      },
+      {
+        "slug": "reallive-2630-6",
+        "name": "안동하회마을",
+        "desc": "10.23 · 해피 벌(고)쓰(고)데이"
+      },
+      {
+        "slug": "reallive-2630-7",
+        "name": "잉매힐스사과농원",
+        "desc": "10.23 · 나나랜드"
+      }
+    ],
+    "sourceBroadcast": "KBS 시청자상담실 방송정보(2026.10.23 (금) 2TV 생생정보 취재 연락처) · KBS 공식 회차 데이터(2630회 방송일·이미지·다시보기)",
+    "kind": "방송 맛집"
+  },
+  "store": {
+    "city": "인천 미추홀구",
+    "dong": "주안동",
+    "sig": "고구마줄기감자탕",
+    "cat": "감자탕",
+    "kakao": "https://place.map.kakao.com/387910364",
+    "checked": "2026-10-27"
+  }
 }

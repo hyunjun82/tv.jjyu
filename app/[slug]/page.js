@@ -6,6 +6,7 @@ import { goHref } from '../../lib/go';
 
 const SITE_URL = 'https://tv.jjyu.co.kr';
 const Html = ({ as: Tag = 'p', className, html }) => <Tag className={className} dangerouslySetInnerHTML={{ __html: html }} />;
+const TILE = ['대표 메뉴', '방송 메뉴', '가격대', '영업시간', '휴무', '주차', '가까운 역'];
 const strip = (s) => (s || '').replace(/<[^>]+>/g, '');
 
 export function generateStaticParams() { return getAllPrograms().map((p) => ({ slug: p.slug })); }
@@ -68,7 +69,7 @@ export default async function ProgramPage({ params }) {
         )}
         {s.castGrid && <div className="cast">{p.cast.filter((c) => c.group === s.castGrid).map((c) => <CastCard key={c.name} c={c} color={s.castGrid === 'men' ? 'var(--men)' : 'var(--women)'} />)}</div>}
         {s.castList && <div className="cast">{p.cast.map((c) => <CastCard key={c.name} c={c} color={c.group === 'main' ? 'var(--accent)' : 'var(--fg3)'} />)}</div>}
-        {s.table && <div className="table-wrap"><table><thead><tr>{s.table.head.map((h) => <th key={h}>{h}</th>)}</tr></thead><tbody>{s.table.rows.map((r, j) => <tr key={j}>{r.map((c, k) => <Html as="td" key={k} html={c} />)}</tr>)}</tbody></table></div>}
+        {s.table && <div className="table-wrap"><table className={`${s.table.head.length <= 2 ? 'c2' : ''} ${s.table.cls || ''}`}><thead><tr>{s.table.head.map((h) => <th key={h}>{h}</th>)}</tr></thead><tbody>{s.table.rows.map((r, j) => <tr key={j}>{r.map((c, k) => <Html as="td" key={k} html={c} />)}</tr>)}</tbody></table></div>}
         {s.ott && p.ott?.length > 0 && (
           <div className="ott">{p.ott.map((o) => { const k = kindOf(o.kind); return (
             <a key={o.name} href={goHref(o.url)}><span className="lg" style={{ background: k.bg }}>{k.lg}</span><span><div className="nm">{o.name}</div><div className="st">{o.status}</div></span><span className="arrow">›</span></a>); })}</div>
@@ -111,11 +112,12 @@ export default async function ProgramPage({ params }) {
             <h1>{p.title}</h1>
             <div className="sub">{isIssue ? <><b>{p.dateLabel}</b><span>·</span><span>{p.channel}</span>{p.firstReport && <><span>·</span><span>최초 보도 {p.firstReport}</span></>}</> : <><b>{p.channel}</b><span>·</span><span>{p.airtime}</span></>}</div>
             <Html className="intro" html={p.intro} />
-            <div className="cta-row">
+            {p.store && <div className="pcard">{p.facts.filter(([k]) => TILE.includes(k)).map(([k, v]) => <div key={k} className={`t ${k === '대표 메뉴' || k === '방송 메뉴' ? 'wide' : ''}`}><span>{k}</span><b>{v}</b></div>)}</div>}
+            <div className={`cta-row ${p.store ? 'grid2' : ''}`}>
               {p.ctas.map((c) => <Btn key={c.label} a={c} />)}
             </div>
             <div className="cta-note">버튼은 각 공식 서비스로 이동합니다 · 다시보기 요금은 각 서비스 기준</div>
-            {p.facts?.length > 0 && <dl className="meta">{p.facts.map(([k, v]) => <div key={k} style={{ display: 'contents' }}><dt>{k}</dt><dd className="num">{v}</dd></div>)}</dl>}
+            {p.facts?.length > 0 && <dl className="meta">{p.facts.filter(([k]) => !p.store || !TILE.includes(k)).map(([k, v]) => <div key={k} style={{ display: 'contents' }}><dt>{k}</dt><dd className="num">{v}</dd></div>)}</dl>}
           </div>
           <div className="side">
             <div className="pic"><img src={p.backdrop} alt={p.name} />{!isIssue && !String(p.backdrop || '').includes('/img/auto/') && p.episodes?.length > 0 && <span className="ep">{p.episodes.filter((e) => !e.soon).slice(-1)[0]?.no} 장면</span>}{p.imageCredit && <span className="cred">{p.imageCredit}</span>}</div>

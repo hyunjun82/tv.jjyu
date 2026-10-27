@@ -12,7 +12,7 @@ import collect_shows as C
 
 IA = 'https://iaudience.kbs.co.kr'
 PROGS = {
-    '2TV 생생정보': dict(key='reallive', name='2TV 생생정보', short='생생정보', ch='KBS 2TV', code='T2014-0844',
+    '2TV 생생정보': dict(key='reallive', name='2TV 생생정보', short='생생정보', ch='KBS', code='T2014-0844',
                        home='https://program.kbs.co.kr/2tv/culture/reallive', air='평일 오후 6시 35분', min=datetime.date(2026, 10, 23)),
     '6시 내고향': dict(key='sixhour', name='6시 내고향', short='6시 내고향', ch='KBS 1TV', code='T2000-0093',
                     home='https://program.kbs.co.kr/1tv/culture/sixhour', air='평일 오후 6시', min=datetime.date(2026, 10, 23)),
@@ -74,7 +74,7 @@ def sections(no):
     return out
 
 
-def split_name(left):
+def split_name(left, order='name_menu'):
     """'메뉴 문의 (상호)' / '상호 (메뉴 문의)' / '메뉴 (상호)' / '상호' → (상호, 메뉴)"""
     left = re.sub(r'^\((아르바이트|체험)\)\s*', '', left.strip())
     m = re.match(r'^(.*?)\s*\(\s*(.+?)\s*\)\s*$', left)
@@ -87,10 +87,10 @@ def split_name(left):
         return p, re.sub(r'\s*(이용\s*)?문의$', '', o)
     if p.endswith('문의'):
         return o, re.sub(r'\s*(이용\s*)?문의$', '', p)
-    return p, o
+    return (o, p) if order == 'name_menu' else (p, o)
 
 
-def parse(lines):
+def parse(lines, order='name_menu'):
     head, groups, cur, item, label = [], [], None, None, None
 
     def group(corner, region=''):
@@ -127,7 +127,7 @@ def parse(lines):
                 continue
             if sep and not is_tel and v.startswith('http'):
                 item = None
-            name, menu = split_name(k)
+            name, menu = split_name(k, order)
             if cur is None:
                 cur = group('')
             item = dict(name=name, menu=menu, raw=k, tel='' if (not is_tel or v.startswith('공개된')) else v,
@@ -382,7 +382,7 @@ def run(force=False):
                 secs = sections(no_post)
             if pname not in secs:
                 continue
-            head, groups = parse(secs[pname])
+            head, groups = parse(secs[pname], 'menu_name' if cfg['key'] == 'town' else 'name_menu')
             flat = []
             for g in groups:
                 for it in g['items']:
