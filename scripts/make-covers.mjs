@@ -40,8 +40,8 @@ h1{font-size:${size}px;font-weight:900;line-height:1.12;letter-spacing:-2px;word
 </style><body>
 <div class="ring r1"></div><div class="ring r2"></div><div class="ring r3"></div>
 <div class="brand"><div class="logo"><svg width="22" height="24" viewBox="0 0 22 24"><path d="M2 2l18 10L2 22z" fill="#fff"/></svg></div>TVDAY</div>
-<div class="cat">오늘의 이슈 · ${esc(p.category)}</div>
-<div class="wrap"><div class="k">${esc(p.kicker)}</div><h1>${esc(head)}</h1><div class="d">${esc(p.dateLabel)}</div></div>
+<div class="cat">${p.type === 'issue' ? '오늘의 이슈 · ' : ''}${esc(p.category)}</div>
+<div class="wrap"><div class="k">${esc(p.kicker || p.channel)}</div><h1>${esc(head)}</h1><div class="d">${esc(p.dateLabel || p.airtime)}</div></div>
 </body>`;
 };
 
@@ -50,7 +50,7 @@ const todo = [];
 for (const f of files) {
   const fp = path.join(DIR, f);
   const p = JSON.parse(fs.readFileSync(fp, 'utf8'));
-  if (p.type !== 'issue') continue;
+  if (p.type !== 'issue' && p.backdrop) continue; // 이슈 + 공식 이미지가 없는 프로그램 페이지
   const auto = `/img/auto/${p.slug}.jpg`;
   if (p.backdrop && p.backdrop !== auto && !force) continue;
   if (p.backdrop === auto && fs.existsSync(path.join(OUT, `${p.slug}.jpg`)) && !force) continue;

@@ -1,0 +1,235 @@
+{
+  "slug": "issue-jang-hanbyeol",
+  "type": "issue",
+  "category": "연예",
+  "series": "",
+  "seriesSlug": "",
+  "program": "",
+  "kicker": "가수 장한별 · 첫 단독콘서트",
+  "dateLabel": "2026.10.31~11.1 공연",
+  "firstReport": "더팩트 9.23 09:40",
+  "title": "장한별 콘서트 티켓 3회 매진, 신곡 미야와 전국노래자랑",
+  "name": "장한별 첫 단독콘서트 'THE STAR IS BORN' 3회 전석 매진, 10월 31일·11월 1일 세종대 대양홀",
+  "shortName": "장한별 단독콘서트",
+  "subtitle": "",
+  "channel": "더팩트 보도",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-jang-hanbyeol.jpg",
+  "thumb": "/img/auto/issue-jang-hanbyeol.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "MBN '무명전설' 최종 TOP3 출신 가수 <b>장한별</b>의 첫 단독콘서트 <b>'THE STAR IS BORN'</b>이 2026년 <b>10월 31일(토) 오후 1시·6시</b>와 추가 공연 <b>11월 1일(일) 오후 3시</b> 서울 세종대학교 대양홀에서 열립니다. 10월 31일 2회는 9월 29일 예매 시작 약 2분 만에, 추가 회차는 1분 안에 매진됐습니다(톱스타뉴스·아주경제). 10월 12일에는 신곡 '미야'를 발표했고, 10월 25일 KBS 1TV '전국노래자랑' 창원편에 마지막 축하 가수로 출연했습니다.",
+  "ctas": [
+    {
+      "kind": "link",
+      "label": "티켓링크 공식 예매 공지",
+      "sub": "가격·회차·관람 연령",
+      "url": "https://www.ticketlink.co.kr/help/notice/66034"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (톱스타뉴스)",
+      "sub": "10.25 · 3회 매진",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16257495"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (아주경제)",
+      "sub": "10.25 · 추가 공연",
+      "url": "https://www.ajunews.com/view/20261025124314856"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "더팩트",
+      "date": "9.23 09:40",
+      "url": "https://news.tf.co.kr/read/ogmeta/2369249.htm"
+    },
+    {
+      "media": "문화일보",
+      "date": "9.29 15:27",
+      "url": "https://v.daum.net/v/20260929152743517"
+    },
+    {
+      "media": "더팩트",
+      "date": "10.8 08:53",
+      "url": "https://news.tf.co.kr/read/ogmeta/2374121.htm"
+    },
+    {
+      "media": "아주경제",
+      "date": "10.25 12:45",
+      "url": "https://www.ajunews.com/view/20261025124314856"
+    },
+    {
+      "media": "톱스타뉴스",
+      "date": "10.25 21:27",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16257495"
+    },
+    {
+      "media": "마이데일리",
+      "date": "10.26 17:14",
+      "url": "https://www.mydaily.co.kr/page/view/2026102609025192117"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.05",
+      "text": "MBN '무명전설' 히트곡 미션에서 '그대는 나의 별이오' 무대",
+      "source": "톱스타뉴스 10.25",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16257495"
+    },
+    {
+      "date": "2026.09.29",
+      "text": "첫 단독콘서트 10월 31일 2회 예매 시작 약 2분 만에 전석 매진",
+      "source": "문화일보 9.29",
+      "url": "https://v.daum.net/v/20260929152743517"
+    },
+    {
+      "date": "2026.10.06",
+      "text": "11월 1일 추가 공연 예매, 1분 안에 매진",
+      "source": "아주경제 10.25",
+      "url": "https://www.ajunews.com/view/20261025124314856"
+    },
+    {
+      "date": "2026.10.12",
+      "text": "신곡 '미야' 정오 공개(예정 보도)",
+      "source": "더팩트 10.8",
+      "url": "https://news.tf.co.kr/read/ogmeta/2374121.htm"
+    },
+    {
+      "date": "2026.10.25",
+      "text": "KBS 1TV '전국노래자랑' 2188회 창원특례시 편 마지막 축하 가수로 '그대는 나의 별이오'",
+      "source": "톱스타뉴스",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16257495",
+      "hot": true
+    },
+    {
+      "date": "2026.10.31",
+      "text": "첫 단독콘서트 'THE STAR IS BORN' 오후 1시·6시 (세종대 대양홀)",
+      "source": "티켓링크 공지",
+      "url": "https://www.ticketlink.co.kr/help/notice/66034",
+      "hot": true
+    },
+    {
+      "date": "2026.11.01",
+      "text": "추가 공연 오후 3시",
+      "source": "아주경제·톱스타뉴스",
+      "url": "https://www.ajunews.com/view/20261025124314856"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "콘서트 티켓",
+      "heading": "장한별 콘서트 티켓은 언제, 어디서, 얼마인가요?",
+      "lead": "공연은 2026년 10월 31일(토) 오후 1시·6시, 11월 1일(일) 오후 3시 서울 광진구 세종대학교 대양홀에서 열리며 세 회차 모두 매진됐습니다. 티켓은 티켓링크 단독 판매였고 R석 165,000원, S석 143,000원입니다(티켓링크 공지).",
+      "paragraphs": [
+        "티켓링크 공지 기준 관람 연령은 만 7세 이상, 공연 시간은 120분이며 주최는 레온웍스, 주관은 준컴퍼니입니다. 소속사는 정가보다 비싼 되팔이 티켓이나 비공식 양도 거래를 하지 말라고 당부했습니다(아주경제 10.25).",
+        "추가 판매·취소표 일정은 공식 공지로 확인되지 않아 적지 않았습니다."
+      ],
+      "timeline": true,
+      "table": {
+        "head": [
+          "항목",
+          "내용",
+          "출처"
+        ],
+        "rows": [
+          [
+            "일시",
+            "10.31(토) 13:00·18:00 / 11.1(일) 15:00",
+            "티켓링크·아주경제"
+          ],
+          [
+            "장소",
+            "세종대학교 대양홀",
+            "티켓링크"
+          ],
+          [
+            "가격",
+            "R석 165,000원 · S석 143,000원",
+            "티켓링크"
+          ],
+          [
+            "관람 연령·시간",
+            "만 7세 이상 · 120분",
+            "티켓링크"
+          ],
+          [
+            "예매 결과",
+            "3회 전석 매진",
+            "톱스타뉴스 10.25"
+          ]
+        ]
+      },
+      "actions": [
+        {
+          "kind": "link",
+          "label": "티켓링크 공지 보기",
+          "url": "https://www.ticketlink.co.kr/help/notice/66034"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "가수 장한별",
+      "heading": "장한별 가수는 어떤 가수인가요?",
+      "lead": "MBN 남성 보컬 서바이벌 '무명전설'에서 최종 TOP3에 오른 가수로, 소속사는 레온웍스입니다(더팩트·문화일보).",
+      "paragraphs": [
+        "더팩트(10.8)는 KBS2 '불후의 명곡'에서 우승했다고 전했고, 마이데일리(10.26)는 '무명전설'과 '불후의 명곡' 외에 MBN·채널S '전현무계획4', MBN '전설의 사내'에 출연했다고 보도했습니다. 공식 팬덤 이름은 '은하수'입니다(더팩트 9.23)."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "더팩트 10.8",
+          "url": "https://news.tf.co.kr/read/ogmeta/2374121.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "미야·전국노래자랑",
+      "heading": "장한별 미야와 전국노래자랑 무대는 언제였나요?",
+      "lead": "신곡 '미야'는 10월 12일 정오 공개로 발표됐고(더팩트 10.8), '전국노래자랑'은 10월 25일 방송된 2188회 경상남도 창원특례시 편입니다(톱스타뉴스).",
+      "paragraphs": [
+        "전국노래자랑 창원편은 3·15해양누리공원 야외 특설무대에서 녹화됐고, 장한별은 마지막 축하 가수로 '무명전설' 히트곡 미션에서 불렀던 '그대는 나의 별이오'를 불렀습니다(톱스타뉴스 10.25)."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "톱스타뉴스 10.25",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16257495"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "장한별 콘서트 티켓 아직 살 수 있나요?",
+      "a": "10월 31일 2회와 11월 1일 추가 회차 모두 매진됐습니다(톱스타뉴스 10.25). 추가 판매 일정은 공식 공지로 확인되지 않았습니다."
+    },
+    {
+      "q": "장한별 콘서트 장소는 어디인가요?",
+      "a": "서울 광진구 세종대학교 대양홀입니다(티켓링크 공지)."
+    },
+    {
+      "q": "장한별 미야는 언제 나왔나요?",
+      "a": "10월 12일 정오 공개로 발표됐습니다(더팩트 10.8)."
+    }
+  ],
+  "related": [],
+  "source": "티켓링크 공지 66034(공연명·일시·장소·가격·관람 연령·주최) · 더팩트 9.23·10.8, 문화일보 9.29, 아주경제·톱스타뉴스 10.25, 마이데일리 10.26",
+  "imageCredit": "",
+  "checkedAt": "2026-10-27",
+  "updatedAt": "2026-10-27T10:00:00+09:00",
+  "quick": []
+}

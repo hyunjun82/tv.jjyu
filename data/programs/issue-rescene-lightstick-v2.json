@@ -1,0 +1,181 @@
+{
+  "slug": "issue-rescene-lightstick-v2",
+  "type": "issue",
+  "category": "연예",
+  "series": "",
+  "seriesSlug": "",
+  "program": "",
+  "kicker": "리센느 · 공식 응원봉 V2",
+  "dateLabel": "2026.10.26 예약 판매",
+  "firstReport": "Soompi 10.24 15:01",
+  "title": "리센느 응원봉 V2 예약 판매, 판매처와 발송일 정리",
+  "name": "리센느 공식 응원봉 V2, 10월 26일 위드뮤 예약 판매 시작…12월 21일 이후 순차 발송",
+  "shortName": "리센느 응원봉 V2",
+  "subtitle": "",
+  "channel": "디스패치 보도",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-rescene-lightstick-v2.jpg",
+  "thumb": "/img/auto/issue-rescene-lightstick-v2.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "걸그룹 <b>리센느(RESCENE)</b>의 두 번째 공식 응원봉 <b>'RESCENE OFFICIAL LIGHT STICK V2'</b>가 2026년 <b>10월 26일(월) 낮 12시</b>부터 공식 굿즈몰 <b>위드뮤 온라인몰</b>에서 예약 판매 중입니다. 위드뮤 공식 공지에 따르면 판매는 재고 소진 시까지이고, 상품은 <b>12월 21일(월) 이후 순차 발송</b>됩니다. 디자인은 10월 24일 처음 공개됐고, 리센느는 11월 3일 컴백합니다(디스패치).",
+  "ctas": [
+    {
+      "kind": "link",
+      "label": "위드뮤 공식 예약 판매 공지",
+      "sub": "X · 10.26 12:00",
+      "url": "https://x.com/Withmuu_twt/status/2114552602520371276"
+    },
+    {
+      "kind": "link",
+      "label": "위드뮤 온라인몰",
+      "url": "https://withmuu.com"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (Soompi)",
+      "sub": "10.24",
+      "url": "https://www.soompi.com/article/1881090wpp/rescene-reveals-new-version-of-official-light-stick"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "디스패치",
+      "date": "9.18 16:18",
+      "url": "https://www.dispatch.co.kr/2348138"
+    },
+    {
+      "media": "Soompi",
+      "date": "10.24 15:01",
+      "url": "https://www.soompi.com/article/1881090wpp/rescene-reveals-new-version-of-official-light-stick"
+    },
+    {
+      "media": "kpopchart",
+      "date": "10.25",
+      "url": "https://kpopchart.net/idol-celeb/91616977570/elegan-dan-cantik-rescene-resmi-luncurkan-lightstick-baru-jelang-comeback-november-mendatang-39c05292383/"
+    },
+    {
+      "media": "allkpop",
+      "date": "2026.10",
+      "url": "https://www.allkpop.com/article/2026/10/rescene-unveils-elegant-official-light-stick-v2-ahead-of-comeback"
+    },
+    {
+      "media": "위드뮤 공식 X",
+      "date": "10.26 12:00",
+      "url": "https://x.com/Withmuu_twt/status/2114552602520371276"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.09.18",
+      "text": "더뮤즈엔터테인먼트, 리센느 11월 3일 컴백 확인",
+      "source": "디스패치",
+      "url": "https://www.dispatch.co.kr/2348138"
+    },
+    {
+      "date": "2026.10.24",
+      "text": "공식 응원봉 V2 디자인 첫 공개",
+      "source": "Soompi",
+      "url": "https://www.soompi.com/article/1881090wpp/rescene-reveals-new-version-of-official-light-stick"
+    },
+    {
+      "date": "2026.10.26 12:00",
+      "text": "위드뮤 온라인몰 예약 판매 시작(재고 소진 시까지)",
+      "source": "위드뮤 공식 X",
+      "url": "https://x.com/Withmuu_twt/status/2114552602520371276",
+      "hot": true
+    },
+    {
+      "date": "2026.11.03",
+      "text": "리센느 컴백",
+      "source": "디스패치",
+      "url": "https://www.dispatch.co.kr/2348138"
+    },
+    {
+      "date": "2026.12.21~",
+      "text": "응원봉 V2 순차 발송",
+      "source": "위드뮤 공식 X",
+      "url": "https://x.com/Withmuu_twt/status/2114552602520371276"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "판매 일정",
+      "heading": "리센느 응원봉 V2는 언제, 어디서 파나요?",
+      "lead": "2026년 10월 26일(월) 낮 12시부터 재고 소진 시까지 위드뮤 온라인몰에서 예약 판매합니다. 한국(KR)·중국(CN)·일본(JP)·글로벌(GLOBAL) 몰 링크가 함께 안내됐습니다(위드뮤 공식 X).",
+      "paragraphs": [
+        "발송은 12월 21일(월) 이후 순차적으로 진행됩니다. 위드뮤 외 판매처에서의 판매 여부는 공식 공지로 확인되지 않아 적지 않았습니다."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "link",
+          "label": "위드뮤 공지 보기",
+          "url": "https://x.com/Withmuu_twt/status/2114552602520371276"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "가격",
+      "heading": "리센느 응원봉 가격은 공식 공지에 나와 있나요?",
+      "lead": "위드뮤의 예약 판매 공지 글에는 가격이 적혀 있지 않습니다. 가격은 위드뮤 온라인몰 상품 페이지에서 확인해야 합니다.",
+      "paragraphs": [
+        "온라인에 도는 가격 정보는 팬 채널 게시물이라 이 페이지에는 싣지 않았습니다. 공식 상품 페이지 가격이 확인되면 갱신합니다."
+      ],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "위드뮤 온라인몰",
+          "url": "https://withmuu.com"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "컴백",
+      "heading": "리센느 컴백은 언제인가요?",
+      "lead": "11월 3일입니다. 소속사 더뮤즈엔터테인먼트가 9월 18일 디스패치에 \"리센느가 11월 3일 컴백한다. 자세한 사항은 추후 공지를 통해 확인할 수 있다\"고 밝혔습니다.",
+      "paragraphs": [
+        "응원봉 V2 디자인은 컴백을 앞둔 10월 24일 공개됐습니다(Soompi). 해외 매체 kpopchart(10.25)는 분홍·흰색의 꽃 콘셉트 디자인이라고 전했습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "디스패치 9.18",
+          "url": "https://www.dispatch.co.kr/2348138"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "리센느 응원봉 V2 판매처는 어디인가요?",
+      "a": "공식 굿즈몰 위드뮤 온라인몰입니다(위드뮤 공식 공지)."
+    },
+    {
+      "q": "언제 받을 수 있나요?",
+      "a": "12월 21일(월) 이후 순차 발송됩니다."
+    },
+    {
+      "q": "리센느 응원봉 가격은 얼마인가요?",
+      "a": "위드뮤 판매 공지 글에는 가격이 없어 이 페이지에는 적지 않았습니다. 위드뮤 상품 페이지에서 확인하세요."
+    }
+  ],
+  "related": [],
+  "source": "위드뮤 공식 X 10.26 12:00(예약 판매 기간·발송일·판매처) · Soompi 10.24·kpopchart 10.25·allkpop(디자인 공개) · 디스패치 9.18(컴백일)",
+  "imageCredit": "",
+  "checkedAt": "2026-10-27",
+  "updatedAt": "2026-10-27T10:00:00+09:00",
+  "quick": []
+}
