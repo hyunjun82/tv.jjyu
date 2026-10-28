@@ -214,7 +214,7 @@ def build(p, st, allp):
 
 
 def main():
-    allp = [json.load(open(f)) for f in glob.glob(os.path.join(PROG, '*.json'))]
+    allp = [json.load(open(f)) for f in sorted(glob.glob(os.path.join(PROG, '*.json')))]
     by = {p['slug']: p for p in allp}
     stores = {os.path.basename(f)[:-5]: json.load(open(f)) for f in glob.glob(os.path.join(STORE, '*.json'))}
     # 1차: store 요약(city/sig)을 먼저 채워 '같은 지역' 목록이 서로 보이게 한다

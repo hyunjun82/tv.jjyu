@@ -198,14 +198,19 @@ def parse_lifemaster(lines):
         if m:
             title, cur = m.group(1).strip(), None
             continue
-        if ln.endswith('>'):
-            cur = dict(name=ln.rstrip('> ').strip(), corner=title, topic=title, addr='', tel='')
+        if ln.endswith('>'):  # '<홍성각>' 또는 '홍성각>'
+            topic = re.sub(r'^은둔식달\s*[–-]\s*', '', title)
+            topic = re.sub(r'\s*달인(\s*\d+탄)?$', '', topic)
+            topic = ' / '.join(x.strip() for x in re.split(r'\s*[•·,/]\s*', topic) if x.strip())
+            cur = dict(name=ln.strip('<> ').strip(), corner=title, topic=topic, addr='', tel='')
             shops.append(cur)
         elif cur and ln.startswith('☎'):
             cur['tel'] = ln.lstrip('☎ ').strip()
         elif cur and not cur['addr'] and re.search(r'(시|도|구|군|동|읍|면|로|길)\s', ln + ' '):
             cur['addr'] = ln
-    return [s for s in shops if s['name'] and (s['addr'] or s['tel'])]
+    # 맛집 페이지만 만든다: 옷·생활용품 등 음식이 아닌 코너는 버린다('조회수'·'대한민국'의 회·국 오탐 제거 후 판정).
+    food = lambda s: FOOD.search(re.sub(r'조회수|대한민국', '', s['topic']))
+    return [s for s in shops if s['name'] and (s['addr'] or s['tel']) and food(s)]
 
 
 def shop_page(key, cfg, d, ep, shop, idx, post_url, ep_slug, siblings):
@@ -233,7 +238,7 @@ def shop_page(key, cfg, d, ep, shop, idx, post_url, ep_slug, siblings):
     loc = [r for r in [['상호', name], ['주소', shop['addr']], ['지역', region], ['전화', shop['tel']]] if r[1]]
     p = dict(
         slug=slug, type='place', category='맛집', series=cfg['name'], seriesSlug=key, program=key,
-        title=title40([f'{cfg["short"]} {name}', '위치 전화번호', f'{d.month}월 {d.day}일', topic]),
+        title=title40([f'{cfg["short"]} {name}', '위치 전화번호', f'{d.month}월 {d.day}일', topic.replace(' / ', ' ')]),
         name=name, shortName=name, subtitle='', channel=f'SBS {cfg["name"]}',
         airtime=f'{kdate(d)} 방송 · {corner}', status='방송 맛집' if key == 'today3' else '방송 가게',
         backdrop=img or '', thumb=img or '', badges=[f'{no}회 · {md(d)}', corner] + ([region] if region else []),
@@ -331,7 +336,7 @@ def run_sbs(key):
     vods = sbs_vods(cfg)
     for post in sbs_posts(cfg):
         reg = datetime.datetime.strptime(post['REG_DATE'][:10], '%Y-%m-%d').date()
-        if (NOW.date() - reg).days > DAYS:
+        if (NOW.date() - reg).days > (DAYS * 2 if key == 'lifemaster' else DAYS):  # 달인 게시글은 늦게·드물게 올라온다
             continue
         # 생활의 달인 글은 방송 며칠 뒤에 올라오기도 한다 → 제목의 '[1,051회]' 회차 번호로 다시보기 회차를 찾는다.
         mn = re.search(r'\[\s*([\d,]+)\s*회\s*\]', post['TITLE'])
@@ -344,7 +349,7 @@ def run_sbs(key):
             m = re.search(r'(\d{1,2})월\s*(\d{1,2})일', post['TITLE'])
             d = datetime.date(reg.year, int(m.group(1)), int(m.group(2))) if m else reg
             ep = vods.get(d.isoformat())
-        if d < MIN_DATE:
+        if d < (datetime.date(2026, 10, 19) if key == 'lifemaster' else MIN_DATE):
             continue
         if not ep:  # 게시글은 올라왔지만 다시보기 회차가 아직 없음 → 다음 실행 때
             print(f'[{key}] {d} 다시보기 회차 아직 없음 — 건너뜀')
