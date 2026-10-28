@@ -102,7 +102,7 @@ def exists(slug):
 # ---------------------------------------------------------------- SBS 공통
 SBS = {
     'today3': dict(name='생방송 투데이', short='생방송투데이', board='today3_bd01', menu=54208, vodmenu=54203,
-                   programid='S01_V0000338038', path='culture/today3', air='매주 월~금 오후 6시'),
+                   programid='S01_V0000338038', path='culture/today3', air='매주 월~금 오후 6시 10분'),
     'lifemaster': dict(name='생활의 달인', short='생활의 달인', board='lifemaster_bd01', menu=55736, vodmenu=55733,
                        programid='S01_V0000305532', path='culture/lifemaster', air='매주 월요일 오후 9시'),
 }
