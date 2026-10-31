@@ -1,0 +1,195 @@
+{
+  "slug": "issue-moon-jeongmin-soil-championship",
+  "type": "issue",
+  "category": "스포츠",
+  "series": "",
+  "seriesSlug": "",
+  "program": "KLPGA 투어 S-OIL 챔피언십",
+  "kicker": "KLPGA · 제20회 S-OIL 챔피언십",
+  "dateLabel": "2026.10.30 2라운드",
+  "firstReport": "헤럴드경제 10.29 18:35",
+  "title": "골프 문정민프로, 에쓰오일 챔피언십 2라운드 5위 성적",
+  "name": "문정민, KLPGA 투어 S-OIL 챔피언십 2라운드 6언더파…합계 7언더파 단독 5위",
+  "shortName": "문정민 S-OIL 챔피언십",
+  "subtitle": "",
+  "channel": "헤럴드경제 보도",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-moon-jeongmin-soil-championship.jpg",
+  "thumb": "/img/auto/issue-moon-jeongmin-soil-championship.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "<b>문정민이 10월 30일 제주 엘리시안 제주CC(파72)에서 열린 KLPGA 투어 제20회 S-OIL 챔피언십 2라운드에서 이글을 포함해 6언더파 66타를 쳤습니다.</b> 중간합계 <b>7언더파 137타로 단독 5위</b>입니다. 선두는 9언더파 135타의 이예원이고, 대회는 11월 1일 최종 4라운드까지 열립니다.",
+  "ctas": [
+    {
+      "kind": "news",
+      "label": "기사 원문 (뉴스핌)",
+      "sub": "10.30 21:00",
+      "url": "https://www.newspim.com/news/view/20261030001341"
+    },
+    {
+      "kind": "news",
+      "label": "인터뷰 (SWTV)",
+      "sub": "10.31 00:41",
+      "url": "https://www.swtvnews.com/news/newsview.php?ncode=179509803499531"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (미디어파인)",
+      "sub": "10.31 08:28",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=94164"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "헤럴드경제",
+      "date": "10.29 18:35",
+      "url": "https://biz.heraldcorp.com/article/10919693"
+    },
+    {
+      "media": "뉴스핌",
+      "date": "10.30 21:00",
+      "url": "https://www.newspim.com/news/view/20261030001341"
+    },
+    {
+      "media": "SWTV",
+      "date": "10.31 00:41",
+      "url": "https://www.swtvnews.com/news/newsview.php?ncode=179509803499531"
+    },
+    {
+      "media": "한국아이닷컴",
+      "date": "10.31 06:37",
+      "url": "https://www.hankooki.com/news/articleView.html?idxno=347323"
+    },
+    {
+      "media": "미디어파인",
+      "date": "10.31 08:28",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=94164"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2024.09.22",
+      "text": "대보 하우스디 오픈에서 KLPGA 투어 첫 우승(9언더파 207타)",
+      "source": "아주경제",
+      "url": "https://www.ajunews.com/view/20240922155927285"
+    },
+    {
+      "date": "2026.10.29",
+      "text": "S-OIL 챔피언십 1라운드 공동 34위",
+      "source": "헤럴드경제 10.29",
+      "url": "https://biz.heraldcorp.com/article/10919693"
+    },
+    {
+      "date": "2026.10.30",
+      "text": "2라운드 6언더파 66타, 합계 7언더파 단독 5위",
+      "source": "뉴스핌 10.30",
+      "url": "https://www.newspim.com/news/view/20261030001341",
+      "hot": true
+    },
+    {
+      "date": "2026.10.31",
+      "text": "3라운드 진행",
+      "source": "한국아이닷컴 10.31(대회 일정)",
+      "url": "https://www.hankooki.com/news/articleView.html?idxno=347323"
+    },
+    {
+      "date": "2026.11.01",
+      "text": "최종 4라운드",
+      "source": "한국아이닷컴 10.31(대회 일정)",
+      "url": "https://www.hankooki.com/news/articleView.html?idxno=347323"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "성적",
+      "heading": "문정민프로 에쓰오일 챔피언십 성적은 어떻게 되나요?",
+      "lead": "2라운드까지 7언더파 137타로 단독 5위입니다. 1라운드는 공동 34위였고, 2라운드에서 이글을 포함해 6타를 줄였습니다.",
+      "paragraphs": [
+        "2라운드 기준 선두는 이예원(9언더파 135타)이고, 이지현·정소이·이재윤이 8언더파 136타로 공동 2위입니다. 문정민은 선두와 2타 차입니다."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "news",
+          "label": "뉴스핌 기사",
+          "url": "https://www.newspim.com/news/view/20261030001341"
+        },
+        {
+          "kind": "news",
+          "label": "미디어파인 기사",
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=94164"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "대회",
+      "heading": "골프 문정민이 출전한 S-OIL 챔피언십은 어떤 대회인가요?",
+      "lead": "KLPGA 투어 제20회 S-OIL 챔피언십으로, 10월 29일부터 11월 1일까지 나흘간 제주 엘리시안 제주CC(파72)에서 열립니다.",
+      "paragraphs": [
+        "뉴스핌은 총상금을 10억 원으로 보도했습니다. 10월 31일 3라운드, 11월 1일 최종 4라운드가 이어집니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "한국아이닷컴 기사",
+          "url": "https://www.hankooki.com/news/articleView.html?idxno=347323"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "인터뷰",
+      "heading": "골프선수 문정민은 2라운드 뒤 뭐라고 말했나요?",
+      "lead": "\"어제보다 바람이 적게 불어서 자신 있게 샷을 할 수 있었다\"고 말했습니다.",
+      "paragraphs": [
+        "시즌에 대해서는 \"남은 대회에서는 꼭 우승을 하고 싶습니다\"라고 밝혔습니다. 문정민은 2024년 9월 대보 하우스디 오픈에서 KLPGA 투어 첫 우승을 거뒀습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "SWTV 인터뷰",
+          "url": "https://www.swtvnews.com/news/newsview.php?ncode=179509803499531"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "문정민은 지금 몇 위인가요?",
+      "a": "2라운드까지 7언더파 137타 단독 5위입니다(10월 30일 기준). 3라운드 결과는 10월 31일 경기 뒤 확인할 수 있습니다."
+    },
+    {
+      "q": "최종 라운드는 언제인가요?",
+      "a": "11월 1일(일) 최종 4라운드입니다."
+    },
+    {
+      "q": "문정민의 KLPGA 투어 우승 기록은?",
+      "a": "2024년 9월 22일 대보 하우스디 오픈에서 첫 우승을 거뒀습니다."
+    }
+  ],
+  "related": [],
+  "source": "헤럴드경제 2026.10.29, 뉴스핌 10.30, SWTV·한국아이닷컴·미디어파인 10.31 보도",
+  "imageCredit": "",
+  "checkedAt": "2026-10-31",
+  "updatedAt": "2026-10-31T17:00:00+09:00",
+  "quick": [],
+  "keywordsUsed": [
+    "문정민",
+    "문정민프로",
+    "골프 문정민",
+    "골프선수 문정민",
+    "문정민 골프"
+  ],
+  "notes": "검수(10-31): 2R 6언더파 66타·합계 7언더파 137타 단독 5위·선두 이예원 9언더파·공동 2위 3명·총상금 10억·대회 기간·인터뷰 인용·2024 대보 하우스디 오픈 우승(9언더파 207타)을 원문 대조. 3라운드(10.31) 결과는 검수 시점까지 보도 미확인이라 반영하지 않음. 1라운드 타수는 쓰지 않음(헤럴드경제는 '이븐파 김민솔 등과 공동 34위'로 묶어 보도했으나 2R 합계 역산 시 71타로 맞지 않아 순위만 기재). 자동완성 '개인사'·'김기준'·'나무위키' 등 사생활·루머성 검색어는 제외."
+}

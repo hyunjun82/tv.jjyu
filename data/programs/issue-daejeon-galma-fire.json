@@ -1,0 +1,213 @@
+{
+  "slug": "issue-daejeon-galma-fire",
+  "type": "issue",
+  "category": "사회",
+  "series": "",
+  "seriesSlug": "",
+  "program": "대전 갈마동 화재",
+  "kicker": "대전 서구 · 타이어 판매점 화재",
+  "dateLabel": "2026.10.30 발생",
+  "firstReport": "스페셜타임스 10.30 10:30",
+  "title": "대전 갈마동 화재 위치·원인, 티스테이션 타이어 판매점",
+  "name": "대전 서구 갈마동 타이어 판매점 화재 4시간 31분 만에 완진…인접 건물·주택 일부 피해",
+  "shortName": "대전 갈마동 화재",
+  "subtitle": "",
+  "channel": "스페셜타임스 보도",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-daejeon-galma-fire.jpg",
+  "thumb": "/img/auto/issue-daejeon-galma-fire.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "<b>10월 30일 오전 10시 2분쯤 대전 서구 갈마동의 타이어 판매점에서 불이 나 4시간 31분 만인 오후 2시 33분쯤 완전히 꺼졌습니다.</b> 소방당국은 대응 1단계를 발령하고 헬기 2대와 장비 98대, 인력 238명을 투입했습니다. 불은 옆 6층 자동차부품 업체 건물과 뒤편 주택 일부로 번졌고, <b>연기를 마신 2명이 귀가 조치된 것 외에 인명 피해는 보도되지 않았습니다.</b> 화재 원인은 경찰·소방 합동감식으로 확인할 예정입니다.",
+  "ctas": [
+    {
+      "kind": "news",
+      "label": "기사 원문 (뉴스핌)",
+      "sub": "10.30 16:41",
+      "url": "https://www.newspim.com/news/view/20261030001184"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (중도일보)",
+      "sub": "10.30 16:53",
+      "url": "https://www.joongdo.co.kr/web/view.php?key=20261030010009117"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (세계일보)",
+      "sub": "10.30 15:46",
+      "url": "https://www.segye.com/newsView/20261030508907"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "스페셜타임스(재난문자)",
+      "date": "10.30 10:30",
+      "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=480123"
+    },
+    {
+      "media": "충청투데이",
+      "date": "10.30 10:45",
+      "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2239339"
+    },
+    {
+      "media": "서울신문",
+      "date": "10.30 11:09",
+      "url": "https://www.seoul.co.kr/news/society/2026/10/30/20261030500127"
+    },
+    {
+      "media": "굿모닝충청",
+      "date": "10.30 12:17",
+      "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=454955"
+    },
+    {
+      "media": "세계일보",
+      "date": "10.30 15:46",
+      "url": "https://www.segye.com/newsView/20261030508907"
+    },
+    {
+      "media": "뉴스핌",
+      "date": "10.30 16:41",
+      "url": "https://www.newspim.com/news/view/20261030001184"
+    },
+    {
+      "media": "중도일보",
+      "date": "10.30 16:53",
+      "url": "https://www.joongdo.co.kr/web/view.php?key=20261030010009117"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "10.30 10:02",
+      "text": "타이어 판매점 화재 신고 접수",
+      "source": "뉴스핌·중도일보",
+      "url": "https://www.newspim.com/news/view/20261030001184",
+      "hot": true
+    },
+    {
+      "date": "10.30 10:20",
+      "text": "소방 대응 1단계 발령",
+      "source": "뉴스핌·세계일보",
+      "url": "https://www.newspim.com/news/view/20261030001184"
+    },
+    {
+      "date": "10.30 10:29",
+      "text": "대전시 재난문자: 차량 우회·창문 닫기 당부",
+      "source": "스페셜타임스·서울신문",
+      "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=480123"
+    },
+    {
+      "date": "10.30 13:30",
+      "text": "큰불 잡혀 대응 1단계 해제",
+      "source": "뉴스핌",
+      "url": "https://www.newspim.com/news/view/20261030001184"
+    },
+    {
+      "date": "10.30 14:33",
+      "text": "완전 진화(완진)",
+      "source": "뉴스핌·중도일보",
+      "url": "https://www.joongdo.co.kr/web/view.php?key=20261030010009117"
+    },
+    {
+      "date": "진화 이후",
+      "text": "경찰·소방 합동감식으로 발화 지점·원인·재산 피해 조사 예정",
+      "source": "중도일보",
+      "url": "https://www.joongdo.co.kr/web/view.php?key=20261030010009117"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "위치",
+      "heading": "대전 갈마동 화재 위치는 어디인가요?",
+      "lead": "대전 서구 갈마동의 타이어 판매점 '티스테이션'입니다. 대전시 재난문자는 장소를 '서구 갈마동 377-14 티스테이션'으로 안내했습니다.",
+      "paragraphs": [
+        "대전시는 오전 10시 29분 \"교통혼잡이 예상되오니 차량우회 바라며 다량의 연기가 발생하고 있으니 창문을 닫아 주시고 안전에 유의바랍니다\"라는 재난문자를 보냈습니다. 경찰은 현장 주변 교통을 통제했습니다."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "news",
+          "label": "스페셜타임스 기사",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=480123"
+        },
+        {
+          "kind": "news",
+          "label": "세계일보 기사",
+          "url": "https://www.segye.com/newsView/20261030508907"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "피해",
+      "heading": "대전 서구 갈마동 화재 피해는 어느 정도인가요?",
+      "lead": "연면적 565.04㎡인 타이어 판매점이 모두 탔고, 열기에 건물 일부가 무너졌습니다. 불은 옆 6층 자동차부품 업체 건물과 뒤편 주택 일부로 번졌습니다.",
+      "paragraphs": [
+        "연기를 마신 2명은 귀가 조치됐고, 그 밖의 인명 피해는 보도되지 않았습니다. 세계일보는 주변에 주차된 차량 6대가 열기에 피해를 입었다고 전했습니다. 소방당국에는 약 150건의 신고가 들어왔습니다. 일부 구역의 샌드위치 패널을 뜯어내며 진화해 완진까지 시간이 걸렸습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "뉴스핌 기사",
+          "url": "https://www.newspim.com/news/view/20261030001184"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "원인",
+      "heading": "갈마동 화재 원인은 밝혀졌나요?",
+      "lead": "아직 밝혀지지 않았습니다. 경찰과 소방당국은 합동감식으로 발화 지점과 원인, 재산 피해 규모를 확인할 예정입니다.",
+      "paragraphs": [
+        "중도일보는 타이어를 보관하던 2~3층에서 불이 시작된 것으로 추정되며, 1층 직원들이 위층 연기를 보고 대피했다고 보도했습니다. 소방 관계자는 정확한 발화 지점은 감식 뒤 확인된다고 밝혔습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "중도일보 기사",
+          "url": "https://www.joongdo.co.kr/web/view.php?key=20261030010009117"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "불은 언제 꺼졌나요?",
+      "a": "10월 30일 오후 2시 33분쯤 완전히 꺼졌습니다. 신고 뒤 약 4시간 31분 만입니다."
+    },
+    {
+      "q": "다친 사람이 있나요?",
+      "a": "연기를 마신 2명이 귀가 조치됐고, 그 밖의 인명 피해는 보도되지 않았습니다."
+    },
+    {
+      "q": "티스테이션 화재와 같은 사고인가요?",
+      "a": "네. 대전시 재난문자와 세계일보·굿모닝충청 보도에서 불이 난 타이어 판매점을 '티스테이션'으로 안내했습니다."
+    }
+  ],
+  "related": [],
+  "source": "스페셜타임스·충청투데이·서울신문·굿모닝충청·세계일보·뉴스핌·중도일보 2026.10.30 보도 · 대전시 재난문자, 대전소방(둔산소방서) 발표",
+  "imageCredit": "",
+  "checkedAt": "2026-10-31",
+  "updatedAt": "2026-10-31T17:00:00+09:00",
+  "quick": [],
+  "keywordsUsed": [
+    "갈마동 화재",
+    "대전 갈마동 화재",
+    "대전 서구 갈마동 화재",
+    "갈마동 화재 원인",
+    "갈마동 화재 위치",
+    "티스테이션 화재",
+    "갈마동 티스테이션 화재"
+  ],
+  "notes": "검수(10-31): 발생 10:02·대응 1단계 10:20·재난문자 10:29(문구·377-14 티스테이션)·13:30 1단계 해제·14:33 완진(4시간 31분)·헬기 2대/장비 98대/인력 238명·565.04㎡ 전소·6층 건물·주택 일부·연기 흡입 2명 귀가·신고 150건·차량 6대·2~3층 창고 발화 추정을 스페셜타임스·서울신문·굿모닝충청·세계일보·뉴스핌·중도일보 원문으로 대조. 미확인: 화재 원인·재산 피해액(합동감식 결과 미발표, 10.31 기준), 피해 주택 수. 충청투데이 '초동대응 지연 논란' 보도는 단독 보도라 반영하지 않음. 관련자 신상은 쓰지 않음."
+}

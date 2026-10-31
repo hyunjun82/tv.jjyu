@@ -1,0 +1,224 @@
+{
+  "slug": "issue-patrick-stewart-obituary",
+  "type": "issue",
+  "category": "영화",
+  "series": "",
+  "seriesSlug": "",
+  "program": "패트릭 스튜어트",
+  "kicker": "배우 부고 · 향년 86세",
+  "dateLabel": "2026.10.28 별세(현지시간)",
+  "firstReport": "AP(PBS 게재) 10.29 16:02(미 동부시간)",
+  "title": "패트릭 스튜어트 별세, 엑스맨·스타트랙·둠스데이 출연작",
+  "name": "'엑스맨' 프로페서 X·'스타트렉' 피카드 함장 배우 패트릭 스튜어트, 향년 86세로 별세",
+  "shortName": "패트릭 스튜어트 별세",
+  "subtitle": "",
+  "channel": "AP 보도",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-patrick-stewart-obituary.jpg",
+  "thumb": "/img/auto/issue-patrick-stewart-obituary.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "<b>영국 배우 패트릭 스튜어트가 2026년 10월 28일(현지시간) 미국 로스앤젤레스 자택에서 별세했습니다. 향년 86세입니다.</b> 대변인 켈리 부시 노백은 성명에서 알츠하이머병과 루이소체 치매를 앓다 세상을 떠났다고 밝혔고, 가족은 공식 SNS로 별세 소식을 알렸습니다. 그는 <b>'스타트렉: 넥스트 제너레이션'의 장뤼크 피카드 함장</b>과 <b>'엑스맨' 시리즈의 프로페서 X(찰스 자비에)</b>로 알려진 배우입니다.",
+  "ctas": [
+    {
+      "kind": "news",
+      "label": "기사 원문 (AP·PBS)",
+      "sub": "10.29 16:02 미 동부",
+      "url": "https://www.pbs.org/newshour/arts/patrick-stewart-star-of-stage-and-star-trek-dies-at-86"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (아주경제)",
+      "sub": "10.30 08:50",
+      "url": "https://www.ajunews.com/view/20261030084531612"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (마이데일리)",
+      "sub": "10.30 06:15",
+      "url": "https://www.mydaily.co.kr/page/view/2026103006141318735"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "AP(PBS 뉴스아워 게재)",
+      "date": "10.29 16:02(미 동부)",
+      "url": "https://www.pbs.org/newshour/arts/patrick-stewart-star-of-stage-and-star-trek-dies-at-86"
+    },
+    {
+      "media": "CBS News",
+      "date": "10.29",
+      "url": "https://www.cbsnews.com/news/patrick-stewart-dies-age-86-star-trek-actor/"
+    },
+    {
+      "media": "마이데일리",
+      "date": "10.30 06:15",
+      "url": "https://www.mydaily.co.kr/page/view/2026103006141318735"
+    },
+    {
+      "media": "아주경제",
+      "date": "10.30 08:50",
+      "url": "https://www.ajunews.com/view/20261030084531612"
+    },
+    {
+      "media": "뉴데일리",
+      "date": "10.30 10:32",
+      "url": "https://www.newdaily.co.kr/site/data/html/2026/10/30/2026103000111.html"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1966",
+      "text": "로열 셰익스피어 컴퍼니 입단",
+      "source": "아주경제 10.30",
+      "url": "https://www.ajunews.com/view/20261030084531612"
+    },
+    {
+      "date": "1987~1994",
+      "text": "'스타트렉: 넥스트 제너레이션' 장뤼크 피카드 함장 역(7시즌)",
+      "source": "아주경제 10.30",
+      "url": "https://www.ajunews.com/view/20261030084531612"
+    },
+    {
+      "date": "2000",
+      "text": "영화 '엑스맨'에서 프로페서 X(찰스 자비에) 역 첫 출연",
+      "source": "마이데일리 10.30",
+      "url": "https://www.mydaily.co.kr/page/view/2026103006141318735"
+    },
+    {
+      "date": "2010",
+      "text": "엘리자베스 2세 여왕에게 기사 작위 수여(6월)",
+      "source": "AP(PBS) 10.29",
+      "url": "https://www.pbs.org/newshour/arts/patrick-stewart-star-of-stage-and-star-trek-dies-at-86"
+    },
+    {
+      "date": "2026.10.28",
+      "text": "로스앤젤레스 자택에서 별세(현지시간), 향년 86세",
+      "source": "아주경제·뉴데일리 10.30",
+      "url": "https://www.ajunews.com/view/20261030084531612",
+      "hot": true
+    },
+    {
+      "date": "2026.10.29",
+      "text": "대변인 성명·가족 공식 SNS로 별세 발표(현지시간), 마블 스튜디오 추모",
+      "source": "CBS News·마이데일리",
+      "url": "https://www.cbsnews.com/news/patrick-stewart-dies-age-86-star-trek-actor/"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "별세",
+      "heading": "패트릭 스튜어트 별세 소식은 어떻게 확인됐나요?",
+      "lead": "오랜 대변인 켈리 부시 노백이 성명으로 별세 사실과 사인을 밝혔고, 가족이 공식 SNS 계정으로 별세 소식을 알렸습니다.",
+      "paragraphs": [
+        "AP와 CBS News는 그가 10월 28일(수) 로스앤젤레스 자택에서 별세했다고 보도했습니다. 대변인은 알츠하이머병과 루이소체 치매를 앓았다고 밝혔고, AP는 이 진단이 생전에 공개되지 않았다고 전했습니다.",
+        "마이데일리는 마블 스튜디오가 \"프로페서 찰스 자비에라는 인물에 생명력을 불어넣은 전설적인 영국 배우, 패트릭 스튜어트 경의 별세 소식에 비통함을 금할 수 없다\"는 추모 메시지를 냈다고 보도했습니다."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "news",
+          "label": "CBS News 기사",
+          "url": "https://www.cbsnews.com/news/patrick-stewart-dies-age-86-star-trek-actor/"
+        },
+        {
+          "kind": "news",
+          "label": "마이데일리 기사",
+          "url": "https://www.mydaily.co.kr/page/view/2026103006141318735"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "엑스맨",
+      "heading": "패트릭 스튜어트 엑스맨 출연작은 무엇인가요?",
+      "lead": "2000년 영화 '엑스맨'에서 프로페서 X(찰스 자비에) 역을 처음 맡았고, 이후 시리즈에서 같은 역을 이어 왔습니다.",
+      "paragraphs": [
+        "'로건'(2017)에서도 프로페서 X를 연기했고, '닥터 스트레인지: 대혼돈의 멀티버스'(2022)에는 다른 세계의 프로페서 X로 출연했습니다. 1940년 영국 요크셔 미르필드에서 태어났고, 2010년 기사 작위를 받았습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "아주경제 기사",
+          "url": "https://www.ajunews.com/view/20261030084531612"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "스타트랙",
+      "heading": "패트릭 스튜어트 스타트랙 출연작은 무엇인가요?",
+      "lead": "1987년부터 1994년까지 7시즌 동안 '스타트렉: 넥스트 제너레이션'에서 장뤼크 피카드 함장을 연기했습니다.",
+      "paragraphs": [
+        "같은 역으로 극장판 4편에 출연했고, 파라마운트+ 시리즈 '스타트렉: 피카드'(3시즌)에서 다시 피카드를 맡았습니다(CBS News). 연극 무대에서는 1966년 로열 셰익스피어 컴퍼니에 입단했고, 2008년 브로드웨이 '맥베스'로 토니상 후보에 올랐습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "AP(PBS) 기사",
+          "url": "https://www.pbs.org/newshour/arts/patrick-stewart-star-of-stage-and-star-trek-dies-at-86"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec4",
+      "tab": "둠스데이",
+      "heading": "패트릭 스튜어트 둠스데이 출연은 어떻게 되나요?",
+      "lead": "12월 개봉 예정인 '어벤져스: 둠스데이'에서 프로페서 X 역을 다시 맡았습니다(AP·CBS News).",
+      "paragraphs": [
+        "CBS News는 이 작품이 2026년 12월 개봉 예정이라고 전했습니다. 아주경제는 그가 '어벤져스: 둠스데이' 예고편에 자비에로 등장했고 이 작품이 유작으로 남게 됐다고 보도했습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "아주경제 기사",
+          "url": "https://www.ajunews.com/view/20261030084531612"
+        },
+        {
+          "kind": "news",
+          "label": "CBS News 기사",
+          "url": "https://www.cbsnews.com/news/patrick-stewart-dies-age-86-star-trek-actor/"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "패트릭 스튜어트는 언제 별세했나요?",
+      "a": "2026년 10월 28일(현지시간) 로스앤젤레스 자택에서 별세했습니다. 향년 86세입니다."
+    },
+    {
+      "q": "사인은 무엇인가요?",
+      "a": "대변인은 알츠하이머병과 루이소체 치매를 앓다 별세했다고 밝혔습니다."
+    },
+    {
+      "q": "대표작은 무엇인가요?",
+      "a": "'스타트렉: 넥스트 제너레이션'·'스타트렉: 피카드'의 피카드 함장, '엑스맨' 시리즈와 '로건'의 프로페서 X입니다."
+    }
+  ],
+  "related": [],
+  "source": "AP(PBS)·CBS News 2026.10.29, 마이데일리·아주경제·뉴데일리 10.30 보도 · 발표 주체 대변인 켈리 부시 노백, 가족 공식 SNS",
+  "imageCredit": "",
+  "checkedAt": "2026-10-31",
+  "updatedAt": "2026-10-31T17:00:00+09:00",
+  "quick": [],
+  "keywordsUsed": [
+    "패트릭 스튜어트",
+    "패트릭 스튜어트 별세",
+    "패트릭 스튜어트 엑스맨",
+    "패트릭 스튜어트 스타트랙",
+    "패트릭 스튜어트 둠스데이"
+  ],
+  "notes": "미확인: 장례 일정. '어벤져스: 둠스데이' 정확한 개봉일(보도는 12월 예정). 대변인 성명 원문(영문)은 직접 확인 못 함(NPR·CNN 접속 차단). 자동완성 '최불암'·'리즈'는 본문과 무관해 제외."
+}

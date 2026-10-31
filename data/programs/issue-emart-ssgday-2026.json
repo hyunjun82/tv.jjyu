@@ -1,0 +1,188 @@
+{
+  "slug": "issue-emart-ssgday-2026",
+  "type": "issue",
+  "category": "경제",
+  "series": "",
+  "seriesSlug": "",
+  "program": "2026 쓱데이",
+  "kicker": "신세계그룹 · 이마트 쓱데이",
+  "dateLabel": "2026.10.30~11.08",
+  "firstReport": "마이데일리 10.25 06:00",
+  "title": "이마트 쓱데이 2026 기간, 한우 반값 등 할인 품목",
+  "name": "이마트 2026 쓱데이 10월 30일~11월 8일…한우 160톤 50% 할인은 11월 1일까지",
+  "shortName": "이마트 쓱데이 2026",
+  "subtitle": "",
+  "channel": "이마트",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-emart-ssgday-2026.jpg",
+  "thumb": "/img/auto/issue-emart-ssgday-2026.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "<b>이마트 2026 쓱데이는 10월 30일(금)부터 11월 8일(일)까지 10일간 열립니다.</b> 초반 사흘인 <b>10월 30일~11월 1일에는 한우 160톤을 행사카드 결제 시 전 품목 50% 할인</b>하는 등 신선식품 할인이 집중됩니다. 'GREAT 포터블스크린 UHD'는 행사카드 결제 시 59만9000원입니다. 내용은 이마트가 10월 29일 신세계그룹 뉴스룸에 낸 발표 기준이며, 확인일은 2026년 10월 31일입니다.",
+  "ctas": [
+    {
+      "kind": "official",
+      "label": "이마트 발표 (신세계그룹 뉴스룸)",
+      "sub": "10.29",
+      "url": "https://www.shinsegaegroupnewsroom.com/emart-opens-2026-ssg-day/"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (서울신문)",
+      "sub": "10.29 00:12",
+      "url": "https://www.seoul.co.kr/news/economy/distribution/2026/10/29/20261029031006"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (키즈맘)",
+      "sub": "10.29 10:38",
+      "url": "https://www.kizmom.com/news/articleView.html?idxno=113612"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "마이데일리",
+      "date": "10.25 06:00",
+      "url": "https://www.mydaily.co.kr/page/view/2026102501115753663"
+    },
+    {
+      "media": "신세계그룹 뉴스룸(이마트)",
+      "date": "10.29",
+      "url": "https://www.shinsegaegroupnewsroom.com/emart-opens-2026-ssg-day/"
+    },
+    {
+      "media": "서울신문",
+      "date": "10.29 00:12",
+      "url": "https://www.seoul.co.kr/news/economy/distribution/2026/10/29/20261029031006"
+    },
+    {
+      "media": "키즈맘",
+      "date": "10.29 10:38",
+      "url": "https://www.kizmom.com/news/articleView.html?idxno=113612"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.10.25",
+      "text": "신세계그룹, 10월 30일부터 열흘간 쓱데이 진행 발표",
+      "source": "마이데일리 10.25",
+      "url": "https://www.mydaily.co.kr/page/view/2026102501115753663"
+    },
+    {
+      "date": "2026.10.29",
+      "text": "이마트, 쓱데이 품목·혜택 발표",
+      "source": "신세계그룹 뉴스룸",
+      "url": "https://www.shinsegaegroupnewsroom.com/emart-opens-2026-ssg-day/"
+    },
+    {
+      "date": "2026.10.30~11.01",
+      "text": "한우 전 품목 50%(행사카드) 등 신선식품 집중 할인",
+      "source": "신세계그룹 뉴스룸",
+      "url": "https://www.shinsegaegroupnewsroom.com/emart-opens-2026-ssg-day/",
+      "hot": true
+    },
+    {
+      "date": "2026.11.08",
+      "text": "이마트 쓱데이 종료",
+      "source": "신세계그룹 뉴스룸",
+      "url": "https://www.shinsegaegroupnewsroom.com/emart-opens-2026-ssg-day/"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "기간",
+      "heading": "이마트 쓱데이 2026 기간은 언제인가요?",
+      "lead": "10월 30일(금)부터 11월 8일(일)까지 10일간입니다. 신선식품 집중 할인은 초반 사흘인 10월 30일~11월 1일에 진행됩니다.",
+      "paragraphs": [
+        "이마트는 이번 행사를 '대한민국 시그니처 세일'로 소개했습니다. 마이데일리는 신세계그룹 온·오프라인 계열사 18곳이 참여하고 1년간 2조 원 규모의 상품을 준비했다고 보도했습니다."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "official",
+          "label": "이마트 발표",
+          "url": "https://www.shinsegaegroupnewsroom.com/emart-opens-2026-ssg-day/"
+        },
+        {
+          "kind": "news",
+          "label": "마이데일리 기사",
+          "url": "https://www.mydaily.co.kr/page/view/2026102501115753663"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "신선식품",
+      "heading": "이마트 쓱데이 한우·과일 할인은 어떻게 되나요?",
+      "lead": "한우는 올해 최대 물량인 160톤을 준비해 10월 30일~11월 1일 행사카드로 결제하면 전 품목 50% 할인합니다.",
+      "paragraphs": [
+        "로메인 하트와 제스프리 후숙 그린키위 등은 행사카드 결제와 신세계포인트 적립 조건으로 최대 50% 할인되고, 행사카드 결제 시 10% 추가 할인이 붙습니다(이마트 10월 29일 발표 기준, 확인일 2026-10-31)."
+      ],
+      "actions": [
+        {
+          "kind": "official",
+          "label": "이마트 발표",
+          "url": "https://www.shinsegaegroupnewsroom.com/emart-opens-2026-ssg-day/"
+        },
+        {
+          "kind": "news",
+          "label": "키즈맘 기사",
+          "url": "https://www.kizmom.com/news/articleView.html?idxno=113612"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "가전·기획상품",
+      "heading": "이마트 쓱데이 가전·기획 상품은 무엇인가요?",
+      "lead": "'GREAT 포터블스크린 UHD'가 행사카드 결제 시 59만9000원입니다.",
+      "paragraphs": [
+        "마이데일리는 이 제품이 지난해 제품보다 화면을 27인치로 키우고 UHD 해상도를 적용했으며, 행사카드로 전액 결제하면 이 가격이고 휴대용 전용 가방을 선착순으로 준다고 전했습니다. 이마트는 라프로익 15년, 스타우브 더블핸들 프라이팬도 쓱데이 시그니처 상품으로 소개했지만 발표문에 가격은 나오지 않았습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "서울신문 기사",
+          "url": "https://www.seoul.co.kr/news/economy/distribution/2026/10/29/20261029031006"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "이마트 쓱데이 2026은 언제 끝나나요?",
+      "a": "11월 8일(일)에 끝납니다."
+    },
+    {
+      "q": "한우 50% 할인은 언제까지인가요?",
+      "a": "10월 30일부터 11월 1일까지 사흘간이며, 행사카드 결제 조건입니다."
+    },
+    {
+      "q": "전단지 전체 품목은 어디서 보나요?",
+      "a": "이번 페이지는 이마트 공식 발표와 보도에 나온 품목만 정리했습니다. 전체 품목과 가격은 이마트 앱·매장 전단에서 확인해야 합니다."
+    }
+  ],
+  "related": [],
+  "source": "신세계그룹 뉴스룸(이마트) 2026.10.29 발표, 마이데일리 10.25·서울신문·키즈맘 10.29 보도 · 확인일 2026-10-31",
+  "imageCredit": "",
+  "checkedAt": "2026-10-31",
+  "updatedAt": "2026-10-31T17:00:00+09:00",
+  "quick": [],
+  "keywordsUsed": [
+    "이마트 쓱데이",
+    "이마트 쓱데이 2026",
+    "2026 쓱데이 일정",
+    "쓱데이"
+  ],
+  "notes": "검수(10-31): 기간(10.30~11.8, 10일)·한우 160톤 전 품목 50%(10.30~11.1, 행사카드)·로메인/키위 최대 50%+10%·포터블스크린 59만9000원·라프로익/스타우브를 신세계그룹 뉴스룸 원문, 18개 계열사·2조 원·27인치 UHD를 마이데일리, 서울신문·키즈맘 원문 대조. '행사카드 10% 추가 할인' 누락분 보강. 미확인: 행사카드 종류, 전단 전체 품목·가격, 포켓몬카드·와인 행사(이마트 공식 발표에서 확인 못 함), 트레이더스 행사 내용."
+}

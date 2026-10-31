@@ -1,0 +1,253 @@
+{
+  "slug": "issue-gwanggyo-a17-share-housing",
+  "type": "issue",
+  "category": "경제",
+  "series": "",
+  "seriesSlug": "",
+  "program": "광교 자연앤 센트레빌(A17블록)",
+  "kicker": "경기도·GH · 전국 첫 지분적립형 분양주택",
+  "dateLabel": "2026.10.30 입주자모집공고",
+  "firstReport": "서울신문 10.30 07:25",
+  "title": "광교 A17 공공분양 분양가·청약 일정·위치·청년 특공",
+  "name": "경기도·GH 광교 A17블록 600가구 공급…지분적립형 59㎡ 240가구 11월 9~11일 청약",
+  "shortName": "광교 A17 청약",
+  "subtitle": "",
+  "channel": "청약홈 입주자모집공고",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-gwanggyo-a17-share-housing.jpg",
+  "thumb": "/img/auto/issue-gwanggyo-a17-share-housing.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "<b>경기도와 경기주택도시공사(GH)가 10월 30일 수원 광교 A17블록 '광교 자연앤 센트레빌' 입주자모집공고를 냈습니다.</b> 총 600가구로, 전용 59㎡ 240가구는 <b>전국 첫 지분적립형 분양주택</b>, 전용 84㎡ 360가구는 공공분양입니다. 청약은 <b>11월 9일 특별공급, 10일 일반공급 1순위, 11일 2순위</b>로 한국부동산원 청약홈에서 받습니다. 청약홈 공고 기준 최고가는 59㎡ 6억6790만~6억8590만 원, 84㎡ 9억3860만~9억4930만 원이고, 입주 예정은 2029년 10월입니다. 지분적립형 59㎡는 분양가의 25%를 내고 입주한 뒤 20년에 걸쳐 나머지 지분을 사들이는 방식입니다.",
+  "ctas": [
+    {
+      "kind": "news",
+      "label": "기사 원문 (비즈워치)",
+      "sub": "10.30 18:17",
+      "url": "https://news.bizwatch.co.kr/article/real_estate/2026/10/30/0056"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (이투데이)",
+      "sub": "10.30 17:30",
+      "url": "https://www.etoday.co.kr/news/view/2642441"
+    },
+    {
+      "kind": "official",
+      "label": "청약홈 공고 (59㎡ 지분적립형)",
+      "sub": "주택관리번호 2026000527",
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000527&pblancNo=2026000527"
+    },
+    {
+      "kind": "official",
+      "label": "청약홈 공고 (84㎡ 공공분양)",
+      "sub": "주택관리번호 2026000528",
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000528&pblancNo=2026000528"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "청약홈(한국부동산원) 59㎡ 공고",
+      "date": "10.30 공고",
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000527&pblancNo=2026000527"
+    },
+    {
+      "media": "청약홈(한국부동산원) 84㎡ 공고",
+      "date": "10.30 공고",
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000528&pblancNo=2026000528"
+    },
+    {
+      "media": "헤럴드경제",
+      "date": "10.30 09:00",
+      "url": "https://biz.heraldcorp.com/article/10919305"
+    },
+    {
+      "media": "서울신문",
+      "date": "10.30 07:25",
+      "url": "https://go.seoul.co.kr/news/newsView.php?id=20261030500013"
+    },
+    {
+      "media": "포커스경제",
+      "date": "10.30 12:40",
+      "url": "https://www.gungsireong.com/news/articleView.html?idxno=55135"
+    },
+    {
+      "media": "이투데이",
+      "date": "10.30 17:30",
+      "url": "https://www.etoday.co.kr/news/view/2642441"
+    },
+    {
+      "media": "비즈워치",
+      "date": "10.30 18:17",
+      "url": "https://news.bizwatch.co.kr/article/real_estate/2026/10/30/0056"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.10.30",
+      "text": "입주자모집공고(청약홈 게시), 견본주택 개관",
+      "source": "서울신문·헤럴드경제",
+      "url": "https://go.seoul.co.kr/news/newsView.php?id=20261030500013",
+      "hot": true
+    },
+    {
+      "date": "2026.11.09",
+      "text": "특별공급 청약",
+      "source": "청약홈 공고",
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000527&pblancNo=2026000527"
+    },
+    {
+      "date": "2026.11.10~11",
+      "text": "일반공급 1순위(10일)·2순위(11일) 청약",
+      "source": "청약홈 공고",
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000527&pblancNo=2026000527"
+    },
+    {
+      "date": "2026.11.17~18",
+      "text": "당첨자 발표: 84㎡ 17일, 59㎡ 지분적립형 18일",
+      "source": "청약홈 공고",
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000528&pblancNo=2026000528"
+    },
+    {
+      "date": "2026.12.21~23",
+      "text": "84㎡ 공공분양 계약",
+      "source": "청약홈 공고",
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000528&pblancNo=2026000528"
+    },
+    {
+      "date": "2027.01.25~27",
+      "text": "59㎡ 지분적립형 계약",
+      "source": "청약홈 공고",
+      "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000527&pblancNo=2026000527"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "청약 일정",
+      "heading": "광교 A17 청약 일정은 어떻게 되나요?",
+      "lead": "11월 9일 특별공급, 10일 일반공급 1순위, 11일 2순위 청약을 한국부동산원 청약홈에서 받습니다.",
+      "paragraphs": [
+        "당첨자 발표는 전용 84㎡가 11월 17일, 전용 59㎡ 지분적립형이 11월 18일입니다. 계약은 84㎡가 12월 21~23일, 59㎡가 2027년 1월 25~27일입니다(청약홈 공고). 자격 판단 기준일은 입주자모집공고일인 10월 30일이고, 입주 예정은 2029년 10월입니다."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "official",
+          "label": "청약홈 59㎡ 공고",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000527&pblancNo=2026000527"
+        },
+        {
+          "kind": "official",
+          "label": "청약홈 84㎡ 공고",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000528&pblancNo=2026000528"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "분양가",
+      "heading": "광교 A17 분양가와 지분적립형 구조는 어떻게 되나요?",
+      "lead": "청약홈 공고의 주택형별 최고가는 전용 59㎡ 지분적립형 6억6790만~6억8590만 원, 전용 84㎡ 공공분양 9억3860만~9억4930만 원입니다. 59㎡B(10층 이상, 6억8590만 원)라면 계약금 10%(6859만 원)와 입주 잔금 15%(1억288만 원)를 내고 지분 25%를 먼저 취득합니다.",
+      "paragraphs": [
+        "나머지 지분은 입주 후 5년·10년·15년차에 20%씩, 20년차에 15%를 취득해 소유권 100%를 확보합니다. 추가 지분 가격은 최초 공급가격에 기간이자를 더해 정합니다. GH가 가진 지분에는 사용료가 붙는데, 비즈워치는 주변 시세 80% 이하 수준에서 GH 지분 비율만큼 매기며 초기 임대보증금은 약 3억3000만 원이라고 보도했습니다.",
+        "5년 실거주 의무와 10년 전매제한이 적용됩니다. 층·동호수별 세부 공급금액은 청약홈에 게시된 입주자모집공고문에서 확인해야 합니다."
+      ],
+      "actions": [
+        {
+          "kind": "official",
+          "label": "청약홈 59㎡ 공고",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000527&pblancNo=2026000527"
+        },
+        {
+          "kind": "news",
+          "label": "비즈워치 기사",
+          "url": "https://news.bizwatch.co.kr/article/real_estate/2026/10/30/0056"
+        },
+        {
+          "kind": "news",
+          "label": "이투데이 기사",
+          "url": "https://www.etoday.co.kr/news/view/2642441"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "자격",
+      "heading": "광교 A17 공공분양 청약 자격과 청년 특별공급은?",
+      "lead": "입주자모집공고일(10월 30일) 기준 무주택세대구성원이어야 하고, 소득·자산 기준과 공급유형별 요건을 충족해야 합니다.",
+      "paragraphs": [
+        "지분적립형에는 청년 특별공급(15%)과 신생아 가구 특별공급(20%)이 처음 적용되고, 특별공급 비율이 50%에서 70%로 늘었습니다. 청약홈 공고 기준 59㎡ 240가구 중 168가구가 특별공급, 72가구가 일반공급이고, 84㎡는 360가구 중 270가구가 특별공급입니다. 청년 특별공급은 신청자 본인의 무주택 여부를 보며, 청약통장 가입기간·납입 횟수와 본인·부모 자산 요건이 추가로 적용됩니다. 세부 소득·자산 기준은 공고문에서 확인해야 합니다."
+      ],
+      "actions": [
+        {
+          "kind": "official",
+          "label": "청약홈 59㎡ 공고",
+          "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000527&pblancNo=2026000527"
+        },
+        {
+          "kind": "news",
+          "label": "이투데이 기사",
+          "url": "https://www.etoday.co.kr/news/view/2642441"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec4",
+      "tab": "위치",
+      "heading": "광교 A17 위치와 단지 규모는?",
+      "lead": "수원시 영통구 원천동 633번지 일원 광교 A17블록으로, 아주대학교와 광교호수공원 사이에 있습니다.",
+      "paragraphs": [
+        "지하 2층~지상 20층 9개 동, 총 600가구입니다. 사업주체는 GH이고, 시공은 동부건설 등 5개사가 맡습니다(청약홈 공고). 헤럴드경제는 신분당선 광교중앙역과 아주대학교병원 등을 주변 시설로, 견본주택 위치를 용인시 수지구 동천동으로 소개했습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "헤럴드경제 기사",
+          "url": "https://biz.heraldcorp.com/article/10919305"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "광교 A17은 어디서 청약하나요?",
+      "a": "한국부동산원 청약홈에서 온라인으로 신청합니다. 특별공급 11월 9일, 1순위 10일, 2순위 11일입니다."
+    },
+    {
+      "q": "지분적립형은 처음에 얼마를 내나요?",
+      "a": "분양가의 25%를 내고 입주합니다. 최고가 주택형(59㎡B, 10층 이상, 6억8590만 원) 기준 계약금 6859만 원과 잔금 1억288만 원입니다. 이와 별도로 GH 지분 사용료(임대보증금·월임대료)가 있습니다."
+    },
+    {
+      "q": "84㎡도 지분적립형인가요?",
+      "a": "아닙니다. 전용 84㎡ 360가구는 공공분양(최고가 9억3860만~9억4930만 원)이고, 지분적립형은 전용 59㎡ 240가구입니다."
+    }
+  ],
+  "related": [],
+  "source": "청약홈(한국부동산원) 입주자모집공고 · 서울신문·헤럴드경제·포커스경제·이투데이·비즈워치 2026.10.30 보도 · 공급 경기도·경기주택도시공사(GH) · 확인일 2026-10-31",
+  "imageCredit": "",
+  "checkedAt": "2026-10-31",
+  "updatedAt": "2026-10-31T17:00:00+09:00",
+  "quick": [],
+  "keywordsUsed": [
+    "광교 a17",
+    "광교 a17 분양가",
+    "광교 a17 청약",
+    "광교 a17 공공분양",
+    "광교 a17 위치",
+    "광교 a17 청년",
+    "광교 a17 공고",
+    "수원광교 A17블럭"
+  ],
+  "notes": "검수(10-31): 청약 일정·당첨자 발표·계약일·주택형별 최고가·특별공급 세대수·입주예정월(2029.10)을 청약홈 공고 상세 페이지(2026000527, 2026000528)에서 대조. 미확인: 층별 최저가(공고문 PDF 미열람), 소득·자산 기준 수치."
+}

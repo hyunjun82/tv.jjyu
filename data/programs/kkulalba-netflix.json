@@ -1,0 +1,437 @@
+{
+ "slug": "kkulalba-netflix",
+ "type": "drama",
+ "category": "드라마",
+ "series": "",
+ "seriesSlug": "",
+ "title": "넷플릭스 꿀알바 공개시간·몇부작·원작, 최현욱 역할과 줄거리",
+ "name": "꿀알바",
+ "shortName": "꿀알바",
+ "subtitle": "넷플릭스 시리즈 · 8부작 · 2026.10.30 전편 공개 · 청소년 관람불가",
+ "channel": "넷플릭스",
+ "airtime": "2026.10.30 (금) 전편 공개",
+ "status": "공개 중",
+ "backdrop": "/img/kkulalba-netflix-og.jpg",
+ "thumb": "/img/kkulalba-netflix-og.jpg",
+ "badges": [
+  "넷플릭스 시리즈",
+  "8부작 전편 공개",
+  "청소년 관람불가",
+  "미스터리 호러"
+ ],
+ "facts": [
+  [
+   "공개",
+   "2026.10.30 (금) 오후 5시 · 넷플릭스 (보도 기준)"
+  ],
+  [
+   "회차",
+   "8부작 · 회당 33~44분"
+  ],
+  [
+   "연출",
+   "김다민"
+  ],
+  [
+   "극본",
+   "경민선 · 이신지"
+  ],
+  [
+   "기획 총괄",
+   "한준희"
+  ],
+  [
+   "제작",
+   "쇼트케이크"
+  ],
+  [
+   "등급",
+   "청소년 관람불가"
+  ]
+ ],
+ "next": null,
+ "intro": "넷플릭스 시리즈 <b>〈꿀알바〉</b>는 시급 50배부터 시작하는 '꿀알바'만 소개하는 이상한 인력사무소 '거미인력'을 배경으로, 빚에 쫓기던 청년 혁준이 지옥 같은 노동 현장에 투입되는 미스터리 호러 판타지입니다(넷플릭스 제작 발표). <b>2026년 10월 30일 8부작 전편</b>이 공개됐고, 이재욱·고민시·김민하·이희준이 출연합니다. 공식 소개와 보도에 <b>원작 표기는 없으며</b>, 경민선·이신지 작가가 극본을 썼습니다. <b>최현욱</b>은 1화 최희동 역으로 특별출연합니다(TV리포트).",
+ "ctas": [
+  {
+   "kind": "netflix",
+   "label": "넷플릭스에서 보기",
+   "url": "https://www.netflix.com/kr/title/81997887",
+   "sub": "8화 전편 공개"
+  },
+  {
+   "kind": "link",
+   "label": "넷플릭스 제작 발표",
+   "url": "https://about.netflix.com/ko/news/korean-mystery-horror-series-perfect-job-in-production",
+   "sub": "2025.4.29"
+  }
+ ],
+ "quick": [
+  {
+   "label": "넷플릭스 작품 페이지",
+   "url": "https://www.netflix.com/kr/title/81997887",
+   "kind": "netflix"
+  },
+  {
+   "label": "넷플릭스 제작 발표",
+   "url": "https://about.netflix.com/ko/news/korean-mystery-horror-series-perfect-job-in-production",
+   "kind": "link"
+  },
+  {
+   "label": "공개시간 보도 (톱스타뉴스)",
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16263171",
+   "kind": "news"
+  }
+ ],
+ "links": [],
+ "ott": [
+  {
+   "kind": "netflix",
+   "name": "넷플릭스",
+   "status": "1~8화 전편 공개 (10.31 확인)",
+   "url": "https://www.netflix.com/kr/title/81997887"
+  }
+ ],
+ "ottNote": "넷플릭스 단독 공개 작품입니다. 음성은 한국어·영어·일본어(화면 해설 포함), 자막은 한국어·영어가 제공됩니다(넷플릭스 작품 페이지, 10.31 확인).",
+ "sections": [
+  {
+   "id": "sec1",
+   "tab": "공개시간",
+   "heading": "넷플릭스 꿀알바 공개시간과 몇부작은?",
+   "lead": "2026년 10월 30일(금) 오후 5시 8부작 전편이 한꺼번에 공개됐습니다(공개 시각은 톱스타뉴스 보도 기준).",
+   "paragraphs": [
+    "넷플릭스 작품 페이지에는 '리미티드 시리즈', 청소년 관람불가, 호러로 분류돼 있고 회차는 8화, 회당 33~44분입니다. 1~4화는 제31회 부산국제영화제 '온 스크린' 섹션에서 10월 7일 먼저 상영됐습니다(TV리포트 10.28).",
+    "제작발표회는 10월 28일 서울 영등포구 페어몬트 앰배서더 서울에서 열렸고, 군 복무 중인 이재욱은 영상 메시지로 인사했습니다(TV리포트 10.28)."
+   ],
+   "images": [
+    {
+     "src": "/img/kkulalba-netflix-s1.jpg",
+     "cap": "〈꿀알바〉 이희준·고민시·김민하·이재욱 (넷플릭스 제작 발표 공식 사진)",
+     "url": "https://about.netflix.com/ko/news/korean-mystery-horror-series-perfect-job-in-production",
+     "kind": "link",
+     "label": "넷플릭스 발표"
+    }
+   ],
+   "actions": [
+    {
+     "kind": "netflix",
+     "label": "넷플릭스 1화 보기",
+     "url": "https://www.netflix.com/kr/title/81997887"
+    },
+    {
+     "kind": "news",
+     "label": "공개시간 기사 (톱스타뉴스)",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16263171"
+    },
+    {
+     "kind": "news",
+     "label": "제작발표회 기사 (TV리포트)",
+     "url": "https://tvreport.co.kr/broadcast/article/1086514/"
+    }
+   ]
+  },
+  {
+   "id": "sec2",
+   "tab": "원작",
+   "heading": "꿀알바 원작 웹툰이 있나요?",
+   "lead": "넷플릭스 제작 발표와 작품 페이지, 언론 보도 어디에도 원작 웹툰 표기는 없습니다.",
+   "paragraphs": [
+    "넷플릭스 제작 발표(2025.4.29)의 작품 정보에는 기획 총괄 한준희, 연출 김다민, 극본 경민선·이신지, 제작 쇼트케이크만 적혀 있고 원작 항목이 없습니다. 넷플릭스 작품 페이지의 크리에이터 표기도 김다민·한준희·경민선입니다.",
+    "김다민 감독은 넷플릭스 〈살인자ㅇ난감〉 극본과 영화 〈막걸리가 알려줄거야〉 각본·연출을, 경민선 작가는 영화 〈서울괴담〉·〈타로〉를, 이신지 작가는 영화 〈콘크리트 유토피아〉를 썼습니다(넷플릭스 제작 발표)."
+   ],
+   "actions": [
+    {
+     "kind": "link",
+     "label": "넷플릭스 제작 발표 원문",
+     "url": "https://about.netflix.com/ko/news/korean-mystery-horror-series-perfect-job-in-production"
+    }
+   ]
+  },
+  {
+   "id": "sec3",
+   "tab": "출연진",
+   "heading": "꿀알바 최현욱은 무슨 역이고 출연진은 누구인가요?",
+   "lead": "최현욱은 1화 최희동 역으로 특별출연합니다(TV리포트 10.28). 주연은 이재욱(변혁준)·고민시(연주)·김민하(지윤)·이희준(거미사장)입니다.",
+   "paragraphs": [
+    "특별출연에는 최현욱·윤경호·윤병희·조현철·고창석이 이름을 올렸습니다. 최현욱과 조현철은 한준희 기획 총괄과 〈약한영웅〉·〈D.P.〉 등에서 함께한 인연으로 참여했다고 위키트리(10.18)가 전했습니다. 최현욱 외 특별출연진의 배역명은 공개되지 않았습니다."
+   ],
+   "castList": true,
+   "actions": [
+    {
+     "kind": "news",
+     "label": "특별출연 기사 (위키트리)",
+     "url": "https://www.wikitree.co.kr/articles/1167146"
+    },
+    {
+     "kind": "news",
+     "label": "최현욱 배역 기사 (TV리포트)",
+     "url": "https://tvreport.co.kr/breaking/article/1086449/"
+    }
+   ]
+  },
+  {
+   "id": "sec4",
+   "tab": "회차·줄거리",
+   "heading": "넷플릭스 꿀알바 줄거리와 회차별 알바는?",
+   "lead": "매 회 다른 알바가 나옵니다. 편의점 야간 알바에서 시작해 삐에로 행사, 우유 배달, 심야 극장, 임상시험, 건설 현장, 테마공원 야간 퍼레이드로 이어집니다.",
+   "ott": true,
+   "episodes": true
+  }
+ ],
+ "cast": [
+  {
+   "group": "main",
+   "name": "변혁준",
+   "sub": "이재욱",
+   "initial": "혁",
+   "img": "",
+   "job": "빚을 갚기 위해 초고액 일당 아르바이트에 뛰어드는 청년. '거미인력'의 광고를 보고 시급 50배 알바에 발을 들인다.",
+   "family": "주인공",
+   "actions": [
+    {
+     "kind": "link",
+     "label": "넷플릭스 발표",
+     "url": "https://about.netflix.com/ko/news/korean-mystery-horror-series-perfect-job-in-production"
+    }
+   ]
+  },
+  {
+   "group": "main",
+   "name": "연주",
+   "sub": "고민시",
+   "initial": "연",
+   "img": "",
+   "job": "'거미인력'에서 벌어지는 일의 전말을 파헤치는 노동재해 보호원 사고조사관.",
+   "family": "주요인물",
+   "actions": [
+    {
+     "kind": "link",
+     "label": "넷플릭스 발표",
+     "url": "https://about.netflix.com/ko/news/korean-mystery-horror-series-perfect-job-in-production"
+    }
+   ]
+  },
+  {
+   "group": "main",
+   "name": "지윤",
+   "sub": "김민하",
+   "initial": "지",
+   "img": "",
+   "job": "혁준의 여동생. '귀신보다 가난이 더 무섭다'는 모토를 가진 인물.",
+   "family": "혁준의 여동생",
+   "actions": [
+    {
+     "kind": "link",
+     "label": "넷플릭스 발표",
+     "url": "https://about.netflix.com/ko/news/korean-mystery-horror-series-perfect-job-in-production"
+    }
+   ]
+  },
+  {
+   "group": "main",
+   "name": "거미사장",
+   "sub": "이희준",
+   "initial": "거",
+   "img": "",
+   "job": "정체불명 인력사무소 '거미인력'을 운영하며 혁준에게 거부할 수 없는 시급의 알바를 계속 제안하는 인물.",
+   "family": "거미인력",
+   "actions": [
+    {
+     "kind": "link",
+     "label": "넷플릭스 발표",
+     "url": "https://about.netflix.com/ko/news/korean-mystery-horror-series-perfect-job-in-production"
+    }
+   ]
+  },
+  {
+   "group": "support",
+   "name": "최희동",
+   "sub": "최현욱 (특별출연)",
+   "initial": "최",
+   "img": "",
+   "job": "1화에 등장하는 인물(TV리포트 10.28). 인물 설명은 공개되지 않았습니다.",
+   "family": "특별출연",
+   "actions": [
+    {
+     "kind": "news",
+     "label": "배역 기사",
+     "url": "https://tvreport.co.kr/breaking/article/1086449/"
+    }
+   ]
+  }
+ ],
+ "episodes": [
+  {
+   "no": "1화",
+   "sub": "넷플릭스 · 44분",
+   "date": "2026-10-30",
+   "title": "편의점 운영원칙",
+   "desc": "빚더미 앞에서 선택의 여지가 없는 평범한 청년 변혁준. 최저 시급의 50배를 준다는 수상한 편의점 야간 알바를 소개받는다. 막상 도착하고 보니, 왜 그렇게 시급을 많이 주는지 알게 되는데. (넷플릭스 회차 소개)",
+   "thumb": "",
+   "soon": false,
+   "links": [
+    {
+     "kind": "netflix",
+     "label": "넷플릭스 1화",
+     "url": "https://www.netflix.com/kr/title/81997887"
+    }
+   ]
+  },
+  {
+   "no": "2화",
+   "sub": "넷플릭스 · 40분",
+   "date": "2026-10-30",
+   "title": "삐에로와의 동행",
+   "desc": "지옥 같았던 지난 알바에서 달달한 일당을 맛본 혁준에게 거미인력 사장은 두 번째 알바를 제안한다. 행사 전문가 삐에로 옆에만 딱 붙어있으면 된다는데, 괜찮겠지? (넷플릭스 회차 소개)",
+   "thumb": "",
+   "soon": false,
+   "links": [
+    {
+     "kind": "netflix",
+     "label": "넷플릭스 2화",
+     "url": "https://www.netflix.com/kr/title/81997887"
+    }
+   ]
+  },
+  {
+   "no": "3화",
+   "sub": "넷플릭스 · 38분",
+   "date": "2026-10-30",
+   "title": "우유배달 브이로그",
+   "desc": "위험한 알바를 다시는 안 하겠다는 다짐도 잠시뿐, 친구의 병원비를 위해 혁준은 또다시 거미인력을 찾는다. 최저 시급 200배의 우유 배달 알바. 혁준은 완전히 무장한 채 알바 장소에 도착한다. (넷플릭스 회차 소개)",
+   "thumb": "",
+   "soon": false,
+   "links": [
+    {
+     "kind": "netflix",
+     "label": "넷플릭스 3화",
+     "url": "https://www.netflix.com/kr/title/81997887"
+    }
+   ]
+  },
+  {
+   "no": "4화",
+   "sub": "넷플릭스 · 40분",
+   "date": "2026-10-30",
+   "title": "심야 환상극장",
+   "desc": "혁준의 동생 지윤도 거미인력과 알바의 존재에 대해 알게 된다. 그녀 역시 의도치 않게 휘말려 알바의 기회가 찾아오는데. 정체 모를 손님들이 가득한 영화관에서 야간 알바를 무사히 끝낼 수 있을까? (넷플릭스 회차 소개)",
+   "thumb": "",
+   "soon": false,
+   "links": [
+    {
+     "kind": "netflix",
+     "label": "넷플릭스 4화",
+     "url": "https://www.netflix.com/kr/title/81997887"
+    }
+   ]
+  },
+  {
+   "no": "5화",
+   "sub": "넷플릭스 · 35분",
+   "date": "2026-10-30",
+   "title": "임상시험",
+   "desc": "다른 사람인 척 새로운 알바에 참여한 혁준은 임상 시험 알바에서 우연히 친구 병철을 만난다. 이제부터 혁준에게 닥친 것은 알바 퇴근이 아니라 구조 임무다! (넷플릭스 회차 소개)",
+   "thumb": "",
+   "soon": false,
+   "links": [
+    {
+     "kind": "netflix",
+     "label": "넷플릭스 5화",
+     "url": "https://www.netflix.com/kr/title/81997887"
+    }
+   ]
+  },
+  {
+   "no": "6화",
+   "sub": "넷플릭스 · 33분",
+   "date": "2026-10-30",
+   "title": "말하지 않는 건물",
+   "desc": "혁준은 거미인력 사장에게 꿀알바에 대해 캐묻지만 줄곧 모르겠다는 대답만 듣는다. 결국 직접 답을 찾아 나서기 위해, 혁준은 건설 현장 주야간조 알바 자리를 수락한다. (넷플릭스 회차 소개)",
+   "thumb": "",
+   "soon": false,
+   "links": [
+    {
+     "kind": "netflix",
+     "label": "넷플릭스 6화",
+     "url": "https://www.netflix.com/kr/title/81997887"
+    }
+   ]
+  },
+  {
+   "no": "7화",
+   "sub": "넷플릭스 · 37분",
+   "date": "2026-10-30",
+   "title": "네오월드 야간개장",
+   "desc": "혁준은 자신이 찾고 있는 비밀을 확인하기 위해 마지막 알바를 요청한다. 이전 알바와는 전혀 다를 거라는 거미인력 사장의 경고에도 불구하고, 네오월드 테마공원의 야간 퍼레이드 알바에 합류한다. (넷플릭스 회차 소개)",
+   "thumb": "",
+   "soon": false,
+   "links": [
+    {
+     "kind": "netflix",
+     "label": "넷플릭스 7화",
+     "url": "https://www.netflix.com/kr/title/81997887"
+    }
+   ]
+  },
+  {
+   "no": "8화",
+   "sub": "넷플릭스 · 36분",
+   "date": "2026-10-30",
+   "title": "마지막 카니발",
+   "desc": "혁준, 지윤, 거미인력 사장 그리고 연주까지 모두 놀이공원에 모인다. 잔혹 동화 같은 한밤의 카니발 현장에서 새로운 진실과 숨겨진 비밀이 밝혀지는데. 혁준은 과연 알바를 완전히 그만둘 수 있을까? (넷플릭스 회차 소개)",
+   "thumb": "",
+   "soon": false,
+   "links": [
+    {
+     "kind": "netflix",
+     "label": "넷플릭스 8화",
+     "url": "https://www.netflix.com/kr/title/81997887"
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "꿀알바 공개시간은 언제였나요?",
+   "a": "2026년 10월 30일(금) 오후 5시로 보도됐습니다(톱스타뉴스 10.30). 8화 전편이 한 번에 공개됐습니다."
+  },
+  {
+   "q": "꿀알바 몇부작인가요?",
+   "a": "8부작입니다. 회당 33~44분입니다(넷플릭스 작품 페이지)."
+  },
+  {
+   "q": "꿀알바 원작 웹툰이 있나요?",
+   "a": "넷플릭스 제작 발표·작품 페이지와 보도에 원작 표기는 없습니다. 극본은 경민선·이신지 작가입니다."
+  },
+  {
+   "q": "최현욱은 몇 화에 나오나요?",
+   "a": "1화 최희동 역으로 특별출연합니다(TV리포트 10.28)."
+  },
+  {
+   "q": "꿀알바 관람 등급은?",
+   "a": "청소년 관람불가입니다(넷플릭스 작품 페이지)."
+  }
+ ],
+ "related": [
+  {
+   "slug": "100-days-of-lies",
+   "name": "100일의 거짓말",
+   "desc": "tvN 토일드라마 · 넷플릭스 공개"
+  }
+ ],
+ "source": "넷플릭스 한국 작품 페이지(81997887: 작품 소개·1~8화 회차 소개·러닝타임·출연·크리에이터·등급) · About Netflix 제작 발표(2025.4.29: 작품 정보·배역·공식 사진) · 보도: 위키트리 10.18, TV리포트 10.28(1086449·1086514), 톱스타뉴스 10.30",
+ "imageCredit": "이미지는 넷플릭스 작품 페이지 대표 이미지와 넷플릭스 제작 발표 공식 사진입니다.",
+ "checkedAt": "2026-10-31",
+ "updatedAt": "2026-10-31T17:00:00+09:00",
+ "keywordsUsed": [
+  "넷플릭스 꿀알바",
+  "꿀알바 공개시간",
+  "넷플릭스 꿀알바 공개시간",
+  "꿀알바 몇부작",
+  "꿀알바 원작",
+  "꿀알바 웹툰",
+  "꿀알바 최현욱",
+  "넷플릭스 꿀알바 줄거리",
+  "넷플릭스 꿀알바 공개일"
+ ],
+ "notes": "공개 시각 '오후 5시'는 톱스타뉴스(10.30) 단독 표기이며 넷플릭스 공식 공지로 확인하지 못함. 원작 웹툰: 공식 자료·보도 모두 원작 표기 없음(웹툰이 존재하지 않는다고 단정하지 않고 '표기 없음'으로 서술). 최현욱 외 특별출연(윤경호·윤병희·조현철·고창석) 배역명 미공개. 인물 개별 사진은 공식 자료에 없어 비움. 시급 표현은 넷플릭스 공식 '최소 50배'를 따름(TV리포트 기사에 '10배'라는 다른 표기가 있었음). 평점·후기·결말은 다루지 않음. 검수: 지윤의 성(변)은 공식 자료에서 확인되지 않아 '지윤'으로 표기."
+}

@@ -1,0 +1,226 @@
+{
+  "slug": "issue-intellivix-ipo",
+  "type": "issue",
+  "category": "경제",
+  "series": "",
+  "seriesSlug": "",
+  "program": "인텔리빅스 코스닥 상장",
+  "kicker": "공모주 · 코스닥 신규 상장",
+  "dateLabel": "2026.10.30 상장",
+  "firstReport": "MTN 2026.09.17 10:28",
+  "title": "인텔리빅스 공모가·수요예측·청약 경쟁률·상장일·주관사",
+  "name": "영상분석 AI 기업 인텔리빅스, 공모가 9000원 확정 뒤 10월 30일 코스닥 상장",
+  "shortName": "인텔리빅스 공모주",
+  "subtitle": "",
+  "channel": "DART 공시",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-intellivix-ipo.jpg",
+  "thumb": "/img/auto/issue-intellivix-ipo.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "<b>영상분석 AI 기업 인텔리빅스가 공모가 9,000원으로 10월 30일 코스닥에 상장했습니다.</b> DART 공시에 따르면 공모주식은 250만 주, 공모총액은 225억 원이며 <b>대표주관회사는 미래에셋증권</b>입니다. 기관 수요예측 경쟁률은 1,234.3 대 1(DART 발행조건확정 공시), 일반청약 경쟁률은 약 1,410.9 대 1(증권발행실적보고서의 청약 주식 수 기준)입니다. 상장 첫날 종가는 31,000원으로 공모가 대비 244.44% 높았습니다. 이 페이지는 공시·보도 내용 정리이며 투자 판단 자료가 아닙니다.",
+  "ctas": [
+    {
+      "kind": "official",
+      "label": "DART 증권신고서(발행조건확정)",
+      "sub": "2026.10.20",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000360"
+    },
+    {
+      "kind": "official",
+      "label": "DART 증권발행실적보고서",
+      "sub": "2026.10.26",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000059"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (바이라인네트워크)",
+      "sub": "10.23 11:57",
+      "url": "https://byline.network/2026/10/23-636/"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "MTN",
+      "date": "09.17 10:28",
+      "url": "https://news.mtn.co.kr/news-detail/2026091709453451201"
+    },
+    {
+      "media": "바이라인네트워크",
+      "date": "10.23 11:57",
+      "url": "https://byline.network/2026/10/23-636/"
+    },
+    {
+      "media": "뉴스1",
+      "date": "10.30 09:35",
+      "url": "https://www.news1.kr/finance/market-exr/6337397"
+    },
+    {
+      "media": "스페셜타임스",
+      "date": "10.30 15:52",
+      "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=480252"
+    },
+    {
+      "media": "한국경제TV",
+      "date": "10.30 17:02",
+      "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610300130"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.09.16",
+      "text": "증권신고서 제출(희망 공모가 7,600~9,000원, 250만 주)",
+      "source": "DART",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916000544"
+    },
+    {
+      "date": "2026.10.12~16",
+      "text": "기관 수요예측, 경쟁률 1,234.3 대 1",
+      "source": "바이라인네트워크 10.23",
+      "url": "https://byline.network/2026/10/23-636/"
+    },
+    {
+      "date": "2026.10.20",
+      "text": "공모가 9,000원 확정(희망 범위 상단) 공시",
+      "source": "DART",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000360"
+    },
+    {
+      "date": "2026.10.21~22",
+      "text": "일반청약, 경쟁률 1,410.9 대 1·증거금 약 4조 원",
+      "source": "바이라인네트워크 10.23",
+      "url": "https://byline.network/2026/10/23-636/"
+    },
+    {
+      "date": "2026.10.26",
+      "text": "납입·환불, 증권발행실적보고서(발행총액 225억 원)",
+      "source": "DART",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000059"
+    },
+    {
+      "date": "2026.10.30",
+      "text": "코스닥 상장, 첫날 종가 31,000원(공모가 대비 +244.44%)",
+      "source": "스페셜타임스·한국경제TV",
+      "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=480252",
+      "hot": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "공모가",
+      "heading": "인텔리빅스 공모가와 주관사는?",
+      "lead": "공모가는 희망 범위(7,600~9,000원) 상단인 9,000원으로 확정됐고, 대표주관회사는 미래에셋증권입니다.",
+      "paragraphs": [
+        "10월 20일 발행조건확정 증권신고서에 따르면 공모주식은 보통주 250만 주, 공모총액은 225억 원이며 미래에셋증권이 총액인수했습니다. 청약기일은 10월 21~22일, 납입기일은 10월 26일입니다."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "official",
+          "label": "DART 증권신고서",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000360"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "수요예측·청약",
+      "heading": "인텔리빅스 수요예측과 청약 경쟁률은?",
+      "lead": "기관 수요예측(10월 12~16일) 경쟁률은 1,234.3 대 1, 일반청약(10월 21~22일) 경쟁률은 1,410.9 대 1이었습니다.",
+      "paragraphs": [
+        "바이라인네트워크는 기관 주문 금액이 약 21조 원, 일반청약 증거금이 약 4조 원이었다고 보도했습니다. 한국경제TV는 의무보유확약 비율을 6.14%로 전했습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "바이라인네트워크 기사",
+          "url": "https://byline.network/2026/10/23-636/"
+        },
+        {
+          "kind": "news",
+          "label": "한국경제TV 기사",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610300130"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "상장일",
+      "heading": "인텔리빅스 상장일과 첫날 주가는?",
+      "lead": "10월 30일 코스닥에 상장했고, 첫날 종가는 31,000원으로 공모가 대비 244.44% 올랐습니다.",
+      "paragraphs": [
+        "뉴스1은 이날 오전 9시 19분 주가가 19,770원(공모가 대비 +119.56%)이었다고 보도했습니다. 상장 이후 주가는 매일 바뀌므로 증권사 시세에서 확인해야 합니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "스페셜타임스 기사",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=480252"
+        },
+        {
+          "kind": "news",
+          "label": "뉴스1 기사",
+          "url": "https://www.news1.kr/finance/market-exr/6337397"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec4",
+      "tab": "기업정보",
+      "heading": "인텔리빅스는 어떤 회사인가요?",
+      "lead": "2000년 설립된 딥러닝 기반 영상분석 AI 기업으로, 영상으로 공공시설·산업현장·도로의 위험을 감지하는 안전관제 솔루션을 공급합니다. 대표이사는 장정훈입니다.",
+      "paragraphs": [
+        "MTN은 2025년 매출 466억 원, 영업이익 49억 원, 당기순이익 54억 원을 기록했다고 보도했습니다. 공모자금은 영상분석 파운데이션 모델·국방 AI 개발, 4족 보행 순찰로봇 '아르고스' 등 피지컬 AI 상용화, 해외 거점 확장에 쓸 계획이라고 바이라인네트워크가 전했습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "MTN 기사",
+          "url": "https://news.mtn.co.kr/news-detail/2026091709453451201"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "인텔리빅스 공모가는 얼마인가요?",
+      "a": "9,000원입니다(희망 범위 7,600~9,000원 상단)."
+    },
+    {
+      "q": "인텔리빅스 상장일은 언제인가요?",
+      "a": "2026년 10월 30일 코스닥에 상장했습니다."
+    },
+    {
+      "q": "주관사는 어디인가요?",
+      "a": "미래에셋증권이 대표주관회사입니다."
+    }
+  ],
+  "related": [],
+  "source": "DART 증권신고서(2026.09.16·10.20)·증권발행실적보고서(10.26), MTN 09.17·바이라인네트워크 10.23·뉴스1·스페셜타임스·한국경제TV 10.30 보도 · 확인일 2026-10-31",
+  "imageCredit": "",
+  "checkedAt": "2026-10-31",
+  "updatedAt": "2026-10-31T17:00:00+09:00",
+  "quick": [],
+  "keywordsUsed": [
+    "인텔리빅스",
+    "인텔리빅스 공모주",
+    "인텔리빅스 공모가",
+    "인텔리빅스 수요예측",
+    "인텔리빅스 상장일",
+    "인텔리빅스 주관사",
+    "인텔리빅스 청약 경쟁률",
+    "인텔리빅스 기업정보"
+  ],
+  "notes": "검수(10-31): 공모가·희망밴드·250만 주·225억 원·미래에셋 총액인수·수요예측 1,234.30 대 1(DART 10.20), 청약일·납입일·일반청약 881,797,240주/625,000주(=1,410.9 대 1)(DART 10.26), 수요예측 일정·설립연도·2025 실적(MTN), 첫날 종가(스페셜타임스·한국경제TV), 장중 주가(뉴스1)를 대조. 미확인: 시초가, 10.31 이후 주가. 의무보유확약 비율은 한국경제TV 보도 기준. 투자 권유 문장 없음."
+}
