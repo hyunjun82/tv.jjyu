@@ -1,0 +1,214 @@
+{
+  "slug": "table-776",
+  "type": "place",
+  "category": "맛집",
+  "series": "한국인의 밥상",
+  "seriesSlug": "table",
+  "program": "table",
+  "title": "한국인의 밥상 10월 29일 오늘 방송 맛집 위치 전화번호 총정리",
+  "name": "한국인의 밥상 10월 29일 776회 방송 맛집·장소",
+  "shortName": "10.29 한국인의 밥상 776회",
+  "subtitle": "",
+  "channel": "KBS 1TV 한국인의 밥상",
+  "airtime": "2026.10.29 (목) · 776회",
+  "status": "방송 맛집",
+  "backdrop": "/img/table-776.jpg",
+  "thumb": "/img/table-776.jpg",
+  "badges": [
+    "776회 · 10.29",
+    "3곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 한국인의 밥상 776회"
+    ],
+    [
+      "방송일",
+      "2026.10.29 (목)"
+    ],
+    [
+      "소개된 곳",
+      "3곳 (KBS 방송정보 기준)"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.10.29 (목) KBS 1TV 한국인의 밥상 776회에 나온 곳은 <b>3곳</b>입니다. <b>시간이 멈춘 마을</b>, <b>용궁단골식당</b>, <b>용궁시장제유소</b> 등이며, 상호·주소·전화는 KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "776회 다시보기",
+      "sub": "KBS 공식 · 10.29 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026191265-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11422"
+    }
+  ],
+  "quick": [
+    {
+      "label": "시간이 멈춘 마을",
+      "url": "/table-776-1/",
+      "kind": "map"
+    },
+    {
+      "label": "용궁단골식당",
+      "url": "/table-776-2/",
+      "kind": "map"
+    },
+    {
+      "label": "용궁시장제유소",
+      "url": "/table-776-3/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "10월 29일 한국인의 밥상에 나온 곳은 어디인가요?",
+      "lead": "776회 KBS 방송정보에 올라온 곳은 3곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "<a href=\"/table-776-1/\">시간이 멈춘 마을</a>",
+            "도토리묵",
+            "충청남도 서천군 판교면 882-8",
+            "—"
+          ],
+          [
+            "<a href=\"/table-776-2/\">용궁단골식당</a>",
+            "곱창, 순대",
+            "경상북도 예천군 용궁면 용궁시장길 30",
+            "054-653-6126"
+          ],
+          [
+            "<a href=\"/table-776-3/\">용궁시장제유소</a>",
+            "경상북도 예천군 용궁면",
+            "경북 예천군 예천읍 생천리 429",
+            "054-654-1977"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/table-776.jpg",
+          "cap": "한국인의 밥상 776회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026191265-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04",
+          "kind": "kbs",
+          "label": "776회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "776회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026191265-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11422"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "10.29 한국인의 밥상 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "충청남도 서천군 판교면",
+            "<a href=\"/table-776-1/\">시간이 멈춘 마을</a>"
+          ],
+          [
+            "경상북도 예천군 용궁면",
+            "<a href=\"/table-776-2/\">용궁단골식당</a>, <a href=\"/table-776-3/\">용궁시장제유소</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2c",
+      "tab": "방송 내용",
+      "heading": "한국인의 밥상 776회는 어떤 내용인가요?",
+      "lead": "KBS 공식 회차 소개입니다.",
+      "paragraphs": [
+        "[&quot;기차는 멈춰도 추억은 끓는다&quot; 그리움을 품은 간이역] 1899년 이 땅에 처음 기찻길이 열린 뒤 고속도로가 뚫리고 마이카 시대가 오기 전까지, 기차는 서민들의 유일한 발이었다. 하지만 자동차가 고속도로를 누비고 KTX가 달리면서 수많은 간이역이 문을 닫았다. 철길은 뜯기고 기적 소리는 사라졌지만, 그 시절이 남겨 둔 것들이 있다. 기찻길과 함께 살아온 사람들의 정겨운 이야기, 그리고 아직도 밥상 위에서 끓고 있는 그 시절의 맛을 찾아 떠난다."
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "한국인의 밥상는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 한국인의 밥상는 매주 목요일 오후 7시 40분 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "776회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "776회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026191265-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+        },
+        {
+          "kind": "link",
+          "label": "한국인의 밥상 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/table"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 한국인의 밥상는 매주 목요일 오후 7시 40분 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "가게 정보 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.10.29 (목)자 한국인의 밥상 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "table-776-1",
+      "name": "시간이 멈춘 마을",
+      "desc": "10.29 · 도토리묵"
+    },
+    {
+      "slug": "table-776-2",
+      "name": "용궁단골식당",
+      "desc": "10.29 · 곱창, 순대"
+    },
+    {
+      "slug": "table-776-3",
+      "name": "용궁시장제유소",
+      "desc": "10.29 · 경상북도 예천군 용궁면"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.10.29 (목)) · KBS 공식 회차 데이터(776회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-10-30",
+  "updatedAt": "2026-10-30T14:23:20+09:00"
+}

@@ -1,0 +1,338 @@
+{
+  "slug": "reallive-2635-1",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 예티 위치 전화번호 10월 30일 배우 이재용의 단골 맛집",
+  "name": "예티",
+  "shortName": "예티",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.10.30 (금) 방송 · 오늘 또 방문: 스타밥집",
+  "status": "방송 맛집",
+  "backdrop": "/img/reallive-2635.jpg",
+  "thumb": "/img/reallive-2635.jpg",
+  "badges": [
+    "2635회 · 10.30",
+    "오늘 또 방문: 스타밥집",
+    "서울특별시 마포구"
+  ],
+  "facts": [
+    [
+      "상호",
+      "예티"
+    ],
+    [
+      "지역",
+      "서울특별시 마포구"
+    ],
+    [
+      "주소",
+      "서울특별시 마포구 와우산로18길 20 홍대예티 1층"
+    ],
+    [
+      "전화",
+      "0507-1319-0745"
+    ],
+    [
+      "뚝바",
+      "13,000원"
+    ],
+    [
+      "방송",
+      "KBS 2TV 생생정보 2635회 (2026.10.30 (금))"
+    ],
+    [
+      "코너",
+      "오늘 또 방문: 스타밥집"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>예티</b>은(는) 2026.10.30 (금) KBS 2TV 생생정보 2635회 「오늘 또 방문: 스타밥집」(배우 이재용의 단골 맛집) 편에 나온 곳입니다. 주소는 <b>서울특별시 마포구 와우산로18길 20 홍대예티 1층</b>, 전화는 <b>0507-1319-0745</b>입니다. KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2635회 다시보기",
+      "sub": "KBS 공식 · 10.30 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026195369-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%98%88%ED%8B%B0%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%A7%88%ED%8F%AC%EA%B5%AC"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "0507-1319-0745",
+      "url": "tel:050713190745"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11423",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%98%88%ED%8B%B0%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%A7%88%ED%8F%AC%EA%B5%AC",
+      "kind": "map"
+    },
+    {
+      "label": "2TV 생생정보 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "예티 생생정보 어느 코너에 나왔나요?",
+      "lead": "2026.10.30 (금) KBS 2TV 생생정보 2635회 「오늘 또 방문: 스타밥집」(배우 이재용의 단골 맛집) 편에 나온 곳입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.10.30 (금)"
+          ],
+          [
+            "회차",
+            "2635회"
+          ],
+          [
+            "코너",
+            "오늘 또 방문: 스타밥집"
+          ],
+          [
+            "코너 제목",
+            "배우 이재용의 단골 맛집"
+          ],
+          [
+            "KBS 표기",
+            "예티"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "상호·주소·전화는 KBS 시청자상담실 「방송정보」의 2026.10.30 (금)자 2TV 생생정보 취재 연락처 그대로입니다."
+      ],
+      "images": [
+        {
+          "src": "/img/reallive-2635.jpg",
+          "cap": "2TV 생생정보 2635회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026195369-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2635회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2635회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026195369-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11423"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "예티 위치·주소·전화번호는?",
+      "lead": "주소는 서울특별시 마포구 와우산로18길 20 홍대예티 1층입니다. 전화는 0507-1319-0745입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "예티"
+          ],
+          [
+            "주소",
+            "서울특별시 마포구 와우산로18길 20 홍대예티 1층"
+          ],
+          [
+            "지역",
+            "서울특별시 마포구"
+          ],
+          [
+            "전화",
+            "0507-1319-0745"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "아래 지도 버튼을 누르면 이 주소로 바로 검색됩니다."
+      ],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%98%88%ED%8B%B0%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%A7%88%ED%8F%AC%EA%B5%AC"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "0507-1319-0745",
+          "url": "tel:050713190745"
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "가격·영업시간",
+      "heading": "예티 가격·영업시간·주차는?",
+      "lead": "KBS 제작진이 방송정보에 적은 내용 그대로입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "KBS 방송정보 표기"
+        ],
+        "rows": [
+          [
+            "뚝바",
+            "13,000원"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "※ 메뉴:",
+        "※ 2인런치 세트 (*오후 3시까지 판매) : 42,000원",
+        "가격·영업시간은 바뀔 수 있으니 방문 전 전화로 확인하세요."
+      ],
+      "actions": [
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "0507-1319-0745",
+          "url": "tel:050713190745"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "10.30 방송 전체",
+      "heading": "10.30 2TV 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2635회 KBS 방송정보에 올라온 곳은 모두 7곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2635-1/\">예티</a>",
+            "오늘 또 방문: 스타밥집",
+            "서울특별시 마포구 와우산로18길 20 홍대예티 1층"
+          ],
+          [
+            "<a href=\"/reallive-2635-2/\">학전망대</a>",
+            "떠나요~이야기로(路)",
+            "경상북도 상주시 중동면 갱다불길 96-42"
+          ],
+          [
+            "<a href=\"/reallive-2635-3/\">제일청과</a>",
+            "떠나요~이야기로(路)",
+            "경상북도 상주시 중앙시장길 15-1 c동 2호"
+          ],
+          [
+            "<a href=\"/reallive-2635-4/\">하늘아래 첫 감나무</a>",
+            "떠나요~이야기로(路)",
+            "경상북도 상주시 외남면 소은리 279-1"
+          ],
+          [
+            "<a href=\"/reallive-2635-5/\">조이통통생구이</a>",
+            "떠나요~이야기로(路)",
+            "경상북도 상주시 문무1길 40-5"
+          ],
+          [
+            "<a href=\"/reallive-2635-6/\">허씨비단직물</a>",
+            "떠나요~이야기로(路)",
+            "경상북도 상주시 함창읍 어풍로 19"
+          ],
+          [
+            "<a href=\"/reallive-2635-7/\">노음산옛날할매곶감</a>",
+            "떠나요~이야기로(路)",
+            "경상북도 상주시 남장1길 88"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "10.30 생생정보 총정리",
+          "url": "/reallive-2635/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "주소와 전화번호 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.10.30 (금)자 2TV 생생정보 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2635-2",
+      "name": "학전망대",
+      "desc": "10.30 · 떠나요~이야기로(路)"
+    },
+    {
+      "slug": "reallive-2635-3",
+      "name": "제일청과",
+      "desc": "10.30 · 떠나요~이야기로(路)"
+    },
+    {
+      "slug": "reallive-2635-4",
+      "name": "하늘아래 첫 감나무",
+      "desc": "10.30 · 떠나요~이야기로(路)"
+    },
+    {
+      "slug": "reallive-2635-5",
+      "name": "조이통통생구이",
+      "desc": "10.30 · 떠나요~이야기로(路)"
+    },
+    {
+      "slug": "reallive-2635-6",
+      "name": "허씨비단직물",
+      "desc": "10.30 · 떠나요~이야기로(路)"
+    },
+    {
+      "slug": "reallive-2635-7",
+      "name": "노음산옛날할매곶감",
+      "desc": "10.30 · 떠나요~이야기로(路)"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.10.30 (금) 2TV 생생정보 취재 연락처) · KBS 공식 회차 데이터(2635회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-10-30",
+  "updatedAt": "2026-10-30T21:36:42+09:00"
+}

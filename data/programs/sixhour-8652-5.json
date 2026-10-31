@@ -1,0 +1,342 @@
+{
+  "slug": "sixhour-8652-5",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 어등회관 위치 전화번호 10월 30일 육합, 낙지볶음",
+  "name": "어등회관",
+  "shortName": "어등회관",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.10.30 (금) 방송 · 미리 맛본 식당 미식당",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8652.jpg",
+  "thumb": "/img/sixhour-8652.jpg",
+  "badges": [
+    "8652회 · 10.30",
+    "미리 맛본 식당 미식당",
+    "전남광주통합특별시 광산구"
+  ],
+  "facts": [
+    [
+      "상호",
+      "어등회관"
+    ],
+    [
+      "방송 메뉴",
+      "육합, 낙지볶음"
+    ],
+    [
+      "지역",
+      "전남광주통합특별시 광산구"
+    ],
+    [
+      "주소",
+      "전남광주통합특별시 광산구 내상로15번길 40"
+    ],
+    [
+      "전화",
+      "062-941-4505"
+    ],
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8652회 (2026.10.30 (금))"
+    ],
+    [
+      "코너",
+      "미리 맛본 식당 미식당"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>어등회관</b>은(는) 2026.10.30 (금) KBS 1TV 6시 내고향 8652회 「미리 맛본 식당 미식당」(전라도 한 상을 그대에게) 편에 나온 곳입니다. 방송 메뉴는 「육합, 낙지볶음」입니다. 주소는 <b>전남광주통합특별시 광산구 내상로15번길 40</b>, 전화는 <b>062-941-4505</b>입니다. KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8652회 다시보기",
+      "sub": "KBS 공식 · 10.30 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183633-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%96%B4%EB%93%B1%ED%9A%8C%EA%B4%80%20%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B4%91%EC%82%B0%EA%B5%AC"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "062-941-4505",
+      "url": "tel:0629414505"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11423",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%96%B4%EB%93%B1%ED%9A%8C%EA%B4%80%20%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B4%91%EC%82%B0%EA%B5%AC",
+      "kind": "map"
+    },
+    {
+      "label": "6시 내고향 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "어등회관 6시 내고향 어느 코너에 나왔나요?",
+      "lead": "2026.10.30 (금) KBS 1TV 6시 내고향 8652회 「미리 맛본 식당 미식당」(전라도 한 상을 그대에게) 편에 나온 곳입니다. 방송에서 소개된 메뉴는 「육합, 낙지볶음」입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.10.30 (금)"
+          ],
+          [
+            "회차",
+            "8652회"
+          ],
+          [
+            "코너",
+            "미리 맛본 식당 미식당"
+          ],
+          [
+            "코너 제목",
+            "전라도 한 상을 그대에게"
+          ],
+          [
+            "방송 메뉴",
+            "육합, 낙지볶음"
+          ],
+          [
+            "KBS 표기",
+            "육합, 낙지볶음 문의 (어등회관)"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "상호·주소·전화는 KBS 시청자상담실 「방송정보」의 2026.10.30 (금)자 6시 내고향 취재 연락처 그대로입니다."
+      ],
+      "images": [
+        {
+          "src": "/img/sixhour-8652.jpg",
+          "cap": "6시 내고향 8652회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183633-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8652회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8652회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183633-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11423"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "어등회관 위치·주소·전화번호는?",
+      "lead": "주소는 전남광주통합특별시 광산구 내상로15번길 40입니다. 전화는 062-941-4505입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "어등회관"
+          ],
+          [
+            "주소",
+            "전남광주통합특별시 광산구 내상로15번길 40"
+          ],
+          [
+            "지역",
+            "전남광주통합특별시 광산구"
+          ],
+          [
+            "전화",
+            "062-941-4505"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "아래 지도 버튼을 누르면 이 주소로 바로 검색됩니다."
+      ],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%96%B4%EB%93%B1%ED%9A%8C%EA%B4%80%20%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B4%91%EC%82%B0%EA%B5%AC"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "062-941-4505",
+          "url": "tel:0629414505"
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "가격·영업시간·주차",
+      "heading": "어등회관 가격·영업시간·주차는?",
+      "lead": "KBS 방송정보에는 이 곳의 가격·영업시간·주차가 나오지 않아 적지 않았습니다.",
+      "table": {
+        "head": [
+          "확인할 것",
+          "확인하는 곳"
+        ],
+        "rows": [
+          [
+            "영업시간 · 휴무일",
+            "지도 앱의 가게 정보 또는 전화"
+          ],
+          [
+            "메뉴 가격",
+            "지도 앱의 메뉴판 또는 전화"
+          ],
+          [
+            "주차 · 예약",
+            "전화 (062-941-4505)"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%96%B4%EB%93%B1%ED%9A%8C%EA%B4%80%20%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B4%91%EC%82%B0%EA%B5%AC"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "062-941-4505",
+          "url": "tel:0629414505"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "10.30 방송 전체",
+      "heading": "10.30 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8652회 KBS 방송정보에 올라온 곳은 모두 6곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/sixhour-8652-1/\">태안 로컬푸드</a>",
+            "직매장",
+            "충남 태안군 남면 안면대로 1641"
+          ],
+          [
+            "<a href=\"/sixhour-8652-2/\">몽산포 자동차 야영장</a>",
+            "야영장",
+            "충남 태안군 남면 몽산포길 63-43"
+          ],
+          [
+            "<a href=\"/sixhour-8652-3/\">애월농협</a>",
+            "취나물",
+            "제주특별자치도 제주시 애월읍 애월로 41"
+          ],
+          [
+            "<a href=\"/sixhour-8652-4/\">꼭대기 신안농장</a>",
+            "사과",
+            "경기도 포천시 영북면 호국로 4124-51"
+          ],
+          [
+            "<a href=\"/sixhour-8652-5/\">어등회관</a>",
+            "육합, 낙지볶음",
+            "전남광주통합특별시 광산구 내상로15번길 40"
+          ],
+          [
+            "<a href=\"/sixhour-8652-6/\">통영 활어시장</a>",
+            "시장",
+            "경남 통영시 중앙동 233"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "10.30 6시 내고향 총정리",
+          "url": "/sixhour-8652/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 6시 내고향는 평일 오후 6시 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "주소와 전화번호 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.10.30 (금)자 6시 내고향 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8652-1",
+      "name": "태안 로컬푸드",
+      "desc": "10.30 · 직매장"
+    },
+    {
+      "slug": "sixhour-8652-2",
+      "name": "몽산포 자동차 야영장",
+      "desc": "10.30 · 야영장"
+    },
+    {
+      "slug": "sixhour-8652-3",
+      "name": "애월농협",
+      "desc": "10.30 · 취나물"
+    },
+    {
+      "slug": "sixhour-8652-4",
+      "name": "꼭대기 신안농장",
+      "desc": "10.30 · 사과"
+    },
+    {
+      "slug": "sixhour-8652-6",
+      "name": "통영 활어시장",
+      "desc": "10.30 · 시장"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.10.30 (금) 6시 내고향 취재 연락처) · KBS 공식 회차 데이터(8652회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-10-30",
+  "updatedAt": "2026-10-30T21:36:42+09:00"
+}

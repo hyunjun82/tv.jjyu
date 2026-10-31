@@ -1,0 +1,287 @@
+{
+  "slug": "reallive-2635",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 10월 30일 오늘 방송 맛집 위치 전화번호 총정리",
+  "name": "2TV 생생정보 10월 30일 2635회 방송 맛집·장소",
+  "shortName": "10.30 생생정보 2635회",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.10.30 (금) · 2635회",
+  "status": "방송 맛집",
+  "backdrop": "/img/reallive-2635.jpg",
+  "thumb": "/img/reallive-2635.jpg",
+  "badges": [
+    "2635회 · 10.30",
+    "7곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 2TV 생생정보 2635회"
+    ],
+    [
+      "방송일",
+      "2026.10.30 (금)"
+    ],
+    [
+      "소개된 곳",
+      "7곳 (KBS 방송정보 기준)"
+    ],
+    [
+      "가격·영업시간 표기",
+      "1곳"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.10.30 (금) KBS 2TV 생생정보 2635회에 나온 곳은 <b>7곳</b>입니다. <b>예티</b>, <b>학전망대</b>, <b>제일청과</b>, <b>하늘아래 첫 감나무</b>, <b>조이통통생구이</b>, <b>허씨비단직물</b> 등이며, 상호·주소·전화는 KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2635회 다시보기",
+      "sub": "KBS 공식 · 10.30 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026195369-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11423"
+    }
+  ],
+  "quick": [
+    {
+      "label": "예티",
+      "url": "/reallive-2635-1/",
+      "kind": "map"
+    },
+    {
+      "label": "학전망대",
+      "url": "/reallive-2635-2/",
+      "kind": "map"
+    },
+    {
+      "label": "제일청과",
+      "url": "/reallive-2635-3/",
+      "kind": "map"
+    },
+    {
+      "label": "하늘아래 첫 감나무",
+      "url": "/reallive-2635-4/",
+      "kind": "map"
+    },
+    {
+      "label": "조이통통생구이",
+      "url": "/reallive-2635-5/",
+      "kind": "map"
+    },
+    {
+      "label": "허씨비단직물",
+      "url": "/reallive-2635-6/",
+      "kind": "map"
+    },
+    {
+      "label": "노음산옛날할매곶감",
+      "url": "/reallive-2635-7/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "10월 30일 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2635회 KBS 방송정보에 올라온 곳은 7곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2635-1/\">예티</a>",
+            "오늘 또 방문: 스타밥집",
+            "서울특별시 마포구 와우산로18길 20 홍대예티 1층",
+            "0507-1319-0745"
+          ],
+          [
+            "<a href=\"/reallive-2635-2/\">학전망대</a>",
+            "떠나요~이야기로(路)",
+            "경상북도 상주시 중동면 갱다불길 96-42",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2635-3/\">제일청과</a>",
+            "떠나요~이야기로(路)",
+            "경상북도 상주시 중앙시장길 15-1 c동 2호",
+            "054-535-6018"
+          ],
+          [
+            "<a href=\"/reallive-2635-4/\">하늘아래 첫 감나무</a>",
+            "떠나요~이야기로(路)",
+            "경상북도 상주시 외남면 소은리 279-1",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2635-5/\">조이통통생구이</a>",
+            "떠나요~이야기로(路)",
+            "경상북도 상주시 문무1길 40-5",
+            "0507-1448-4201"
+          ],
+          [
+            "<a href=\"/reallive-2635-6/\">허씨비단직물</a>",
+            "떠나요~이야기로(路)",
+            "경상북도 상주시 함창읍 어풍로 19",
+            "054-541-3730"
+          ],
+          [
+            "<a href=\"/reallive-2635-7/\">노음산옛날할매곶감</a>",
+            "떠나요~이야기로(路)",
+            "경상북도 상주시 남장1길 88",
+            "054-534-5988"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2635.jpg",
+          "cap": "2TV 생생정보 2635회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026195369-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2635회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2635회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026195369-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11423"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "10.30 생생정보 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "오늘 또 방문: 스타밥집 - 배우 이재용의 단골 맛집",
+            "<a href=\"/reallive-2635-1/\">예티</a>"
+          ],
+          [
+            "떠나요~이야기로(路) - 곶감은 왜 ‘곶’감이 됐을까?",
+            "<a href=\"/reallive-2635-2/\">학전망대</a>, <a href=\"/reallive-2635-3/\">제일청과</a>, <a href=\"/reallive-2635-4/\">하늘아래 첫 감나무</a>, <a href=\"/reallive-2635-5/\">조이통통생구이</a>, <a href=\"/reallive-2635-6/\">허씨비단직물</a>, <a href=\"/reallive-2635-7/\">노음산옛날할매곶감</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2b",
+      "tab": "가격·영업시간",
+      "heading": "10.30 생생정보 가격·영업시간 나온 곳은?",
+      "lead": "KBS 제작진이 방송정보에 가격·영업시간·주차를 적은 곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "KBS 방송정보 표기"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2635-1/\">예티</a>",
+            "뚝바: 13,000원"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "2TV 생생정보는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "2635회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2635회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026195369-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "2TV 생생정보 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "가게 정보 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.10.30 (금)자 2TV 생생정보 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2635-1",
+      "name": "예티",
+      "desc": "10.30 · 오늘 또 방문: 스타밥집"
+    },
+    {
+      "slug": "reallive-2635-2",
+      "name": "학전망대",
+      "desc": "10.30 · 떠나요~이야기로(路)"
+    },
+    {
+      "slug": "reallive-2635-3",
+      "name": "제일청과",
+      "desc": "10.30 · 떠나요~이야기로(路)"
+    },
+    {
+      "slug": "reallive-2635-4",
+      "name": "하늘아래 첫 감나무",
+      "desc": "10.30 · 떠나요~이야기로(路)"
+    },
+    {
+      "slug": "reallive-2635-5",
+      "name": "조이통통생구이",
+      "desc": "10.30 · 떠나요~이야기로(路)"
+    },
+    {
+      "slug": "reallive-2635-6",
+      "name": "허씨비단직물",
+      "desc": "10.30 · 떠나요~이야기로(路)"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.10.30 (금)) · KBS 공식 회차 데이터(2635회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-10-30",
+  "updatedAt": "2026-10-30T21:36:42+09:00"
+}

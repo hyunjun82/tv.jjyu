@@ -1,0 +1,282 @@
+{
+  "slug": "table-776-1",
+  "type": "place",
+  "category": "맛집",
+  "series": "한국인의 밥상",
+  "seriesSlug": "table",
+  "program": "table",
+  "title": "한국인의 밥상 시간이 멈춘 마을 위치 주소 10월 29일 도토리묵",
+  "name": "시간이 멈춘 마을",
+  "shortName": "시간이 멈춘 마을",
+  "subtitle": "",
+  "channel": "KBS 1TV 한국인의 밥상",
+  "airtime": "2026.10.29 (목) 방송 · 충청남도 서천군 판교면",
+  "status": "방송 장소",
+  "backdrop": "/img/table-776.jpg",
+  "thumb": "/img/table-776.jpg",
+  "badges": [
+    "776회 · 10.29",
+    "충청남도 서천군 판교면",
+    "충청남도 서천군"
+  ],
+  "facts": [
+    [
+      "상호",
+      "시간이 멈춘 마을"
+    ],
+    [
+      "방송 메뉴",
+      "도토리묵"
+    ],
+    [
+      "지역",
+      "충청남도 서천군"
+    ],
+    [
+      "주소",
+      "충청남도 서천군 판교면 882-8"
+    ],
+    [
+      "방송",
+      "KBS 1TV 한국인의 밥상 776회 (2026.10.29 (목))"
+    ],
+    [
+      "코너",
+      "충청남도 서천군 판교면"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>시간이 멈춘 마을</b>은(는) 2026.10.29 (목) KBS 1TV 한국인의 밥상 776회 「충청남도 서천군 판교면」 편에 나온 곳입니다. 방송 메뉴는 「도토리묵」입니다. 주소는 <b>충청남도 서천군 판교면 882-8</b>입니다. KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "776회 다시보기",
+      "sub": "KBS 공식 · 10.29 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026191265-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%8B%9C%EA%B0%84%EC%9D%B4%20%EB%A9%88%EC%B6%98%20%EB%A7%88%EC%9D%84%20%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%EC%84%9C%EC%B2%9C%EA%B5%B0"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11422",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%8B%9C%EA%B0%84%EC%9D%B4%20%EB%A9%88%EC%B6%98%20%EB%A7%88%EC%9D%84%20%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%EC%84%9C%EC%B2%9C%EA%B5%B0",
+      "kind": "map"
+    },
+    {
+      "label": "한국인의 밥상 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/table",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "시간이 멈춘 마을 한국인의 밥상 어느 코너에 나왔나요?",
+      "lead": "2026.10.29 (목) KBS 1TV 한국인의 밥상 776회 「충청남도 서천군 판교면」 편에 나온 곳입니다. 방송에서 소개된 메뉴는 「도토리묵」입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.10.29 (목)"
+          ],
+          [
+            "회차",
+            "776회"
+          ],
+          [
+            "코너",
+            "충청남도 서천군 판교면"
+          ],
+          [
+            "방송 메뉴",
+            "도토리묵"
+          ],
+          [
+            "KBS 표기",
+            "시간이 멈춘 마을(도토리묵)"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "상호·주소·전화는 KBS 시청자상담실 「방송정보」의 2026.10.29 (목)자 한국인의 밥상 취재 연락처 그대로입니다."
+      ],
+      "images": [
+        {
+          "src": "/img/table-776.jpg",
+          "cap": "한국인의 밥상 776회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026191265-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04",
+          "kind": "kbs",
+          "label": "776회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "776회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026191265-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11422"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "시간이 멈춘 마을 위치·주소·전화번호는?",
+      "lead": "주소는 충청남도 서천군 판교면 882-8입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "시간이 멈춘 마을"
+          ],
+          [
+            "주소",
+            "충청남도 서천군 판교면 882-8"
+          ],
+          [
+            "지역",
+            "충청남도 서천군"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "아래 지도 버튼을 누르면 이 주소로 바로 검색됩니다."
+      ],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%8B%9C%EA%B0%84%EC%9D%B4%20%EB%A9%88%EC%B6%98%20%EB%A7%88%EC%9D%84%20%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%EC%84%9C%EC%B2%9C%EA%B5%B0"
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "가격·영업시간·주차",
+      "heading": "시간이 멈춘 마을 가격·영업시간·주차는?",
+      "lead": "KBS 방송정보에는 이 곳의 가격·영업시간·주차가 나오지 않아 적지 않았습니다.",
+      "table": {
+        "head": [
+          "확인할 것",
+          "확인하는 곳"
+        ],
+        "rows": [
+          [
+            "영업시간 · 휴무일",
+            "지도 앱의 가게 정보 또는 전화"
+          ],
+          [
+            "메뉴 가격",
+            "지도 앱의 메뉴판 또는 전화"
+          ],
+          [
+            "주차 · 예약",
+            "전화"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%8B%9C%EA%B0%84%EC%9D%B4%20%EB%A9%88%EC%B6%98%20%EB%A7%88%EC%9D%84%20%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%EC%84%9C%EC%B2%9C%EA%B5%B0"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "10.29 방송 전체",
+      "heading": "10.29 한국인의 밥상에 나온 곳은 어디인가요?",
+      "lead": "776회 KBS 방송정보에 올라온 곳은 모두 3곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/table-776-1/\">시간이 멈춘 마을</a>",
+            "도토리묵",
+            "충청남도 서천군 판교면 882-8"
+          ],
+          [
+            "<a href=\"/table-776-2/\">용궁단골식당</a>",
+            "곱창, 순대",
+            "경상북도 예천군 용궁면 용궁시장길 30"
+          ],
+          [
+            "<a href=\"/table-776-3/\">용궁시장제유소</a>",
+            "경상북도 예천군 용궁면",
+            "경북 예천군 예천읍 생천리 429"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "10.29 한국인의 밥상 총정리",
+          "url": "/table-776/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 한국인의 밥상는 매주 목요일 오후 7시 40분 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "주소와 전화번호 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.10.29 (목)자 한국인의 밥상 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "table-776-2",
+      "name": "용궁단골식당",
+      "desc": "10.29 · 곱창, 순대"
+    },
+    {
+      "slug": "table-776-3",
+      "name": "용궁시장제유소",
+      "desc": "10.29 · 경상북도 예천군 용궁면"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.10.29 (목) 한국인의 밥상 취재 연락처) · KBS 공식 회차 데이터(776회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-10-30",
+  "updatedAt": "2026-10-30T14:23:20+09:00"
+}

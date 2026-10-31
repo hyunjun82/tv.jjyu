@@ -1,0 +1,212 @@
+{
+  "slug": "sixhour-8651",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 10월 29일 오늘 방송 맛집 위치 전화번호 총정리",
+  "name": "6시 내고향 10월 29일 8651회 방송 맛집·장소",
+  "shortName": "10.29 6시 내고향 8651회",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.10.29 (목) · 8651회",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8651.jpg",
+  "thumb": "/img/sixhour-8651.jpg",
+  "badges": [
+    "8651회 · 10.29",
+    "3곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8651회"
+    ],
+    [
+      "방송일",
+      "2026.10.29 (목)"
+    ],
+    [
+      "소개된 곳",
+      "3곳 (KBS 방송정보 기준)"
+    ],
+    [
+      "가격·영업시간 표기",
+      "1곳"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.10.29 (목) KBS 1TV 6시 내고향 8651회에 나온 곳은 <b>3곳</b>입니다. <b>티앤라이프</b>, <b>굴</b>, <b>유럽 쌈채소</b> 등이며, 상호·주소·전화는 KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8651회 다시보기",
+      "sub": "KBS 공식 · 10.29 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183631-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11422"
+    }
+  ],
+  "quick": [
+    {
+      "label": "굴",
+      "url": "/sixhour-8651-1/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "10월 29일 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8651회 KBS 방송정보에 올라온 곳은 3곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "티앤라이프",
+            "차",
+            "—",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8651-1/\">굴</a>",
+            "식재료 원정대",
+            "전남광주통합특별시 여수시 돌산읍 금봉리 평사로 33-11",
+            "—"
+          ],
+          [
+            "유럽 쌈채소",
+            "청산에 살리라",
+            "—",
+            "—"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8651.jpg",
+          "cap": "6시 내고향 8651회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183631-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8651회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8651회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183631-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11422"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "10.29 6시 내고향 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "환절기 건강을 사수하라! 솔잎",
+            "티앤라이프"
+          ],
+          [
+            "식재료 원정대 - 무르익은 여수의 맛",
+            "<a href=\"/sixhour-8651-1/\">굴</a>"
+          ],
+          [
+            "청산에 살리라 - 행복은 늘 이곳에",
+            "유럽 쌈채소"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2b",
+      "tab": "가격·영업시간",
+      "heading": "10.29 6시 내고향 가격·영업시간 나온 곳은?",
+      "lead": "KBS 제작진이 방송정보에 가격·영업시간·주차를 적은 곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "KBS 방송정보 표기"
+        ],
+        "rows": [
+          [
+            "<a href=\"/sixhour-8651-1/\">굴</a>",
+            "갓 문의: 송금숙 사장님 010-4041-0343"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "6시 내고향는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 6시 내고향는 평일 오후 6시 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "8651회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8651회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026183631-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "6시 내고향 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 6시 내고향는 평일 오후 6시 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "가게 정보 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.10.29 (목)자 6시 내고향 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8651-1",
+      "name": "굴",
+      "desc": "10.29 · 식재료 원정대"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.10.29 (목)) · KBS 공식 회차 데이터(8651회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-10-30",
+  "updatedAt": "2026-10-30T14:23:20+09:00"
+}
