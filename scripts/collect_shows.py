@@ -161,7 +161,7 @@ def menus_of(topic):
     return [x.strip() for x in re.split(r'\s*/\s*', topic or '') if x.strip()]
 
 
-FOOD = re.compile(r'맛|먹|요리|메뉴|음식|밥|국|탕|찌개|전골|찜|구이|볶음|무침|면|국수|짬뽕|짜장|만두|떡|빵|케이크|디저트|커피|카페|고기|갈비|삼겹|곱창|대창|막창|닭|오리|족발|보쌈|치킨|회|초밥|해산물|조개|게|새우|굴|문어|낙지|김치|순대|피자|버거|돈가스|정식|한상|한솥|백반|분식|떡볶이|어묵|전$|파전|칼국수|냉면|라면|우동|스테이크|샐러드|도시락|반찬|젓갈|장어|생선|매운탕')
+FOOD = re.compile(r'오므라이스|라이스|덮밥|카레|파스타|쌀국수|국밥|찹쌀|과자|빙수|아이스크림|맛|먹|요리|메뉴|음식|밥|국|탕|찌개|전골|찜|구이|볶음|무침|면|국수|짬뽕|짜장|만두|떡|빵|케이크|디저트|커피|카페|고기|갈비|삼겹|곱창|대창|막창|닭|오리|족발|보쌈|치킨|회|초밥|해산물|조개|게|새우|굴|문어|낙지|김치|순대|피자|버거|돈가스|정식|한상|한솥|백반|분식|떡볶이|어묵|전$|파전|칼국수|냉면|라면|우동|스테이크|샐러드|도시락|반찬|젓갈|장어|생선|매운탕')
 
 
 def menu_label(shop):
@@ -199,9 +199,10 @@ def parse_lifemaster(lines):
             title, cur = m.group(1).strip(), None
             continue
         if ln.endswith('>'):  # '<홍성각>' 또는 '홍성각>'
-            topic = re.sub(r'^은둔식달\s*[–-]\s*', '', title)
+            topic = re.sub(r'^[^–-]{1,8}\s*[–-]\s*', '', title)  # 코너명 접두어('은둔식달 -', '빵의 전쟁 -')
             topic = re.sub(r'\s*달인(\s*\d+탄)?$', '', topic)
-            topic = ' / '.join(x.strip() for x in re.split(r'\s*[•·,/]\s*', topic) if x.strip())
+            topic = re.sub(r'(서울|경기|인천|부산|대구|광주|대전|울산|세종|강원|충북|충남|전북|전남|경북|경남|제주)\s*[•·]\s*', r'\1·', topic)  # '서울•경기'는 지역 묶음
+            topic = ' / '.join(x.strip() for x in re.split(r'\s*(?<![가-힣]{2}·)[•,/]\s*|(?<=[가-힣])\s+·\s+', topic) if x.strip())
             cur = dict(name=ln.strip('<> ').strip(), corner=title, topic=topic, addr='', tel='')
             shops.append(cur)
         elif cur and ln.startswith('☎'):
