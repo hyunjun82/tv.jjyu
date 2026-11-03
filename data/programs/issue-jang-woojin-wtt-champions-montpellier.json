@@ -1,0 +1,196 @@
+{
+  "slug": "issue-jang-woojin-wtt-champions-montpellier",
+  "type": "issue",
+  "category": "스포츠",
+  "series": "",
+  "seriesSlug": "",
+  "program": "WTT 챔피언스 몽펠리에 2026",
+  "kicker": "탁구 · WTT 챔피언스 몽펠리에 2026",
+  "dateLabel": "2026.11.02(한국시간) 결승",
+  "firstReport": "OSEN 11.02 08:21",
+  "title": "탁구 장우진 우승, WTT 챔피언스 몽펠리에 결승 스코어",
+  "name": "장우진, WTT 챔피언스 몽펠리에 남자단식 우승, 프란치스카에 1-3에서 4-3 역전, 한국 선수 최초",
+  "shortName": "장우진 WTT 챔피언스 우승",
+  "subtitle": "",
+  "channel": "OSEN 보도",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-jang-woojin-wtt-champions-montpellier.jpg",
+  "thumb": "/img/auto/issue-jang-woojin-wtt-champions-montpellier.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "<b>탁구 장우진(세계 10위·세아)이 2026년 11월 2일(한국시간) 프랑스 몽펠리에에서 열린 WTT 챔피언스 몽펠리에 2026 남자단식 결승에서 파트리크 프란치스카(독일·세계 18위)를 4-3으로 꺾고 우승</b>했습니다. 게임스코어 1-3으로 뒤진 뒤 5~7게임을 내리 따냈습니다. <b>WTT 챔피언스에서 한국 선수가 우승한 것은 처음</b>입니다. 우승 상금은 4만 달러, 랭킹 포인트는 1000점입니다.",
+  "ctas": [
+    {
+      "kind": "news",
+      "label": "기사 원문 (OSEN)",
+      "sub": "11.02 08:21",
+      "url": "https://osen.co.kr/article/G1112902488"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (뉴스핌)",
+      "sub": "11.02 14:56",
+      "url": "https://www.newspim.com/news/view/20261102001229"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (서울신문)",
+      "sub": "11.02 15:24",
+      "url": "https://www.seoul.co.kr/news/sport/table-tennis/2026/11/02/20261102500192"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "OSEN",
+      "date": "11.02 08:21",
+      "url": "https://osen.co.kr/article/G1112902488"
+    },
+    {
+      "media": "뉴스핌",
+      "date": "11.02 14:56",
+      "url": "https://www.newspim.com/news/view/20261102001229"
+    },
+    {
+      "media": "서울신문",
+      "date": "11.02 15:24",
+      "url": "https://www.seoul.co.kr/news/sport/table-tennis/2026/11/02/20261102500192"
+    },
+    {
+      "media": "뉴스1(파이낸셜뉴스 게재)",
+      "date": "11.02 15:27",
+      "url": "https://www.fnnews.com/news/202611021527266446"
+    },
+    {
+      "media": "Butterfly(미국 탁구 매체, 사진 WTT)",
+      "date": "11.01(현지)",
+      "url": "https://butterflyonline.com/jang-darc-jang-woojin-is-surprise-winner-in-montpellier/"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.01",
+      "text": "WTT 챔피언스 도하 남자단식 준우승",
+      "source": "서울신문·뉴스핌",
+      "url": "https://www.seoul.co.kr/news/sport/table-tennis/2026/11/02/20261102500192"
+    },
+    {
+      "date": "16강",
+      "text": "린윈루(대만·세계 6위)에 3-2 승",
+      "source": "서울신문",
+      "url": "https://www.seoul.co.kr/news/sport/table-tennis/2026/11/02/20261102500192"
+    },
+    {
+      "date": "8강",
+      "text": "량징쿤(중국·세계 39위)에 4-1 승",
+      "source": "서울신문",
+      "url": "https://www.seoul.co.kr/news/sport/table-tennis/2026/11/02/20261102500192"
+    },
+    {
+      "date": "4강",
+      "text": "우고 칼데라노(브라질·세계 7위)에 4-3 승",
+      "source": "뉴스핌",
+      "url": "https://www.newspim.com/news/view/20261102001229"
+    },
+    {
+      "date": "2026.11.02",
+      "text": "결승에서 프란치스카(독일)에 4-3 역전승, 한국 선수 첫 WTT 챔피언스 우승",
+      "source": "OSEN·뉴스핌·서울신문",
+      "url": "https://osen.co.kr/article/G1112902488",
+      "hot": true
+    },
+    {
+      "date": "2026.11.03~08",
+      "text": "독일 프랑크푸르트 시즌 마지막 WTT 챔피언스 출전 예정",
+      "source": "서울신문·뉴스핌",
+      "url": "https://www.seoul.co.kr/news/sport/table-tennis/2026/11/02/20261102500192"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "우승",
+      "heading": "장우진 우승, 어떤 대회에서 누구를 이겼나요?",
+      "lead": "장우진은 11월 2일(한국시간) 프랑스 몽펠리에의 쉬드 드 프랑스 아레나에서 열린 WTT 챔피언스 몽펠리에 2026 남자단식 결승에서 독일의 파트리크 프란치스카를 4-3으로 이겼습니다.",
+      "paragraphs": [
+        "WTT 챔피언스는 세계랭킹 상위 28명과 와일드카드 4명 등 32명이 단식으로만 겨루는 대회입니다(뉴스1). 한국 선수의 종전 최고 성적은 2025년 4월 인천 대회 이상수, 2026년 1월 도하 대회 장우진, 8월 요코하마 대회 오준성의 준우승이었습니다.",
+        "우승 상금은 4만 달러, 랭킹 포인트는 1000점입니다. 원화 환산액은 보도마다 달라 싣지 않았습니다."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "news",
+          "label": "서울신문 기사",
+          "url": "https://www.seoul.co.kr/news/sport/table-tennis/2026/11/02/20261102500192"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "결승 스코어",
+      "heading": "탁구 장우진 결승 스코어는 게임별로 어떻게 되나요?",
+      "lead": "결승 게임별 점수는 3-11, 11-7, 7-11, 9-11, 11-9, 11-8, 11-8입니다. 경기 시간은 1시간 4분이었다고 뉴스핌이 전했습니다.",
+      "paragraphs": [
+        "장우진은 1게임을 내준 뒤 2게임을 따냈지만 3·4게임을 잃어 1-3으로 몰렸습니다. 5게임은 9-9에서 두 점을 더해 11-9로 가져왔고, 6게임은 11-8로 이겼습니다. 7게임은 8-8에서 연속 3점을 따내 11-8로 끝냈습니다(OSEN·뉴스1). 미국 탁구 매체 Butterfly도 같은 흐름(5게임 11-9, 6게임 11-8, 7게임 8-8에서 11-8)을 전했습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "OSEN 기사",
+          "url": "https://osen.co.kr/article/G1112902488"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "대진",
+      "heading": "장우진은 16강부터 결승까지 누구를 이겼나요?",
+      "lead": "16강에서 린윈루(대만·세계 6위)를 3-2, 8강에서 량징쿤(중국·세계 39위)을 4-1, 4강에서 우고 칼데라노(브라질·세계 7위)를 4-3으로 이겼습니다.",
+      "paragraphs": [
+        "칼데라노와의 4강 게임별 점수는 11-8, 8-11, 7-11, 11-7, 14-12, 9-11, 14-12입니다(뉴스핌). 여자단식에서는 신유빈(대한항공)이 16강에서 쑨잉사(중국)에게 2-3으로 졌고, 쑨잉사가 결승에서 콰이만(중국)을 4-1로 꺾고 우승했습니다.",
+        "선수들은 11월 3일부터 8일까지 독일 프랑크푸르트에서 열리는 올 시즌 마지막 WTT 챔피언스에 나섭니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "뉴스핌 기사",
+          "url": "https://www.newspim.com/news/view/20261102001229"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "장우진은 언제 우승했나요?",
+      "a": "2026년 11월 2일(한국시간) WTT 챔피언스 몽펠리에 2026 남자단식 결승에서 우승했습니다."
+    },
+    {
+      "q": "결승 상대와 스코어는?",
+      "a": "파트리크 프란치스카(독일)를 게임스코어 4-3(3-11 11-7 7-11 9-11 11-9 11-8 11-8)으로 이겼습니다."
+    },
+    {
+      "q": "한국 선수 중 처음인가요?",
+      "a": "네. WTT 챔피언스에서 한국 선수가 우승한 것은 처음이라고 보도됐습니다."
+    }
+  ],
+  "related": [],
+  "source": "OSEN·뉴스핌·서울신문·뉴스1 2026.11.02 보도, Butterfly 11.01(현지) 보도",
+  "imageCredit": "",
+  "checkedAt": "2026-11-03",
+  "updatedAt": "2026-11-03T17:00:00+09:00",
+  "quick": [],
+  "keywordsUsed": [
+    "장우진",
+    "탁구 장우진",
+    "장우진 우승"
+  ],
+  "notes": "미확인: WTT 공식 결과 페이지는 스크립트 페이지라 직접 확인 못 함(국내 보도 4곳 + 해외 Butterfly 보도 일치로 작성, 검수 11-03). 프란치스카 18위는 국내 보도 기준. 우승 상금 원화 환산(뉴스핌 약 5700만원, 서울신문 약 5360만원 상이)은 뺐음. 16강 3-2 스코어는 서울신문·뉴스핌 기준. 자동완성의 '장우진 감독/기자/두산 장우진/범송공자/지우학/금시공'은 동명이인·무관 검색어라 제외."
+}
