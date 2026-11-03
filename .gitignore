@@ -6,3 +6,4 @@ node_modules/
 out/
 scripts/.naver-profile/
 .collect-made
+__pycache__/
