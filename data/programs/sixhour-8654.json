@@ -1,0 +1,225 @@
+{
+  "slug": "sixhour-8654",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 11월 3일 오늘 방송 맛집 위치 전화번호 총정리",
+  "name": "6시 내고향 11월 3일 8654회 방송 맛집·장소",
+  "shortName": "11.3 6시 내고향 8654회",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.03 (화) · 8654회",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8654.jpg",
+  "thumb": "/img/sixhour-8654.jpg",
+  "badges": [
+    "8654회 · 11.3",
+    "5곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8654회"
+    ],
+    [
+      "방송일",
+      "2026.11.03 (화)"
+    ],
+    [
+      "소개된 곳",
+      "5곳 (KBS 방송정보 기준)"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.03 (화) KBS 1TV 6시 내고향 8654회에 나온 곳은 <b>5곳</b>입니다. <b>산장식당</b>, <b>오전약수탕</b>, <b>뚱땡이 돌산 갓김치</b>, <b>온빛자연휴양림</b>, <b>농업회사법인연꽃정원 / 오씨네연근</b> 등이며, 상호·주소·전화는 KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8654회 다시보기",
+      "sub": "KBS 공식 · 11.3 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026188485-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11427"
+    }
+  ],
+  "quick": [
+    {
+      "label": "산장식당",
+      "url": "/sixhour-8654-1/",
+      "kind": "map"
+    },
+    {
+      "label": "오전약수탕",
+      "url": "/sixhour-8654-2/",
+      "kind": "map"
+    },
+    {
+      "label": "온빛자연휴양림",
+      "url": "/sixhour-8654-3/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 3일 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8654회 KBS 방송정보에 올라온 곳은 5곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "<a href=\"/sixhour-8654-1/\">산장식당</a>",
+            "백숙 식당",
+            "봉화군 물야면 오전약수탕길 26",
+            "054-672-1900, 010-5800-1960"
+          ],
+          [
+            "<a href=\"/sixhour-8654-2/\">오전약수탕</a>",
+            "약수탕",
+            "봉화군 물야면 문수로 1601",
+            "—"
+          ],
+          [
+            "뚱땡이 돌산 갓김치",
+            "홍갓",
+            "—",
+            "010-4623-3534"
+          ],
+          [
+            "<a href=\"/sixhour-8654-3/\">온빛자연휴양림</a>",
+            "명소",
+            "충청남도 논산시 벌곡면 황룡재로 480-113",
+            "—"
+          ],
+          [
+            "농업회사법인연꽃정원 / 오씨네연근",
+            "연근",
+            "—",
+            "031-989-7578 / 010-6313-7580"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8654.jpg",
+          "cap": "6시 내고향 8654회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026188485-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8654회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8654회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026188485-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11427"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.3 6시 내고향 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "추억 복원소, 열두 고개에 깃든 보따리 인생 - 경북 봉화",
+            "<a href=\"/sixhour-8654-1/\">산장식당</a>, <a href=\"/sixhour-8654-2/\">오전약수탕</a>"
+          ],
+          [
+            "찬 바람이 불면 붉은 맛! 홍갓 - 전남광주통합특별시 여수",
+            "뚱땡이 돌산 갓김치"
+          ],
+          [
+            "달려라 고향버스 - 충남 논산",
+            "<a href=\"/sixhour-8654-3/\">온빛자연휴양림</a>"
+          ],
+          [
+            "홍보 장사 만만세, 연달아 맛보고픈 근사한 매력 - 경기 김포",
+            "농업회사법인연꽃정원 / 오씨네연근"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "6시 내고향는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 6시 내고향는 평일 오후 6시 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "8654회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8654회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026188485-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "6시 내고향 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 6시 내고향는 평일 오후 6시 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "가게 정보 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.11.03 (화)자 6시 내고향 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8654-1",
+      "name": "산장식당",
+      "desc": "11.3 · 백숙 식당"
+    },
+    {
+      "slug": "sixhour-8654-2",
+      "name": "오전약수탕",
+      "desc": "11.3 · 약수탕"
+    },
+    {
+      "slug": "sixhour-8654-3",
+      "name": "온빛자연휴양림",
+      "desc": "11.3 · 명소"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.03 (화)) · KBS 공식 회차 데이터(8654회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-03",
+  "updatedAt": "2026-11-03T20:04:25+09:00"
+}
