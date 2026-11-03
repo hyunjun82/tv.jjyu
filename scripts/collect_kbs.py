@@ -87,6 +87,7 @@ def split_name(left, order='name_menu'):
         return p, re.sub(r'\s*(이용\s*)?문의$', '', o)
     if p.endswith('문의'):
         return o, re.sub(r'\s*(이용\s*)?문의$', '', p)
+    o, p = o.strip('* '), p.strip('* ')  # '하라보라 (*굴뚝빵)'
     return (o, p) if order == 'name_menu' else (p, o)
 
 
@@ -120,7 +121,7 @@ def parse(lines, order='name_menu'):
                 continue
             mkv = re.match(r'^(.+?)\s*[:：]\s*(.*)$', body)
             k, sep, v = (mkv.group(1), ':', mkv.group(2)) if mkv else (body, '', '')
-            k, v = k.strip(), v.strip()
+            k, v = k.strip(), re.sub(r'^[:：\s]+', '', v.strip())  # '상호 : : 031-…' 처럼 콜론이 겹친 줄
             is_tel = bool(v) and (PHONE.match(v) or v.startswith('공개된 연락처'))
             if item and sep and not is_tel and len(k) <= 8 and not v.startswith('http'):
                 item['attrs'].append([k, v])  # '- 기간 : ...' 처럼 앞 항목의 속성
