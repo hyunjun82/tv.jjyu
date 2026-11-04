@@ -1,0 +1,298 @@
+{
+  "slug": "reallive-2638",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 11월 4일 오늘 방송 맛집 위치 전화번호 총정리",
+  "name": "2TV 생생정보 11월 4일 2638회 방송 맛집·장소",
+  "shortName": "11.4 생생정보 2638회",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.04 (수) · 2638회",
+  "status": "방송 맛집",
+  "backdrop": "/img/reallive-2638.jpg",
+  "thumb": "/img/reallive-2638.jpg",
+  "badges": [
+    "2638회 · 11.4",
+    "8곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 2TV 생생정보 2638회"
+    ],
+    [
+      "방송일",
+      "2026.11.04 (수)"
+    ],
+    [
+      "소개된 곳",
+      "8곳 (KBS 방송정보 기준)"
+    ],
+    [
+      "가격·영업시간 표기",
+      "3곳"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.04 (수) KBS 2TV 생생정보 2638회에 나온 곳은 <b>8곳</b>입니다. <b>하은수산</b>, <b>바다이야기</b>, <b>충주상회</b>, <b>마더린러 베이글</b>, <b>마더린러 베이글 해운대점</b>, <b>조도 배편</b> 등이며, 상호·주소·전화는 KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2638회 다시보기",
+      "sub": "KBS 공식 · 11.4 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026198391-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11428"
+    }
+  ],
+  "quick": [
+    {
+      "label": "바다이야기",
+      "url": "/reallive-2638-1/",
+      "kind": "map"
+    },
+    {
+      "label": "충주상회",
+      "url": "/reallive-2638-2/",
+      "kind": "map"
+    },
+    {
+      "label": "마더린러 베이글",
+      "url": "/reallive-2638-3/",
+      "kind": "map"
+    },
+    {
+      "label": "마더린러 베이글 해운대점",
+      "url": "/reallive-2638-4/",
+      "kind": "map"
+    },
+    {
+      "label": "위플레이",
+      "url": "/reallive-2638-5/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 4일 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2638회 KBS 방송정보에 올라온 곳은 8곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "하은수산",
+            "지금이 딱~ 제철!",
+            "—",
+            "010-8636-3232"
+          ],
+          [
+            "<a href=\"/reallive-2638-1/\">바다이야기</a>",
+            "지금이 딱~ 제철!",
+            "세종 조치원읍 행복12길 9-10 1층",
+            "0507-1427-8488"
+          ],
+          [
+            "<a href=\"/reallive-2638-2/\">충주상회</a>",
+            "할매~ 밥 됩니까?",
+            "강원 속초시 중앙로147번길 39",
+            "0507-1316-7009"
+          ],
+          [
+            "<a href=\"/reallive-2638-3/\">마더린러 베이글</a>",
+            "독한 인생",
+            "서울 서대문구 이화여대5길 5 지상 1층",
+            "0507-1412-3030"
+          ],
+          [
+            "<a href=\"/reallive-2638-4/\">마더린러 베이글 해운대점</a>",
+            "독한 인생",
+            "부산 해운대구 우동1로20번길 7 1층",
+            "0507-1369-7352"
+          ],
+          [
+            "조도 배편",
+            "한눈에 반했~섬(島)",
+            "—",
+            "—"
+          ],
+          [
+            "조도어촌체험휴양마을",
+            "각종 체험 및 민박",
+            "—",
+            "010-8670-3800"
+          ],
+          [
+            "<a href=\"/reallive-2638-5/\">위플레이</a>",
+            "궁금한 건 못 참지",
+            "서울특별시 강서구 양천로 583 우림블루나인비즈니스센터 B동 1310 호",
+            "02-332-1777"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2638.jpg",
+          "cap": "2TV 생생정보 2638회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026198391-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2638회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2638회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026198391-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11428"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.4 생생정보 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "지금이 딱~ 제철! - 가을 바다에 물든 단풍, 홍가리비",
+            "하은수산, <a href=\"/reallive-2638-1/\">바다이야기</a>"
+          ],
+          [
+            "할매~ 밥 됩니까? - 명순 할매의 오징어꽃순대",
+            "<a href=\"/reallive-2638-2/\">충주상회</a>"
+          ],
+          [
+            "독한 인생 - 사업 실패 딛고 뉴욕식 베이글로 일어서다",
+            "<a href=\"/reallive-2638-3/\">마더린러 베이글</a>, <a href=\"/reallive-2638-4/\">마더린러 베이글 해운대점</a>"
+          ],
+          [
+            "한눈에 반했~섬(島) - 경상남도 남해군 조도",
+            "조도 배편, 조도어촌체험휴양마을"
+          ],
+          [
+            "궁금한 건 못 참지 - 종이비행기로 세계 정상에 오른 사람들의 정체는?",
+            "<a href=\"/reallive-2638-5/\">위플레이</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2b",
+      "tab": "가격·영업시간",
+      "heading": "11.4 생생정보 가격·영업시간 나온 곳은?",
+      "lead": "KBS 제작진이 방송정보에 가격·영업시간·주차를 적은 곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "KBS 방송정보 표기"
+        ],
+        "rows": [
+          [
+            "하은수산",
+            "판매처: https://naver.me/FLE5gMxB"
+          ],
+          [
+            "조도 배편",
+            "( 07: 30 / 08:30 / 11:10 / 13:30 / 15:30 / 17:10 )"
+          ],
+          [
+            "<a href=\"/reallive-2638-5/\">위플레이</a>",
+            "홈페이지: https://weplaykor.com/"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "2TV 생생정보는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "2638회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2638회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026198391-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "2TV 생생정보 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "가게 정보 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.11.04 (수)자 2TV 생생정보 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2638-1",
+      "name": "바다이야기",
+      "desc": "11.4 · 지금이 딱~ 제철!"
+    },
+    {
+      "slug": "reallive-2638-2",
+      "name": "충주상회",
+      "desc": "11.4 · 할매~ 밥 됩니까?"
+    },
+    {
+      "slug": "reallive-2638-3",
+      "name": "마더린러 베이글",
+      "desc": "11.4 · 독한 인생"
+    },
+    {
+      "slug": "reallive-2638-4",
+      "name": "마더린러 베이글 해운대점",
+      "desc": "11.4 · 독한 인생"
+    },
+    {
+      "slug": "reallive-2638-5",
+      "name": "위플레이",
+      "desc": "11.4 · 궁금한 건 못 참지"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.04 (수)) · KBS 공식 회차 데이터(2638회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-04",
+  "updatedAt": "2026-11-04T23:34:48+09:00"
+}
