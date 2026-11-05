@@ -1,0 +1,208 @@
+{
+  "slug": "table-777",
+  "type": "place",
+  "category": "맛집",
+  "series": "한국인의 밥상",
+  "seriesSlug": "table",
+  "program": "table",
+  "title": "한국인의 밥상 11월 5일 오늘 방송 맛집 위치 전화번호 총정리",
+  "name": "한국인의 밥상 11월 5일 777회 방송 맛집·장소",
+  "shortName": "11.5 한국인의 밥상 777회",
+  "subtitle": "",
+  "channel": "KBS 1TV 한국인의 밥상",
+  "airtime": "2026.11.05 (목) · 777회",
+  "status": "방송 맛집",
+  "backdrop": "/img/table-777.jpg",
+  "thumb": "/img/table-777.jpg",
+  "badges": [
+    "777회 · 11.5",
+    "4곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 한국인의 밥상 777회"
+    ],
+    [
+      "방송일",
+      "2026.11.05 (목)"
+    ],
+    [
+      "소개된 곳",
+      "4곳 (KBS 방송정보 기준)"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.05 (목) KBS 1TV 한국인의 밥상 777회에 나온 곳은 <b>4곳</b>입니다. <b>지리산한봉영농조합</b>, <b>꿀마실</b>, <b>시의전서 연구회</b>, <b>꿀벌농부</b> 등이며, 상호·주소·전화는 KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "777회 다시보기",
+      "sub": "KBS 공식 · 11.5 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026198377-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11429"
+    }
+  ],
+  "quick": [
+    {
+      "label": "지리산한봉영농조합",
+      "url": "/table-777-1/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 5일 한국인의 밥상에 나온 곳은 어디인가요?",
+      "lead": "777회 KBS 방송정보에 올라온 곳은 4곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "<a href=\"/table-777-1/\">지리산한봉영농조합</a>",
+            "전북특별자치도 남원시 산내면 소개된 곳",
+            "전북 남원시 산내면 황치길22",
+            "063-635-3470"
+          ],
+          [
+            "꿀마실",
+            "경상북도 예천군 용문면 소개된 곳",
+            "—",
+            "010-3408-9991"
+          ],
+          [
+            "시의전서 연구회",
+            "경상북도 상주시 사벌국면 소개된 곳",
+            "—",
+            "—"
+          ],
+          [
+            "꿀벌농부",
+            "봉이네",
+            "—",
+            "—"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/table-777.jpg",
+          "cap": "한국인의 밥상 777회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026198377-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04",
+          "kind": "kbs",
+          "label": "777회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "777회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026198377-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11429"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.5 한국인의 밥상 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "전북특별자치도 남원시 산내면 소개된 곳",
+            "<a href=\"/table-777-1/\">지리산한봉영농조합</a>"
+          ],
+          [
+            "경상북도 예천군 용문면 소개된 곳",
+            "꿀마실"
+          ],
+          [
+            "경상북도 상주시 사벌국면 소개된 곳",
+            "시의전서 연구회"
+          ],
+          [
+            "충청남도 보령시 주교면 소개된 곳",
+            "꿀벌농부"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2c",
+      "tab": "방송 내용",
+      "heading": "한국인의 밥상 777회는 어떤 내용인가요?",
+      "lead": "KBS 공식 회차 소개입니다.",
+      "paragraphs": [
+        "[&quot;진짜 꿀맛이다&quot; 세상 가장 달콤한 위로]  꿀 1kg을 얻기 위해 꿀벌은 무려 560만 송이의 꽃을 찾는다. 여기에 벌을 돌보는 사람들의 365일 정성이 더해져 비로소 귀한 꿀 한 방울이 탄생한다. 오랜 세월 우리 민족에게 꿀은 귀한 먹거리이자 약재였고, 달콤한 추억이 담긴 특별한 음식이었다. 이제는 좋은 꿀을 제대로 가려내고 믿고 먹을 수 있도록 벌꿀 등급제도 시행되고 있다. 꽃을 따라 벌을 따라 살아온 사람들의 수고부터 꿀단지에 담긴 달디단 추억까지, 꿀처럼 달콤한 인생 이야기를 만난다."
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "한국인의 밥상는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 한국인의 밥상는 매주 목요일 오후 7시 40분 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "777회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "777회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026198377-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+        },
+        {
+          "kind": "link",
+          "label": "한국인의 밥상 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/table"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 한국인의 밥상는 매주 목요일 오후 7시 40분 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "가게 정보 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.11.05 (목)자 한국인의 밥상 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "table-777-1",
+      "name": "지리산한봉영농조합",
+      "desc": "11.5 · 전북특별자치도 남원시 산내면 소개된 곳"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.05 (목)) · KBS 공식 회차 데이터(777회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-06",
+  "updatedAt": "2026-11-06T02:22:38+09:00"
+}

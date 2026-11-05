@@ -1,0 +1,298 @@
+{
+  "slug": "sixhour-8656-2",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 옥림 순무 위치 주소 11월 5일 순무",
+  "name": "옥림 순무",
+  "shortName": "옥림 순무",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.05 (목) 방송 · 식재료 원정대",
+  "status": "방송 장소",
+  "backdrop": "/img/sixhour-8656.jpg",
+  "thumb": "/img/sixhour-8656.jpg",
+  "badges": [
+    "8656회 · 11.5",
+    "식재료 원정대",
+    "인천광역시 강화군"
+  ],
+  "facts": [
+    [
+      "상호",
+      "옥림 순무"
+    ],
+    [
+      "방송 메뉴",
+      "순무"
+    ],
+    [
+      "지역",
+      "인천광역시 강화군"
+    ],
+    [
+      "주소",
+      "인천광역시 강화군 강화읍 옥림리 1030"
+    ],
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8656회 (2026.11.05 (목))"
+    ],
+    [
+      "코너",
+      "식재료 원정대"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>옥림 순무</b>은(는) 2026.11.05 (목) KBS 1TV 6시 내고향 8656회 「식재료 원정대」(임금님이 반한 강화의 맛) 편에 나온 곳입니다. 방송 메뉴는 「순무」입니다. 주소는 <b>인천광역시 강화군 강화읍 옥림리 1030</b>입니다. KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8656회 다시보기",
+      "sub": "KBS 공식 · 11.5 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026188488-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%98%A5%EB%A6%BC%20%EC%88%9C%EB%AC%B4%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B0%95%ED%99%94%EA%B5%B0"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11429",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%98%A5%EB%A6%BC%20%EC%88%9C%EB%AC%B4%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B0%95%ED%99%94%EA%B5%B0",
+      "kind": "map"
+    },
+    {
+      "label": "6시 내고향 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "옥림 순무 6시 내고향 어느 코너에 나왔나요?",
+      "lead": "2026.11.05 (목) KBS 1TV 6시 내고향 8656회 「식재료 원정대」(임금님이 반한 강화의 맛) 편에 나온 곳입니다. 방송에서 소개된 메뉴는 「순무」입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.05 (목)"
+          ],
+          [
+            "회차",
+            "8656회"
+          ],
+          [
+            "코너",
+            "식재료 원정대"
+          ],
+          [
+            "코너 제목",
+            "임금님이 반한 강화의 맛"
+          ],
+          [
+            "방송 메뉴",
+            "순무"
+          ],
+          [
+            "KBS 표기",
+            "순무 문의(옥림 순무)"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "상호·주소·전화는 KBS 시청자상담실 「방송정보」의 2026.11.05 (목)자 6시 내고향 취재 연락처 그대로입니다."
+      ],
+      "images": [
+        {
+          "src": "/img/sixhour-8656.jpg",
+          "cap": "6시 내고향 8656회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026188488-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8656회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8656회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026188488-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11429"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "옥림 순무 위치·주소·전화번호는?",
+      "lead": "주소는 인천광역시 강화군 강화읍 옥림리 1030입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "옥림 순무"
+          ],
+          [
+            "주소",
+            "인천광역시 강화군 강화읍 옥림리 1030"
+          ],
+          [
+            "지역",
+            "인천광역시 강화군"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "아래 지도 버튼을 누르면 이 주소로 바로 검색됩니다."
+      ],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%98%A5%EB%A6%BC%20%EC%88%9C%EB%AC%B4%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B0%95%ED%99%94%EA%B5%B0"
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "가격·영업시간·주차",
+      "heading": "옥림 순무 가격·영업시간·주차는?",
+      "lead": "KBS 방송정보에는 이 곳의 가격·영업시간·주차가 나오지 않아 적지 않았습니다.",
+      "table": {
+        "head": [
+          "확인할 것",
+          "확인하는 곳"
+        ],
+        "rows": [
+          [
+            "영업시간 · 휴무일",
+            "지도 앱의 가게 정보 또는 전화"
+          ],
+          [
+            "메뉴 가격",
+            "지도 앱의 메뉴판 또는 전화"
+          ],
+          [
+            "주차 · 예약",
+            "전화"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "※ 택배 판매 가능"
+      ],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%98%A5%EB%A6%BC%20%EC%88%9C%EB%AC%B4%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B0%95%ED%99%94%EA%B5%B0"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.5 방송 전체",
+      "heading": "11.5 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8656회 KBS 방송정보에 올라온 곳은 모두 5곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/sixhour-8656-1/\">동선식품</a>",
+            "누룽지",
+            "전북특별자치도 진안군 부귀면 전진로 2232"
+          ],
+          [
+            "공개 된 연락처가 없습니다",
+            "팔도 배달맨",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8656-2/\">옥림 순무</a>",
+            "순무",
+            "인천광역시 강화군 강화읍 옥림리 1030"
+          ],
+          [
+            "<a href=\"/sixhour-8656-3/\">금드레 장준감 농원</a>",
+            "장준감 체험 농원",
+            "인천광역시 강화군 불은면 고능리 445-2 / 불은남로442번길 46-4"
+          ],
+          [
+            "수줍은 태산 농원",
+            "사과",
+            "—"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.5 6시 내고향 총정리",
+          "url": "/sixhour-8656/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 6시 내고향는 평일 오후 6시 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "주소와 전화번호 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.11.05 (목)자 6시 내고향 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8656-1",
+      "name": "동선식품",
+      "desc": "11.5 · 누룽지"
+    },
+    {
+      "slug": "sixhour-8656-3",
+      "name": "금드레 장준감 농원",
+      "desc": "11.5 · 장준감 체험 농원"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.05 (목) 6시 내고향 취재 연락처) · KBS 공식 회차 데이터(8656회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-06",
+  "updatedAt": "2026-11-06T02:22:38+09:00"
+}
