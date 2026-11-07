@@ -1,0 +1,309 @@
+{
+  "slug": "town-393",
+  "type": "place",
+  "category": "맛집",
+  "series": "동네 한 바퀴",
+  "seriesSlug": "town",
+  "program": "town",
+  "title": "동네 한바퀴 11월 7일 영통구 오늘 방송 맛집 위치 전화번호 총정리",
+  "name": "동네 한 바퀴 11월 7일 393회 방송 맛집·장소",
+  "shortName": "11.7 동네 한바퀴 393회",
+  "subtitle": "",
+  "channel": "KBS 1TV 동네 한 바퀴",
+  "airtime": "2026.11.07 (토) · 393회",
+  "status": "방송 맛집",
+  "backdrop": "/img/town-393.jpg",
+  "thumb": "/img/town-393.jpg",
+  "badges": [
+    "393회 · 11.7",
+    "9곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 동네 한 바퀴 393회"
+    ],
+    [
+      "방송일",
+      "2026.11.07 (토)"
+    ],
+    [
+      "소개된 곳",
+      "9곳 (KBS 방송정보 기준)"
+    ],
+    [
+      "가격·영업시간 표기",
+      "1곳"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.07 (토) KBS 1TV 동네 한 바퀴 393회에 나온 곳은 <b>9곳</b>입니다. <b>광교호수공원</b>, <b>광교중앙공원</b>, <b>모아나훌라협회</b>, <b>엉클스도넛</b>, <b>망포옷수선 전문점</b>, <b>영흥수목원</b> 등이며, 상호·주소·전화는 KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "393회 다시보기",
+      "sub": "KBS 공식 · 11.7 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/town/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2018-0429&program_id=PS-2026184434-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11431"
+    }
+  ],
+  "quick": [
+    {
+      "label": "광교호수공원",
+      "url": "/town-393-1/",
+      "kind": "map"
+    },
+    {
+      "label": "광교중앙공원",
+      "url": "/town-393-2/",
+      "kind": "map"
+    },
+    {
+      "label": "모아나훌라협회",
+      "url": "/town-393-3/",
+      "kind": "map"
+    },
+    {
+      "label": "엉클스도넛",
+      "url": "/town-393-4/",
+      "kind": "map"
+    },
+    {
+      "label": "망포옷수선 전문점",
+      "url": "/town-393-5/",
+      "kind": "map"
+    },
+    {
+      "label": "영흥수목원",
+      "url": "/town-393-6/",
+      "kind": "map"
+    },
+    {
+      "label": "돌판 해물파전 식당",
+      "url": "/town-393-7/",
+      "kind": "map"
+    },
+    {
+      "label": "500년 느티나무",
+      "url": "/town-393-8/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 7일 동네 한바퀴에 나온 곳은 어디인가요?",
+      "lead": "393회 KBS 방송정보에 올라온 곳은 9곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "<a href=\"/town-393-1/\">광교호수공원</a>",
+            "제393화 행복 곁에 산다",
+            "경기 수원시 영통구 광교호수로 165",
+            "070-8800-2460"
+          ],
+          [
+            "<a href=\"/town-393-2/\">광교중앙공원</a>",
+            "제393화 행복 곁에 산다",
+            "경기 수원시 영통구 이의동 1302",
+            "—"
+          ],
+          [
+            "<a href=\"/town-393-3/\">모아나훌라협회</a>",
+            "제393화 행복 곁에 산다",
+            "경기 수원시 영통구 광교중앙로248번길 7-3 6층 604-1",
+            "0507-1364-1406"
+          ],
+          [
+            "<a href=\"/town-393-4/\">엉클스도넛</a>",
+            "제393화 행복 곁에 산다",
+            "경기 수원시 영통구 덕영대로 1470 망포역 플레티넘베이스105호",
+            "031-202-9297"
+          ],
+          [
+            "<a href=\"/town-393-5/\">망포옷수선 전문점</a>",
+            "제393화 행복 곁에 산다",
+            "경기 수원시 영통구 태장로82번길 32 단지내 상가 지하105호",
+            "010-6396-1359"
+          ],
+          [
+            "<a href=\"/town-393-6/\">영흥수목원</a>",
+            "제393화 행복 곁에 산다",
+            "경기 수원시 영통구 영통로 435 영흥수목원",
+            "031-369-2390"
+          ],
+          [
+            "<a href=\"/town-393-7/\">돌판 해물파전 식당</a>",
+            "산사랑",
+            "경기 수원시 장안구 광교산로 572 산사랑",
+            "031-244-8973"
+          ],
+          [
+            "<a href=\"/town-393-8/\">500년 느티나무</a>",
+            "영통단오어린이공원",
+            "경기도 수원시 영통구 영통동 1047-3",
+            "—"
+          ],
+          [
+            "<a href=\"/town-393-9/\">모녀 팥 카페</a>",
+            "빈스 601",
+            "경기 수원시 영통구 법조로149번길 118 1층 103호",
+            "031-216-3601"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/town-393.jpg",
+          "cap": "동네 한 바퀴 393회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/town/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2018-0429&program_id=PS-2026184434-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04",
+          "kind": "kbs",
+          "label": "393회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "393회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/town/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2018-0429&program_id=PS-2026184434-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11431"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.7 동네 한바퀴 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "제393화 행복 곁에 산다 - 수원특례시 영통구",
+            "<a href=\"/town-393-1/\">광교호수공원</a>, <a href=\"/town-393-2/\">광교중앙공원</a>, <a href=\"/town-393-3/\">모아나훌라협회</a>, <a href=\"/town-393-4/\">엉클스도넛</a>, <a href=\"/town-393-5/\">망포옷수선 전문점</a>, <a href=\"/town-393-6/\">영흥수목원</a>, <a href=\"/town-393-7/\">돌판 해물파전 식당</a>, <a href=\"/town-393-8/\">500년 느티나무</a>, <a href=\"/town-393-9/\">모녀 팥 카페</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2b",
+      "tab": "가격·영업시간",
+      "heading": "11.7 동네 한바퀴 가격·영업시간 나온 곳은?",
+      "lead": "KBS 제작진이 방송정보에 가격·영업시간·주차를 적은 곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "KBS 방송정보 표기"
+        ],
+        "rows": [
+          [
+            "<a href=\"/town-393-6/\">영흥수목원</a>",
+            "운영시간 09: 30-17:30 / 매주 월요일 휴원 (월 공휴일 운영 및 다음날 휴원)"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2c",
+      "tab": "방송 내용",
+      "heading": "동네 한 바퀴 393회는 어떤 내용인가요?",
+      "lead": "KBS 공식 회차 소개입니다.",
+      "paragraphs": [
+        "[행복 곁에 산다 - 수원특례시 영통구] 수원특례시의 동쪽에 자리해 용인, 화성과 이웃하여 수도권 남부 첨단 산업과 교육의 중추 역할을 하는 도시, 수원특례시 영통구. 명성만큼 세련된 도시의 얼굴 뒤에는 오랜 시간 터를 지키며 동네의 희로애락을 함께 해온 영통구의 보배들이 살고 있다. 밤낮없이 바쁘게 흘러가는 도심 한가운데 소소하지만 확실한 자신만의 행복을 곁에 두고 하루하루를 단단히 살아내는 사람들의 이야기를 따라 수원특례시 영통구로 떠나본다."
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "동네 한 바퀴는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 동네 한 바퀴는 매주 토요일 오후 7시 10분 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "393회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "393회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/town/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2018-0429&program_id=PS-2026184434-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+        },
+        {
+          "kind": "link",
+          "label": "동네 한 바퀴 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/town"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 동네 한 바퀴는 매주 토요일 오후 7시 10분 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "가게 정보 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.11.07 (토)자 동네 한 바퀴 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "town-393-1",
+      "name": "광교호수공원",
+      "desc": "11.7 · 제393화 행복 곁에 산다"
+    },
+    {
+      "slug": "town-393-2",
+      "name": "광교중앙공원",
+      "desc": "11.7 · 제393화 행복 곁에 산다"
+    },
+    {
+      "slug": "town-393-3",
+      "name": "모아나훌라협회",
+      "desc": "11.7 · 제393화 행복 곁에 산다"
+    },
+    {
+      "slug": "town-393-4",
+      "name": "엉클스도넛",
+      "desc": "11.7 · 제393화 행복 곁에 산다"
+    },
+    {
+      "slug": "town-393-5",
+      "name": "망포옷수선 전문점",
+      "desc": "11.7 · 제393화 행복 곁에 산다"
+    },
+    {
+      "slug": "town-393-6",
+      "name": "영흥수목원",
+      "desc": "11.7 · 제393화 행복 곁에 산다"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.07 (토)) · KBS 공식 회차 데이터(393회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-07",
+  "updatedAt": "2026-11-07T21:55:36+09:00"
+}
