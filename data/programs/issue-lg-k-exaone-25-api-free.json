@@ -1,0 +1,229 @@
+{
+  "slug": "issue-lg-k-exaone-25-api-free",
+  "type": "issue",
+  "category": "경제",
+  "series": "",
+  "seriesSlug": "",
+  "program": "K-엑사원 2.5",
+  "kicker": "LG AI연구원 · 'K-엑사원 2.5' API 무료 개방",
+  "dateLabel": "2026.11.09 발표",
+  "firstReport": "이투데이·인사이트 11.09 10:00",
+  "title": "LG 엑사원 2.5 API 무료 개방, 엑사원 성능·이용 조건",
+  "name": "LG AI연구원, 'K-엑사원 2.5' API 무료 개방… 24개 지표 종합 성능 8월 공개 모델 대비 70% 이상 향상",
+  "shortName": "K-엑사원 2.5 무료 개방",
+  "subtitle": "",
+  "channel": "LG AI연구원 발표",
+  "airtime": "",
+  "status": "이슈",
+  "backdrop": "/img/auto/issue-lg-k-exaone-25-api-free.jpg",
+  "thumb": "/img/auto/issue-lg-k-exaone-25-api-free.jpg",
+  "badges": [],
+  "facts": [],
+  "next": null,
+  "intro": "<b>LG AI연구원이 2026년 11월 9일 'K-엑사원 2.5' API를 이날부터 전면 무료로 개방한다고 발표</b>했습니다. 개발자·스타트업·기업·연구 기관 누구나 LG AI연구원 자체 플랫폼(docs.exaone.ai)에서 API 키를 발급받으면 별도 비용 없이 서비스 개발과 연구에 쓸 수 있습니다. LG AI연구원은 내부 분석 결과 <b>24개 평가 지표를 종합한 성능이 지난 8월 공개한 독자 AI 파운데이션 모델(독파모) 2차 모델 대비 70% 이상 향상</b>됐다고 밝혔습니다. 무료 제공 종료 시점은 발표되지 않았습니다.",
+  "ctas": [
+    {
+      "kind": "news",
+      "label": "공식 보도자료 (LG)",
+      "sub": "11.09",
+      "url": "https://www.lg.co.kr/media/release/30760"
+    },
+    {
+      "kind": "official",
+      "label": "EXAONE API Platform (API 키 발급)",
+      "sub": "docs.exaone.ai",
+      "url": "https://docs.exaone.ai/"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (이투데이)",
+      "sub": "11.09 10:00",
+      "url": "https://www.etoday.co.kr/news/view/2645553"
+    },
+    {
+      "kind": "news",
+      "label": "기사 원문 (AI타임스)",
+      "sub": "11.09 16:29",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217175"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sources": [
+    {
+      "media": "LG 보도자료",
+      "date": "11.09",
+      "url": "https://www.lg.co.kr/media/release/30760"
+    },
+    {
+      "media": "이투데이",
+      "date": "11.09 10:00",
+      "url": "https://www.etoday.co.kr/news/view/2645553"
+    },
+    {
+      "media": "인사이트",
+      "date": "11.09 10:00",
+      "url": "https://www.insight.co.kr/news/581143"
+    },
+    {
+      "media": "CEO스코어데일리",
+      "date": "11.09 12:19",
+      "url": "https://m.ceoscoredaily.com/page/view/2026110912184489245"
+    },
+    {
+      "media": "포인트데일리",
+      "date": "11.09 13:46",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325284"
+    },
+    {
+      "media": "AI타임스",
+      "date": "11.09 16:29",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217175"
+    },
+    {
+      "media": "EXAONE API Platform FAQ",
+      "date": "11.09 확인",
+      "url": "https://docs.exaone.ai/ko/terms/faq"
+    },
+    {
+      "media": "EXAONE API Platform Models",
+      "date": "11.09 확인",
+      "url": "https://docs.exaone.ai/ko/docs/models"
+    },
+    {
+      "media": "EXAONE API Platform Rate Limits",
+      "date": "11.09 확인",
+      "url": "https://docs.exaone.ai/ko/docs/rate-limits"
+    },
+    {
+      "media": "EXAONE API Platform Changelog",
+      "date": "11.09",
+      "url": "https://docs.exaone.ai/ko/docs/changelog"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.07.31",
+      "text": "LG AI연구원, 7500억 파라미터 'K-엑사원 2.0'을 허깅페이스에 아파치 2.0 라이선스로 공개",
+      "source": "뉴시스 07.31",
+      "url": "https://www.newsis.com/view/NISX20260731_0003731002"
+    },
+    {
+      "date": "2026.08",
+      "text": "LG 보도자료가 밝힌 '지난 8월 공개한 독파모 2차 모델' — K-엑사원 2.5의 바탕이자 70% 향상의 비교 기준",
+      "source": "LG 보도자료",
+      "url": "https://www.lg.co.kr/media/release/30760"
+    },
+    {
+      "date": "2026.11.09",
+      "text": "'엔비디아 AI 데이 서울 2026'(서울 코엑스)에서 'K-엑사원 2.5' 공개, 이날부터 API 무료 개방",
+      "source": "이투데이·CEO스코어데일리",
+      "url": "https://www.etoday.co.kr/news/view/2645553",
+      "hot": true
+    },
+    {
+      "date": "2027.02",
+      "text": "정부, 독파모 3차 사업 단계평가 거쳐 3개 팀(SK텔레콤·업스테이지·LG AI연구원) 중 최종 2개 팀 선정 방침",
+      "source": "AI타임스 11.09",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217175"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "무료 개방",
+      "heading": "LG 엑사원 2.5 API 무료 개방, 누가 어떻게 쓸 수 있나요?",
+      "lead": "개발자·스타트업·기업·연구 기관 누구나 LG AI연구원 자체 플랫폼 docs.exaone.ai에서 API 키를 발급받으면 별도 비용 없이 'K-엑사원 2.5'를 서비스 개발과 연구에 쓸 수 있습니다.",
+      "paragraphs": [
+        "무료 제공은 11월 9일부터 시작됐습니다. EXAONE API Platform FAQ는 '제공되는 모든 API는 무료로 제공되고 있다'고 안내하고, 변경 이력(Changelog)에도 11월 9일자로 '본 서비스는 현재 무료로 제공됩니다'라고 적혀 있습니다. AI타임스는 LG 관계자가 개방 기한을 '(현재로서는) 명시적으로 정하지 않았다'고 말했다고 전했습니다.",
+        "사용량은 Rate Limits 정책에 따라 초·분·일 단위로 제한되며, 한도를 넘으면 429 오류가 납니다. 남은 호출 횟수는 응답 헤더(x-day-rate-limit-remaining 등)로 확인하도록 안내돼 있습니다. LG 관계자는 '적절한 가이드라인을 마련해 더 많은 사용자가 경험할 수 있도록 하겠다'고 말했습니다(AI타임스).",
+        "K-엑사원 2.5는 모델 가중치 파일을 내려받는 방식이 아니라 API로 제공됩니다. 보도자료와 기사에는 K-엑사원 2.5 가중치 공개(다운로드)에 관한 내용이 없습니다."
+      ],
+      "timeline": true,
+      "actions": [
+        {
+          "kind": "news",
+          "label": "LG 공식 보도자료",
+          "url": "https://www.lg.co.kr/media/release/30760"
+        },
+        {
+          "kind": "official",
+          "label": "EXAONE API Platform FAQ",
+          "url": "https://docs.exaone.ai/ko/terms/faq"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec2",
+      "tab": "성능",
+      "heading": "엑사원 성능 70% 향상은 무엇과 비교한 수치인가요?",
+      "lead": "LG AI연구원 내부 분석 결과로, 24개 평가 지표를 종합한 성능이 '8월 공개 모델 대비' 70% 이상 향상됐다는 수치입니다(김이른 엑사원랩장). 경쟁 모델과의 비교가 아니라 자사 이전 모델과의 비교이며, LG 보도자료는 이를 '8주 만에' 이룬 향상이라고 밝혔습니다.",
+      "paragraphs": [
+        "에이전틱 AI 지표 4종은 LG AI연구원이 오픈 데이터셋을 기반으로 자체 측정한 결과입니다. LG는 비교 대상인 중국 오픈웨이트 모델 딥시크 V4.1 Flash, GLM 5.3(max)과 경쟁 가능한 성능을 보였다고 밝혔습니다. 발표된 점수는 AutomationBench 74.6점(딥시크 74.9·GLM 71.6), Claw-Eval 77.3점(딥시크 75.8·GLM 77.6), BrowseComp 78.0점(딥시크 75.8·GLM 79.0), SWE-Bench Pro 59.2점(딥시크 58.4·GLM 64.0)입니다.",
+        "EXAONE API Platform의 모델 소개(Models)에는 K-EXAONE 2.5의 파라미터가 750B(Active 31B), 컨텍스트 길이 512K, 지원 언어 한국어·영어, 입력·출력은 텍스트로 표기돼 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "AI타임스 기사",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217175"
+        },
+        {
+          "kind": "official",
+          "label": "EXAONE 모델 소개",
+          "url": "https://docs.exaone.ai/ko/docs/models"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sec3",
+      "tab": "독파모",
+      "heading": "lg 엑사원 ai 2.5는 국가 독자 AI 파운데이션 모델 사업과 어떤 관계인가요?",
+      "lead": "K-엑사원 2.5는 독파모 2차 모델에 추가 학습을 적용한 기술 검증 모델입니다. LG AI연구원은 데이터 품질, 사후 학습, 강화 학습 등 이번에 적용한 학습 기술을 독파모 3차 모델 개발에 반영한다고 밝혔습니다.",
+      "paragraphs": [
+        "임우형 LG AI연구원 공동 연구원장은 내년 1월까지 프런티어급 성능의 엑사원 모델을 완성하겠다는 목표를 밝혔습니다. AI타임스에 따르면 정부는 SK텔레콤·업스테이지·LG AI연구원 3개 팀의 독파모 3차 사업을 진행해 내년 2월 단계평가를 거쳐 최종 2개 팀을 선정할 방침입니다.",
+        "LG AI연구원은 추론 효율을 높이기 위해 엔비디아의 '다이나모(Dynamo)' 기술 적용을 검토 중이며, 엔비디아는 앞서 K-엑사원에 맞춘 다이나모 활용 가이드를 공개한 바 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "news",
+          "label": "이투데이 기사",
+          "url": "https://www.etoday.co.kr/news/view/2645553"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "K-엑사원 2.5 무료 API는 언제까지 쓸 수 있나요?",
+      "a": "종료 시점은 발표되지 않았습니다. LG 관계자는 기간을 '(현재로서는) 명시적으로 정하지 않았다'고 밝혔습니다(AI타임스 11.09). 공식 플랫폼 FAQ는 현재 모든 API를 무료로 제공한다고 안내합니다."
+    },
+    {
+      "q": "API 키는 어디서 어떻게 발급받나요?",
+      "a": "EXAONE API Platform(docs.exaone.ai)에 회원가입·로그인한 뒤 My Profile > API Key 페이지에서 'API Key 생성하기'를 누르면 발급됩니다. 공식 FAQ에 따르면 키는 계정당 1개 발급이 원칙이고 만료기한은 30일입니다. 비밀 키는 생성 후 다시 확인할 수 없어 분실하면 새로 만들어야 합니다."
+    },
+    {
+      "q": "K-엑사원 2.5를 다운로드해 설치할 수 있나요?",
+      "a": "이번 발표는 API 개방이며, K-엑사원 2.5 가중치 공개에 관한 내용은 보도자료와 기사에 없습니다. 앞서 7월 31일 공개된 K-엑사원 2.0(7500억 파라미터)은 허깅페이스에 아파치 2.0 라이선스로 공개됐습니다(뉴시스)."
+    }
+  ],
+  "related": [],
+  "source": "LG 보도자료 2026.11.09, EXAONE API Platform(docs.exaone.ai) FAQ·Models·Rate Limits·Changelog, 이투데이·인사이트·CEO스코어데일리·포인트데일리·AI타임스 2026.11.09 보도 · 발표 주체 LG AI연구원",
+  "imageCredit": "",
+  "checkedAt": "2026-11-09",
+  "updatedAt": "2026-11-09T17:00:00+09:00",
+  "quick": [],
+  "keywordsUsed": [
+    "엑사원",
+    "lg 엑사원",
+    "lg 엑사원 ai",
+    "엑사원 성능",
+    "엑사원 ai"
+  ],
+  "notes": "검수(11.09): docs.exaone.ai 접속 확인 — FAQ(발급 절차·계정당 1개·만료 30일·전 API 무료), Models(750B·Active 31B·512K·한국어/영어·텍스트), Rate Limits(초·분·일 제한, 429), Changelog(11.09 '현재 무료') 반영. 미확인: 계정별 실제 사용량 한도 수치(문서 수치는 헤더 예시), 무료 종료 시점. '8월 공개 독파모 2차 모델'과 7.31 공개 K-엑사원 2.0의 동일 여부는 보도자료에 명시 없어 동일시하지 않음. 주가·주식 미사용."
+}
