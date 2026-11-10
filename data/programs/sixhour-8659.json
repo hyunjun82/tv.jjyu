@@ -1,0 +1,244 @@
+{
+  "slug": "sixhour-8659",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 11월 10일 오늘 방송 맛집 위치 전화번호 총정리",
+  "name": "6시 내고향 11월 10일 8659회 방송 맛집·장소",
+  "shortName": "11.10 6시 내고향 8659회",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.10 (화) · 8659회",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8659.jpg",
+  "thumb": "/img/sixhour-8659.jpg",
+  "badges": [
+    "8659회 · 11.10",
+    "4곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8659회"
+    ],
+    [
+      "방송일",
+      "2026.11.10 (화)"
+    ],
+    [
+      "소개된 곳",
+      "4곳 (KBS 방송정보 기준)"
+    ],
+    [
+      "가격·영업시간 표기",
+      "1곳"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.10 (화) KBS 1TV 6시 내고향 8659회에 나온 곳은 <b>4곳</b>입니다. <b>수숲기간</b>, <b>청주식당</b>, <b>라이드앤브루</b>, <b>용호네농원</b> 등이며, 상호·주소·전화는 KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8659회 다시보기",
+      "sub": "KBS 공식 · 11.10 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193244-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11434"
+    }
+  ],
+  "quick": [
+    {
+      "label": "수숲기간",
+      "url": "/sixhour-8659-1/",
+      "kind": "map"
+    },
+    {
+      "label": "청주식당",
+      "url": "/sixhour-8659-2/",
+      "kind": "map"
+    },
+    {
+      "label": "라이드앤브루",
+      "url": "/sixhour-8659-3/",
+      "kind": "map"
+    },
+    {
+      "label": "용호네농원",
+      "url": "/sixhour-8659-4/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 10일 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8659회 KBS 방송정보에 올라온 곳은 4곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "<a href=\"/sixhour-8659-1/\">수숲기간</a>",
+            "나물사관학교",
+            "전남광주 구례군 토지면 운조루길 49-1 꿈앗이청년회관",
+            "010-4822-1633"
+          ],
+          [
+            "<a href=\"/sixhour-8659-2/\">청주식당</a>",
+            "식당",
+            "충청북도 보은군 회인면 회인로2길 1",
+            "043-542-9530 , 010-5487-9530"
+          ],
+          [
+            "<a href=\"/sixhour-8659-3/\">라이드앤브루</a>",
+            "카페",
+            "충청북도 보은군 회인면 회인로 59-1 1층",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8659-4/\">용호네농원</a>",
+            "서리태, 대추",
+            "충청북도 보은군 회인면 보청대로 3118",
+            "010-8892-4539"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8659.jpg",
+          "cap": "6시 내고향 8659회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193244-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8659회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8659회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193244-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11434"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.10 6시 내고향 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "귀촌도 선생님이 필요해!",
+            "<a href=\"/sixhour-8659-1/\">수숲기간</a>"
+          ],
+          [
+            "두 바퀴로 일으킨 변화의 바람",
+            "<a href=\"/sixhour-8659-2/\">청주식당</a>, <a href=\"/sixhour-8659-3/\">라이드앤브루</a>, <a href=\"/sixhour-8659-4/\">용호네농원</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2b",
+      "tab": "가격·영업시간",
+      "heading": "11.10 6시 내고향 가격·영업시간 나온 곳은?",
+      "lead": "KBS 제작진이 방송정보에 가격·영업시간·주차를 적은 곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "KBS 방송정보 표기"
+        ],
+        "rows": [
+          [
+            "<a href=\"/sixhour-8659-1/\">수숲기간</a>",
+            "링크: https://www.instagram.com/soosoop_gigan/"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "6시 내고향는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 6시 내고향는 평일 오후 6시 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "8659회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8659회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193244-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "6시 내고향 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 6시 내고향는 평일 오후 6시 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "가게 정보 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.11.10 (화)자 6시 내고향 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8659-1",
+      "name": "수숲기간",
+      "desc": "11.10 · 나물사관학교"
+    },
+    {
+      "slug": "sixhour-8659-2",
+      "name": "청주식당",
+      "desc": "11.10 · 식당"
+    },
+    {
+      "slug": "sixhour-8659-3",
+      "name": "라이드앤브루",
+      "desc": "11.10 · 카페"
+    },
+    {
+      "slug": "sixhour-8659-4",
+      "name": "용호네농원",
+      "desc": "11.10 · 서리태, 대추"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.10 (화)) · KBS 공식 회차 데이터(8659회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-10",
+  "updatedAt": "2026-11-10T19:13:34+09:00"
+}
