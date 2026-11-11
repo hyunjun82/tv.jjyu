@@ -1,0 +1,347 @@
+{
+  "slug": "sixhour-8660-1",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 방앗간막국수 위치 전화번호 11월 11일 메밀식당",
+  "name": "방앗간막국수",
+  "shortName": "방앗간막국수",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.11 (수) 방송 · 전국 마을 자랑",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8660.jpg",
+  "thumb": "/img/sixhour-8660.jpg",
+  "badges": [
+    "8660회 · 11.11",
+    "전국 마을 자랑",
+    "강원특별자치도 홍천군"
+  ],
+  "facts": [
+    [
+      "상호",
+      "방앗간막국수"
+    ],
+    [
+      "방송 메뉴",
+      "메밀식당"
+    ],
+    [
+      "지역",
+      "강원특별자치도 홍천군"
+    ],
+    [
+      "주소",
+      "강원특별자치도 홍천군 홍천읍 설악로 1786 1층"
+    ],
+    [
+      "전화",
+      "0507-1355-7533"
+    ],
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8660회 (2026.11.11 (수))"
+    ],
+    [
+      "코너",
+      "전국 마을 자랑"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>방앗간막국수</b>은(는) 2026.11.11 (수) KBS 1TV 6시 내고향 8660회 「전국 마을 자랑」(강원특별자치도 홍천군 아람마을) 편에 나온 곳입니다. 방송 메뉴는 「메밀식당」입니다. 주소는 <b>강원특별자치도 홍천군 홍천읍 설악로 1786 1층</b>, 전화는 <b>0507-1355-7533</b>입니다. KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8660회 다시보기",
+      "sub": "KBS 공식 · 11.11 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193245-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EB%B0%A9%EC%95%97%EA%B0%84%EB%A7%89%EA%B5%AD%EC%88%98%20%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%ED%99%8D%EC%B2%9C%EA%B5%B0"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "0507-1355-7533",
+      "url": "tel:050713557533"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11435",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EB%B0%A9%EC%95%97%EA%B0%84%EB%A7%89%EA%B5%AD%EC%88%98%20%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%ED%99%8D%EC%B2%9C%EA%B5%B0",
+      "kind": "map"
+    },
+    {
+      "label": "6시 내고향 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "방앗간막국수 6시 내고향 어느 코너에 나왔나요?",
+      "lead": "2026.11.11 (수) KBS 1TV 6시 내고향 8660회 「전국 마을 자랑」(강원특별자치도 홍천군 아람마을) 편에 나온 곳입니다. 방송에서 소개된 메뉴는 「메밀식당」입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.11 (수)"
+          ],
+          [
+            "회차",
+            "8660회"
+          ],
+          [
+            "코너",
+            "전국 마을 자랑"
+          ],
+          [
+            "코너 제목",
+            "강원특별자치도 홍천군 아람마을"
+          ],
+          [
+            "방송 메뉴",
+            "메밀식당"
+          ],
+          [
+            "KBS 표기",
+            "메밀식당 문의 ( 방앗간막국수 )"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "상호·주소·전화는 KBS 시청자상담실 「방송정보」의 2026.11.11 (수)자 6시 내고향 취재 연락처 그대로입니다."
+      ],
+      "images": [
+        {
+          "src": "/img/sixhour-8660.jpg",
+          "cap": "6시 내고향 8660회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193245-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8660회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8660회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193245-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11435"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "방앗간막국수 위치·주소·전화번호는?",
+      "lead": "주소는 강원특별자치도 홍천군 홍천읍 설악로 1786 1층입니다. 전화는 0507-1355-7533입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "방앗간막국수"
+          ],
+          [
+            "주소",
+            "강원특별자치도 홍천군 홍천읍 설악로 1786 1층"
+          ],
+          [
+            "지역",
+            "강원특별자치도 홍천군"
+          ],
+          [
+            "전화",
+            "0507-1355-7533"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "아래 지도 버튼을 누르면 이 주소로 바로 검색됩니다."
+      ],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EB%B0%A9%EC%95%97%EA%B0%84%EB%A7%89%EA%B5%AD%EC%88%98%20%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%ED%99%8D%EC%B2%9C%EA%B5%B0"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "0507-1355-7533",
+          "url": "tel:050713557533"
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "가격·영업시간·주차",
+      "heading": "방앗간막국수 가격·영업시간·주차는?",
+      "lead": "KBS 방송정보에는 이 곳의 가격·영업시간·주차가 나오지 않아 적지 않았습니다.",
+      "table": {
+        "head": [
+          "확인할 것",
+          "확인하는 곳"
+        ],
+        "rows": [
+          [
+            "영업시간 · 휴무일",
+            "지도 앱의 가게 정보 또는 전화"
+          ],
+          [
+            "메뉴 가격",
+            "지도 앱의 메뉴판 또는 전화"
+          ],
+          [
+            "주차 · 예약",
+            "전화 (0507-1355-7533)"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EB%B0%A9%EC%95%97%EA%B0%84%EB%A7%89%EA%B5%AD%EC%88%98%20%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%ED%99%8D%EC%B2%9C%EA%B5%B0"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "0507-1355-7533",
+          "url": "tel:050713557533"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.11 방송 전체",
+      "heading": "11.11 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8660회 KBS 방송정보에 올라온 곳은 모두 7곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/sixhour-8660-1/\">방앗간막국수</a>",
+            "메밀식당",
+            "강원특별자치도 홍천군 홍천읍 설악로 1786 1층"
+          ],
+          [
+            "<a href=\"/sixhour-8660-2/\">예미정안동문어본점</a>",
+            "문어",
+            "경북 안동시 경동로 818"
+          ],
+          [
+            "안동간고등어종합식품",
+            "간고등어",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8660-3/\">예미정 본채</a>",
+            "식당 / 간고등어",
+            "경북 안동시 옹정골길 111"
+          ],
+          [
+            "<a href=\"/sixhour-8660-4/\">밀레니엄안동찜닭</a>",
+            "찜닭",
+            "경북 안동시 번영길 9 1층"
+          ],
+          [
+            "<a href=\"/sixhour-8660-5/\">주문진어민수산시장 수진호</a>",
+            "홍게",
+            "강원 강릉시 주문진읍 해안로 1790 어민 수산시장 내"
+          ],
+          [
+            "<a href=\"/sixhour-8660-6/\">홍게 식당</a>",
+            "양평식당",
+            "강원 강릉시 주문진읍 항구2길 8"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.11 6시 내고향 총정리",
+          "url": "/sixhour-8660/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 6시 내고향는 평일 오후 6시 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "주소와 전화번호 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.11.11 (수)자 6시 내고향 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8660-2",
+      "name": "예미정안동문어본점",
+      "desc": "11.11 · 문어"
+    },
+    {
+      "slug": "sixhour-8660-3",
+      "name": "예미정 본채",
+      "desc": "11.11 · 식당 / 간고등어"
+    },
+    {
+      "slug": "sixhour-8660-4",
+      "name": "밀레니엄안동찜닭",
+      "desc": "11.11 · 찜닭"
+    },
+    {
+      "slug": "sixhour-8660-5",
+      "name": "주문진어민수산시장 수진호",
+      "desc": "11.11 · 홍게"
+    },
+    {
+      "slug": "sixhour-8660-6",
+      "name": "홍게 식당",
+      "desc": "11.11 · 양평식당"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.11 (수) 6시 내고향 취재 연락처) · KBS 공식 회차 데이터(8660회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-11",
+  "updatedAt": "2026-11-11T20:09:29+09:00"
+}
