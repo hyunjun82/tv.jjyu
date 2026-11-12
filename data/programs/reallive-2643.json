@@ -1,0 +1,350 @@
+{
+  "slug": "reallive-2643",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 11월 12일 오늘 방송 맛집 위치 전화번호 총정리",
+  "name": "2TV 생생정보 11월 12일 2643회 방송 맛집·장소",
+  "shortName": "11.12 생생정보 2643회",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.12 (목) · 2643회",
+  "status": "방송 맛집",
+  "backdrop": "/img/reallive-2643.jpg",
+  "thumb": "/img/reallive-2643.jpg",
+  "badges": [
+    "2643회 · 11.12",
+    "14곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 2TV 생생정보 2643회"
+    ],
+    [
+      "방송일",
+      "2026.11.12 (목)"
+    ],
+    [
+      "소개된 곳",
+      "14곳 (KBS 방송정보 기준)"
+    ],
+    [
+      "가격·영업시간 표기",
+      "2곳"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.12 (목) KBS 2TV 생생정보 2643회에 나온 곳은 <b>14곳</b>입니다. <b>옥시방</b>, <b>완전짬뽕맛있는집</b>, <b>감귤박물관</b>, <b>감귤박물관 체험</b>, <b>제주 담은 귤</b>, <b>신효귤향과즐</b> 등이며, 상호·주소·전화는 KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2643회 다시보기",
+      "sub": "KBS 공식 · 11.12 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026205468-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11436"
+    }
+  ],
+  "quick": [
+    {
+      "label": "완전짬뽕맛있는집",
+      "url": "/reallive-2643-1/",
+      "kind": "map"
+    },
+    {
+      "label": "감귤박물관 체험",
+      "url": "/reallive-2643-2/",
+      "kind": "map"
+    },
+    {
+      "label": "제주 담은 귤",
+      "url": "/reallive-2643-3/",
+      "kind": "map"
+    },
+    {
+      "label": "신효귤향과즐",
+      "url": "/reallive-2643-4/",
+      "kind": "map"
+    },
+    {
+      "label": "오나가나이맛이야",
+      "url": "/reallive-2643-5/",
+      "kind": "map"
+    },
+    {
+      "label": "명상정원",
+      "url": "/reallive-2643-6/",
+      "kind": "map"
+    },
+    {
+      "label": "할머니묵집",
+      "url": "/reallive-2643-7/",
+      "kind": "map"
+    },
+    {
+      "label": "장태산자연휴양림",
+      "url": "/reallive-2643-8/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 12일 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2643회 KBS 방송정보에 올라온 곳은 14곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "옥시방",
+            "—",
+            "—",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2643-1/\">완전짬뽕맛있는집</a>",
+            "장사의 신",
+            "경기 안산시 상록구 상록수로 28",
+            "031-408-9882"
+          ],
+          [
+            "감귤박물관",
+            "음식 X-파일",
+            "—",
+            "064-760-6400"
+          ],
+          [
+            "<a href=\"/reallive-2643-2/\">감귤박물관 체험</a>",
+            "음식 X-파일",
+            "제주특별자치도 서귀포시 효돈순환로 441",
+            "010-2211-0708"
+          ],
+          [
+            "<a href=\"/reallive-2643-3/\">제주 담은 귤</a>",
+            "음식 X-파일",
+            "제주특별자치도 서귀포시 남원읍 태신삼석로73번길 128-4",
+            "0507-1317-2485"
+          ],
+          [
+            "<a href=\"/reallive-2643-4/\">신효귤향과즐</a>",
+            "음식 X-파일",
+            "제주특별자치도 서귀포시 신효동 876-3",
+            "064-733-2268"
+          ],
+          [
+            "<a href=\"/reallive-2643-5/\">오나가나이맛이야</a>",
+            "음식 X-파일",
+            "제주특별자치도 제주시 애월읍 부룡수길 35-12",
+            "064-799-6001"
+          ],
+          [
+            "<a href=\"/reallive-2643-6/\">명상정원</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "대전 동구 추동 680",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2643-7/\">할머니묵집</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "대전 유성구 금남구즉로 1378 할머니묵집",
+            "0507-1357-5842"
+          ],
+          [
+            "<a href=\"/reallive-2643-8/\">장태산자연휴양림</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "대전 서구 장안로 461",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2643-9/\">상소동 산림욕장</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "대전 동구 산내로 714",
+            "042-273-4174"
+          ],
+          [
+            "<a href=\"/reallive-2643-10/\">평촌마을</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "대전 서구 평촌동",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2643-11/\">세천공원</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "대전 동구 세천공원로 68",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2643-12/\">인천토탈씽크</a>",
+            "힘쓰니까 청춘이다",
+            "인천광역시 남동구 백범로 181",
+            "032-461-1267"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2643.jpg",
+          "cap": "2TV 생생정보 2643회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026205468-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2643회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2643회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026205468-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11436"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.12 생생정보 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "—",
+            "옥시방"
+          ],
+          [
+            "장사의 신 - 한식과 중식의 만남! 왕갈비짬뽕",
+            "<a href=\"/reallive-2643-1/\">완전짬뽕맛있는집</a>"
+          ],
+          [
+            "음식 X-파일 - 새콤달콤 황금빛 과일, 귤",
+            "감귤박물관, <a href=\"/reallive-2643-2/\">감귤박물관 체험</a>, <a href=\"/reallive-2643-3/\">제주 담은 귤</a>, <a href=\"/reallive-2643-4/\">신효귤향과즐</a>, <a href=\"/reallive-2643-5/\">오나가나이맛이야</a>"
+          ],
+          [
+            "미스터 Lee의 사진 한 컷, 대한민국 - 491번째 미션, 대전광역시",
+            "<a href=\"/reallive-2643-6/\">명상정원</a>, <a href=\"/reallive-2643-7/\">할머니묵집</a>, <a href=\"/reallive-2643-8/\">장태산자연휴양림</a>, <a href=\"/reallive-2643-9/\">상소동 산림욕장</a>, <a href=\"/reallive-2643-10/\">평촌마을</a>, <a href=\"/reallive-2643-11/\">세천공원</a>"
+          ],
+          [
+            "힘쓰니까 청춘이다 - 경력 7년! 맞춤 가구 시공하는 청춘!",
+            "<a href=\"/reallive-2643-12/\">인천토탈씽크</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2b",
+      "tab": "가격·영업시간",
+      "heading": "11.12 생생정보 가격·영업시간 나온 곳은?",
+      "lead": "KBS 제작진이 방송정보에 가격·영업시간·주차를 적은 곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "KBS 방송정보 표기"
+        ],
+        "rows": [
+          [
+            "옥시방",
+            "주소: 서울 종로구 종로 141-1 금천지상가 1층"
+          ],
+          [
+            "<a href=\"/reallive-2643-1/\">완전짬뽕맛있는집</a>",
+            "가격: 얼큰고사리왕갈비짬뽕 18,000원<br>영업시간: AM 11:00 ~ PM 21:30 (라스트 오더 PM 21:00)<br>주차: 가게 건물 지하 주차장"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "2TV 생생정보는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "2643회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2643회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026205468-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "2TV 생생정보 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "가게 정보 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.11.12 (목)자 2TV 생생정보 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2643-1",
+      "name": "완전짬뽕맛있는집",
+      "desc": "11.12 · 장사의 신"
+    },
+    {
+      "slug": "reallive-2643-2",
+      "name": "감귤박물관 체험",
+      "desc": "11.12 · 음식 X-파일"
+    },
+    {
+      "slug": "reallive-2643-3",
+      "name": "제주 담은 귤",
+      "desc": "11.12 · 음식 X-파일"
+    },
+    {
+      "slug": "reallive-2643-4",
+      "name": "신효귤향과즐",
+      "desc": "11.12 · 음식 X-파일"
+    },
+    {
+      "slug": "reallive-2643-5",
+      "name": "오나가나이맛이야",
+      "desc": "11.12 · 음식 X-파일"
+    },
+    {
+      "slug": "reallive-2643-6",
+      "name": "명상정원",
+      "desc": "11.12 · 미스터 Lee의 사진 한 컷, 대한민국"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.12 (목)) · KBS 공식 회차 데이터(2643회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-12",
+  "updatedAt": "2026-11-12T20:03:58+09:00"
+}
