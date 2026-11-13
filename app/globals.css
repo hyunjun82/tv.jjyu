@@ -355,3 +355,6 @@ table.hours td:first-child{width:56px;font-weight:700}
 .fc .nm{font-size:15px}
 .eprow{grid-auto-columns:76%}
 }
+
+table.sched td,table.sched th{white-space:nowrap;padding-left:10px;padding-right:10px;font-size:13.5px}
+table.sched td:nth-child(2){font-variant-numeric:tabular-nums}
