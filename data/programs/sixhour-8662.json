@@ -1,0 +1,219 @@
+{
+  "slug": "sixhour-8662",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 11월 13일 오늘 방송 맛집 위치 전화번호 총정리",
+  "name": "6시 내고향 11월 13일 8662회 방송 맛집·장소",
+  "shortName": "11.13 6시 내고향 8662회",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.13 (금) · 8662회",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8662.jpg",
+  "thumb": "/img/sixhour-8662.jpg",
+  "badges": [
+    "8662회 · 11.13",
+    "4곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8662회"
+    ],
+    [
+      "방송일",
+      "2026.11.13 (금)"
+    ],
+    [
+      "소개된 곳",
+      "4곳 (KBS 방송정보 기준)"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.13 (금) KBS 1TV 6시 내고향 8662회에 나온 곳은 <b>4곳</b>입니다. <b>시래기 연합회</b>, <b>박첨지놀이전수관</b>, <b>명궁약수가든</b>, <b>나인스토리가든</b> 등이며, 상호·주소·전화는 KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8662회 다시보기",
+      "sub": "KBS 공식 · 11.13 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193247-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11437"
+    }
+  ],
+  "quick": [
+    {
+      "label": "박첨지놀이전수관",
+      "url": "/sixhour-8662-1/",
+      "kind": "map"
+    },
+    {
+      "label": "명궁약수가든",
+      "url": "/sixhour-8662-2/",
+      "kind": "map"
+    },
+    {
+      "label": "나인스토리가든",
+      "url": "/sixhour-8662-3/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 13일 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8662회 KBS 방송정보에 올라온 곳은 4곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "시래기 연합회",
+            "시래기",
+            "—",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8662-1/\">박첨지놀이전수관</a>",
+            "박첨지놀이",
+            "충청남도 서산시 음암면 탑곡고양동1길 113-9",
+            "041-662-7504"
+          ],
+          [
+            "<a href=\"/sixhour-8662-2/\">명궁약수가든</a>",
+            "누룽지닭백숙, 닭불고기",
+            "경북 청송군 진보면 경동로 5156 1층",
+            "054-874-0033"
+          ],
+          [
+            "<a href=\"/sixhour-8662-3/\">나인스토리가든</a>",
+            "농장",
+            "인천광역시 강화군 하점면 신봉리 709-2",
+            "010-4200-3420"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8662.jpg",
+          "cap": "6시 내고향 8662회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193247-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8662회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8662회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193247-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11437"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.13 6시 내고향 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "찬 바람 불면 생각나는 맛 시래기",
+            "시래기 연합회"
+          ],
+          [
+            "전국 마을 자랑 - 충청남도 서산시 탑곡마을",
+            "<a href=\"/sixhour-8662-1/\">박첨지놀이전수관</a>"
+          ],
+          [
+            "미리 맛본 식당 미식당 - 구수함이 샘솟는 청송",
+            "<a href=\"/sixhour-8662-2/\">명궁약수가든</a>"
+          ],
+          [
+            "효도기획 박대리 - 가을 축제 대작전 1부",
+            "<a href=\"/sixhour-8662-3/\">나인스토리가든</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "6시 내고향는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 6시 내고향는 평일 오후 6시 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "8662회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8662회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193247-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "6시 내고향 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 6시 내고향는 평일 오후 6시 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "가게 정보 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.11.13 (금)자 6시 내고향 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8662-1",
+      "name": "박첨지놀이전수관",
+      "desc": "11.13 · 박첨지놀이"
+    },
+    {
+      "slug": "sixhour-8662-2",
+      "name": "명궁약수가든",
+      "desc": "11.13 · 누룽지닭백숙, 닭불고기"
+    },
+    {
+      "slug": "sixhour-8662-3",
+      "name": "나인스토리가든",
+      "desc": "11.13 · 농장"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.13 (금)) · KBS 공식 회차 데이터(8662회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-13",
+  "updatedAt": "2026-11-13T20:03:49+09:00"
+}

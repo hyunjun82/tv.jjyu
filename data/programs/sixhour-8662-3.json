@@ -1,0 +1,317 @@
+{
+  "slug": "sixhour-8662-3",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 나인스토리가든 위치 전화번호 11월 13일 농장",
+  "name": "나인스토리가든",
+  "shortName": "나인스토리가든",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.13 (금) 방송 · 효도기획 박대리",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8662.jpg",
+  "thumb": "/img/sixhour-8662.jpg",
+  "badges": [
+    "8662회 · 11.13",
+    "효도기획 박대리",
+    "인천광역시 강화군"
+  ],
+  "facts": [
+    [
+      "상호",
+      "나인스토리가든"
+    ],
+    [
+      "방송 메뉴",
+      "농장"
+    ],
+    [
+      "지역",
+      "인천광역시 강화군"
+    ],
+    [
+      "주소",
+      "인천광역시 강화군 하점면 신봉리 709-2"
+    ],
+    [
+      "전화",
+      "010-4200-3420"
+    ],
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8662회 (2026.11.13 (금))"
+    ],
+    [
+      "코너",
+      "효도기획 박대리"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>나인스토리가든</b>은(는) 2026.11.13 (금) KBS 1TV 6시 내고향 8662회 「효도기획 박대리」(가을 축제 대작전 1부) 편에 나온 곳입니다. 방송 메뉴는 「농장」입니다. 주소는 <b>인천광역시 강화군 하점면 신봉리 709-2</b>, 전화는 <b>010-4200-3420</b>입니다. KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8662회 다시보기",
+      "sub": "KBS 공식 · 11.13 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193247-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EB%82%98%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%A6%AC%EA%B0%80%EB%93%A0%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B0%95%ED%99%94%EA%B5%B0"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "010-4200-3420",
+      "url": "tel:01042003420"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11437",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EB%82%98%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%A6%AC%EA%B0%80%EB%93%A0%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B0%95%ED%99%94%EA%B5%B0",
+      "kind": "map"
+    },
+    {
+      "label": "6시 내고향 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "나인스토리가든 6시 내고향 어느 코너에 나왔나요?",
+      "lead": "2026.11.13 (금) KBS 1TV 6시 내고향 8662회 「효도기획 박대리」(가을 축제 대작전 1부) 편에 나온 곳입니다. 방송에서 소개된 메뉴는 「농장」입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.13 (금)"
+          ],
+          [
+            "회차",
+            "8662회"
+          ],
+          [
+            "코너",
+            "효도기획 박대리"
+          ],
+          [
+            "코너 제목",
+            "가을 축제 대작전 1부"
+          ],
+          [
+            "방송 메뉴",
+            "농장"
+          ],
+          [
+            "KBS 표기",
+            "농장 문의 (나인스토리가든)"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "상호·주소·전화는 KBS 시청자상담실 「방송정보」의 2026.11.13 (금)자 6시 내고향 취재 연락처 그대로입니다."
+      ],
+      "images": [
+        {
+          "src": "/img/sixhour-8662.jpg",
+          "cap": "6시 내고향 8662회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193247-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8662회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8662회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193247-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11437"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "나인스토리가든 위치·주소·전화번호는?",
+      "lead": "주소는 인천광역시 강화군 하점면 신봉리 709-2입니다. 전화는 010-4200-3420입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "나인스토리가든"
+          ],
+          [
+            "주소",
+            "인천광역시 강화군 하점면 신봉리 709-2"
+          ],
+          [
+            "지역",
+            "인천광역시 강화군"
+          ],
+          [
+            "전화",
+            "010-4200-3420"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "아래 지도 버튼을 누르면 이 주소로 바로 검색됩니다."
+      ],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EB%82%98%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%A6%AC%EA%B0%80%EB%93%A0%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B0%95%ED%99%94%EA%B5%B0"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "010-4200-3420",
+          "url": "tel:01042003420"
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "가격·영업시간·주차",
+      "heading": "나인스토리가든 가격·영업시간·주차는?",
+      "lead": "KBS 방송정보에는 이 곳의 가격·영업시간·주차가 나오지 않아 적지 않았습니다.",
+      "table": {
+        "head": [
+          "확인할 것",
+          "확인하는 곳"
+        ],
+        "rows": [
+          [
+            "영업시간 · 휴무일",
+            "지도 앱의 가게 정보 또는 전화"
+          ],
+          [
+            "메뉴 가격",
+            "지도 앱의 메뉴판 또는 전화"
+          ],
+          [
+            "주차 · 예약",
+            "전화 (010-4200-3420)"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EB%82%98%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%A6%AC%EA%B0%80%EB%93%A0%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B0%95%ED%99%94%EA%B5%B0"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "010-4200-3420",
+          "url": "tel:01042003420"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.13 방송 전체",
+      "heading": "11.13 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8662회 KBS 방송정보에 올라온 곳은 모두 4곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "시래기 연합회",
+            "시래기",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8662-1/\">박첨지놀이전수관</a>",
+            "박첨지놀이",
+            "충청남도 서산시 음암면 탑곡고양동1길 113-9"
+          ],
+          [
+            "<a href=\"/sixhour-8662-2/\">명궁약수가든</a>",
+            "누룽지닭백숙, 닭불고기",
+            "경북 청송군 진보면 경동로 5156 1층"
+          ],
+          [
+            "<a href=\"/sixhour-8662-3/\">나인스토리가든</a>",
+            "농장",
+            "인천광역시 강화군 하점면 신봉리 709-2"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.13 6시 내고향 총정리",
+          "url": "/sixhour-8662/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 6시 내고향는 평일 오후 6시 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "주소와 전화번호 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.11.13 (금)자 6시 내고향 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8662-1",
+      "name": "박첨지놀이전수관",
+      "desc": "11.13 · 박첨지놀이"
+    },
+    {
+      "slug": "sixhour-8662-2",
+      "name": "명궁약수가든",
+      "desc": "11.13 · 누룽지닭백숙, 닭불고기"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.13 (금) 6시 내고향 취재 연락처) · KBS 공식 회차 데이터(8662회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-13",
+  "updatedAt": "2026-11-13T20:03:49+09:00"
+}
