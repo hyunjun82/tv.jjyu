@@ -7,3 +7,4 @@ out/
 scripts/.naver-profile/
 .collect-made
 __pycache__/
+data/schedule.json

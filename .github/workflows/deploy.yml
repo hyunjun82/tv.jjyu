@@ -86,6 +86,10 @@ jobs:
       - name: 발행 점검
         if: steps.commit.outputs.build == 'true'
         run: node scripts/verify.mjs
+      - name: 공식 편성표 수집 (재방송·이번 주 편성 — 빌드 직전, 커밋하지 않음)
+        if: steps.commit.outputs.build == 'true'
+        continue-on-error: true
+        run: python3 scripts/collect_schedule.py
       - name: 빌드 (next build → out/)
         if: steps.commit.outputs.build == 'true'
         run: npm run build

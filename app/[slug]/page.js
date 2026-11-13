@@ -3,6 +3,7 @@ import Tabs from '../../components/Tabs';
 import AdSlot from '../../components/AdSlot';
 import { Act, Acts, Btn, kindOf } from '../../components/Act';
 import { goHref } from '../../lib/go';
+import { scheduleSection } from '../../lib/schedule';
 
 const SITE_URL = 'https://tv.jjyu.co.kr';
 const Html = ({ as: Tag = 'p', className, html }) => <Tag className={className} dangerouslySetInnerHTML={{ __html: html }} />;
@@ -32,7 +33,9 @@ function CastCard({ c, color }) {
 }
 
 export default async function ProgramPage({ params }) {
-  const { slug } = await params; const p = getProgram(slug); if (!p) return null;
+  const { slug } = await params; const p0 = getProgram(slug); if (!p0) return null;
+  const sched = scheduleSection(p0);
+  const p = sched ? { ...p0, sections: [...p0.sections, sched] } : p0;
   const all = getAllPrograms();
   const isIssue = p.type === 'issue';
   const tabs = [...p.sections.map((s) => ({ id: s.id, tab: s.tab })), ...(p.faq?.length ? [{ id: 'faq', tab: '자주 묻는 질문' }] : [])];
