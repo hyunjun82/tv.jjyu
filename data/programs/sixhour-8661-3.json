@@ -1,0 +1,332 @@
+{
+  "slug": "sixhour-8661-3",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 강원수산횟집 위치 전화번호 11월 12일 횟집",
+  "name": "강원수산횟집",
+  "shortName": "강원수산횟집",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.12 (목) 방송 · 식재료 원정대",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8661.jpg",
+  "thumb": "/img/sixhour-8661.jpg",
+  "badges": [
+    "8661회 · 11.12",
+    "식재료 원정대",
+    "강원 평창군"
+  ],
+  "facts": [
+    [
+      "상호",
+      "강원수산횟집"
+    ],
+    [
+      "방송 메뉴",
+      "횟집"
+    ],
+    [
+      "지역",
+      "강원 평창군"
+    ],
+    [
+      "주소",
+      "강원 평창군 미탄면 송어길 30-4"
+    ],
+    [
+      "전화",
+      "033-332-3702"
+    ],
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8661회 (2026.11.12 (목))"
+    ],
+    [
+      "코너",
+      "식재료 원정대"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>강원수산횟집</b>은(는) 2026.11.12 (목) KBS 1TV 6시 내고향 8661회 「식재료 원정대」(평창의 맛에 푹 빠졌송!) 편에 나온 곳입니다. 방송 메뉴는 「횟집」입니다. 주소는 <b>강원 평창군 미탄면 송어길 30-4</b>, 전화는 <b>033-332-3702</b>입니다. KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8661회 다시보기",
+      "sub": "KBS 공식 · 11.12 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193246-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EA%B0%95%EC%9B%90%EC%88%98%EC%82%B0%ED%9A%9F%EC%A7%91%20%EA%B0%95%EC%9B%90%20%ED%8F%89%EC%B0%BD%EA%B5%B0"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "033-332-3702",
+      "url": "tel:0333323702"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11436",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EA%B0%95%EC%9B%90%EC%88%98%EC%82%B0%ED%9A%9F%EC%A7%91%20%EA%B0%95%EC%9B%90%20%ED%8F%89%EC%B0%BD%EA%B5%B0",
+      "kind": "map"
+    },
+    {
+      "label": "6시 내고향 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "강원수산횟집 6시 내고향 어느 코너에 나왔나요?",
+      "lead": "2026.11.12 (목) KBS 1TV 6시 내고향 8661회 「식재료 원정대」(평창의 맛에 푹 빠졌송!) 편에 나온 곳입니다. 방송에서 소개된 메뉴는 「횟집」입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.12 (목)"
+          ],
+          [
+            "회차",
+            "8661회"
+          ],
+          [
+            "코너",
+            "식재료 원정대"
+          ],
+          [
+            "코너 제목",
+            "평창의 맛에 푹 빠졌송!"
+          ],
+          [
+            "방송 메뉴",
+            "횟집"
+          ],
+          [
+            "KBS 표기",
+            "횟집 문의(강원수산횟집)"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "상호·주소·전화는 KBS 시청자상담실 「방송정보」의 2026.11.12 (목)자 6시 내고향 취재 연락처 그대로입니다."
+      ],
+      "images": [
+        {
+          "src": "/img/sixhour-8661.jpg",
+          "cap": "6시 내고향 8661회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193246-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8661회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8661회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026193246-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11436"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "강원수산횟집 위치·주소·전화번호는?",
+      "lead": "주소는 강원 평창군 미탄면 송어길 30-4입니다. 전화는 033-332-3702입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "강원수산횟집"
+          ],
+          [
+            "주소",
+            "강원 평창군 미탄면 송어길 30-4"
+          ],
+          [
+            "지역",
+            "강원 평창군"
+          ],
+          [
+            "전화",
+            "033-332-3702"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "아래 지도 버튼을 누르면 이 주소로 바로 검색됩니다."
+      ],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EA%B0%95%EC%9B%90%EC%88%98%EC%82%B0%ED%9A%9F%EC%A7%91%20%EA%B0%95%EC%9B%90%20%ED%8F%89%EC%B0%BD%EA%B5%B0"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "033-332-3702",
+          "url": "tel:0333323702"
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "가격·영업시간·주차",
+      "heading": "강원수산횟집 가격·영업시간·주차는?",
+      "lead": "KBS 방송정보에는 이 곳의 가격·영업시간·주차가 나오지 않아 적지 않았습니다.",
+      "table": {
+        "head": [
+          "확인할 것",
+          "확인하는 곳"
+        ],
+        "rows": [
+          [
+            "영업시간 · 휴무일",
+            "지도 앱의 가게 정보 또는 전화"
+          ],
+          [
+            "메뉴 가격",
+            "지도 앱의 메뉴판 또는 전화"
+          ],
+          [
+            "주차 · 예약",
+            "전화 (033-332-3702)"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EA%B0%95%EC%9B%90%EC%88%98%EC%82%B0%ED%9A%9F%EC%A7%91%20%EA%B0%95%EC%9B%90%20%ED%8F%89%EC%B0%BD%EA%B5%B0"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "033-332-3702",
+          "url": "tel:0333323702"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.12 방송 전체",
+      "heading": "11.12 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8661회 KBS 방송정보에 올라온 곳은 모두 5곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/sixhour-8661-1/\">사그레이 사과</a>",
+            "사과",
+            "경북 영주 부석면 사문로174"
+          ],
+          [
+            "<a href=\"/sixhour-8661-2/\">담꽃</a>",
+            "팥죽·팥칼국수",
+            "전북특별자치도 익산시 왕궁면 푸드폴리스로9길 72"
+          ],
+          [
+            "<a href=\"/sixhour-8661-3/\">강원수산횟집</a>",
+            "횟집",
+            "강원 평창군 미탄면 송어길 30-4"
+          ],
+          [
+            "<a href=\"/sixhour-8661-4/\">온유네농장</a>",
+            "송화버섯",
+            "강원 평창군 방림면 들모고개길 80-25"
+          ],
+          [
+            "<a href=\"/sixhour-8661-5/\">고동재농원</a>",
+            "오리백숙",
+            "경남 산청군 금서면 가재길 226"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.12 6시 내고향 총정리",
+          "url": "/sixhour-8661/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 1TV 6시 내고향는 평일 오후 6시 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "주소와 전화번호 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.11.12 (목)자 6시 내고향 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8661-1",
+      "name": "사그레이 사과",
+      "desc": "11.12 · 사과"
+    },
+    {
+      "slug": "sixhour-8661-2",
+      "name": "담꽃",
+      "desc": "11.12 · 팥죽·팥칼국수"
+    },
+    {
+      "slug": "sixhour-8661-4",
+      "name": "온유네농장",
+      "desc": "11.12 · 송화버섯"
+    },
+    {
+      "slug": "sixhour-8661-5",
+      "name": "고동재농원",
+      "desc": "11.12 · 오리백숙"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.12 (목) 6시 내고향 취재 연락처) · KBS 공식 회차 데이터(8661회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-13",
+  "updatedAt": "2026-11-13T15:37:45+09:00"
+}
