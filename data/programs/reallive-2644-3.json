@@ -1,0 +1,334 @@
+{
+  "slug": "reallive-2644-3",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 동백가든 위치 전화번호 11월 13일",
+  "name": "동백가든",
+  "shortName": "동백가든",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.13 (금) 방송 · 할매~ 밥 됩니까?",
+  "status": "방송 맛집",
+  "backdrop": "/img/reallive-2644.jpg",
+  "thumb": "/img/reallive-2644.jpg",
+  "badges": [
+    "2644회 · 11.13",
+    "할매~ 밥 됩니까?",
+    "부산 금정구"
+  ],
+  "facts": [
+    [
+      "상호",
+      "동백가든"
+    ],
+    [
+      "지역",
+      "부산 금정구"
+    ],
+    [
+      "주소",
+      "부산 금정구 공해2길 17"
+    ],
+    [
+      "전화",
+      "051-517-2676"
+    ],
+    [
+      "방송",
+      "KBS 2TV 생생정보 2644회 (2026.11.13 (금))"
+    ],
+    [
+      "코너",
+      "할매~ 밥 됩니까?"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>동백가든</b>은(는) 2026.11.13 (금) KBS 2TV 생생정보 2644회 「할매~ 밥 됩니까?」(말자 할매의 오리불고기와 오리백숙) 편에 나온 곳입니다. 주소는 <b>부산 금정구 공해2길 17</b>, 전화는 <b>051-517-2676</b>입니다. KBS 시청자상담실 「방송정보」 그대로입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2644회 다시보기",
+      "sub": "KBS 공식 · 11.13 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026205469-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EB%8F%99%EB%B0%B1%EA%B0%80%EB%93%A0%20%EB%B6%80%EC%82%B0%20%EA%B8%88%EC%A0%95%EA%B5%AC"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "051-517-2676",
+      "url": "tel:0515172676"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11437",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EB%8F%99%EB%B0%B1%EA%B0%80%EB%93%A0%20%EB%B6%80%EC%82%B0%20%EA%B8%88%EC%A0%95%EA%B5%AC",
+      "kind": "map"
+    },
+    {
+      "label": "2TV 생생정보 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "동백가든 생생정보 어느 코너에 나왔나요?",
+      "lead": "2026.11.13 (금) KBS 2TV 생생정보 2644회 「할매~ 밥 됩니까?」(말자 할매의 오리불고기와 오리백숙) 편에 나온 곳입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.13 (금)"
+          ],
+          [
+            "회차",
+            "2644회"
+          ],
+          [
+            "코너",
+            "할매~ 밥 됩니까?"
+          ],
+          [
+            "코너 제목",
+            "말자 할매의 오리불고기와 오리백숙"
+          ],
+          [
+            "KBS 표기",
+            "동백가든"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "상호·주소·전화는 KBS 시청자상담실 「방송정보」의 2026.11.13 (금)자 2TV 생생정보 취재 연락처 그대로입니다."
+      ],
+      "images": [
+        {
+          "src": "/img/reallive-2644.jpg",
+          "cap": "2TV 생생정보 2644회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026205469-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2644회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2644회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026205469-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11437"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "동백가든 위치·주소·전화번호는?",
+      "lead": "주소는 부산 금정구 공해2길 17입니다. 전화는 051-517-2676입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "동백가든"
+          ],
+          [
+            "주소",
+            "부산 금정구 공해2길 17"
+          ],
+          [
+            "지역",
+            "부산 금정구"
+          ],
+          [
+            "전화",
+            "051-517-2676"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "아래 지도 버튼을 누르면 이 주소로 바로 검색됩니다."
+      ],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EB%8F%99%EB%B0%B1%EA%B0%80%EB%93%A0%20%EB%B6%80%EC%82%B0%20%EA%B8%88%EC%A0%95%EA%B5%AC"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "051-517-2676",
+          "url": "tel:0515172676"
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "가격·영업시간·주차",
+      "heading": "동백가든 가격·영업시간·주차는?",
+      "lead": "KBS 방송정보에는 이 곳의 가격·영업시간·주차가 나오지 않아 적지 않았습니다.",
+      "table": {
+        "head": [
+          "확인할 것",
+          "확인하는 곳"
+        ],
+        "rows": [
+          [
+            "영업시간 · 휴무일",
+            "지도 앱의 가게 정보 또는 전화"
+          ],
+          [
+            "메뉴 가격",
+            "지도 앱의 메뉴판 또는 전화"
+          ],
+          [
+            "주차 · 예약",
+            "전화 (051-517-2676)"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EB%8F%99%EB%B0%B1%EA%B0%80%EB%93%A0%20%EB%B6%80%EC%82%B0%20%EA%B8%88%EC%A0%95%EA%B5%AC"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "051-517-2676",
+          "url": "tel:0515172676"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.13 방송 전체",
+      "heading": "11.13 2TV 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2644회 KBS 방송정보에 올라온 곳은 모두 7곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2644-1/\">2026 속초 도루묵 양미리 축제</a>",
+            "지금이 딱~ 제철! 겨울 바다의 별미 도루묵과 양미리",
+            "강원특별자치도 속초시 속초항 항만부지 (속초 이마트 앞 주차장 일원)"
+          ],
+          [
+            "<a href=\"/reallive-2644-2/\">도루묵 양미리 요리</a>",
+            "원조대지호",
+            "강원특별자치도 속초시 청호로 121-10"
+          ],
+          [
+            "<a href=\"/reallive-2644-3/\">동백가든</a>",
+            "할매~ 밥 됩니까?",
+            "부산 금정구 공해2길 17"
+          ],
+          [
+            "<a href=\"/reallive-2644-4/\">힐더홈컴퍼니</a>",
+            "독한 인생",
+            "경기도 광주시 초월읍 진새골길 43-12 B01"
+          ],
+          [
+            "덕적도 배편",
+            "한눈에 반했~섬(島)",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2644-5/\">서포비치펜션</a>",
+            "덕적도 펜션",
+            "인천 옹진군 덕적면 서포리 229-6"
+          ],
+          [
+            "미니 지프 투어",
+            "한눈에 반했~섬(島)",
+            "—"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.13 생생정보 총정리",
+          "url": "/reallive-2644/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "몇 시 방송인가요?",
+      "a": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송입니다(KBS 공식 회차 편성)."
+    },
+    {
+      "q": "주소와 전화번호 출처는요?",
+      "a": "KBS 시청자상담실 「방송정보」 2026.11.13 (금)자 2TV 생생정보 취재 연락처입니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2644-1",
+      "name": "2026 속초 도루묵 양미리 축제",
+      "desc": "11.13 · 지금이 딱~ 제철! 겨울 바다의 별미 도루묵과 양미리"
+    },
+    {
+      "slug": "reallive-2644-2",
+      "name": "도루묵 양미리 요리",
+      "desc": "11.13 · 원조대지호"
+    },
+    {
+      "slug": "reallive-2644-4",
+      "name": "힐더홈컴퍼니",
+      "desc": "11.13 · 독한 인생"
+    },
+    {
+      "slug": "reallive-2644-5",
+      "name": "서포비치펜션",
+      "desc": "11.13 · 덕적도 펜션"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.13 (금) 2TV 생생정보 취재 연락처) · KBS 공식 회차 데이터(2644회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-13",
+  "updatedAt": "2026-11-13T20:43:55+09:00"
+}
