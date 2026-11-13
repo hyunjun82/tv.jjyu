@@ -213,6 +213,58 @@ def build(p, st, allp):
     return p
 
 
+# ── 검색어형 제목 ─────────────────────────────────────────────────────────────
+# 네이버 서치어드바이저 실제 유입 검색어(2026-11-13 확인): '생방송투데이 4124 다시보기', '동네 한 바퀴 393회 다시보기',
+# '생활의 달인 11월 09일 다시보기', '11월13일kbs6시내고향경북청송약수마을', '청송진보미식당' → 회차·다시보기·지역·메뉴를 제목에 넣는다.
+SHORT = {'sixhour': '6시 내고향', 'reallive': '생생정보', 'town': '동네 한바퀴', 'table': '한국인의 밥상', 'today3': '생방송투데이', 'lifemaster': '생활의 달인'}
+METRO = ('서울', '부산', '대구', '인천', '광주', '대전', '울산', '세종')
+
+
+def _t40(parts):
+    out = ''
+    for x in parts:
+        if not x:
+            continue
+        cand = (out + ' ' + x).strip()
+        if len(cand) <= 40:
+            out = cand
+    return out
+
+
+def region_short(reg):
+    """'경북 청송군' → '청송', '경기 수원시' → '수원', '서울 마포구' → '서울 마포구'"""
+    t = (reg or '').split()
+    if len(t) < 2:
+        return ''
+    if t[0].startswith(METRO):
+        return f'{t[0][:2]} {t[1]}'
+    return re.sub(r'(특례시|시|군)$', '', t[1]) if len(t[1]) >= 3 else t[1]
+
+
+def retitle(p):
+    key = p.get('program')
+    m = re.match(r'^([a-z0-9]+)-(\d+)(-\d+)?$', p['slug'])
+    if key not in SHORT or not m or p.get('store'):
+        return False
+    no, shop = m.group(2), bool(m.group(3))
+    dm = re.search(r'\d{4}\.(\d{2})\.(\d{2})', p.get('airtime', ''))
+    if not dm:
+        return False
+    day = f'{int(dm.group(1))}월 {int(dm.group(2))}일'
+    fx = {a: b for a, b in p.get('facts', [])}
+    if shop:
+        menu = re.split(r'[,/·]', fx.get('방송 메뉴', ''))[0].strip()
+        menu = menu if 0 < len(menu) <= 10 else ''
+        t = _t40([f'{SHORT[key]} {p["name"]}', region_short(fx.get('지역')), menu, '위치', '전화번호' if fx.get('전화') else '주소', day])
+    else:
+        word = '달인 가게' if key == 'lifemaster' else '맛집'
+        t = _t40([f'{SHORT[key]} {no}회 {day}', '다시보기', f'{word} 위치', '전화번호', '총정리'])
+    if t and t != p['title']:
+        p['title'] = t
+        return True
+    return False
+
+
 def main():
     allp = [json.load(open(f)) for f in sorted(glob.glob(os.path.join(PROG, '*.json')))]
     by = {p['slug']: p for p in allp}
@@ -226,6 +278,13 @@ def main():
             p = build(by[slug], st, allp)
             json.dump(p, open(os.path.join(PROG, slug + '.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
             print('place', slug, p['title'])
+    n = 0
+    for f in sorted(glob.glob(os.path.join(PROG, '*.json'))):
+        p = json.load(open(f))
+        if retitle(p):
+            json.dump(p, open(f, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+            n += 1
+    print('retitle', n)
 
 
 if __name__ == '__main__':
