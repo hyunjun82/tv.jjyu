@@ -307,6 +307,51 @@ def refaq(p, by):
     return False
 
 
+# ── 운영자 말투·빈 섹션 정리 ──────────────────────────────────────────────────
+# 찾아온 사람에게 쓸모없는 문장(출처 자랑, '은(는)', 정보 없는 섹션)을 걷어낸다. 출처는 페이지 맨 아래 '출처' 줄에만 둔다.
+def _josa(word, a, b):
+    ch = word.strip()[-1:] if word.strip() else ''
+    if '가' <= ch <= '힣':
+        return a if (ord(ch) - 0xAC00) % 28 else b
+    return b
+
+
+def _fix(t):
+    if not isinstance(t, str):
+        return t
+    t = re.sub(r'((?:<b>)?[^<>\s][^<>]*?(?:</b>)?)은\(는\)', lambda m: m.group(1) + _josa(re.sub(r'<[^>]+>', '', m.group(1)), '은', '는'), t)
+    for pn in ('6시 내고향', '생활의 달인', '한국인의 밥상'):
+        t = t.replace(pn + '는 ', pn + '은 ')
+    t = t.replace('가게은 ', '가게는 ')
+    for pn in ('6시 내고향', '생활의 달인', '한국인의 밥상'):
+        t = t.replace(pn + '는 ', pn + '은 ')
+    t = re.sub(r'(?:등이며|이며), (?:상호·주소·(?:전화|연락처)(?:·메뉴명)?[은는] )?(?:KBS|SBS)[^.]*?그대로입니다\.', '입니다.', t)
+    t = re.sub(r'(?:^|(?<=[.!?] ))[^.]*?방송정보[^.]*?그대로입니다\.\s*', lambda m: m.group(0) if '순서' in m.group(0) else '', t)
+    t = re.sub(r'\s*상호·주소·연락처·메뉴명은$', '', t)
+    return t.strip()
+
+
+def reclean(p):
+    if p.get('program') not in FULL:
+        return False
+    before = json.dumps(p, ensure_ascii=False, sort_keys=True)
+    if p.get('store'):
+        p['intro'] = _fix(p.get('intro', ''))
+        return json.dumps(p, ensure_ascii=False, sort_keys=True) != before
+    p['intro'] = _fix(p.get('intro', ''))
+    secs = []
+    for x in p.get('sections', []):
+        if '적지 않았습니다' in x.get('lead', ''):      # 답이 없는 '가격·영업시간·주차' 섹션
+            continue
+        x['lead'] = _fix(x.get('lead', '')); x['heading'] = _fix(x.get('heading', ''))
+        x['paragraphs'] = [y for y in (_fix(t) for t in x.get('paragraphs', [])) if y and '그대로입니다' not in y and '바로 검색됩니다' not in y]
+        if x.get('table'):
+            x['table']['rows'] = [r for r in x['table']['rows'] if r and r[0] not in ('KBS 표기', 'SBS 표기')]
+        secs.append(x)
+    p['sections'] = secs
+    return json.dumps(p, ensure_ascii=False, sort_keys=True) != before
+
+
 def main():
     allp = [json.load(open(f)) for f in sorted(glob.glob(os.path.join(PROG, '*.json')))]
     by = {p['slug']: p for p in allp}
@@ -324,8 +369,8 @@ def main():
     by2 = {os.path.basename(f)[:-5]: json.load(open(f)) for f in glob.glob(os.path.join(PROG, '*.json'))}
     for f in sorted(glob.glob(os.path.join(PROG, '*.json'))):
         p = json.load(open(f))
-        a = retitle(p); b2 = refaq(p, by2)
-        if a or b2:
+        a = retitle(p); b2 = refaq(p, by2); c2 = reclean(p)
+        if a or b2 or c2:
             json.dump(p, open(f, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
             n += 1
     print('retitle', n)
