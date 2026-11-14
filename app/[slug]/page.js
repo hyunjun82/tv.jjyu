@@ -35,7 +35,7 @@ function CastCard({ c, color }) {
 export default async function ProgramPage({ params }) {
   const { slug } = await params; const p0 = getProgram(slug); if (!p0) return null;
   const sched = scheduleSection(p0);
-  const p = sched ? { ...p0, sections: [...p0.sections, sched] } : p0;
+  const p = sched ? { ...p0, sections: [...p0.sections, sched], faq: [...(p0.faq || []), { q: sched.faqQ, a: sched.lead + ' 이번 주 전체 편성은 위 「편성표」 표에 있습니다.' }] } : p0;
   const all = getAllPrograms();
   const isIssue = p.type === 'issue';
   const tabs = [...p.sections.map((s) => ({ id: s.id, tab: s.tab })), ...(p.faq?.length ? [{ id: 'faq', tab: '자주 묻는 질문' }] : [])];

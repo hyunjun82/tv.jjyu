@@ -265,6 +265,48 @@ def retitle(p):
     return False
 
 
+# ── 사용자 질문형 FAQ ─────────────────────────────────────────────────────────
+# '몇 시 방송인가요', '출처는요' 같은 운영자 관점 문답 대신, 찾아온 사람이 실제로 묻는 것(어디·전화·메뉴·몇 회·다시보기)에 답한다.
+FULL = {'sixhour': '6시 내고향', 'reallive': '2TV 생생정보', 'town': '동네 한 바퀴', 'table': '한국인의 밥상', 'today3': '생방송 투데이', 'lifemaster': '생활의 달인'}
+KEEP = re.compile(r'가격|영업시간|주차')  # 방송사 공식 표기가 있을 때 수집기가 넣은 문답은 살린다
+
+
+def refaq(p, by):
+    key = p.get('program')
+    m = re.match(r'^([a-z0-9]+)-(\d+)(-\d+)?$', p['slug'])
+    if key not in FULL or not m or p.get('store'):
+        return False
+    no, shop = m.group(2), bool(m.group(3))
+    fx = {a: b for a, b in p.get('facts', [])}
+    prog = FULL[key]
+    src = 'KBS' if key in ('sixhour', 'reallive', 'town', 'table') else 'SBS'
+    faq = []
+    if shop:
+        name = p['name']
+        if fx.get('주소'):
+            faq.append(dict(q=f'{name} 위치는 어디인가요?', a=f'{fx["주소"]}입니다.' + (' 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다.' if any(c.get('kind') == 'map' for c in p.get('ctas', [])) else '')))
+        if fx.get('전화'):
+            faq.append(dict(q=f'{name} 전화번호는 몇 번인가요?', a=f'{fx["전화"]}입니다({src} 공식 방송정보 표기).'))
+        if fx.get('방송 메뉴'):
+            faq.append(dict(q=f'{name} {prog}에 나온 메뉴는 무엇인가요?', a=f'{fx["방송 메뉴"]}입니다.'))
+        faq += [x for x in p.get('faq', []) if KEEP.search(x['q']) and '왜 없' not in x['q']]
+        if fx.get('방송'):
+            faq.append(dict(q=f'{name} 방송 날짜와 코너는?', a=f'{fx["방송"]}' + (f' 「{fx["코너"]}」 코너' if fx.get('코너') else '') + '에 나왔습니다.'))
+        faq.append(dict(q=f'{prog} {no}회 다시보기는 어디서 보나요?', a=f'{src} 공식 다시보기에서 볼 수 있습니다. 화면의 「{no}회 다시보기」 버튼을 누르면 이동합니다.'))
+    else:
+        sibs = [by[q['url'].strip('/')] for q in p.get('quick', []) if q.get('url', '').startswith('/') and q['url'].strip('/') in by]
+        dm = re.search(r'\d{4}\.(\d{2})\.(\d{2})', p.get('airtime', ''))
+        day = f'{int(dm.group(1))}월 {int(dm.group(2))}일' if dm else ''
+        if sibs:
+            names = ', '.join(x['name'] + (f'({dict(map(tuple, x["facts"])).get("지역")})' if dict(map(tuple, x['facts'])).get('지역') else '') for x in sibs)
+            faq.append(dict(q=f'{prog} {no}회({day})에 나온 곳은 어디인가요?', a=f'{names}입니다. 위 목록에서 이름을 누르면 주소와 전화번호가 나옵니다.'))
+        faq.append(dict(q=f'{prog} {no}회 다시보기는 어디서 보나요?', a=f'{src} 공식 다시보기에서 볼 수 있습니다. 화면의 「{no}회 다시보기」 버튼을 누르면 이동합니다.'))
+    if faq != p.get('faq'):
+        p['faq'] = faq
+        return True
+    return False
+
+
 def main():
     allp = [json.load(open(f)) for f in sorted(glob.glob(os.path.join(PROG, '*.json')))]
     by = {p['slug']: p for p in allp}
@@ -279,9 +321,11 @@ def main():
             json.dump(p, open(os.path.join(PROG, slug + '.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
             print('place', slug, p['title'])
     n = 0
+    by2 = {os.path.basename(f)[:-5]: json.load(open(f)) for f in glob.glob(os.path.join(PROG, '*.json'))}
     for f in sorted(glob.glob(os.path.join(PROG, '*.json'))):
         p = json.load(open(f))
-        if retitle(p):
+        a = retitle(p); b2 = refaq(p, by2)
+        if a or b2:
             json.dump(p, open(f, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
             n += 1
     print('retitle', n)
