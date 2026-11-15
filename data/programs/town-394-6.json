@@ -1,0 +1,300 @@
+{
+  "slug": "town-394-6",
+  "type": "place",
+  "category": "맛집",
+  "series": "동네 한 바퀴",
+  "seriesSlug": "town",
+  "program": "town",
+  "title": "동네 한바퀴 언덕위빨간집순두부전문점 고령 위치 전화번호 11월 14일",
+  "name": "언덕위빨간집순두부전문점",
+  "shortName": "언덕위빨간집순두부전문점",
+  "subtitle": "",
+  "channel": "KBS 1TV 동네 한 바퀴",
+  "airtime": "2026.11.14 (토) 방송",
+  "status": "방송 맛집",
+  "backdrop": "/img/town-394.jpg",
+  "thumb": "/img/town-394.jpg",
+  "badges": [
+    "394회 · 11.14",
+    "경북 고령군"
+  ],
+  "facts": [
+    [
+      "상호",
+      "언덕위빨간집순두부전문점"
+    ],
+    [
+      "지역",
+      "경북 고령군"
+    ],
+    [
+      "주소",
+      "경북 고령군 성산면 성산로 508"
+    ],
+    [
+      "전화",
+      "010-6380-7724"
+    ],
+    [
+      "방송",
+      "KBS 1TV 동네 한 바퀴 394회 (2026.11.14 (토))"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>언덕위빨간집순두부전문점</b>은 2026.11.14 (토) KBS 1TV 동네 한 바퀴 394회에 나온 곳입니다. 주소는 <b>경북 고령군 성산면 성산로 508</b>, 전화는 <b>010-6380-7724</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "394회 다시보기",
+      "sub": "KBS 공식 · 11.14 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/town/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2018-0429&program_id=PS-2026184445-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%96%B8%EB%8D%95%EC%9C%84%EB%B9%A8%EA%B0%84%EC%A7%91%EC%88%9C%EB%91%90%EB%B6%80%EC%A0%84%EB%AC%B8%EC%A0%90%20%EA%B2%BD%EB%B6%81%20%EA%B3%A0%EB%A0%B9%EA%B5%B0"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "010-6380-7724",
+      "url": "tel:01063807724"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11438",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%96%B8%EB%8D%95%EC%9C%84%EB%B9%A8%EA%B0%84%EC%A7%91%EC%88%9C%EB%91%90%EB%B6%80%EC%A0%84%EB%AC%B8%EC%A0%90%20%EA%B2%BD%EB%B6%81%20%EA%B3%A0%EB%A0%B9%EA%B5%B0",
+      "kind": "map"
+    },
+    {
+      "label": "동네 한 바퀴 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/town",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "언덕위빨간집순두부전문점 동네 한바퀴 어느 코너에 나왔나요?",
+      "lead": "2026.11.14 (토) KBS 1TV 동네 한 바퀴 394회에 나온 곳입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.14 (토)"
+          ],
+          [
+            "회차",
+            "394회"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/town-394.jpg",
+          "cap": "동네 한 바퀴 394회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/town/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2018-0429&program_id=PS-2026184445-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04",
+          "kind": "kbs",
+          "label": "394회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "394회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/town/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2018-0429&program_id=PS-2026184445-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11438"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "언덕위빨간집순두부전문점 위치·주소·전화번호는?",
+      "lead": "주소는 경북 고령군 성산면 성산로 508입니다. 전화는 010-6380-7724입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "언덕위빨간집순두부전문점"
+          ],
+          [
+            "주소",
+            "경북 고령군 성산면 성산로 508"
+          ],
+          [
+            "지역",
+            "경북 고령군"
+          ],
+          [
+            "전화",
+            "010-6380-7724"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%96%B8%EB%8D%95%EC%9C%84%EB%B9%A8%EA%B0%84%EC%A7%91%EC%88%9C%EB%91%90%EB%B6%80%EC%A0%84%EB%AC%B8%EC%A0%90%20%EA%B2%BD%EB%B6%81%20%EA%B3%A0%EB%A0%B9%EA%B5%B0"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "010-6380-7724",
+          "url": "tel:01063807724"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.14 방송 전체",
+      "heading": "11.14 동네 한 바퀴에 나온 곳은 어디인가요?",
+      "lead": "394회 KBS 방송정보에 올라온 곳은 모두 9곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/town-394-1/\">고령군청 문화유산과</a>",
+            "지산동 고분군",
+            "경북 고령군 대가야읍 지산리"
+          ],
+          [
+            "<a href=\"/town-394-2/\">갈돈</a>",
+            "—",
+            "경북 고령군 대가야읍 시장3길 29 가동 105호"
+          ],
+          [
+            "*갈비 돈가스 한정 수량 판매",
+            "—",
+            "—"
+          ],
+          [
+            "<a href=\"/town-394-3/\">우륵국악기연구원</a>",
+            "가야금 명장",
+            "경북 고령군 대가야읍 가야금길 98"
+          ],
+          [
+            "<a href=\"/town-394-4/\">개실마을</a>",
+            "—",
+            "경북 고령군 쌍림면 개실1길 29"
+          ],
+          [
+            "<a href=\"/town-394-5/\">은행나무 숲</a>",
+            "—",
+            "경북 고령군 다산면 좌학리 969"
+          ],
+          [
+            "<a href=\"/town-394-6/\">언덕위빨간집순두부전문점</a>",
+            "—",
+            "경북 고령군 성산면 성산로 508"
+          ],
+          [
+            "<a href=\"/town-394-7/\">개진고로케</a>",
+            "—",
+            "경북 고령군 대가야읍 장기터길 15-2 개진고로케"
+          ],
+          [
+            "<a href=\"/town-394-8/\">대가야 빛의 숲</a>",
+            "대가야수목원",
+            "경북 고령군 대가야읍 성산로 46 대가야수목원"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.14 동네 한바퀴 총정리",
+          "url": "/town-394/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "언덕위빨간집순두부전문점 위치는 어디인가요?",
+      "a": "경북 고령군 성산면 성산로 508입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "언덕위빨간집순두부전문점 전화번호는 몇 번인가요?",
+      "a": "010-6380-7724입니다(KBS 공식 방송정보 표기)."
+    },
+    {
+      "q": "언덕위빨간집순두부전문점 방송 날짜와 코너는?",
+      "a": "KBS 1TV 동네 한 바퀴 394회 (2026.11.14 (토))에 나왔습니다."
+    },
+    {
+      "q": "동네 한 바퀴 394회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「394회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "town-394-1",
+      "name": "고령군청 문화유산과",
+      "desc": "11.14 · 지산동 고분군"
+    },
+    {
+      "slug": "town-394-2",
+      "name": "갈돈",
+      "desc": "11.14 · "
+    },
+    {
+      "slug": "town-394-3",
+      "name": "우륵국악기연구원",
+      "desc": "11.14 · 가야금 명장"
+    },
+    {
+      "slug": "town-394-4",
+      "name": "개실마을",
+      "desc": "11.14 · "
+    },
+    {
+      "slug": "town-394-5",
+      "name": "은행나무 숲",
+      "desc": "11.14 · "
+    },
+    {
+      "slug": "town-394-7",
+      "name": "개진고로케",
+      "desc": "11.14 · "
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.14 (토) 동네 한 바퀴 취재 연락처) · KBS 공식 회차 데이터(394회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-15",
+  "updatedAt": "2026-11-15T15:22:11+09:00"
+}
