@@ -1,0 +1,258 @@
+{
+  "slug": "sixhour-8663",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 8663회 11월 16일 다시보기 맛집 위치 전화번호 총정리",
+  "name": "6시 내고향 11월 16일 8663회 방송 맛집·장소",
+  "shortName": "11.16 6시 내고향 8663회",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.16 (월) · 8663회",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8663.jpg",
+  "thumb": "/img/sixhour-8663.jpg",
+  "badges": [
+    "8663회 · 11.16",
+    "5곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8663회"
+    ],
+    [
+      "방송일",
+      "2026.11.16 (월)"
+    ],
+    [
+      "소개된 곳",
+      "5곳 (KBS 방송정보 기준)"
+    ],
+    [
+      "가격·영업시간 표기",
+      "2곳"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.16 (월) KBS 1TV 6시 내고향 8663회에 나온 곳은 <b>5곳</b>입니다. <b>지아팜</b>, <b>모악산 절임배추</b>, <b>크로바농장</b>, <b>사남매 곶감</b>, <b>멸치 및 가리비 택배</b> 입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8663회 다시보기",
+      "sub": "KBS 공식 · 11.16 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197635-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11440"
+    }
+  ],
+  "quick": [
+    {
+      "label": "모악산 절임배추",
+      "url": "/sixhour-8663-1/",
+      "kind": "map"
+    },
+    {
+      "label": "크로바농장",
+      "url": "/sixhour-8663-2/",
+      "kind": "map"
+    },
+    {
+      "label": "사남매 곶감",
+      "url": "/sixhour-8663-3/",
+      "kind": "map"
+    },
+    {
+      "label": "멸치 및 가리비 택배",
+      "url": "/sixhour-8663-4/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 16일 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8663회 KBS 방송정보에 올라온 곳은 5곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "지아팜",
+            "궁채",
+            "—",
+            "010-3844-4242"
+          ],
+          [
+            "<a href=\"/sixhour-8663-1/\">모악산 절임배추</a>",
+            "배추",
+            "전북특별자치도 완주군 구이면 호지길 48-1번지",
+            "010-8209-9491"
+          ],
+          [
+            "<a href=\"/sixhour-8663-2/\">크로바농장</a>",
+            "가지",
+            "전북특별자치도 완주군 이서면 갈산 신흥길 3-20",
+            "010-3680-5190"
+          ],
+          [
+            "<a href=\"/sixhour-8663-3/\">사남매 곶감</a>",
+            "대봉감, 흑곶감",
+            "완주군 고산면 남봉로 134 고산미소시장 101호",
+            "010-8846-8651"
+          ],
+          [
+            "<a href=\"/sixhour-8663-4/\">멸치 및 가리비 택배</a>",
+            "쪼이수산",
+            "경남 고성군 하일면 자란만로 1410",
+            "010-7393-2635"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8663.jpg",
+          "cap": "6시 내고향 8663회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197635-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8663회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8663회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197635-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11440"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.16 6시 내고향 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "궁금해! 궁채",
+            "지아팜"
+          ],
+          [
+            "도시상륙 직거래장터 - 전북 완주",
+            "<a href=\"/sixhour-8663-1/\">모악산 절임배추</a>, <a href=\"/sixhour-8663-2/\">크로바농장</a>, <a href=\"/sixhour-8663-3/\">사남매 곶감</a>"
+          ],
+          [
+            "인생은 행복海 - 슈퍼맨과 원더우먼",
+            "<a href=\"/sixhour-8663-4/\">멸치 및 가리비 택배</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2b",
+      "tab": "가격·영업시간",
+      "heading": "11.16 6시 내고향 가격·영업시간 나온 곳은?",
+      "lead": "KBS 제작진이 방송정보에 가격·영업시간·주차를 적은 곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "KBS 방송정보 표기"
+        ],
+        "rows": [
+          [
+            "지아팜",
+            "온라인 판매처: https://smartstore.naver.com/giafarm"
+          ],
+          [
+            "<a href=\"/sixhour-8663-4/\">멸치 및 가리비 택배</a>",
+            "온라인 판매처: https://smartstore.naver.com/donggwang1410<br>공식 SNS: https://www.instagram.com/jjoesusan/"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "6시 내고향은 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 6시 내고향은 평일 오후 6시 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "8663회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8663회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197635-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "6시 내고향 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "6시 내고향 8663회(11월 16일)에 나온 곳은 어디인가요?",
+      "a": "모악산 절임배추(전북특별자치도 완주군), 크로바농장(전북특별자치도 완주군), 사남매 곶감(완주군 고산면), 멸치 및 가리비 택배(경남 고성군)입니다. 위 목록에서 이름을 누르면 주소와 전화번호가 나옵니다."
+    },
+    {
+      "q": "6시 내고향 8663회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「8663회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8663-1",
+      "name": "모악산 절임배추",
+      "desc": "11.16 · 배추"
+    },
+    {
+      "slug": "sixhour-8663-2",
+      "name": "크로바농장",
+      "desc": "11.16 · 가지"
+    },
+    {
+      "slug": "sixhour-8663-3",
+      "name": "사남매 곶감",
+      "desc": "11.16 · 대봉감, 흑곶감"
+    },
+    {
+      "slug": "sixhour-8663-4",
+      "name": "멸치 및 가리비 택배",
+      "desc": "11.16 · 쪼이수산"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.16 (월)) · KBS 공식 회차 데이터(8663회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-16",
+  "updatedAt": "2026-11-16T20:03:53+09:00"
+}

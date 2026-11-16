@@ -1,0 +1,290 @@
+{
+  "slug": "sixhour-8663-2",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 크로바농장 완주 가지 위치 전화번호 11월 16일",
+  "name": "크로바농장",
+  "shortName": "크로바농장",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.16 (월) 방송 · 도시상륙 직거래장터",
+  "status": "방송 장소",
+  "backdrop": "/img/sixhour-8663.jpg",
+  "thumb": "/img/sixhour-8663.jpg",
+  "badges": [
+    "8663회 · 11.16",
+    "도시상륙 직거래장터",
+    "전북특별자치도 완주군"
+  ],
+  "facts": [
+    [
+      "상호",
+      "크로바농장"
+    ],
+    [
+      "방송 메뉴",
+      "가지"
+    ],
+    [
+      "지역",
+      "전북특별자치도 완주군"
+    ],
+    [
+      "주소",
+      "전북특별자치도 완주군 이서면 갈산 신흥길 3-20"
+    ],
+    [
+      "전화",
+      "010-3680-5190"
+    ],
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8663회 (2026.11.16 (월))"
+    ],
+    [
+      "코너",
+      "도시상륙 직거래장터"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>크로바농장</b>은 2026.11.16 (월) KBS 1TV 6시 내고향 8663회 「도시상륙 직거래장터」(전북 완주) 편에 나온 곳입니다. 방송 메뉴는 「가지」입니다. 주소는 <b>전북특별자치도 완주군 이서면 갈산 신흥길 3-20</b>, 전화는 <b>010-3680-5190</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8663회 다시보기",
+      "sub": "KBS 공식 · 11.16 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197635-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%ED%81%AC%EB%A1%9C%EB%B0%94%EB%86%8D%EC%9E%A5%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%99%84%EC%A3%BC%EA%B5%B0"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "010-3680-5190",
+      "url": "tel:01036805190"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11440",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%ED%81%AC%EB%A1%9C%EB%B0%94%EB%86%8D%EC%9E%A5%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%99%84%EC%A3%BC%EA%B5%B0",
+      "kind": "map"
+    },
+    {
+      "label": "6시 내고향 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "크로바농장 6시 내고향 어느 코너에 나왔나요?",
+      "lead": "2026.11.16 (월) KBS 1TV 6시 내고향 8663회 「도시상륙 직거래장터」(전북 완주) 편에 나온 곳입니다. 방송에서 소개된 메뉴는 「가지」입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.16 (월)"
+          ],
+          [
+            "회차",
+            "8663회"
+          ],
+          [
+            "코너",
+            "도시상륙 직거래장터"
+          ],
+          [
+            "코너 제목",
+            "전북 완주"
+          ],
+          [
+            "방송 메뉴",
+            "가지"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8663.jpg",
+          "cap": "6시 내고향 8663회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197635-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8663회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8663회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197635-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11440"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "크로바농장 위치·주소·전화번호는?",
+      "lead": "주소는 전북특별자치도 완주군 이서면 갈산 신흥길 3-20입니다. 전화는 010-3680-5190입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "크로바농장"
+          ],
+          [
+            "주소",
+            "전북특별자치도 완주군 이서면 갈산 신흥길 3-20"
+          ],
+          [
+            "지역",
+            "전북특별자치도 완주군"
+          ],
+          [
+            "전화",
+            "010-3680-5190"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%ED%81%AC%EB%A1%9C%EB%B0%94%EB%86%8D%EC%9E%A5%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%99%84%EC%A3%BC%EA%B5%B0"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "010-3680-5190",
+          "url": "tel:01036805190"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.16 방송 전체",
+      "heading": "11.16 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8663회 KBS 방송정보에 올라온 곳은 모두 5곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "지아팜",
+            "궁채",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8663-1/\">모악산 절임배추</a>",
+            "배추",
+            "전북특별자치도 완주군 구이면 호지길 48-1번지"
+          ],
+          [
+            "<a href=\"/sixhour-8663-2/\">크로바농장</a>",
+            "가지",
+            "전북특별자치도 완주군 이서면 갈산 신흥길 3-20"
+          ],
+          [
+            "<a href=\"/sixhour-8663-3/\">사남매 곶감</a>",
+            "대봉감, 흑곶감",
+            "완주군 고산면 남봉로 134 고산미소시장 101호"
+          ],
+          [
+            "<a href=\"/sixhour-8663-4/\">멸치 및 가리비 택배</a>",
+            "쪼이수산",
+            "경남 고성군 하일면 자란만로 1410"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.16 6시 내고향 총정리",
+          "url": "/sixhour-8663/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "크로바농장 위치는 어디인가요?",
+      "a": "전북특별자치도 완주군 이서면 갈산 신흥길 3-20입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "크로바농장 전화번호는 몇 번인가요?",
+      "a": "010-3680-5190입니다(KBS 공식 방송정보 표기)."
+    },
+    {
+      "q": "크로바농장 6시 내고향에 나온 메뉴는 무엇인가요?",
+      "a": "가지입니다."
+    },
+    {
+      "q": "크로바농장 방송 날짜와 코너는?",
+      "a": "KBS 1TV 6시 내고향 8663회 (2026.11.16 (월)) 「도시상륙 직거래장터」 코너에 나왔습니다."
+    },
+    {
+      "q": "6시 내고향 8663회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「8663회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8663-1",
+      "name": "모악산 절임배추",
+      "desc": "11.16 · 배추"
+    },
+    {
+      "slug": "sixhour-8663-3",
+      "name": "사남매 곶감",
+      "desc": "11.16 · 대봉감, 흑곶감"
+    },
+    {
+      "slug": "sixhour-8663-4",
+      "name": "멸치 및 가리비 택배",
+      "desc": "11.16 · 쪼이수산"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.16 (월) 6시 내고향 취재 연락처) · KBS 공식 회차 데이터(8663회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-16",
+  "updatedAt": "2026-11-16T20:03:53+09:00"
+}
