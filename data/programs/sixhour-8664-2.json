@@ -1,0 +1,261 @@
+{
+  "slug": "sixhour-8664-2",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 영신정미소 청도 정미소 위치 주소 11월 17일",
+  "name": "영신정미소",
+  "shortName": "영신정미소",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.17 (화) 방송 · 추억 복원소",
+  "status": "방송 장소",
+  "backdrop": "/img/sixhour-8664.jpg",
+  "thumb": "/img/sixhour-8664.jpg",
+  "badges": [
+    "8664회 · 11.17",
+    "추억 복원소",
+    "경북 청도군"
+  ],
+  "facts": [
+    [
+      "상호",
+      "영신정미소"
+    ],
+    [
+      "방송 메뉴",
+      "정미소"
+    ],
+    [
+      "지역",
+      "경북 청도군"
+    ],
+    [
+      "주소",
+      "경북 청도군 청도읍 유천길 43"
+    ],
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8664회 (2026.11.17 (화))"
+    ],
+    [
+      "코너",
+      "추억 복원소"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>영신정미소</b>는 2026.11.17 (화) KBS 1TV 6시 내고향 8664회 「추억 복원소」(백 년의 추억을 지키는 사람들) 편에 나온 곳입니다. 방송 메뉴는 「정미소」입니다. 주소는 <b>경북 청도군 청도읍 유천길 43</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8664회 다시보기",
+      "sub": "KBS 공식 · 11.17 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197636-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%98%81%EC%8B%A0%EC%A0%95%EB%AF%B8%EC%86%8C%20%EA%B2%BD%EB%B6%81%20%EC%B2%AD%EB%8F%84%EA%B5%B0"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11441",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%98%81%EC%8B%A0%EC%A0%95%EB%AF%B8%EC%86%8C%20%EA%B2%BD%EB%B6%81%20%EC%B2%AD%EB%8F%84%EA%B5%B0",
+      "kind": "map"
+    },
+    {
+      "label": "6시 내고향 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "영신정미소 6시 내고향 어느 코너에 나왔나요?",
+      "lead": "2026.11.17 (화) KBS 1TV 6시 내고향 8664회 「추억 복원소」(백 년의 추억을 지키는 사람들) 편에 나온 곳입니다. 방송에서 소개된 메뉴는 「정미소」입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.17 (화)"
+          ],
+          [
+            "회차",
+            "8664회"
+          ],
+          [
+            "코너",
+            "추억 복원소"
+          ],
+          [
+            "코너 제목",
+            "백 년의 추억을 지키는 사람들"
+          ],
+          [
+            "방송 메뉴",
+            "정미소"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8664.jpg",
+          "cap": "6시 내고향 8664회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197636-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8664회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8664회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197636-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11441"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "영신정미소 위치·주소·전화번호는?",
+      "lead": "주소는 경북 청도군 청도읍 유천길 43입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "영신정미소"
+          ],
+          [
+            "주소",
+            "경북 청도군 청도읍 유천길 43"
+          ],
+          [
+            "지역",
+            "경북 청도군"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%98%81%EC%8B%A0%EC%A0%95%EB%AF%B8%EC%86%8C%20%EA%B2%BD%EB%B6%81%20%EC%B2%AD%EB%8F%84%EA%B5%B0"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.17 방송 전체",
+      "heading": "11.17 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8664회 KBS 방송정보에 올라온 곳은 모두 5곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "서산 알타리무",
+            "알타리무",
+            "—"
+          ],
+          [
+            "참샘농장",
+            "유자",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8664-1/\">유천문화마을</a>",
+            "벽화마을",
+            "경북 청도군 청도읍 내호리 258-11"
+          ],
+          [
+            "<a href=\"/sixhour-8664-2/\">영신정미소</a>",
+            "정미소",
+            "경북 청도군 청도읍 유천길 43"
+          ],
+          [
+            "<a href=\"/sixhour-8664-3/\">능파대</a>",
+            "명소",
+            "강원 고성군 죽왕면 괘진길 65"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.17 6시 내고향 총정리",
+          "url": "/sixhour-8664/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "영신정미소 위치는 어디인가요?",
+      "a": "경북 청도군 청도읍 유천길 43입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "영신정미소 6시 내고향에 나온 메뉴는 무엇인가요?",
+      "a": "정미소입니다."
+    },
+    {
+      "q": "영신정미소 방송 날짜와 코너는?",
+      "a": "KBS 1TV 6시 내고향 8664회 (2026.11.17 (화)) 「추억 복원소」 코너에 나왔습니다."
+    },
+    {
+      "q": "6시 내고향 8664회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「8664회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8664-1",
+      "name": "유천문화마을",
+      "desc": "11.17 · 벽화마을"
+    },
+    {
+      "slug": "sixhour-8664-3",
+      "name": "능파대",
+      "desc": "11.17 · 명소"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.17 (화) 6시 내고향 취재 연락처) · KBS 공식 회차 데이터(8664회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-17",
+  "updatedAt": "2026-11-17T20:04:03+09:00"
+}

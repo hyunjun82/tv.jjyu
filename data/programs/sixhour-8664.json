@@ -1,0 +1,225 @@
+{
+  "slug": "sixhour-8664",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 8664회 11월 17일 다시보기 맛집 위치 전화번호 총정리",
+  "name": "6시 내고향 11월 17일 8664회 방송 맛집·장소",
+  "shortName": "11.17 6시 내고향 8664회",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.17 (화) · 8664회",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8664.jpg",
+  "thumb": "/img/sixhour-8664.jpg",
+  "badges": [
+    "8664회 · 11.17",
+    "5곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8664회"
+    ],
+    [
+      "방송일",
+      "2026.11.17 (화)"
+    ],
+    [
+      "소개된 곳",
+      "5곳 (KBS 방송정보 기준)"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.17 (화) KBS 1TV 6시 내고향 8664회에 나온 곳은 <b>5곳</b>입니다. <b>서산 알타리무</b>, <b>참샘농장</b>, <b>유천문화마을</b>, <b>영신정미소</b>, <b>능파대</b> 입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8664회 다시보기",
+      "sub": "KBS 공식 · 11.17 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197636-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11441"
+    }
+  ],
+  "quick": [
+    {
+      "label": "유천문화마을",
+      "url": "/sixhour-8664-1/",
+      "kind": "map"
+    },
+    {
+      "label": "영신정미소",
+      "url": "/sixhour-8664-2/",
+      "kind": "map"
+    },
+    {
+      "label": "능파대",
+      "url": "/sixhour-8664-3/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 17일 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8664회 KBS 방송정보에 올라온 곳은 5곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "서산 알타리무",
+            "알타리무",
+            "—",
+            "—"
+          ],
+          [
+            "참샘농장",
+            "유자",
+            "—",
+            "1599-4772"
+          ],
+          [
+            "<a href=\"/sixhour-8664-1/\">유천문화마을</a>",
+            "벽화마을",
+            "경북 청도군 청도읍 내호리 258-11",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8664-2/\">영신정미소</a>",
+            "정미소",
+            "경북 청도군 청도읍 유천길 43",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8664-3/\">능파대</a>",
+            "명소",
+            "강원 고성군 죽왕면 괘진길 65",
+            "—"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8664.jpg",
+          "cap": "6시 내고향 8664회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197636-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8664회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8664회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197636-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11441"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.17 6시 내고향 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "아삭 달큼! 무한 매력에 빠지다",
+            "서산 알타리무"
+          ],
+          [
+            "황금빛 복이 주렁주렁, 유자",
+            "참샘농장"
+          ],
+          [
+            "추억 복원소 - 백 년의 추억을 지키는 사람들",
+            "<a href=\"/sixhour-8664-1/\">유천문화마을</a>, <a href=\"/sixhour-8664-2/\">영신정미소</a>"
+          ],
+          [
+            "달려라 고향버스 - 강원 고성",
+            "<a href=\"/sixhour-8664-3/\">능파대</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "6시 내고향은 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 6시 내고향은 평일 오후 6시 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "8664회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8664회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197636-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "6시 내고향 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "6시 내고향 8664회(11월 17일)에 나온 곳은 어디인가요?",
+      "a": "유천문화마을(경북 청도군), 영신정미소(경북 청도군), 능파대(강원 고성군)입니다. 위 목록에서 이름을 누르면 주소와 전화번호가 나옵니다."
+    },
+    {
+      "q": "6시 내고향 8664회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「8664회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8664-1",
+      "name": "유천문화마을",
+      "desc": "11.17 · 벽화마을"
+    },
+    {
+      "slug": "sixhour-8664-2",
+      "name": "영신정미소",
+      "desc": "11.17 · 정미소"
+    },
+    {
+      "slug": "sixhour-8664-3",
+      "name": "능파대",
+      "desc": "11.17 · 명소"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.17 (화)) · KBS 공식 회차 데이터(8664회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-17",
+  "updatedAt": "2026-11-17T20:04:03+09:00"
+}
