@@ -1,0 +1,253 @@
+{
+  "slug": "today3-4127-3",
+  "type": "place",
+  "category": "맛집",
+  "series": "생방송 투데이",
+  "seriesSlug": "today3",
+  "program": "today3",
+  "title": "생방송투데이 한탄강 횃불전망대&은하수교 철원 위치 주소 11월 17일",
+  "name": "한탄강 횃불전망대&은하수교",
+  "shortName": "한탄강 횃불전망대&은하수교",
+  "subtitle": "",
+  "channel": "SBS 생방송 투데이",
+  "airtime": "2026.11.17 (화) 방송 · TODAY ISSUE",
+  "status": "방송 맛집",
+  "backdrop": "/img/today3-4127.jpg",
+  "thumb": "/img/today3-4127.jpg",
+  "badges": [
+    "4127회 · 11.17",
+    "TODAY ISSUE",
+    "강원 철원군"
+  ],
+  "facts": [
+    [
+      "상호",
+      "한탄강 횃불전망대&은하수교"
+    ],
+    [
+      "지역",
+      "강원 철원군"
+    ],
+    [
+      "주소",
+      "강원 철원군 갈말읍 상사리 70-13"
+    ],
+    [
+      "방송 내용",
+      "자연이 허락한 특별한 산책"
+    ],
+    [
+      "방송",
+      "SBS 생방송 투데이 4127회 (2026.11.17 (화))"
+    ],
+    [
+      "코너",
+      "TODAY ISSUE"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>한탄강 횃불전망대&은하수교</b>는 2026.11.17 (화) SBS 생방송 투데이 4127회 「TODAY ISSUE」 편에 나온 곳입니다. 방송에서 소개된 내용은 「자연이 허락한 특별한 산책」입니다. 주소는 <b>강원 철원군 갈말읍 상사리 70-13</b>입니다.",
+  "ctas": [
+    {
+      "kind": "sbs",
+      "label": "4127회 다시보기",
+      "sub": "SBS 공식 · 11.17 방송",
+      "url": "https://programs.sbs.co.kr/culture/today3/vod/54203/22000639943"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "영업시간 · 메뉴판 확인",
+      "url": "https://map.naver.com/p/search/%ED%95%9C%ED%83%84%EA%B0%95%20%ED%9A%83%EB%B6%88%EC%A0%84%EB%A7%9D%EB%8C%80%26%EC%9D%80%ED%95%98%EC%88%98%EA%B5%90%20%EA%B0%95%EC%9B%90%20%EC%B2%A0%EC%9B%90%EA%B5%B0"
+    }
+  ],
+  "quick": [
+    {
+      "label": "SBS 공식 방송정보",
+      "url": "https://programs.sbs.co.kr/culture/today3/board/54208?cmd=view&page=1&board_no=442187",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%ED%95%9C%ED%83%84%EA%B0%95%20%ED%9A%83%EB%B6%88%EC%A0%84%EB%A7%9D%EB%8C%80%26%EC%9D%80%ED%95%98%EC%88%98%EA%B5%90%20%EA%B0%95%EC%9B%90%20%EC%B2%A0%EC%9B%90%EA%B5%B0",
+      "kind": "map"
+    },
+    {
+      "label": "생방송 투데이 다시보기 목록",
+      "url": "https://programs.sbs.co.kr/culture/today3/vods/54203",
+      "kind": "sbs2"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "한탄강 횃불전망대&은하수교 생방송투데이에 나온 내용은 무엇인가요?",
+      "lead": "2026.11.17 (화) 4127회 「TODAY ISSUE」 편에서 소개된 내용은 「자연이 허락한 특별한 산책」입니다.",
+      "table": {
+        "head": [
+          "방송 내용",
+          "코너",
+          "방송일"
+        ],
+        "rows": [
+          [
+            "자연이 허락한 특별한 산책",
+            "TODAY ISSUE",
+            "2026.11.17 (화)"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/today3-4127.jpg",
+          "cap": "생방송 투데이 4127회 (SBS 공식 회차 이미지)",
+          "url": "https://programs.sbs.co.kr/culture/today3/vod/54203/22000639943",
+          "kind": "sbs",
+          "label": "4127회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "sbs",
+          "label": "4127회 다시보기",
+          "url": "https://programs.sbs.co.kr/culture/today3/vod/54203/22000639943"
+        },
+        {
+          "kind": "link",
+          "label": "SBS 공식 방송정보 원문",
+          "url": "https://programs.sbs.co.kr/culture/today3/board/54208?cmd=view&page=1&board_no=442187"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "한탄강 횃불전망대&은하수교 위치·주소·전화번호는?",
+      "lead": "주소는 강원 철원군 갈말읍 상사리 70-13입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "한탄강 횃불전망대&은하수교"
+          ],
+          [
+            "주소",
+            "강원 철원군 갈말읍 상사리 70-13"
+          ],
+          [
+            "지역",
+            "강원 철원군"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "영업시간 · 메뉴판 확인",
+          "url": "https://map.naver.com/p/search/%ED%95%9C%ED%83%84%EA%B0%95%20%ED%9A%83%EB%B6%88%EC%A0%84%EB%A7%9D%EB%8C%80%26%EC%9D%80%ED%95%98%EC%88%98%EA%B5%90%20%EA%B0%95%EC%9B%90%20%EC%B2%A0%EC%9B%90%EA%B5%B0"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.17 방송 전체",
+      "heading": "11.17 생방송 투데이에 나온 곳은 어디인가요?",
+      "lead": "4127회에 SBS 방송정보로 올라온 곳은 모두 5곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/today3-4127-1/\">섬사나이</a>",
+            "면치기 좀 한다면, 노원구 공릉동",
+            "서울 노원구 공릉로39길 21"
+          ],
+          [
+            "<a href=\"/today3-4127-2/\">공릉우동집</a>",
+            "면치기 좀 한다면, 노원구 공릉동",
+            "서울 노원구 동일로192길 42"
+          ],
+          [
+            "<a href=\"/today3-4127-3/\">한탄강 횃불전망대&은하수교</a>",
+            "자연이 허락한 특별한 산책",
+            "강원 철원군 갈말읍 상사리 70-13"
+          ],
+          [
+            "<a href=\"/today3-4127-4/\">두루미교</a>",
+            "자연이 허락한 특별한 산책",
+            "강원 철원군 갈말읍 군탄리 산174-4"
+          ],
+          [
+            "<a href=\"/today3-4127-5/\">학저수지</a>",
+            "자연이 허락한 특별한 산책",
+            "강원 철원군 동송읍 오덕리 585-1"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.17 방송 맛집 총정리",
+          "url": "/today3-4127/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "한탄강 횃불전망대&은하수교 위치는 어디인가요?",
+      "a": "강원 철원군 갈말읍 상사리 70-13입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "한탄강 횃불전망대&은하수교 방송 날짜와 코너는?",
+      "a": "SBS 생방송 투데이 4127회 (2026.11.17 (화)) 「TODAY ISSUE」 코너에 나왔습니다."
+    },
+    {
+      "q": "생방송 투데이 4127회 다시보기는 어디서 보나요?",
+      "a": "SBS 공식 다시보기에서 볼 수 있습니다. 화면의 「4127회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "today3-4127-1",
+      "name": "섬사나이",
+      "desc": "11.17 · UDT"
+    },
+    {
+      "slug": "today3-4127-2",
+      "name": "공릉우동집",
+      "desc": "11.17 · UDT"
+    },
+    {
+      "slug": "today3-4127-4",
+      "name": "두루미교",
+      "desc": "11.17 · TODAY ISSUE"
+    },
+    {
+      "slug": "today3-4127-5",
+      "name": "학저수지",
+      "desc": "11.17 · TODAY ISSUE"
+    }
+  ],
+  "source": "SBS 생방송 투데이 공식 방송정보 게시판(2026.11.17 (화)자: 상호·주소·연락처) · SBS 공식 다시보기(4127회 번호·제목·이미지) · 프로그램 정보(편성)",
+  "imageCredit": "SBS 공식 회차 이미지",
+  "checkedAt": "2026-11-17",
+  "updatedAt": "2026-11-17T19:13:16+09:00"
+}
