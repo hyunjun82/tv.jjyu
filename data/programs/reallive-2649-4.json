@@ -1,0 +1,328 @@
+{
+  "slug": "reallive-2649-4",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 나미당 용인 위치 전화번호 11월 20일",
+  "name": "나미당",
+  "shortName": "나미당",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.20 (금) 방송 · 음식 X-파일",
+  "status": "방송 맛집",
+  "backdrop": "/img/reallive-2649.jpg",
+  "thumb": "/img/reallive-2649.jpg",
+  "badges": [
+    "2649회 · 11.20",
+    "음식 X-파일",
+    "경기도 용인시"
+  ],
+  "facts": [
+    [
+      "상호",
+      "나미당"
+    ],
+    [
+      "지역",
+      "경기도 용인시"
+    ],
+    [
+      "주소",
+      "경기도 용인시 수지구 신봉1로 342 1층"
+    ],
+    [
+      "전화",
+      "0507-1333-5551"
+    ],
+    [
+      "방송",
+      "KBS 2TV 생생정보 2649회 (2026.11.20 (금))"
+    ],
+    [
+      "코너",
+      "음식 X-파일"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>나미당</b>은 2026.11.20 (금) KBS 2TV 생생정보 2649회 「음식 X-파일」(합격 기원 음식, 엿과 찹쌀떡) 편에 나온 곳입니다. 주소는 <b>경기도 용인시 수지구 신봉1로 342 1층</b>, 전화는 <b>0507-1333-5551</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2649회 다시보기",
+      "sub": "KBS 공식 · 11.20 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026210767-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EB%82%98%EB%AF%B8%EB%8B%B9%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "0507-1333-5551",
+      "url": "tel:050713335551"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11444",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EB%82%98%EB%AF%B8%EB%8B%B9%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C",
+      "kind": "map"
+    },
+    {
+      "label": "2TV 생생정보 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "나미당 생생정보 어느 코너에 나왔나요?",
+      "lead": "2026.11.20 (금) KBS 2TV 생생정보 2649회 「음식 X-파일」(합격 기원 음식, 엿과 찹쌀떡) 편에 나온 곳입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.20 (금)"
+          ],
+          [
+            "회차",
+            "2649회"
+          ],
+          [
+            "코너",
+            "음식 X-파일"
+          ],
+          [
+            "코너 제목",
+            "합격 기원 음식, 엿과 찹쌀떡"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2649.jpg",
+          "cap": "2TV 생생정보 2649회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026210767-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2649회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2649회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026210767-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11444"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "나미당 위치·주소·전화번호는?",
+      "lead": "주소는 경기도 용인시 수지구 신봉1로 342 1층입니다. 전화는 0507-1333-5551입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "나미당"
+          ],
+          [
+            "주소",
+            "경기도 용인시 수지구 신봉1로 342 1층"
+          ],
+          [
+            "지역",
+            "경기도 용인시"
+          ],
+          [
+            "전화",
+            "0507-1333-5551"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EB%82%98%EB%AF%B8%EB%8B%B9%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "0507-1333-5551",
+          "url": "tel:050713335551"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.20 방송 전체",
+      "heading": "11.20 2TV 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2649회 KBS 방송정보에 올라온 곳은 모두 12곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2649-1/\">시즌즈 광안리</a>",
+            "무작정 간다! SNS 진짜 가짜?",
+            "부산 수영구 광안해변로255번길 40 1층"
+          ],
+          [
+            "<a href=\"/reallive-2649-2/\">달쭈꾸미 월미도본점</a>",
+            "장사의 신",
+            "인천 제물포구 월미문화로 39"
+          ],
+          [
+            "<a href=\"/reallive-2649-3/\">고재구전통쌀엿</a>",
+            "음식 X-파일",
+            "전남 담양군 창평면 경동길 11-10"
+          ],
+          [
+            "<a href=\"/reallive-2649-4/\">나미당</a>",
+            "음식 X-파일",
+            "경기도 용인시 수지구 신봉1로 342 1층"
+          ],
+          [
+            "<a href=\"/reallive-2649-5/\">말랑당</a>",
+            "음식 X-파일",
+            "서울특별시 동대문구 이문동 149-8"
+          ],
+          [
+            "<a href=\"/reallive-2649-6/\">강진짚트랙</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "전남광주 강진군 도암면 가우도길 49-9"
+          ],
+          [
+            "<a href=\"/reallive-2649-7/\">중고저수지</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "전남광주 강진군 병영면 중고리 582-3 중고저수지"
+          ],
+          [
+            "<a href=\"/reallive-2649-8/\">석문공원</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "전남광주 강진군 도암면 백도로 2084"
+          ],
+          [
+            "화목가마 불지피기 페스티벌",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2649-9/\">논정마을</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "전남광주 강진군 신전면 벌정리"
+          ],
+          [
+            "<a href=\"/reallive-2649-10/\">주작산</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "전남광주 강진군 신전면 수양리"
+          ],
+          [
+            "<a href=\"/reallive-2649-11/\">해녀3대할망네</a>",
+            "힘쓰니까 청춘이다",
+            "제주 서귀포시 대정읍 마라로77번길 3"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.20 생생정보 총정리",
+          "url": "/reallive-2649/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "나미당 위치는 어디인가요?",
+      "a": "경기도 용인시 수지구 신봉1로 342 1층입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "나미당 전화번호는 몇 번인가요?",
+      "a": "0507-1333-5551입니다(KBS 공식 방송정보 표기)."
+    },
+    {
+      "q": "나미당 방송 날짜와 코너는?",
+      "a": "KBS 2TV 생생정보 2649회 (2026.11.20 (금)) 「음식 X-파일」 코너에 나왔습니다."
+    },
+    {
+      "q": "2TV 생생정보 2649회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「2649회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2649-1",
+      "name": "시즌즈 광안리",
+      "desc": "11.20 · 무작정 간다! SNS 진짜 가짜?"
+    },
+    {
+      "slug": "reallive-2649-2",
+      "name": "달쭈꾸미 월미도본점",
+      "desc": "11.20 · 장사의 신"
+    },
+    {
+      "slug": "reallive-2649-3",
+      "name": "고재구전통쌀엿",
+      "desc": "11.20 · 음식 X-파일"
+    },
+    {
+      "slug": "reallive-2649-5",
+      "name": "말랑당",
+      "desc": "11.20 · 음식 X-파일"
+    },
+    {
+      "slug": "reallive-2649-6",
+      "name": "강진짚트랙",
+      "desc": "11.20 · 미스터 Lee의 사진 한 컷, 대한민국"
+    },
+    {
+      "slug": "reallive-2649-7",
+      "name": "중고저수지",
+      "desc": "11.20 · 미스터 Lee의 사진 한 컷, 대한민국"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.20 (금) 2TV 생생정보 취재 연락처) · KBS 공식 회차 데이터(2649회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-21",
+  "updatedAt": "2026-11-21T02:45:43+09:00"
+}

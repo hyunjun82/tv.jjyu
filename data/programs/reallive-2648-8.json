@@ -1,0 +1,313 @@
+{
+  "slug": "reallive-2648-8",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 하이랄 게임샵 인천 남동구 위치 전화번호 11월 19일",
+  "name": "하이랄 게임샵",
+  "shortName": "하이랄 게임샵",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.19 (목) 방송 · 골든타임 히어로",
+  "status": "방송 장소",
+  "backdrop": "/img/reallive-2648.jpg",
+  "thumb": "/img/reallive-2648.jpg",
+  "badges": [
+    "2648회 · 11.19",
+    "골든타임 히어로",
+    "인천광역시 남동구"
+  ],
+  "facts": [
+    [
+      "상호",
+      "하이랄 게임샵"
+    ],
+    [
+      "지역",
+      "인천광역시 남동구"
+    ],
+    [
+      "주소",
+      "인천광역시 남동구 예술로 198 2층"
+    ],
+    [
+      "전화",
+      "032-438-1638"
+    ],
+    [
+      "방송",
+      "KBS 2TV 생생정보 2648회 (2026.11.19 (목))"
+    ],
+    [
+      "코너",
+      "골든타임 히어로"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>하이랄 게임샵</b>은 2026.11.19 (목) KBS 2TV 생생정보 2648회 「골든타임 히어로」(인천 흉기난동범 막아선 영웅들) 편에 나온 곳입니다. 주소는 <b>인천광역시 남동구 예술로 198 2층</b>, 전화는 <b>032-438-1638</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2648회 다시보기",
+      "sub": "KBS 공식 · 11.19 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026210756-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%ED%95%98%EC%9D%B4%EB%9E%84%20%EA%B2%8C%EC%9E%84%EC%83%B5%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "032-438-1638",
+      "url": "tel:0324381638"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11443",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%ED%95%98%EC%9D%B4%EB%9E%84%20%EA%B2%8C%EC%9E%84%EC%83%B5%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC",
+      "kind": "map"
+    },
+    {
+      "label": "2TV 생생정보 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "하이랄 게임샵 생생정보 어느 코너에 나왔나요?",
+      "lead": "2026.11.19 (목) KBS 2TV 생생정보 2648회 「골든타임 히어로」(인천 흉기난동범 막아선 영웅들) 편에 나온 곳입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.19 (목)"
+          ],
+          [
+            "회차",
+            "2648회"
+          ],
+          [
+            "코너",
+            "골든타임 히어로"
+          ],
+          [
+            "코너 제목",
+            "인천 흉기난동범 막아선 영웅들"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2648.jpg",
+          "cap": "2TV 생생정보 2648회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026210756-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2648회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2648회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026210756-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11443"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "하이랄 게임샵 위치·주소·전화번호는?",
+      "lead": "주소는 인천광역시 남동구 예술로 198 2층입니다. 전화는 032-438-1638입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "하이랄 게임샵"
+          ],
+          [
+            "주소",
+            "인천광역시 남동구 예술로 198 2층"
+          ],
+          [
+            "지역",
+            "인천광역시 남동구"
+          ],
+          [
+            "전화",
+            "032-438-1638"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%ED%95%98%EC%9D%B4%EB%9E%84%20%EA%B2%8C%EC%9E%84%EC%83%B5%20%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "032-438-1638",
+          "url": "tel:0324381638"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.19 방송 전체",
+      "heading": "11.19 2TV 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2648회 KBS 방송정보에 올라온 곳은 모두 9곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2648-1/\">한어부의고등어사랑 해운대</a>",
+            "맛집 맞수다",
+            "부산광역시 해운대구 해운대로594번길 5 2층"
+          ],
+          [
+            "<a href=\"/reallive-2648-2/\">돈바지</a>",
+            "맛집 맞수다",
+            "부산광역시 기장군 철마면 곰내길 227"
+          ],
+          [
+            "<a href=\"/reallive-2648-3/\">굴 수확 & 박신장 아르바이트</a>",
+            "해피 벌(고)쓰(고)데이",
+            "전남광주통합특별시 고흥군 오취길 226 부성수산"
+          ],
+          [
+            "<a href=\"/reallive-2648-4/\">남도맛집</a>",
+            "해피 벌(고)쓰(고)데이",
+            "전남광주통합특별시 고흥군 봉래면 나로도항길 109"
+          ],
+          [
+            "<a href=\"/reallive-2648-5/\">고흥 유자 축제</a>",
+            "해피 벌(고)쓰(고)데이",
+            "전남광주통합특별시 고흥군 풍양면 한동리 701-7 일대"
+          ],
+          [
+            "<a href=\"/reallive-2648-6/\">쌈밥촌</a>",
+            "골든타임 히어로",
+            "인천광역시 남동구 예술로 198 2층"
+          ],
+          [
+            "<a href=\"/reallive-2648-7/\">용우동 인천씨앤씨점</a>",
+            "골든타임 히어로",
+            "인천광역시 남동구 예술로 198 2층"
+          ],
+          [
+            "<a href=\"/reallive-2648-8/\">하이랄 게임샵</a>",
+            "골든타임 히어로",
+            "인천광역시 남동구 예술로 198 2층"
+          ],
+          [
+            "<a href=\"/reallive-2648-9/\">모운동시절인연</a>",
+            "나나랜드",
+            "강원특별자치도 영월군 김삿갓면 모운동길 438"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.19 생생정보 총정리",
+          "url": "/reallive-2648/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "하이랄 게임샵 위치는 어디인가요?",
+      "a": "인천광역시 남동구 예술로 198 2층입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "하이랄 게임샵 전화번호는 몇 번인가요?",
+      "a": "032-438-1638입니다(KBS 공식 방송정보 표기)."
+    },
+    {
+      "q": "하이랄 게임샵 방송 날짜와 코너는?",
+      "a": "KBS 2TV 생생정보 2648회 (2026.11.19 (목)) 「골든타임 히어로」 코너에 나왔습니다."
+    },
+    {
+      "q": "2TV 생생정보 2648회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「2648회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2648-1",
+      "name": "한어부의고등어사랑 해운대",
+      "desc": "11.19 · 맛집 맞수다"
+    },
+    {
+      "slug": "reallive-2648-2",
+      "name": "돈바지",
+      "desc": "11.19 · 맛집 맞수다"
+    },
+    {
+      "slug": "reallive-2648-3",
+      "name": "굴 수확 & 박신장 아르바이트",
+      "desc": "11.19 · 해피 벌(고)쓰(고)데이"
+    },
+    {
+      "slug": "reallive-2648-4",
+      "name": "남도맛집",
+      "desc": "11.19 · 해피 벌(고)쓰(고)데이"
+    },
+    {
+      "slug": "reallive-2648-5",
+      "name": "고흥 유자 축제",
+      "desc": "11.19 · 해피 벌(고)쓰(고)데이"
+    },
+    {
+      "slug": "reallive-2648-6",
+      "name": "쌈밥촌",
+      "desc": "11.19 · 골든타임 히어로"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.19 (목) 2TV 생생정보 취재 연락처) · KBS 공식 회차 데이터(2648회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-21",
+  "updatedAt": "2026-11-21T02:45:43+09:00"
+}

@@ -1,0 +1,265 @@
+{
+  "slug": "sixhour-8667-1",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 영농조합법인장촌마을 용인 마을 위치 전화번호 11월 20일",
+  "name": "영농조합법인장촌마을",
+  "shortName": "영농조합법인장촌마을",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.20 (금) 방송 · 전국 마을 자랑",
+  "status": "방송 장소",
+  "backdrop": "/img/sixhour-8667.jpg",
+  "thumb": "/img/sixhour-8667.jpg",
+  "badges": [
+    "8667회 · 11.20",
+    "전국 마을 자랑",
+    "경기 용인시"
+  ],
+  "facts": [
+    [
+      "상호",
+      "영농조합법인장촌마을"
+    ],
+    [
+      "방송 메뉴",
+      "마을"
+    ],
+    [
+      "지역",
+      "경기 용인시"
+    ],
+    [
+      "주소",
+      "경기 용인시 처인구 이동읍 이원로601번길"
+    ],
+    [
+      "전화",
+      "031-333-1757"
+    ],
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8667회 (2026.11.20 (금))"
+    ],
+    [
+      "코너",
+      "전국 마을 자랑"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>영농조합법인장촌마을</b>은 2026.11.20 (금) KBS 1TV 6시 내고향 8667회 「전국 마을 자랑」(경기도 용인특례시 장촌마을) 편에 나온 곳입니다. 방송 메뉴는 「마을」입니다. 주소는 <b>경기 용인시 처인구 이동읍 이원로601번길</b>, 전화는 <b>031-333-1757</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8667회 다시보기",
+      "sub": "KBS 공식 · 11.20 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197639-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%98%81%EB%86%8D%EC%A1%B0%ED%95%A9%EB%B2%95%EC%9D%B8%EC%9E%A5%EC%B4%8C%EB%A7%88%EC%9D%84%20%EA%B2%BD%EA%B8%B0%20%EC%9A%A9%EC%9D%B8%EC%8B%9C"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "031-333-1757",
+      "url": "tel:0313331757"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11444",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%98%81%EB%86%8D%EC%A1%B0%ED%95%A9%EB%B2%95%EC%9D%B8%EC%9E%A5%EC%B4%8C%EB%A7%88%EC%9D%84%20%EA%B2%BD%EA%B8%B0%20%EC%9A%A9%EC%9D%B8%EC%8B%9C",
+      "kind": "map"
+    },
+    {
+      "label": "6시 내고향 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "영농조합법인장촌마을 6시 내고향 어느 코너에 나왔나요?",
+      "lead": "2026.11.20 (금) KBS 1TV 6시 내고향 8667회 「전국 마을 자랑」(경기도 용인특례시 장촌마을) 편에 나온 곳입니다. 방송에서 소개된 메뉴는 「마을」입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.20 (금)"
+          ],
+          [
+            "회차",
+            "8667회"
+          ],
+          [
+            "코너",
+            "전국 마을 자랑"
+          ],
+          [
+            "코너 제목",
+            "경기도 용인특례시 장촌마을"
+          ],
+          [
+            "방송 메뉴",
+            "마을"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8667.jpg",
+          "cap": "6시 내고향 8667회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197639-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8667회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8667회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197639-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11444"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "영농조합법인장촌마을 위치·주소·전화번호는?",
+      "lead": "주소는 경기 용인시 처인구 이동읍 이원로601번길입니다. 전화는 031-333-1757입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "영농조합법인장촌마을"
+          ],
+          [
+            "주소",
+            "경기 용인시 처인구 이동읍 이원로601번길"
+          ],
+          [
+            "지역",
+            "경기 용인시"
+          ],
+          [
+            "전화",
+            "031-333-1757"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%98%81%EB%86%8D%EC%A1%B0%ED%95%A9%EB%B2%95%EC%9D%B8%EC%9E%A5%EC%B4%8C%EB%A7%88%EC%9D%84%20%EA%B2%BD%EA%B8%B0%20%EC%9A%A9%EC%9D%B8%EC%8B%9C"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "031-333-1757",
+          "url": "tel:0313331757"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.20 방송 전체",
+      "heading": "11.20 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8667회 KBS 방송정보에 올라온 곳은 모두 2곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/sixhour-8667-1/\">영농조합법인장촌마을</a>",
+            "마을",
+            "경기 용인시 처인구 이동읍 이원로601번길"
+          ],
+          [
+            "<a href=\"/sixhour-8667-2/\">88순대국</a>",
+            "순대국 식당",
+            "강원특별자치도 속초시 중앙로129번길 35-13"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.20 6시 내고향 총정리",
+          "url": "/sixhour-8667/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "영농조합법인장촌마을 위치는 어디인가요?",
+      "a": "경기 용인시 처인구 이동읍 이원로601번길입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "영농조합법인장촌마을 전화번호는 몇 번인가요?",
+      "a": "031-333-1757입니다(KBS 공식 방송정보 표기)."
+    },
+    {
+      "q": "영농조합법인장촌마을 6시 내고향에 나온 메뉴는 무엇인가요?",
+      "a": "마을입니다."
+    },
+    {
+      "q": "영농조합법인장촌마을 방송 날짜와 코너는?",
+      "a": "KBS 1TV 6시 내고향 8667회 (2026.11.20 (금)) 「전국 마을 자랑」 코너에 나왔습니다."
+    },
+    {
+      "q": "6시 내고향 8667회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「8667회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8667-2",
+      "name": "88순대국",
+      "desc": "11.20 · 순대국 식당"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.20 (금) 6시 내고향 취재 연락처) · KBS 공식 회차 데이터(8667회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-21",
+  "updatedAt": "2026-11-21T02:45:43+09:00"
+}

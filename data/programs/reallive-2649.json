@@ -1,0 +1,334 @@
+{
+  "slug": "reallive-2649",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 2649회 11월 20일 다시보기 맛집 위치 전화번호 총정리",
+  "name": "2TV 생생정보 11월 20일 2649회 방송 맛집·장소",
+  "shortName": "11.20 생생정보 2649회",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.20 (금) · 2649회",
+  "status": "방송 맛집",
+  "backdrop": "/img/reallive-2649.jpg",
+  "thumb": "/img/reallive-2649.jpg",
+  "badges": [
+    "2649회 · 11.20",
+    "12곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 2TV 생생정보 2649회"
+    ],
+    [
+      "방송일",
+      "2026.11.20 (금)"
+    ],
+    [
+      "소개된 곳",
+      "12곳 (KBS 방송정보 기준)"
+    ],
+    [
+      "가격·영업시간 표기",
+      "1곳"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.20 (금) KBS 2TV 생생정보 2649회에 나온 곳은 <b>12곳</b>입니다. <b>시즌즈 광안리</b>, <b>달쭈꾸미 월미도본점</b>, <b>고재구전통쌀엿</b>, <b>나미당</b>, <b>말랑당</b>, <b>강진짚트랙</b> 입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2649회 다시보기",
+      "sub": "KBS 공식 · 11.20 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026210767-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11444"
+    }
+  ],
+  "quick": [
+    {
+      "label": "시즌즈 광안리",
+      "url": "/reallive-2649-1/",
+      "kind": "map"
+    },
+    {
+      "label": "달쭈꾸미 월미도본점",
+      "url": "/reallive-2649-2/",
+      "kind": "map"
+    },
+    {
+      "label": "고재구전통쌀엿",
+      "url": "/reallive-2649-3/",
+      "kind": "map"
+    },
+    {
+      "label": "나미당",
+      "url": "/reallive-2649-4/",
+      "kind": "map"
+    },
+    {
+      "label": "말랑당",
+      "url": "/reallive-2649-5/",
+      "kind": "map"
+    },
+    {
+      "label": "강진짚트랙",
+      "url": "/reallive-2649-6/",
+      "kind": "map"
+    },
+    {
+      "label": "중고저수지",
+      "url": "/reallive-2649-7/",
+      "kind": "map"
+    },
+    {
+      "label": "석문공원",
+      "url": "/reallive-2649-8/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 20일 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2649회 KBS 방송정보에 올라온 곳은 12곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2649-1/\">시즌즈 광안리</a>",
+            "무작정 간다! SNS 진짜 가짜?",
+            "부산 수영구 광안해변로255번길 40 1층",
+            "0507-1452-9324"
+          ],
+          [
+            "<a href=\"/reallive-2649-2/\">달쭈꾸미 월미도본점</a>",
+            "장사의 신",
+            "인천 제물포구 월미문화로 39",
+            "0507-1311-7403"
+          ],
+          [
+            "<a href=\"/reallive-2649-3/\">고재구전통쌀엿</a>",
+            "음식 X-파일",
+            "전남 담양군 창평면 경동길 11-10",
+            "010-3628-3737"
+          ],
+          [
+            "<a href=\"/reallive-2649-4/\">나미당</a>",
+            "음식 X-파일",
+            "경기도 용인시 수지구 신봉1로 342 1층",
+            "0507-1333-5551"
+          ],
+          [
+            "<a href=\"/reallive-2649-5/\">말랑당</a>",
+            "음식 X-파일",
+            "서울특별시 동대문구 이문동 149-8",
+            "0507-1346-1699"
+          ],
+          [
+            "<a href=\"/reallive-2649-6/\">강진짚트랙</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "전남광주 강진군 도암면 가우도길 49-9",
+            "061-433-9500"
+          ],
+          [
+            "<a href=\"/reallive-2649-7/\">중고저수지</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "전남광주 강진군 병영면 중고리 582-3 중고저수지",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2649-8/\">석문공원</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "전남광주 강진군 도암면 백도로 2084",
+            "—"
+          ],
+          [
+            "화목가마 불지피기 페스티벌",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "—",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2649-9/\">논정마을</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "전남광주 강진군 신전면 벌정리",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2649-10/\">주작산</a>",
+            "미스터 Lee의 사진 한 컷, 대한민국",
+            "전남광주 강진군 신전면 수양리",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2649-11/\">해녀3대할망네</a>",
+            "힘쓰니까 청춘이다",
+            "제주 서귀포시 대정읍 마라로77번길 3",
+            "064-792-4124"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2649.jpg",
+          "cap": "2TV 생생정보 2649회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026210767-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2649회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2649회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026210767-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11444"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.20 생생정보 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "무작정 간다! SNS 진짜 가짜? - 과일과 똑같이 생긴 케이크가 있다?",
+            "<a href=\"/reallive-2649-1/\">시즌즈 광안리</a>"
+          ],
+          [
+            "장사의 신 - 우주선 볶음(우삼겹주꾸미볶음) + 연포탕",
+            "<a href=\"/reallive-2649-2/\">달쭈꾸미 월미도본점</a>"
+          ],
+          [
+            "음식 X-파일 - 합격 기원 음식, 엿과 찹쌀떡",
+            "<a href=\"/reallive-2649-3/\">고재구전통쌀엿</a>, <a href=\"/reallive-2649-4/\">나미당</a>, <a href=\"/reallive-2649-5/\">말랑당</a>"
+          ],
+          [
+            "미스터 Lee의 사진 한 컷, 대한민국 - 492번째 미션, 전남광주통합특별시 강진군",
+            "<a href=\"/reallive-2649-6/\">강진짚트랙</a>, <a href=\"/reallive-2649-7/\">중고저수지</a>, <a href=\"/reallive-2649-8/\">석문공원</a>, 화목가마 불지피기 페스티벌, <a href=\"/reallive-2649-9/\">논정마을</a>, <a href=\"/reallive-2649-10/\">주작산</a>"
+          ],
+          [
+            "힘쓰니까 청춘이다 - 유일무이! 32세 마라도 해남 청춘",
+            "<a href=\"/reallive-2649-11/\">해녀3대할망네</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2b",
+      "tab": "가격·영업시간",
+      "heading": "11.20 생생정보 가격·영업시간 나온 곳은?",
+      "lead": "KBS 제작진이 방송정보에 가격·영업시간·주차를 적은 곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "KBS 방송정보 표기"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2649-2/\">달쭈꾸미 월미도본점</a>",
+            "가격: 우쭈식량 (우삼겹+주꾸미) 23,900원<br>영업시간: AM 11:30 ~ PM 22:00 (라스트 오더 PM 20:50)<br>주차: 월미도 공영주차장"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "2TV 생생정보는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "2649회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2649회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026210767-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "2TV 생생정보 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "2TV 생생정보 2649회(11월 20일)에 나온 곳은 어디인가요?",
+      "a": "시즌즈 광안리(부산 수영구), 달쭈꾸미 월미도본점(인천 제물포구), 고재구전통쌀엿(전남 담양군), 나미당(경기도 용인시), 말랑당(서울특별시 동대문구), 강진짚트랙(전남광주 강진군), 중고저수지(전남광주 강진군), 석문공원(전남광주 강진군)입니다. 위 목록에서 이름을 누르면 주소와 전화번호가 나옵니다."
+    },
+    {
+      "q": "2TV 생생정보 2649회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「2649회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2649-1",
+      "name": "시즌즈 광안리",
+      "desc": "11.20 · 무작정 간다! SNS 진짜 가짜?"
+    },
+    {
+      "slug": "reallive-2649-2",
+      "name": "달쭈꾸미 월미도본점",
+      "desc": "11.20 · 장사의 신"
+    },
+    {
+      "slug": "reallive-2649-3",
+      "name": "고재구전통쌀엿",
+      "desc": "11.20 · 음식 X-파일"
+    },
+    {
+      "slug": "reallive-2649-4",
+      "name": "나미당",
+      "desc": "11.20 · 음식 X-파일"
+    },
+    {
+      "slug": "reallive-2649-5",
+      "name": "말랑당",
+      "desc": "11.20 · 음식 X-파일"
+    },
+    {
+      "slug": "reallive-2649-6",
+      "name": "강진짚트랙",
+      "desc": "11.20 · 미스터 Lee의 사진 한 컷, 대한민국"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.20 (금)) · KBS 공식 회차 데이터(2649회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-21",
+  "updatedAt": "2026-11-21T02:45:43+09:00"
+}

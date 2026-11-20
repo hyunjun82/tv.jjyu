@@ -1,0 +1,189 @@
+{
+  "slug": "sixhour-8667",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 8667회 11월 20일 다시보기 맛집 위치 전화번호 총정리",
+  "name": "6시 내고향 11월 20일 8667회 방송 맛집·장소",
+  "shortName": "11.20 6시 내고향 8667회",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.20 (금) · 8667회",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8667.jpg",
+  "thumb": "/img/sixhour-8667.jpg",
+  "badges": [
+    "8667회 · 11.20",
+    "2곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8667회"
+    ],
+    [
+      "방송일",
+      "2026.11.20 (금)"
+    ],
+    [
+      "소개된 곳",
+      "2곳 (KBS 방송정보 기준)"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.20 (금) KBS 1TV 6시 내고향 8667회에 나온 곳은 <b>2곳</b>입니다. <b>영농조합법인장촌마을</b>, <b>88순대국</b> 입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8667회 다시보기",
+      "sub": "KBS 공식 · 11.20 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197639-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11444"
+    }
+  ],
+  "quick": [
+    {
+      "label": "영농조합법인장촌마을",
+      "url": "/sixhour-8667-1/",
+      "kind": "map"
+    },
+    {
+      "label": "88순대국",
+      "url": "/sixhour-8667-2/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 20일 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8667회 KBS 방송정보에 올라온 곳은 2곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "<a href=\"/sixhour-8667-1/\">영농조합법인장촌마을</a>",
+            "마을",
+            "경기 용인시 처인구 이동읍 이원로601번길",
+            "031-333-1757"
+          ],
+          [
+            "<a href=\"/sixhour-8667-2/\">88순대국</a>",
+            "순대국 식당",
+            "강원특별자치도 속초시 중앙로129번길 35-13",
+            "033-636-5798"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8667.jpg",
+          "cap": "6시 내고향 8667회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197639-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8667회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8667회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197639-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11444"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.20 6시 내고향 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "전국 마을 자랑 - 경기도 용인특례시 장촌마을",
+            "<a href=\"/sixhour-8667-1/\">영농조합법인장촌마을</a>"
+          ],
+          [
+            "미리 맛본 식당 미식당, 속이 꽉 찬 고향의 맛 - 강원 속초",
+            "<a href=\"/sixhour-8667-2/\">88순대국</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "6시 내고향은 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 6시 내고향은 평일 오후 6시 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "8667회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8667회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197639-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "6시 내고향 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "6시 내고향 8667회(11월 20일)에 나온 곳은 어디인가요?",
+      "a": "영농조합법인장촌마을(경기 용인시), 88순대국(강원특별자치도 속초시)입니다. 위 목록에서 이름을 누르면 주소와 전화번호가 나옵니다."
+    },
+    {
+      "q": "6시 내고향 8667회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「8667회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8667-1",
+      "name": "영농조합법인장촌마을",
+      "desc": "11.20 · 마을"
+    },
+    {
+      "slug": "sixhour-8667-2",
+      "name": "88순대국",
+      "desc": "11.20 · 순대국 식당"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.20 (금)) · KBS 공식 회차 데이터(8667회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-21",
+  "updatedAt": "2026-11-21T02:45:43+09:00"
+}

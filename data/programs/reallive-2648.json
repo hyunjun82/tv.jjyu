@@ -1,0 +1,289 @@
+{
+  "slug": "reallive-2648",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 2648회 11월 19일 다시보기 맛집 위치 전화번호 총정리",
+  "name": "2TV 생생정보 11월 19일 2648회 방송 맛집·장소",
+  "shortName": "11.19 생생정보 2648회",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.19 (목) · 2648회",
+  "status": "방송 맛집",
+  "backdrop": "/img/reallive-2648.jpg",
+  "thumb": "/img/reallive-2648.jpg",
+  "badges": [
+    "2648회 · 11.19",
+    "9곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 2TV 생생정보 2648회"
+    ],
+    [
+      "방송일",
+      "2026.11.19 (목)"
+    ],
+    [
+      "소개된 곳",
+      "9곳 (KBS 방송정보 기준)"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.19 (목) KBS 2TV 생생정보 2648회에 나온 곳은 <b>9곳</b>입니다. <b>한어부의고등어사랑 해운대</b>, <b>돈바지</b>, <b>굴 수확 & 박신장 아르바이트</b>, <b>남도맛집</b>, <b>고흥 유자 축제</b>, <b>쌈밥촌</b> 입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2648회 다시보기",
+      "sub": "KBS 공식 · 11.19 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026210756-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11443"
+    }
+  ],
+  "quick": [
+    {
+      "label": "한어부의고등어사랑 해운대",
+      "url": "/reallive-2648-1/",
+      "kind": "map"
+    },
+    {
+      "label": "돈바지",
+      "url": "/reallive-2648-2/",
+      "kind": "map"
+    },
+    {
+      "label": "굴 수확 & 박신장 아르바이트",
+      "url": "/reallive-2648-3/",
+      "kind": "map"
+    },
+    {
+      "label": "남도맛집",
+      "url": "/reallive-2648-4/",
+      "kind": "map"
+    },
+    {
+      "label": "고흥 유자 축제",
+      "url": "/reallive-2648-5/",
+      "kind": "map"
+    },
+    {
+      "label": "쌈밥촌",
+      "url": "/reallive-2648-6/",
+      "kind": "map"
+    },
+    {
+      "label": "용우동 인천씨앤씨점",
+      "url": "/reallive-2648-7/",
+      "kind": "map"
+    },
+    {
+      "label": "하이랄 게임샵",
+      "url": "/reallive-2648-8/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 19일 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2648회 KBS 방송정보에 올라온 곳은 9곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2648-1/\">한어부의고등어사랑 해운대</a>",
+            "맛집 맞수다",
+            "부산광역시 해운대구 해운대로594번길 5 2층",
+            "0507-1411-9096"
+          ],
+          [
+            "<a href=\"/reallive-2648-2/\">돈바지</a>",
+            "맛집 맞수다",
+            "부산광역시 기장군 철마면 곰내길 227",
+            "010-6575-3032"
+          ],
+          [
+            "<a href=\"/reallive-2648-3/\">굴 수확 & 박신장 아르바이트</a>",
+            "해피 벌(고)쓰(고)데이",
+            "전남광주통합특별시 고흥군 오취길 226 부성수산",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2648-4/\">남도맛집</a>",
+            "해피 벌(고)쓰(고)데이",
+            "전남광주통합특별시 고흥군 봉래면 나로도항길 109",
+            "061-832-4505"
+          ],
+          [
+            "<a href=\"/reallive-2648-5/\">고흥 유자 축제</a>",
+            "해피 벌(고)쓰(고)데이",
+            "전남광주통합특별시 고흥군 풍양면 한동리 701-7 일대",
+            "061-830-5442"
+          ],
+          [
+            "<a href=\"/reallive-2648-6/\">쌈밥촌</a>",
+            "골든타임 히어로",
+            "인천광역시 남동구 예술로 198 2층",
+            "0507-1320-6930"
+          ],
+          [
+            "<a href=\"/reallive-2648-7/\">용우동 인천씨앤씨점</a>",
+            "골든타임 히어로",
+            "인천광역시 남동구 예술로 198 2층",
+            "032-421-1717"
+          ],
+          [
+            "<a href=\"/reallive-2648-8/\">하이랄 게임샵</a>",
+            "골든타임 히어로",
+            "인천광역시 남동구 예술로 198 2층",
+            "032-438-1638"
+          ],
+          [
+            "<a href=\"/reallive-2648-9/\">모운동시절인연</a>",
+            "나나랜드",
+            "강원특별자치도 영월군 김삿갓면 모운동길 438",
+            "—"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2648.jpg",
+          "cap": "2TV 생생정보 2648회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026210756-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2648회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2648회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026210756-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11443"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.19 생생정보 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "맛집 맞수다 - 겨울철 부산 별미! 고등어 한 상 vs 시래기버섯전골",
+            "<a href=\"/reallive-2648-1/\">한어부의고등어사랑 해운대</a>, <a href=\"/reallive-2648-2/\">돈바지</a>"
+          ],
+          [
+            "해피 벌(고)쓰(고)데이 - 코미디언 서태훈의 전남광주통합특별시 고흥군",
+            "<a href=\"/reallive-2648-3/\">굴 수확 & 박신장 아르바이트</a>, <a href=\"/reallive-2648-4/\">남도맛집</a>, <a href=\"/reallive-2648-5/\">고흥 유자 축제</a>"
+          ],
+          [
+            "골든타임 히어로 - 인천 흉기난동범 막아선 영웅들",
+            "<a href=\"/reallive-2648-6/\">쌈밥촌</a>, <a href=\"/reallive-2648-7/\">용우동 인천씨앤씨점</a>, <a href=\"/reallive-2648-8/\">하이랄 게임샵</a>"
+          ],
+          [
+            "나나랜드 - 해발 800m 구름 위의 오두막",
+            "<a href=\"/reallive-2648-9/\">모운동시절인연</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "2TV 생생정보는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "2648회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2648회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026210756-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "2TV 생생정보 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "2TV 생생정보 2648회(11월 19일)에 나온 곳은 어디인가요?",
+      "a": "한어부의고등어사랑 해운대(부산광역시 해운대구), 돈바지(부산광역시 기장군), 굴 수확 & 박신장 아르바이트(전남광주통합특별시 고흥군), 남도맛집(전남광주통합특별시 고흥군), 고흥 유자 축제(전남광주통합특별시 고흥군), 쌈밥촌(인천광역시 남동구), 용우동 인천씨앤씨점(인천광역시 남동구), 하이랄 게임샵(인천광역시 남동구)입니다. 위 목록에서 이름을 누르면 주소와 전화번호가 나옵니다."
+    },
+    {
+      "q": "2TV 생생정보 2648회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「2648회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2648-1",
+      "name": "한어부의고등어사랑 해운대",
+      "desc": "11.19 · 맛집 맞수다"
+    },
+    {
+      "slug": "reallive-2648-2",
+      "name": "돈바지",
+      "desc": "11.19 · 맛집 맞수다"
+    },
+    {
+      "slug": "reallive-2648-3",
+      "name": "굴 수확 & 박신장 아르바이트",
+      "desc": "11.19 · 해피 벌(고)쓰(고)데이"
+    },
+    {
+      "slug": "reallive-2648-4",
+      "name": "남도맛집",
+      "desc": "11.19 · 해피 벌(고)쓰(고)데이"
+    },
+    {
+      "slug": "reallive-2648-5",
+      "name": "고흥 유자 축제",
+      "desc": "11.19 · 해피 벌(고)쓰(고)데이"
+    },
+    {
+      "slug": "reallive-2648-6",
+      "name": "쌈밥촌",
+      "desc": "11.19 · 골든타임 히어로"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.19 (목)) · KBS 공식 회차 데이터(2648회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-21",
+  "updatedAt": "2026-11-21T02:45:43+09:00"
+}
