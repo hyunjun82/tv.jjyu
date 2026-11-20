@@ -1,0 +1,254 @@
+{
+  "slug": "sixhour-8666",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 8666회 11월 19일 다시보기 맛집 위치 전화번호 총정리",
+  "name": "6시 내고향 11월 19일 8666회 방송 맛집·장소",
+  "shortName": "11.19 6시 내고향 8666회",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.19 (목) · 8666회",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8666.jpg",
+  "thumb": "/img/sixhour-8666.jpg",
+  "badges": [
+    "8666회 · 11.19",
+    "5곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8666회"
+    ],
+    [
+      "방송일",
+      "2026.11.19 (목)"
+    ],
+    [
+      "소개된 곳",
+      "5곳 (KBS 방송정보 기준)"
+    ],
+    [
+      "가격·영업시간 표기",
+      "1곳"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.19 (목) KBS 1TV 6시 내고향 8666회에 나온 곳은 <b>5곳</b>입니다. <b>녹차 체험 문의) 차암문화원</b>, <b>감식초 문의) 금계식품</b>, <b>장항수산</b>, <b>송석어촌계</b>, <b>목화공방스테이</b> 입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8666회 다시보기",
+      "sub": "KBS 공식 · 11.19 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197638-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11443"
+    }
+  ],
+  "quick": [
+    {
+      "label": "녹차 체험 문의) 차암문화원",
+      "url": "/sixhour-8666-1/",
+      "kind": "map"
+    },
+    {
+      "label": "장항수산",
+      "url": "/sixhour-8666-2/",
+      "kind": "map"
+    },
+    {
+      "label": "송석어촌계",
+      "url": "/sixhour-8666-3/",
+      "kind": "map"
+    },
+    {
+      "label": "목화공방스테이",
+      "url": "/sixhour-8666-4/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 19일 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8666회 KBS 방송정보에 올라온 곳은 5곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "<a href=\"/sixhour-8666-1/\">녹차 체험 문의) 차암문화원</a>",
+            "차(茶)원이 다르다! 제주 녹차",
+            "제주특별자치도 제주시 선흘리 2040-1",
+            "010-3061-5726"
+          ],
+          [
+            "감식초 문의) 금계식품",
+            "차(茶)원이 다르다! 제주 녹차",
+            "—",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8666-2/\">장항수산</a>",
+            "박대",
+            "충남 서천군 장항읍 장산로 354-7",
+            "041-956-8867"
+          ],
+          [
+            "<a href=\"/sixhour-8666-3/\">송석어촌계</a>",
+            "동죽",
+            "충남 서천군 마서면 송신로707",
+            "041-453-7773 / 010-3399-2363"
+          ],
+          [
+            "<a href=\"/sixhour-8666-4/\">목화공방스테이</a>",
+            "치유농원",
+            "강원 인제군 기린면 꿩밭길 8-10",
+            "010-2839-3199"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8666.jpg",
+          "cap": "6시 내고향 8666회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197638-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8666회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8666회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197638-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11443"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.19 6시 내고향 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "차(茶)원이 다르다! 제주 녹차",
+            "<a href=\"/sixhour-8666-1/\">녹차 체험 문의) 차암문화원</a>, 감식초 문의) 금계식품"
+          ],
+          [
+            "식재료 원정대 - 맛있고 멋있는 서해 한 상",
+            "<a href=\"/sixhour-8666-2/\">장항수산</a>, <a href=\"/sixhour-8666-3/\">송석어촌계</a>"
+          ],
+          [
+            "청산에 살리라 - 계절을 잊은 산골 사랑방",
+            "<a href=\"/sixhour-8666-4/\">목화공방스테이</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2b",
+      "tab": "가격·영업시간",
+      "heading": "11.19 6시 내고향 가격·영업시간 나온 곳은?",
+      "lead": "KBS 제작진이 방송정보에 가격·영업시간·주차를 적은 곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "KBS 방송정보 표기"
+        ],
+        "rows": [
+          [
+            "감식초 문의) 금계식품",
+            "온라인 판매처: https://www.saemgoul.kr/"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "6시 내고향은 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 6시 내고향은 평일 오후 6시 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "8666회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8666회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026197638-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "6시 내고향 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "6시 내고향 8666회(11월 19일)에 나온 곳은 어디인가요?",
+      "a": "녹차 체험 문의) 차암문화원(제주특별자치도 제주시), 장항수산(충남 서천군), 송석어촌계(충남 서천군), 목화공방스테이(강원 인제군)입니다. 위 목록에서 이름을 누르면 주소와 전화번호가 나옵니다."
+    },
+    {
+      "q": "6시 내고향 8666회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「8666회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8666-1",
+      "name": "녹차 체험 문의) 차암문화원",
+      "desc": "11.19 · 차(茶)원이 다르다! 제주 녹차"
+    },
+    {
+      "slug": "sixhour-8666-2",
+      "name": "장항수산",
+      "desc": "11.19 · 박대"
+    },
+    {
+      "slug": "sixhour-8666-3",
+      "name": "송석어촌계",
+      "desc": "11.19 · 동죽"
+    },
+    {
+      "slug": "sixhour-8666-4",
+      "name": "목화공방스테이",
+      "desc": "11.19 · 치유농원"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.19 (목)) · KBS 공식 회차 데이터(8666회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-20",
+  "updatedAt": "2026-11-20T16:08:34+09:00"
+}

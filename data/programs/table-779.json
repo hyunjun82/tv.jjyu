@@ -1,0 +1,234 @@
+{
+  "slug": "table-779",
+  "type": "place",
+  "category": "맛집",
+  "series": "한국인의 밥상",
+  "seriesSlug": "table",
+  "program": "table",
+  "title": "한국인의 밥상 779회 11월 19일 다시보기 맛집 위치 전화번호 총정리",
+  "name": "한국인의 밥상 11월 19일 779회 방송 맛집·장소",
+  "shortName": "11.19 한국인의 밥상 779회",
+  "subtitle": "",
+  "channel": "KBS 1TV 한국인의 밥상",
+  "airtime": "2026.11.19 (목) · 779회",
+  "status": "방송 맛집",
+  "backdrop": "/img/table-779.jpg",
+  "thumb": "/img/table-779.jpg",
+  "badges": [
+    "779회 · 11.19",
+    "4곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 한국인의 밥상 779회"
+    ],
+    [
+      "방송일",
+      "2026.11.19 (목)"
+    ],
+    [
+      "소개된 곳",
+      "4곳 (KBS 방송정보 기준)"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.19 (목) KBS 1TV 한국인의 밥상 779회에 나온 곳은 <b>4곳</b>입니다. <b>삼정수산</b>, <b>삼정식당</b>, <b>군산참홍어진흥원</b>, <b>덕유농장</b> 입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "779회 다시보기",
+      "sub": "KBS 공식 · 11.19 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026198379-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11443"
+    }
+  ],
+  "quick": [
+    {
+      "label": "삼정수산",
+      "url": "/table-779-1/",
+      "kind": "map"
+    },
+    {
+      "label": "삼정식당",
+      "url": "/table-779-2/",
+      "kind": "map"
+    },
+    {
+      "label": "군산참홍어진흥원",
+      "url": "/table-779-3/",
+      "kind": "map"
+    },
+    {
+      "label": "덕유농장",
+      "url": "/table-779-4/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 19일 한국인의 밥상에 나온 곳은 어디인가요?",
+      "lead": "779회 KBS 방송정보에 올라온 곳은 4곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "<a href=\"/table-779-1/\">삼정수산</a>",
+            "경상북도 포항시 남구 구룡포읍",
+            "경북 포항시 남구 구룡포읍 일출로62번길 9-3 1층 삼정수산",
+            "0507-1345-3373"
+          ],
+          [
+            "<a href=\"/table-779-2/\">삼정식당</a>",
+            "경상북도 포항시 남구 구룡포읍",
+            "경북 포항시 남구 구룡포읍 일출로62번길 12 1층",
+            "0507-1355-3359"
+          ],
+          [
+            "<a href=\"/table-779-3/\">군산참홍어진흥원</a>",
+            "홍어를 연구하는 사람들",
+            "전북 군산시 중앙로1가 12-11 우미네",
+            "063-468-1234"
+          ],
+          [
+            "<a href=\"/table-779-4/\">덕유농장</a>",
+            "경상북도 경산시 압량읍",
+            "경북 경산시 압량읍 가일길32길 60 덕유농장",
+            "053-818-1667"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/table-779.jpg",
+          "cap": "한국인의 밥상 779회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026198379-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04",
+          "kind": "kbs",
+          "label": "779회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "779회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026198379-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11443"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.19 한국인의 밥상 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "경상북도 포항시 남구 구룡포읍",
+            "<a href=\"/table-779-1/\">삼정수산</a>, <a href=\"/table-779-2/\">삼정식당</a>"
+          ],
+          [
+            "전북특별자치도 군산시 옥구읍",
+            "<a href=\"/table-779-3/\">군산참홍어진흥원</a>"
+          ],
+          [
+            "경상북도 경산시 압량읍",
+            "<a href=\"/table-779-4/\">덕유농장</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2c",
+      "tab": "방송 내용",
+      "heading": "한국인의 밥상 779회는 어떤 내용인가요?",
+      "lead": "KBS 공식 회차 소개입니다.",
+      "paragraphs": [
+        "[&quot;한 마리 잘 먹었습니다&quot; 버릴 것 없는 진수성찬] 머리부터 꼬리까지, 껍질과 뼈, 뱃속의 내장까지 한 생명을 온전히 먹는 것은 오래된 우리 밥상의 방식이었다. 고기 한 점, 생선 한 토막도 귀했던 시절, 우리 어머니들은 어떤 것도 허투루 버리는 법이 없었다. 귀해서 남김없이 먹었고, 남김없이 먹다 보니 전에 없던 맛을 발견하게 되기도 했던 우리의 밥상. 한 마리 속에 숨어 있는 다채로운 맛과 야무진 손끝으로 그 맛을 지켜 온 사람들의 밥상을 만난다."
+      ]
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "한국인의 밥상은 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 한국인의 밥상은 매주 목요일 오후 7시 40분 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "779회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "779회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026198379-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+        },
+        {
+          "kind": "link",
+          "label": "한국인의 밥상 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/table"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "한국인의 밥상 779회(11월 19일)에 나온 곳은 어디인가요?",
+      "a": "삼정수산(경북 포항시), 삼정식당(경북 포항시), 군산참홍어진흥원(전북 군산시), 덕유농장(경북 경산시)입니다. 위 목록에서 이름을 누르면 주소와 전화번호가 나옵니다."
+    },
+    {
+      "q": "한국인의 밥상 779회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「779회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "table-779-1",
+      "name": "삼정수산",
+      "desc": "11.19 · 경상북도 포항시 남구 구룡포읍"
+    },
+    {
+      "slug": "table-779-2",
+      "name": "삼정식당",
+      "desc": "11.19 · 경상북도 포항시 남구 구룡포읍"
+    },
+    {
+      "slug": "table-779-3",
+      "name": "군산참홍어진흥원",
+      "desc": "11.19 · 홍어를 연구하는 사람들"
+    },
+    {
+      "slug": "table-779-4",
+      "name": "덕유농장",
+      "desc": "11.19 · 경상북도 경산시 압량읍"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.19 (목)) · KBS 공식 회차 데이터(779회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-20",
+  "updatedAt": "2026-11-20T16:08:34+09:00"
+}

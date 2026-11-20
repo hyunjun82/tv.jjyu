@@ -1,0 +1,269 @@
+{
+  "slug": "table-779-2",
+  "type": "place",
+  "category": "맛집",
+  "series": "한국인의 밥상",
+  "seriesSlug": "table",
+  "program": "table",
+  "title": "한국인의 밥상 삼정식당 포항 위치 전화번호 11월 19일",
+  "name": "삼정식당",
+  "shortName": "삼정식당",
+  "subtitle": "",
+  "channel": "KBS 1TV 한국인의 밥상",
+  "airtime": "2026.11.19 (목) 방송 · 경상북도 포항시 남구 구룡포읍",
+  "status": "방송 맛집",
+  "backdrop": "/img/table-779.jpg",
+  "thumb": "/img/table-779.jpg",
+  "badges": [
+    "779회 · 11.19",
+    "경상북도 포항시 남구 구룡포읍",
+    "경북 포항시"
+  ],
+  "facts": [
+    [
+      "상호",
+      "삼정식당"
+    ],
+    [
+      "지역",
+      "경북 포항시"
+    ],
+    [
+      "주소",
+      "경북 포항시 남구 구룡포읍 일출로62번길 12 1층"
+    ],
+    [
+      "전화",
+      "0507-1355-3359"
+    ],
+    [
+      "방송",
+      "KBS 1TV 한국인의 밥상 779회 (2026.11.19 (목))"
+    ],
+    [
+      "코너",
+      "경상북도 포항시 남구 구룡포읍"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>삼정식당</b>은 2026.11.19 (목) KBS 1TV 한국인의 밥상 779회 「경상북도 포항시 남구 구룡포읍」 편에 나온 곳입니다. 주소는 <b>경북 포항시 남구 구룡포읍 일출로62번길 12 1층</b>, 전화는 <b>0507-1355-3359</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "779회 다시보기",
+      "sub": "KBS 공식 · 11.19 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026198379-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%82%BC%EC%A0%95%EC%8B%9D%EB%8B%B9%20%EA%B2%BD%EB%B6%81%20%ED%8F%AC%ED%95%AD%EC%8B%9C"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "0507-1355-3359",
+      "url": "tel:050713553359"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11443",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%82%BC%EC%A0%95%EC%8B%9D%EB%8B%B9%20%EA%B2%BD%EB%B6%81%20%ED%8F%AC%ED%95%AD%EC%8B%9C",
+      "kind": "map"
+    },
+    {
+      "label": "한국인의 밥상 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/table",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "삼정식당 한국인의 밥상 어느 코너에 나왔나요?",
+      "lead": "2026.11.19 (목) KBS 1TV 한국인의 밥상 779회 「경상북도 포항시 남구 구룡포읍」 편에 나온 곳입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.19 (목)"
+          ],
+          [
+            "회차",
+            "779회"
+          ],
+          [
+            "코너",
+            "경상북도 포항시 남구 구룡포읍"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/table-779.jpg",
+          "cap": "한국인의 밥상 779회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026198379-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04",
+          "kind": "kbs",
+          "label": "779회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "779회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/table/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2010-1657&program_id=PS-2026198379-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11443"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "삼정식당 위치·주소·전화번호는?",
+      "lead": "주소는 경북 포항시 남구 구룡포읍 일출로62번길 12 1층입니다. 전화는 0507-1355-3359입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "삼정식당"
+          ],
+          [
+            "주소",
+            "경북 포항시 남구 구룡포읍 일출로62번길 12 1층"
+          ],
+          [
+            "지역",
+            "경북 포항시"
+          ],
+          [
+            "전화",
+            "0507-1355-3359"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%82%BC%EC%A0%95%EC%8B%9D%EB%8B%B9%20%EA%B2%BD%EB%B6%81%20%ED%8F%AC%ED%95%AD%EC%8B%9C"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "0507-1355-3359",
+          "url": "tel:050713553359"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.19 방송 전체",
+      "heading": "11.19 한국인의 밥상에 나온 곳은 어디인가요?",
+      "lead": "779회 KBS 방송정보에 올라온 곳은 모두 4곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/table-779-1/\">삼정수산</a>",
+            "경상북도 포항시 남구 구룡포읍",
+            "경북 포항시 남구 구룡포읍 일출로62번길 9-3 1층 삼정수산"
+          ],
+          [
+            "<a href=\"/table-779-2/\">삼정식당</a>",
+            "경상북도 포항시 남구 구룡포읍",
+            "경북 포항시 남구 구룡포읍 일출로62번길 12 1층"
+          ],
+          [
+            "<a href=\"/table-779-3/\">군산참홍어진흥원</a>",
+            "홍어를 연구하는 사람들",
+            "전북 군산시 중앙로1가 12-11 우미네"
+          ],
+          [
+            "<a href=\"/table-779-4/\">덕유농장</a>",
+            "경상북도 경산시 압량읍",
+            "경북 경산시 압량읍 가일길32길 60 덕유농장"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.19 한국인의 밥상 총정리",
+          "url": "/table-779/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "삼정식당 위치는 어디인가요?",
+      "a": "경북 포항시 남구 구룡포읍 일출로62번길 12 1층입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "삼정식당 전화번호는 몇 번인가요?",
+      "a": "0507-1355-3359입니다(KBS 공식 방송정보 표기)."
+    },
+    {
+      "q": "삼정식당 방송 날짜와 코너는?",
+      "a": "KBS 1TV 한국인의 밥상 779회 (2026.11.19 (목)) 「경상북도 포항시 남구 구룡포읍」 코너에 나왔습니다."
+    },
+    {
+      "q": "한국인의 밥상 779회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「779회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "table-779-1",
+      "name": "삼정수산",
+      "desc": "11.19 · 경상북도 포항시 남구 구룡포읍"
+    },
+    {
+      "slug": "table-779-3",
+      "name": "군산참홍어진흥원",
+      "desc": "11.19 · 홍어를 연구하는 사람들"
+    },
+    {
+      "slug": "table-779-4",
+      "name": "덕유농장",
+      "desc": "11.19 · 경상북도 경산시 압량읍"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.19 (목) 한국인의 밥상 취재 연락처) · KBS 공식 회차 데이터(779회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-20",
+  "updatedAt": "2026-11-20T16:08:34+09:00"
+}
