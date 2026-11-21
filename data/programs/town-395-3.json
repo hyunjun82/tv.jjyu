@@ -1,0 +1,314 @@
+{
+  "slug": "town-395-3",
+  "type": "place",
+  "category": "맛집",
+  "series": "동네 한 바퀴",
+  "seriesSlug": "town",
+  "program": "town",
+  "title": "동네 한바퀴 주남저수지 창원 위치 주소 11월 21일",
+  "name": "주남저수지",
+  "shortName": "주남저수지",
+  "subtitle": "",
+  "channel": "KBS 1TV 동네 한 바퀴",
+  "airtime": "2026.11.21 (토) 방송 · 제395화 힘이 된다, 그대",
+  "status": "방송 장소",
+  "backdrop": "/img/town-395.jpg",
+  "thumb": "/img/town-395.jpg",
+  "badges": [
+    "395회 · 11.21",
+    "제395화 힘이 된다, 그대",
+    "경남 창원시"
+  ],
+  "facts": [
+    [
+      "상호",
+      "주남저수지"
+    ],
+    [
+      "지역",
+      "경남 창원시"
+    ],
+    [
+      "주소",
+      "경남 창원시 의창구 동읍"
+    ],
+    [
+      "방송",
+      "KBS 1TV 동네 한 바퀴 395회 (2026.11.21 (토))"
+    ],
+    [
+      "코너",
+      "제395화 힘이 된다, 그대"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>주남저수지</b>는 2026.11.21 (토) KBS 1TV 동네 한 바퀴 395회 「제395화 힘이 된다, 그대」(경상남도 창원특례시) 편에 나온 곳입니다. 주소는 <b>경남 창원시 의창구 동읍</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "395회 다시보기",
+      "sub": "KBS 공식 · 11.21 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/town/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2018-0429&program_id=PS-2026193336-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%A3%BC%EB%82%A8%EC%A0%80%EC%88%98%EC%A7%80%20%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11445",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%A3%BC%EB%82%A8%EC%A0%80%EC%88%98%EC%A7%80%20%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C",
+      "kind": "map"
+    },
+    {
+      "label": "동네 한 바퀴 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/town",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "주남저수지 동네 한바퀴 어느 코너에 나왔나요?",
+      "lead": "2026.11.21 (토) KBS 1TV 동네 한 바퀴 395회 「제395화 힘이 된다, 그대」(경상남도 창원특례시) 편에 나온 곳입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.21 (토)"
+          ],
+          [
+            "회차",
+            "395회"
+          ],
+          [
+            "코너",
+            "제395화 힘이 된다, 그대"
+          ],
+          [
+            "코너 제목",
+            "경상남도 창원특례시"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/town-395.jpg",
+          "cap": "동네 한 바퀴 395회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/town/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2018-0429&program_id=PS-2026193336-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04",
+          "kind": "kbs",
+          "label": "395회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "395회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/town/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2018-0429&program_id=PS-2026193336-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=04"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11445"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "주남저수지 위치·주소·전화번호는?",
+      "lead": "주소는 경남 창원시 의창구 동읍입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "주남저수지"
+          ],
+          [
+            "주소",
+            "경남 창원시 의창구 동읍"
+          ],
+          [
+            "지역",
+            "경남 창원시"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%A3%BC%EB%82%A8%EC%A0%80%EC%88%98%EC%A7%80%20%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.21 방송 전체",
+      "heading": "11.21 동네 한 바퀴에 나온 곳은 어디인가요?",
+      "lead": "395회 KBS 방송정보에 올라온 곳은 모두 14곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/town-395-1/\">3.15해양누리공원</a>",
+            "제395화 힘이 된다, 그대",
+            "경남 창원시 마산합포구 월남동1가 46-3"
+          ],
+          [
+            "<a href=\"/town-395-2/\">탱수국</a>",
+            "휘모리",
+            "경남 창원시 마산합포구 중앙남1길 9-1"
+          ],
+          [
+            "<a href=\"/town-395-3/\">주남저수지</a>",
+            "제395화 힘이 된다, 그대",
+            "경남 창원시 의창구 동읍"
+          ],
+          [
+            "<a href=\"/town-395-4/\">주남환경학교</a>",
+            "제395화 힘이 된다, 그대",
+            "경상남도 창원시 의창구 동읍 죽동길 72"
+          ],
+          [
+            "한국산업단지공단 융복합 집적·공간 창원스마트업파크",
+            "제395화 힘이 된다, 그대",
+            "—"
+          ],
+          [
+            "키콕스 꿈드림어린이집",
+            "제395화 힘이 된다, 그대",
+            "—"
+          ],
+          [
+            "<a href=\"/town-395-5/\">스마트업타워</a>",
+            "입주",
+            "경남 창원시 의창구 차룡로48번길 44"
+          ],
+          [
+            "드론 전문 회사",
+            "MGIT 엠지아이티 본사",
+            "—"
+          ],
+          [
+            "영상제작, 3D 모델링, VR, 바우처 수행기관",
+            "동영미디어",
+            "—"
+          ],
+          [
+            "<a href=\"/town-395-6/\">문화카페</a>",
+            "브라운핸즈 라비키움 창원",
+            "경남 창원시 성산구 창원대로 520"
+          ],
+          [
+            "<a href=\"/town-395-7/\">돌산마을 빨래터</a>",
+            "제395화 힘이 된다, 그대",
+            "경남 창원시 진해구 여좌동 136-67"
+          ],
+          [
+            "<a href=\"/town-395-8/\">행암마을 기찻길</a>",
+            "제395화 힘이 된다, 그대",
+            "경남 창원시 진해구 행암로 223"
+          ],
+          [
+            "<a href=\"/town-395-9/\">거영수산in해녀의집</a>",
+            "제395화 힘이 된다, 그대",
+            "경남 창원시 진해구 명제로 418-6"
+          ],
+          [
+            "<a href=\"/town-395-10/\">황해당인판사</a>",
+            "제395화 힘이 된다, 그대",
+            "경남 창원시 진해구 백구로 21-2"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.21 동네 한바퀴 총정리",
+          "url": "/town-395/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "주남저수지 위치는 어디인가요?",
+      "a": "경남 창원시 의창구 동읍입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "주남저수지 방송 날짜와 코너는?",
+      "a": "KBS 1TV 동네 한 바퀴 395회 (2026.11.21 (토)) 「제395화 힘이 된다, 그대」 코너에 나왔습니다."
+    },
+    {
+      "q": "동네 한 바퀴 395회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「395회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "town-395-1",
+      "name": "3.15해양누리공원",
+      "desc": "11.21 · 제395화 힘이 된다, 그대"
+    },
+    {
+      "slug": "town-395-2",
+      "name": "탱수국",
+      "desc": "11.21 · 휘모리"
+    },
+    {
+      "slug": "town-395-4",
+      "name": "주남환경학교",
+      "desc": "11.21 · 제395화 힘이 된다, 그대"
+    },
+    {
+      "slug": "town-395-5",
+      "name": "스마트업타워",
+      "desc": "11.21 · 입주"
+    },
+    {
+      "slug": "town-395-6",
+      "name": "문화카페",
+      "desc": "11.21 · 브라운핸즈 라비키움 창원"
+    },
+    {
+      "slug": "town-395-7",
+      "name": "돌산마을 빨래터",
+      "desc": "11.21 · 제395화 힘이 된다, 그대"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.21 (토) 동네 한 바퀴 취재 연락처) · KBS 공식 회차 데이터(395회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-22",
+  "updatedAt": "2026-11-22T01:45:49+09:00"
+}
