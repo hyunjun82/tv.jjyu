@@ -1,0 +1,276 @@
+{
+  "slug": "reallive-2650-4",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 숙이네 민박 풍도동 풍도 민박 위치 주소 11월 23일",
+  "name": "숙이네 민박",
+  "shortName": "숙이네 민박",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.23 (월) 방송 · 한눈에 반했~섬(島)",
+  "status": "방송 장소",
+  "backdrop": "/img/reallive-2650.jpg",
+  "thumb": "/img/reallive-2650.jpg",
+  "badges": [
+    "2650회 · 11.23",
+    "한눈에 반했~섬(島)",
+    "안산시 풍도동"
+  ],
+  "facts": [
+    [
+      "상호",
+      "숙이네 민박"
+    ],
+    [
+      "방송 메뉴",
+      "풍도 민박"
+    ],
+    [
+      "지역",
+      "안산시 풍도동"
+    ],
+    [
+      "주소",
+      "안산시 풍도동 풍도길 2-35"
+    ],
+    [
+      "방송",
+      "KBS 2TV 생생정보 2650회 (2026.11.23 (월))"
+    ],
+    [
+      "코너",
+      "한눈에 반했~섬(島)"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>숙이네 민박</b>은 2026.11.23 (월) KBS 2TV 생생정보 2650회 「한눈에 반했~섬(島)」(경기도 안산시 풍도) 편에 나온 곳입니다. 방송 메뉴는 「풍도 민박」입니다. 주소는 <b>안산시 풍도동 풍도길 2-35</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2650회 다시보기",
+      "sub": "KBS 공식 · 11.23 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211897-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%88%99%EC%9D%B4%EB%84%A4%20%EB%AF%BC%EB%B0%95%20%EC%95%88%EC%82%B0%EC%8B%9C%20%ED%92%8D%EB%8F%84%EB%8F%99"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11447",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%88%99%EC%9D%B4%EB%84%A4%20%EB%AF%BC%EB%B0%95%20%EC%95%88%EC%82%B0%EC%8B%9C%20%ED%92%8D%EB%8F%84%EB%8F%99",
+      "kind": "map"
+    },
+    {
+      "label": "2TV 생생정보 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "숙이네 민박 생생정보 어느 코너에 나왔나요?",
+      "lead": "2026.11.23 (월) KBS 2TV 생생정보 2650회 「한눈에 반했~섬(島)」(경기도 안산시 풍도) 편에 나온 곳입니다. 방송에서 소개된 메뉴는 「풍도 민박」입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.23 (월)"
+          ],
+          [
+            "회차",
+            "2650회"
+          ],
+          [
+            "코너",
+            "한눈에 반했~섬(島)"
+          ],
+          [
+            "코너 제목",
+            "경기도 안산시 풍도"
+          ],
+          [
+            "방송 메뉴",
+            "풍도 민박"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2650.jpg",
+          "cap": "2TV 생생정보 2650회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211897-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2650회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2650회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211897-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11447"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "숙이네 민박 위치·주소·전화번호는?",
+      "lead": "주소는 안산시 풍도동 풍도길 2-35입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "숙이네 민박"
+          ],
+          [
+            "주소",
+            "안산시 풍도동 풍도길 2-35"
+          ],
+          [
+            "지역",
+            "안산시 풍도동"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%88%99%EC%9D%B4%EB%84%A4%20%EB%AF%BC%EB%B0%95%20%EC%95%88%EC%82%B0%EC%8B%9C%20%ED%92%8D%EB%8F%84%EB%8F%99"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.23 방송 전체",
+      "heading": "11.23 2TV 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2650회 KBS 방송정보에 올라온 곳은 모두 6곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2650-1/\">서울장난감도서관</a>",
+            "생생현장",
+            "서울특별시 동작구노량진로 10서울가족플라자 1층서울장난감도서관"
+          ],
+          [
+            "<a href=\"/reallive-2650-2/\">예삐네집</a>",
+            "할매~ 밥 됩니까?",
+            "서울 강남구 학동로4길 31 영동시장"
+          ],
+          [
+            "<a href=\"/reallive-2650-3/\">예빈헤어 시크릿점</a>",
+            "독한 인생",
+            "세종특별자치시 종촌동 672 메가시티 6층 612호"
+          ],
+          [
+            "풍도 배편",
+            "한눈에 반했~섬(島)",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2650-4/\">숙이네 민박</a>",
+            "풍도 민박",
+            "안산시 풍도동 풍도길 2-35"
+          ],
+          [
+            "<a href=\"/reallive-2650-5/\">동학사</a>",
+            "궁금한 건 못 참지",
+            "충남 공주시 반포면 동학사1로 462"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.23 생생정보 총정리",
+          "url": "/reallive-2650/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "숙이네 민박 위치는 어디인가요?",
+      "a": "안산시 풍도동 풍도길 2-35입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "숙이네 민박 2TV 생생정보에 나온 메뉴는 무엇인가요?",
+      "a": "풍도 민박입니다."
+    },
+    {
+      "q": "숙이네 민박 방송 날짜와 코너는?",
+      "a": "KBS 2TV 생생정보 2650회 (2026.11.23 (월)) 「한눈에 반했~섬(島)」 코너에 나왔습니다."
+    },
+    {
+      "q": "2TV 생생정보 2650회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「2650회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2650-1",
+      "name": "서울장난감도서관",
+      "desc": "11.23 · 생생현장"
+    },
+    {
+      "slug": "reallive-2650-2",
+      "name": "예삐네집",
+      "desc": "11.23 · 할매~ 밥 됩니까?"
+    },
+    {
+      "slug": "reallive-2650-3",
+      "name": "예빈헤어 시크릿점",
+      "desc": "11.23 · 독한 인생"
+    },
+    {
+      "slug": "reallive-2650-5",
+      "name": "동학사",
+      "desc": "11.23 · 궁금한 건 못 참지"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.23 (월) 2TV 생생정보 취재 연락처) · KBS 공식 회차 데이터(2650회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-24",
+  "updatedAt": "2026-11-24T06:16:51+09:00"
+}

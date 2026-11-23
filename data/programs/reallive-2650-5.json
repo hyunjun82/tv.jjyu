@@ -1,0 +1,288 @@
+{
+  "slug": "reallive-2650-5",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 동학사 공주 위치 전화번호 11월 23일",
+  "name": "동학사",
+  "shortName": "동학사",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.23 (월) 방송 · 궁금한 건 못 참지",
+  "status": "방송 장소",
+  "backdrop": "/img/reallive-2650.jpg",
+  "thumb": "/img/reallive-2650.jpg",
+  "badges": [
+    "2650회 · 11.23",
+    "궁금한 건 못 참지",
+    "충남 공주시"
+  ],
+  "facts": [
+    [
+      "상호",
+      "동학사"
+    ],
+    [
+      "지역",
+      "충남 공주시"
+    ],
+    [
+      "주소",
+      "충남 공주시 반포면 동학사1로 462"
+    ],
+    [
+      "전화",
+      "042-825-2570"
+    ],
+    [
+      "방송",
+      "KBS 2TV 생생정보 2650회 (2026.11.23 (월))"
+    ],
+    [
+      "코너",
+      "궁금한 건 못 참지"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>동학사</b>는 2026.11.23 (월) KBS 2TV 생생정보 2650회 「궁금한 건 못 참지」(담장 뚫은 느티나무의 비밀은?) 편에 나온 곳입니다. 주소는 <b>충남 공주시 반포면 동학사1로 462</b>, 전화는 <b>042-825-2570</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2650회 다시보기",
+      "sub": "KBS 공식 · 11.23 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211897-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EB%8F%99%ED%95%99%EC%82%AC%20%EC%B6%A9%EB%82%A8%20%EA%B3%B5%EC%A3%BC%EC%8B%9C"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "042-825-2570",
+      "url": "tel:0428252570"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11447",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EB%8F%99%ED%95%99%EC%82%AC%20%EC%B6%A9%EB%82%A8%20%EA%B3%B5%EC%A3%BC%EC%8B%9C",
+      "kind": "map"
+    },
+    {
+      "label": "2TV 생생정보 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "동학사 생생정보 어느 코너에 나왔나요?",
+      "lead": "2026.11.23 (월) KBS 2TV 생생정보 2650회 「궁금한 건 못 참지」(담장 뚫은 느티나무의 비밀은?) 편에 나온 곳입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.23 (월)"
+          ],
+          [
+            "회차",
+            "2650회"
+          ],
+          [
+            "코너",
+            "궁금한 건 못 참지"
+          ],
+          [
+            "코너 제목",
+            "담장 뚫은 느티나무의 비밀은?"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2650.jpg",
+          "cap": "2TV 생생정보 2650회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211897-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2650회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2650회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211897-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11447"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "동학사 위치·주소·전화번호는?",
+      "lead": "주소는 충남 공주시 반포면 동학사1로 462입니다. 전화는 042-825-2570입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "동학사"
+          ],
+          [
+            "주소",
+            "충남 공주시 반포면 동학사1로 462"
+          ],
+          [
+            "지역",
+            "충남 공주시"
+          ],
+          [
+            "전화",
+            "042-825-2570"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EB%8F%99%ED%95%99%EC%82%AC%20%EC%B6%A9%EB%82%A8%20%EA%B3%B5%EC%A3%BC%EC%8B%9C"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "042-825-2570",
+          "url": "tel:0428252570"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.23 방송 전체",
+      "heading": "11.23 2TV 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2650회 KBS 방송정보에 올라온 곳은 모두 6곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2650-1/\">서울장난감도서관</a>",
+            "생생현장",
+            "서울특별시 동작구노량진로 10서울가족플라자 1층서울장난감도서관"
+          ],
+          [
+            "<a href=\"/reallive-2650-2/\">예삐네집</a>",
+            "할매~ 밥 됩니까?",
+            "서울 강남구 학동로4길 31 영동시장"
+          ],
+          [
+            "<a href=\"/reallive-2650-3/\">예빈헤어 시크릿점</a>",
+            "독한 인생",
+            "세종특별자치시 종촌동 672 메가시티 6층 612호"
+          ],
+          [
+            "풍도 배편",
+            "한눈에 반했~섬(島)",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2650-4/\">숙이네 민박</a>",
+            "풍도 민박",
+            "안산시 풍도동 풍도길 2-35"
+          ],
+          [
+            "<a href=\"/reallive-2650-5/\">동학사</a>",
+            "궁금한 건 못 참지",
+            "충남 공주시 반포면 동학사1로 462"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.23 생생정보 총정리",
+          "url": "/reallive-2650/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "동학사 위치는 어디인가요?",
+      "a": "충남 공주시 반포면 동학사1로 462입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "동학사 전화번호는 몇 번인가요?",
+      "a": "042-825-2570입니다(KBS 공식 방송정보 표기)."
+    },
+    {
+      "q": "동학사 방송 날짜와 코너는?",
+      "a": "KBS 2TV 생생정보 2650회 (2026.11.23 (월)) 「궁금한 건 못 참지」 코너에 나왔습니다."
+    },
+    {
+      "q": "2TV 생생정보 2650회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「2650회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2650-1",
+      "name": "서울장난감도서관",
+      "desc": "11.23 · 생생현장"
+    },
+    {
+      "slug": "reallive-2650-2",
+      "name": "예삐네집",
+      "desc": "11.23 · 할매~ 밥 됩니까?"
+    },
+    {
+      "slug": "reallive-2650-3",
+      "name": "예빈헤어 시크릿점",
+      "desc": "11.23 · 독한 인생"
+    },
+    {
+      "slug": "reallive-2650-4",
+      "name": "숙이네 민박",
+      "desc": "11.23 · 풍도 민박"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.23 (월) 2TV 생생정보 취재 연락처) · KBS 공식 회차 데이터(2650회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-24",
+  "updatedAt": "2026-11-24T06:16:51+09:00"
+}

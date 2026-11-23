@@ -1,0 +1,255 @@
+{
+  "slug": "reallive-2650",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 2650회 11월 23일 다시보기 맛집 위치 전화번호 총정리",
+  "name": "2TV 생생정보 11월 23일 2650회 방송 맛집·장소",
+  "shortName": "11.23 생생정보 2650회",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.23 (월) · 2650회",
+  "status": "방송 맛집",
+  "backdrop": "/img/reallive-2650.jpg",
+  "thumb": "/img/reallive-2650.jpg",
+  "badges": [
+    "2650회 · 11.23",
+    "6곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 2TV 생생정보 2650회"
+    ],
+    [
+      "방송일",
+      "2026.11.23 (월)"
+    ],
+    [
+      "소개된 곳",
+      "6곳 (KBS 방송정보 기준)"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.23 (월) KBS 2TV 생생정보 2650회에 나온 곳은 <b>6곳</b>입니다. <b>서울장난감도서관</b>, <b>예삐네집</b>, <b>예빈헤어 시크릿점</b>, <b>풍도 배편</b>, <b>숙이네 민박</b>, <b>동학사</b> 입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2650회 다시보기",
+      "sub": "KBS 공식 · 11.23 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211897-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11447"
+    }
+  ],
+  "quick": [
+    {
+      "label": "서울장난감도서관",
+      "url": "/reallive-2650-1/",
+      "kind": "map"
+    },
+    {
+      "label": "예삐네집",
+      "url": "/reallive-2650-2/",
+      "kind": "map"
+    },
+    {
+      "label": "예빈헤어 시크릿점",
+      "url": "/reallive-2650-3/",
+      "kind": "map"
+    },
+    {
+      "label": "숙이네 민박",
+      "url": "/reallive-2650-4/",
+      "kind": "map"
+    },
+    {
+      "label": "동학사",
+      "url": "/reallive-2650-5/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 23일 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2650회 KBS 방송정보에 올라온 곳은 6곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2650-1/\">서울장난감도서관</a>",
+            "생생현장",
+            "서울특별시 동작구노량진로 10서울가족플라자 1층서울장난감도서관",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2650-2/\">예삐네집</a>",
+            "할매~ 밥 됩니까?",
+            "서울 강남구 학동로4길 31 영동시장",
+            "02-547-0342"
+          ],
+          [
+            "<a href=\"/reallive-2650-3/\">예빈헤어 시크릿점</a>",
+            "독한 인생",
+            "세종특별자치시 종촌동 672 메가시티 6층 612호",
+            "0507-1428-9968"
+          ],
+          [
+            "풍도 배편",
+            "한눈에 반했~섬(島)",
+            "—",
+            "032-887-6669"
+          ],
+          [
+            "<a href=\"/reallive-2650-4/\">숙이네 민박</a>",
+            "풍도 민박",
+            "안산시 풍도동 풍도길 2-35",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2650-5/\">동학사</a>",
+            "궁금한 건 못 참지",
+            "충남 공주시 반포면 동학사1로 462",
+            "042-825-2570"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2650.jpg",
+          "cap": "2TV 생생정보 2650회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211897-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2650회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2650회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211897-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11447"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.23 생생정보 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "생생현장 - 육아비 줄여주는 도서관이 있다?",
+            "<a href=\"/reallive-2650-1/\">서울장난감도서관</a>"
+          ],
+          [
+            "할매~ 밥 됩니까? - 성희 할매의 소머리국밥",
+            "<a href=\"/reallive-2650-2/\">예삐네집</a>"
+          ],
+          [
+            "독한 인생 - 어린이 미용으로 월 매출 1천만 원!",
+            "<a href=\"/reallive-2650-3/\">예빈헤어 시크릿점</a>"
+          ],
+          [
+            "한눈에 반했~섬(島) - 경기도 안산시 풍도",
+            "풍도 배편, <a href=\"/reallive-2650-4/\">숙이네 민박</a>"
+          ],
+          [
+            "궁금한 건 못 참지 - 담장 뚫은 느티나무의 비밀은?",
+            "<a href=\"/reallive-2650-5/\">동학사</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "2TV 생생정보는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "2650회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2650회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211897-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "2TV 생생정보 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "2TV 생생정보 2650회(11월 23일)에 나온 곳은 어디인가요?",
+      "a": "서울장난감도서관(서울특별시 동작구노량진로), 예삐네집(서울 강남구), 예빈헤어 시크릿점(세종특별자치시 종촌동), 숙이네 민박(안산시 풍도동), 동학사(충남 공주시)입니다. 위 목록에서 이름을 누르면 주소와 전화번호가 나옵니다."
+    },
+    {
+      "q": "2TV 생생정보 2650회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「2650회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2650-1",
+      "name": "서울장난감도서관",
+      "desc": "11.23 · 생생현장"
+    },
+    {
+      "slug": "reallive-2650-2",
+      "name": "예삐네집",
+      "desc": "11.23 · 할매~ 밥 됩니까?"
+    },
+    {
+      "slug": "reallive-2650-3",
+      "name": "예빈헤어 시크릿점",
+      "desc": "11.23 · 독한 인생"
+    },
+    {
+      "slug": "reallive-2650-4",
+      "name": "숙이네 민박",
+      "desc": "11.23 · 풍도 민박"
+    },
+    {
+      "slug": "reallive-2650-5",
+      "name": "동학사",
+      "desc": "11.23 · 궁금한 건 못 참지"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.23 (월)) · KBS 공식 회차 데이터(2650회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-24",
+  "updatedAt": "2026-11-24T06:16:51+09:00"
+}
