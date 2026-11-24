@@ -1,0 +1,315 @@
+{
+  "slug": "sixhour-8668-1",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 또오이소 고령 수구레국밥 위치 전화번호 11월 23일",
+  "name": "또오이소",
+  "shortName": "또오이소",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.23 (월) 방송 · 3色 늦가을 여행",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8668.jpg",
+  "thumb": "/img/sixhour-8668.jpg",
+  "badges": [
+    "8668회 · 11.23",
+    "3色 늦가을 여행",
+    "경북 고령군"
+  ],
+  "facts": [
+    [
+      "상호",
+      "또오이소"
+    ],
+    [
+      "방송 메뉴",
+      "수구레국밥"
+    ],
+    [
+      "지역",
+      "경북 고령군"
+    ],
+    [
+      "주소",
+      "경북 고령군 대가야읍 시장3길 21-7 1층"
+    ],
+    [
+      "전화",
+      "0507-1374-8140"
+    ],
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8668회 (2026.11.23 (월))"
+    ],
+    [
+      "코너",
+      "3色 늦가을 여행"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>또오이소</b>는 2026.11.23 (월) KBS 1TV 6시 내고향 8668회 「3色 늦가을 여행」(경북 고령) 편에 나온 곳입니다. 방송 메뉴는 「수구레국밥」입니다. 주소는 <b>경북 고령군 대가야읍 시장3길 21-7 1층</b>, 전화는 <b>0507-1374-8140</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8668회 다시보기",
+      "sub": "KBS 공식 · 11.23 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026202725-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EB%98%90%EC%98%A4%EC%9D%B4%EC%86%8C%20%EA%B2%BD%EB%B6%81%20%EA%B3%A0%EB%A0%B9%EA%B5%B0"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "0507-1374-8140",
+      "url": "tel:050713748140"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11447",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EB%98%90%EC%98%A4%EC%9D%B4%EC%86%8C%20%EA%B2%BD%EB%B6%81%20%EA%B3%A0%EB%A0%B9%EA%B5%B0",
+      "kind": "map"
+    },
+    {
+      "label": "6시 내고향 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "또오이소 6시 내고향 어느 코너에 나왔나요?",
+      "lead": "2026.11.23 (월) KBS 1TV 6시 내고향 8668회 「3色 늦가을 여행」(경북 고령) 편에 나온 곳입니다. 방송에서 소개된 메뉴는 「수구레국밥」입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.23 (월)"
+          ],
+          [
+            "회차",
+            "8668회"
+          ],
+          [
+            "코너",
+            "3色 늦가을 여행"
+          ],
+          [
+            "코너 제목",
+            "경북 고령"
+          ],
+          [
+            "방송 메뉴",
+            "수구레국밥"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8668.jpg",
+          "cap": "6시 내고향 8668회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026202725-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8668회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8668회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026202725-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11447"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "또오이소 위치·주소·전화번호는?",
+      "lead": "주소는 경북 고령군 대가야읍 시장3길 21-7 1층입니다. 전화는 0507-1374-8140입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "또오이소"
+          ],
+          [
+            "주소",
+            "경북 고령군 대가야읍 시장3길 21-7 1층"
+          ],
+          [
+            "지역",
+            "경북 고령군"
+          ],
+          [
+            "전화",
+            "0507-1374-8140"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EB%98%90%EC%98%A4%EC%9D%B4%EC%86%8C%20%EA%B2%BD%EB%B6%81%20%EA%B3%A0%EB%A0%B9%EA%B5%B0"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "0507-1374-8140",
+          "url": "tel:050713748140"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.23 방송 전체",
+      "heading": "11.23 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8668회 KBS 방송정보에 올라온 곳은 모두 7곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/sixhour-8668-1/\">또오이소</a>",
+            "수구레국밥",
+            "경북 고령군 대가야읍 시장3길 21-7 1층"
+          ],
+          [
+            "<a href=\"/sixhour-8668-2/\">대가야수목원</a>",
+            "수목원",
+            "경북 고령군 대가야읍 성산로 46"
+          ],
+          [
+            "<a href=\"/sixhour-8668-3/\">사남매 곶감</a>",
+            "대봉감, 흑곶감",
+            "완주군 고산면 남봉로 134 고산미소시장 101호"
+          ],
+          [
+            "<a href=\"/sixhour-8668-4/\">크로바농장</a>",
+            "가지",
+            "전북특별자치도 완주군 이서면 갈산 신흥길 3-20"
+          ],
+          [
+            "<a href=\"/sixhour-8668-5/\">모악산 절임배추</a>",
+            "배추",
+            "전북특별자치도 완주군 구이면 호지길 48-1번지"
+          ],
+          [
+            "<a href=\"/sixhour-8668-6/\">마검포레져하우스</a>",
+            "조개 체험 및 숙박",
+            "충남 태안군 남면 신온리 168-81"
+          ],
+          [
+            "<a href=\"/sixhour-8668-7/\">섬돌이수산</a>",
+            "낚시 체험",
+            "충남 태안군 남면 신온리 168-9"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.23 6시 내고향 총정리",
+          "url": "/sixhour-8668/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "또오이소 위치는 어디인가요?",
+      "a": "경북 고령군 대가야읍 시장3길 21-7 1층입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "또오이소 전화번호는 몇 번인가요?",
+      "a": "0507-1374-8140입니다(KBS 공식 방송정보 표기)."
+    },
+    {
+      "q": "또오이소 6시 내고향에 나온 메뉴는 무엇인가요?",
+      "a": "수구레국밥입니다."
+    },
+    {
+      "q": "또오이소 방송 날짜와 코너는?",
+      "a": "KBS 1TV 6시 내고향 8668회 (2026.11.23 (월)) 「3色 늦가을 여행」 코너에 나왔습니다."
+    },
+    {
+      "q": "6시 내고향 8668회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「8668회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8668-2",
+      "name": "대가야수목원",
+      "desc": "11.23 · 수목원"
+    },
+    {
+      "slug": "sixhour-8668-3",
+      "name": "사남매 곶감",
+      "desc": "11.23 · 대봉감, 흑곶감"
+    },
+    {
+      "slug": "sixhour-8668-4",
+      "name": "크로바농장",
+      "desc": "11.23 · 가지"
+    },
+    {
+      "slug": "sixhour-8668-5",
+      "name": "모악산 절임배추",
+      "desc": "11.23 · 배추"
+    },
+    {
+      "slug": "sixhour-8668-6",
+      "name": "마검포레져하우스",
+      "desc": "11.23 · 조개 체험 및 숙박"
+    },
+    {
+      "slug": "sixhour-8668-7",
+      "name": "섬돌이수산",
+      "desc": "11.23 · 낚시 체험"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.23 (월) 6시 내고향 취재 연락처) · KBS 공식 회차 데이터(8668회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-24",
+  "updatedAt": "2026-11-24T09:47:42+09:00"
+}
