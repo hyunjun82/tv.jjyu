@@ -1,0 +1,372 @@
+{
+  "slug": "reallive-2651",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 2651회 11월 24일 다시보기 맛집 위치 전화번호 총정리",
+  "name": "2TV 생생정보 11월 24일 2651회 방송 맛집·장소",
+  "shortName": "11.24 생생정보 2651회",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.24 (화) · 2651회",
+  "status": "방송 맛집",
+  "backdrop": "/img/reallive-2651.jpg",
+  "thumb": "/img/reallive-2651.jpg",
+  "badges": [
+    "2651회 · 11.24",
+    "15곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 2TV 생생정보 2651회"
+    ],
+    [
+      "방송일",
+      "2026.11.24 (화)"
+    ],
+    [
+      "소개된 곳",
+      "15곳 (KBS 방송정보 기준)"
+    ],
+    [
+      "가격·영업시간 표기",
+      "6곳"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.24 (화) KBS 2TV 생생정보 2651회에 나온 곳은 <b>15곳</b>입니다. <b>완도 워케이션</b>, <b>모래뜰스테이</b>, <b>완도해양치유센터</b>, <b>통영수산물회센타</b>, <b>명동닭한마리 본점</b>, <b>쟁반집</b> 입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2651회 다시보기",
+      "sub": "KBS 공식 · 11.24 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211898-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11448"
+    }
+  ],
+  "quick": [
+    {
+      "label": "모래뜰스테이",
+      "url": "/reallive-2651-1/",
+      "kind": "map"
+    },
+    {
+      "label": "완도해양치유센터",
+      "url": "/reallive-2651-2/",
+      "kind": "map"
+    },
+    {
+      "label": "통영수산물회센타",
+      "url": "/reallive-2651-3/",
+      "kind": "map"
+    },
+    {
+      "label": "명동닭한마리 본점",
+      "url": "/reallive-2651-4/",
+      "kind": "map"
+    },
+    {
+      "label": "쟁반집",
+      "url": "/reallive-2651-5/",
+      "kind": "map"
+    },
+    {
+      "label": "더쌍화",
+      "url": "/reallive-2651-6/",
+      "kind": "map"
+    },
+    {
+      "label": "샤이니 지퍼수선",
+      "url": "/reallive-2651-7/",
+      "kind": "map"
+    },
+    {
+      "label": "순희네 닭한마리",
+      "url": "/reallive-2651-8/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 24일 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2651회 KBS 방송정보에 올라온 곳은 15곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "완도 워케이션",
+            "숙소를 찾아 줘! 일과 여행 두 마리 토끼를 잡는 완도 워케이션",
+            "—",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2651-1/\">모래뜰스테이</a>",
+            "숙소를 찾아 줘! 일과 여행 두 마리 토끼를 잡는 완도 워케이션",
+            "전남광주통합특별시 완도군 신지면 명사십리길 74 모래뜰스테이",
+            "0507-1416-7203"
+          ],
+          [
+            "<a href=\"/reallive-2651-2/\">완도해양치유센터</a>",
+            "숙소를 찾아 줘! 일과 여행 두 마리 토끼를 잡는 완도 워케이션",
+            "전남광주통합특별시 완도군 신지면 해양치유길 100",
+            "061-550-7676"
+          ],
+          [
+            "<a href=\"/reallive-2651-3/\">통영수산물회센타</a>",
+            "가격파괴 Why",
+            "인천광역시 계양구 계산로 125",
+            "032-554-8209"
+          ],
+          [
+            "<a href=\"/reallive-2651-4/\">명동닭한마리 본점</a>",
+            "핫 플레이스 NOW",
+            "서울특별시 종로구 종로40가길 14",
+            "02-2266-8249"
+          ],
+          [
+            "<a href=\"/reallive-2651-5/\">쟁반집</a>",
+            "연탄불 생선구이",
+            "서울특별시 종로구 종로40가길 7",
+            "02-2271-4594"
+          ],
+          [
+            "<a href=\"/reallive-2651-6/\">더쌍화</a>",
+            "핫 플레이스 NOW",
+            "서울특별시 종로구 종로 252-6 1층",
+            "010-5335-5700"
+          ],
+          [
+            "<a href=\"/reallive-2651-7/\">샤이니 지퍼수선</a>",
+            "핫 플레이스 NOW",
+            "서울특별시 종로구 종로40가길 21-1",
+            "02-2271-3906"
+          ],
+          [
+            "<a href=\"/reallive-2651-8/\">순희네 닭한마리</a>",
+            "핫 플레이스 NOW",
+            "서울특별시 종로구 종로40가길 20 1, 2층",
+            "0507-1418-1443"
+          ],
+          [
+            "<a href=\"/reallive-2651-9/\">정가네원조꼬막회관 본점</a>",
+            "식당",
+            "전남광주통합특별시 보성군 벌교읍 조정래길 55",
+            "061-857-9919"
+          ],
+          [
+            "<a href=\"/reallive-2651-10/\">다향농장</a>",
+            "바나나 체험 농장",
+            "전남광주통합특별시 보성군 득량면 공룡로 917",
+            "010-4608-6200, 010-5243-8685"
+          ],
+          [
+            "<a href=\"/reallive-2651-11/\">보성 차밭 전망대</a>",
+            "장PD의 AI 여행기",
+            "전남광주통합특별시 보성군 회천면 녹차로 617",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2651-12/\">초록잎이 펼치는 세상 티하우스</a>",
+            "카페",
+            "전남광주통합특별시 보성군 회천면 녹차로 613",
+            "061-852-7988"
+          ],
+          [
+            "<a href=\"/reallive-2651-13/\">율포해수녹차센터</a>",
+            "장PD의 AI 여행기",
+            "전남광주통합특별시 보성군 회천면 우암길 21",
+            "0507-1345-4566"
+          ],
+          [
+            "유튜브 채널 <모래여신 샌드아트>",
+            "달라야 사는 크리에이터",
+            "—",
+            "—"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2651.jpg",
+          "cap": "2TV 생생정보 2651회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211898-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2651회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2651회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211898-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11448"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.24 생생정보 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "숙소를 찾아 줘! 일과 여행 두 마리 토끼를 잡는 완도 워케이션",
+            "완도 워케이션, <a href=\"/reallive-2651-1/\">모래뜰스테이</a>, <a href=\"/reallive-2651-2/\">완도해양치유센터</a>"
+          ],
+          [
+            "가격파괴 Why - 한 상 가득! 회 정식 1인 (?)원",
+            "<a href=\"/reallive-2651-3/\">통영수산물회센타</a>"
+          ],
+          [
+            "핫 플레이스 NOW - 찬 바람 불 때 생각나는 동대문 닭한마리 골목",
+            "<a href=\"/reallive-2651-4/\">명동닭한마리 본점</a>, <a href=\"/reallive-2651-5/\">쟁반집</a>, <a href=\"/reallive-2651-6/\">더쌍화</a>, <a href=\"/reallive-2651-7/\">샤이니 지퍼수선</a>, <a href=\"/reallive-2651-8/\">순희네 닭한마리</a>"
+          ],
+          [
+            "장PD의 AI 여행기 - 차밭에서 바다까지, 보성에 반할 시간",
+            "<a href=\"/reallive-2651-9/\">정가네원조꼬막회관 본점</a>, <a href=\"/reallive-2651-10/\">다향농장</a>, <a href=\"/reallive-2651-11/\">보성 차밭 전망대</a>, <a href=\"/reallive-2651-12/\">초록잎이 펼치는 세상 티하우스</a>, <a href=\"/reallive-2651-13/\">율포해수녹차센터</a>"
+          ],
+          [
+            "달라야 사는 크리에이터 - 모래와 빛의 합작품! 샌드 아티스트",
+            "유튜브 채널 <모래여신 샌드아트>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2b",
+      "tab": "가격·영업시간",
+      "heading": "11.24 생생정보 가격·영업시간 나온 곳은?",
+      "lead": "KBS 제작진이 방송정보에 가격·영업시간·주차를 적은 곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "KBS 방송정보 표기"
+        ],
+        "rows": [
+          [
+            "완도 워케이션",
+            "누리집: https://worcation.ijnto.or.kr/program/list?area=%EC%99%84%EB%8F%84"
+          ],
+          [
+            "<a href=\"/reallive-2651-2/\">완도해양치유센터</a>",
+            "누리집: https://www.wandohealing.or.kr/intro"
+          ],
+          [
+            "<a href=\"/reallive-2651-3/\">통영수산물회센타</a>",
+            "영업시간: 매일 11시 ~ 24시"
+          ],
+          [
+            "<a href=\"/reallive-2651-10/\">다향농장</a>",
+            "운영 시간: 10:00 ~ 16:00"
+          ],
+          [
+            "<a href=\"/reallive-2651-12/\">초록잎이 펼치는 세상 티하우스</a>",
+            "운영 시간: 11:00~18:00( 매주 수요일 정기휴무)"
+          ],
+          [
+            "<a href=\"/reallive-2651-13/\">율포해수녹차센터</a>",
+            "운영 시간: 06:40 ~ 20:00"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "2TV 생생정보는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "2651회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2651회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211898-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "2TV 생생정보 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "2TV 생생정보 2651회(11월 24일)에 나온 곳은 어디인가요?",
+      "a": "모래뜰스테이(전남광주통합특별시 완도군), 완도해양치유센터(전남광주통합특별시 완도군), 통영수산물회센타(인천광역시 계양구), 명동닭한마리 본점(서울특별시 종로구), 쟁반집(서울특별시 종로구), 더쌍화(서울특별시 종로구), 샤이니 지퍼수선(서울특별시 종로구), 순희네 닭한마리(서울특별시 종로구)입니다. 위 목록에서 이름을 누르면 주소와 전화번호가 나옵니다."
+    },
+    {
+      "q": "2TV 생생정보 2651회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「2651회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2651-1",
+      "name": "모래뜰스테이",
+      "desc": "11.24 · 숙소를 찾아 줘! 일과 여행 두 마리 토끼를 잡는 완도 워케이션"
+    },
+    {
+      "slug": "reallive-2651-2",
+      "name": "완도해양치유센터",
+      "desc": "11.24 · 숙소를 찾아 줘! 일과 여행 두 마리 토끼를 잡는 완도 워케이션"
+    },
+    {
+      "slug": "reallive-2651-3",
+      "name": "통영수산물회센타",
+      "desc": "11.24 · 가격파괴 Why"
+    },
+    {
+      "slug": "reallive-2651-4",
+      "name": "명동닭한마리 본점",
+      "desc": "11.24 · 핫 플레이스 NOW"
+    },
+    {
+      "slug": "reallive-2651-5",
+      "name": "쟁반집",
+      "desc": "11.24 · 연탄불 생선구이"
+    },
+    {
+      "slug": "reallive-2651-6",
+      "name": "더쌍화",
+      "desc": "11.24 · 핫 플레이스 NOW"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.24 (화)) · KBS 공식 회차 데이터(2651회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-25",
+  "updatedAt": "2026-11-25T05:38:08+09:00"
+}
