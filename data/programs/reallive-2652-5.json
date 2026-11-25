@@ -1,0 +1,338 @@
+{
+  "slug": "reallive-2652-5",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 전주한옥마을 전주 위치 전화번호 11월 25일",
+  "name": "전주한옥마을",
+  "shortName": "전주한옥마을",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.25 (수) 방송 · 교통카드면 충분해",
+  "status": "방송 장소",
+  "backdrop": "/img/reallive-2652.jpg",
+  "thumb": "/img/reallive-2652.jpg",
+  "badges": [
+    "2652회 · 11.25",
+    "교통카드면 충분해",
+    "전북특별자치도 전주시"
+  ],
+  "facts": [
+    [
+      "상호",
+      "전주한옥마을"
+    ],
+    [
+      "지역",
+      "전북특별자치도 전주시"
+    ],
+    [
+      "주소",
+      "전북특별자치도 전주시 완산구 기린대로 99"
+    ],
+    [
+      "전화",
+      "063-282-1330"
+    ],
+    [
+      "방송",
+      "KBS 2TV 생생정보 2652회 (2026.11.25 (수))"
+    ],
+    [
+      "코너",
+      "교통카드면 충분해"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>전주한옥마을</b>은 2026.11.25 (수) KBS 2TV 생생정보 2652회 「교통카드면 충분해」(999번 트롤리버스 타고 떠나는 전주 여행) 편에 나온 곳입니다. 주소는 <b>전북특별자치도 전주시 완산구 기린대로 99</b>, 전화는 <b>063-282-1330</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2652회 다시보기",
+      "sub": "KBS 공식 · 11.25 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211899-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%84%EC%A3%BC%EC%8B%9C"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "063-282-1330",
+      "url": "tel:0632821330"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11449",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%84%EC%A3%BC%EC%8B%9C",
+      "kind": "map"
+    },
+    {
+      "label": "2TV 생생정보 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "전주한옥마을 생생정보 어느 코너에 나왔나요?",
+      "lead": "2026.11.25 (수) KBS 2TV 생생정보 2652회 「교통카드면 충분해」(999번 트롤리버스 타고 떠나는 전주 여행) 편에 나온 곳입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.25 (수)"
+          ],
+          [
+            "회차",
+            "2652회"
+          ],
+          [
+            "코너",
+            "교통카드면 충분해"
+          ],
+          [
+            "코너 제목",
+            "999번 트롤리버스 타고 떠나는 전주 여행"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2652.jpg",
+          "cap": "2TV 생생정보 2652회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211899-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2652회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2652회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211899-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11449"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "전주한옥마을 위치·주소·전화번호는?",
+      "lead": "주소는 전북특별자치도 전주시 완산구 기린대로 99입니다. 전화는 063-282-1330입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "전주한옥마을"
+          ],
+          [
+            "주소",
+            "전북특별자치도 전주시 완산구 기린대로 99"
+          ],
+          [
+            "지역",
+            "전북특별자치도 전주시"
+          ],
+          [
+            "전화",
+            "063-282-1330"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%84%EC%A3%BC%EC%8B%9C"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "063-282-1330",
+          "url": "tel:0632821330"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.25 방송 전체",
+      "heading": "11.25 2TV 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2652회 KBS 방송정보에 올라온 곳은 모두 14곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2652-1/\">상운초등학교</a>",
+            "엄청난 친구들의 아찔한 재능",
+            "경상북도 봉화군 상운면 예봉로 1231"
+          ],
+          [
+            "<a href=\"/reallive-2652-2/\">봉화탁구장</a>",
+            "엄청난 친구들의 아찔한 재능",
+            "경상북도 봉화군 봉화읍 교촌길 44"
+          ],
+          [
+            "<a href=\"/reallive-2652-3/\">공주쌍신집칼국수</a>",
+            "결정적 한 수",
+            "충청남도 공주시 쌍신길 109-2 공주쌍신집칼국수"
+          ],
+          [
+            "<a href=\"/reallive-2652-4/\">전주난장</a>",
+            "교통카드면 충분해",
+            "전북특별자치도 전주시 완산구 동문길 33-20"
+          ],
+          [
+            "<a href=\"/reallive-2652-5/\">전주한옥마을</a>",
+            "교통카드면 충분해",
+            "전북특별자치도 전주시 완산구 기린대로 99"
+          ],
+          [
+            "24시간 운영, 연중무휴",
+            "교통카드면 충분해",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2652-6/\">팡팡 전동카트</a>",
+            "교통카드면 충분해",
+            "전북특별자치도 전주시 완산구 어진길 36 팡팡 전동카트"
+          ],
+          [
+            "<a href=\"/reallive-2652-7/\">풍년제과</a>",
+            "교통카드면 충분해",
+            "전북특별자치도 전주시 완산구 팔달로 141 풍년제과 본점"
+          ],
+          [
+            "<a href=\"/reallive-2652-8/\">완산벙커 더 스페이스</a>",
+            "21:00 라스트오더",
+            "전북특별자치도 전주시 완산구 완산5길 70 완산벙커더스페이스"
+          ],
+          [
+            "<a href=\"/reallive-2652-9/\">하숙영가마솥비빔밥</a>",
+            "입장마감 18:00",
+            "전북특별자치도 전주시 완산구 전라감영5길 19-3 하숙영가마솥비빔밥"
+          ],
+          [
+            "<a href=\"/reallive-2652-10/\">전주덕진공원</a>",
+            "주말 브레이크타임 없음",
+            "전북특별자치도 전주시 덕진구 권삼득로 390"
+          ],
+          [
+            "24시간 운영, 연중무휴",
+            "주말 브레이크타임 없음",
+            "—"
+          ],
+          [
+            "공개된 정보가 없습니다.",
+            "엄마의 밥상",
+            "—"
+          ],
+          [
+            "공개된 정보가 없습니다.",
+            "헌 집 줄께 새 집 다오",
+            "—"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.25 생생정보 총정리",
+          "url": "/reallive-2652/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "전주한옥마을 위치는 어디인가요?",
+      "a": "전북특별자치도 전주시 완산구 기린대로 99입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "전주한옥마을 전화번호는 몇 번인가요?",
+      "a": "063-282-1330입니다(KBS 공식 방송정보 표기)."
+    },
+    {
+      "q": "전주한옥마을 방송 날짜와 코너는?",
+      "a": "KBS 2TV 생생정보 2652회 (2026.11.25 (수)) 「교통카드면 충분해」 코너에 나왔습니다."
+    },
+    {
+      "q": "2TV 생생정보 2652회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「2652회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2652-1",
+      "name": "상운초등학교",
+      "desc": "11.25 · 엄청난 친구들의 아찔한 재능"
+    },
+    {
+      "slug": "reallive-2652-2",
+      "name": "봉화탁구장",
+      "desc": "11.25 · 엄청난 친구들의 아찔한 재능"
+    },
+    {
+      "slug": "reallive-2652-3",
+      "name": "공주쌍신집칼국수",
+      "desc": "11.25 · 결정적 한 수"
+    },
+    {
+      "slug": "reallive-2652-4",
+      "name": "전주난장",
+      "desc": "11.25 · 교통카드면 충분해"
+    },
+    {
+      "slug": "reallive-2652-6",
+      "name": "팡팡 전동카트",
+      "desc": "11.25 · 교통카드면 충분해"
+    },
+    {
+      "slug": "reallive-2652-7",
+      "name": "풍년제과",
+      "desc": "11.25 · 교통카드면 충분해"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.25 (수) 2TV 생생정보 취재 연락처) · KBS 공식 회차 데이터(2652회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-26",
+  "updatedAt": "2026-11-26T04:13:49+09:00"
+}

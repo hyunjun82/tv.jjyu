@@ -1,0 +1,382 @@
+{
+  "slug": "reallive-2652",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 2652회 11월 25일 다시보기 맛집 위치 전화번호 총정리",
+  "name": "2TV 생생정보 11월 25일 2652회 방송 맛집·장소",
+  "shortName": "11.25 생생정보 2652회",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.25 (수) · 2652회",
+  "status": "방송 맛집",
+  "backdrop": "/img/reallive-2652.jpg",
+  "thumb": "/img/reallive-2652.jpg",
+  "badges": [
+    "2652회 · 11.25",
+    "14곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 2TV 생생정보 2652회"
+    ],
+    [
+      "방송일",
+      "2026.11.25 (수)"
+    ],
+    [
+      "소개된 곳",
+      "14곳 (KBS 방송정보 기준)"
+    ],
+    [
+      "가격·영업시간 표기",
+      "7곳"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.25 (수) KBS 2TV 생생정보 2652회에 나온 곳은 <b>14곳</b>입니다. <b>상운초등학교</b>, <b>봉화탁구장</b>, <b>공주쌍신집칼국수</b>, <b>전주난장</b>, <b>전주한옥마을</b>, <b>24시간 운영, 연중무휴</b> 입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2652회 다시보기",
+      "sub": "KBS 공식 · 11.25 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211899-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11449"
+    }
+  ],
+  "quick": [
+    {
+      "label": "상운초등학교",
+      "url": "/reallive-2652-1/",
+      "kind": "map"
+    },
+    {
+      "label": "봉화탁구장",
+      "url": "/reallive-2652-2/",
+      "kind": "map"
+    },
+    {
+      "label": "공주쌍신집칼국수",
+      "url": "/reallive-2652-3/",
+      "kind": "map"
+    },
+    {
+      "label": "전주난장",
+      "url": "/reallive-2652-4/",
+      "kind": "map"
+    },
+    {
+      "label": "전주한옥마을",
+      "url": "/reallive-2652-5/",
+      "kind": "map"
+    },
+    {
+      "label": "팡팡 전동카트",
+      "url": "/reallive-2652-6/",
+      "kind": "map"
+    },
+    {
+      "label": "풍년제과",
+      "url": "/reallive-2652-7/",
+      "kind": "map"
+    },
+    {
+      "label": "완산벙커 더 스페이스",
+      "url": "/reallive-2652-8/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 25일 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2652회 KBS 방송정보에 올라온 곳은 14곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2652-1/\">상운초등학교</a>",
+            "엄청난 친구들의 아찔한 재능",
+            "경상북도 봉화군 상운면 예봉로 1231",
+            "054-672-5011"
+          ],
+          [
+            "<a href=\"/reallive-2652-2/\">봉화탁구장</a>",
+            "엄청난 친구들의 아찔한 재능",
+            "경상북도 봉화군 봉화읍 교촌길 44",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2652-3/\">공주쌍신집칼국수</a>",
+            "결정적 한 수",
+            "충청남도 공주시 쌍신길 109-2 공주쌍신집칼국수",
+            "0507-1374-5459"
+          ],
+          [
+            "<a href=\"/reallive-2652-4/\">전주난장</a>",
+            "교통카드면 충분해",
+            "전북특별자치도 전주시 완산구 동문길 33-20",
+            "0507-1440-0120"
+          ],
+          [
+            "<a href=\"/reallive-2652-5/\">전주한옥마을</a>",
+            "교통카드면 충분해",
+            "전북특별자치도 전주시 완산구 기린대로 99",
+            "063-282-1330"
+          ],
+          [
+            "24시간 운영, 연중무휴",
+            "교통카드면 충분해",
+            "—",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2652-6/\">팡팡 전동카트</a>",
+            "교통카드면 충분해",
+            "전북특별자치도 전주시 완산구 어진길 36 팡팡 전동카트",
+            "0507-1306-5394"
+          ],
+          [
+            "<a href=\"/reallive-2652-7/\">풍년제과</a>",
+            "교통카드면 충분해",
+            "전북특별자치도 전주시 완산구 팔달로 141 풍년제과 본점",
+            "063-231-3366"
+          ],
+          [
+            "<a href=\"/reallive-2652-8/\">완산벙커 더 스페이스</a>",
+            "21:00 라스트오더",
+            "전북특별자치도 전주시 완산구 완산5길 70 완산벙커더스페이스",
+            "063-283-0010"
+          ],
+          [
+            "<a href=\"/reallive-2652-9/\">하숙영가마솥비빔밥</a>",
+            "입장마감 18:00",
+            "전북특별자치도 전주시 완산구 전라감영5길 19-3 하숙영가마솥비빔밥",
+            "063-285-4288"
+          ],
+          [
+            "<a href=\"/reallive-2652-10/\">전주덕진공원</a>",
+            "주말 브레이크타임 없음",
+            "전북특별자치도 전주시 덕진구 권삼득로 390",
+            "063-281-8661"
+          ],
+          [
+            "24시간 운영, 연중무휴",
+            "주말 브레이크타임 없음",
+            "—",
+            "—"
+          ],
+          [
+            "공개된 정보가 없습니다.",
+            "엄마의 밥상",
+            "—",
+            "—"
+          ],
+          [
+            "공개된 정보가 없습니다.",
+            "헌 집 줄께 새 집 다오",
+            "—",
+            "—"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2652.jpg",
+          "cap": "2TV 생생정보 2652회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211899-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2652회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2652회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211899-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11449"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.25 생생정보 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "엄청난 친구들의 아찔한 재능 - 전국을 놀라게 한 시골 학교의 소녀",
+            "<a href=\"/reallive-2652-1/\">상운초등학교</a>, <a href=\"/reallive-2652-2/\">봉화탁구장</a>"
+          ],
+          [
+            "결정적 한 수 - 찬 바람 불 때 제격, 민물새우매운탕 칼국수",
+            "<a href=\"/reallive-2652-3/\">공주쌍신집칼국수</a>"
+          ],
+          [
+            "교통카드면 충분해 - 999번 트롤리버스 타고 떠나는 전주 여행",
+            "<a href=\"/reallive-2652-4/\">전주난장</a>, <a href=\"/reallive-2652-5/\">전주한옥마을</a>, 24시간 운영, 연중무휴, <a href=\"/reallive-2652-6/\">팡팡 전동카트</a>, <a href=\"/reallive-2652-7/\">풍년제과</a>"
+          ],
+          [
+            "21:00 라스트오더",
+            "<a href=\"/reallive-2652-8/\">완산벙커 더 스페이스</a>"
+          ],
+          [
+            "입장마감 18:00",
+            "<a href=\"/reallive-2652-9/\">하숙영가마솥비빔밥</a>"
+          ],
+          [
+            "주말 브레이크타임 없음",
+            "<a href=\"/reallive-2652-10/\">전주덕진공원</a>, 24시간 운영, 연중무휴"
+          ],
+          [
+            "엄마의 밥상 - 하나뿐인 딸을 위한 밥상",
+            "공개된 정보가 없습니다."
+          ],
+          [
+            "헌 집 줄께 새 집 다오 - 부부가 직접 리모델링한 한옥",
+            "공개된 정보가 없습니다."
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2b",
+      "tab": "가격·영업시간",
+      "heading": "11.25 생생정보 가격·영업시간 나온 곳은?",
+      "lead": "KBS 제작진이 방송정보에 가격·영업시간·주차를 적은 곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "KBS 방송정보 표기"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2652-3/\">공주쌍신집칼국수</a>",
+            "매일 11: 00 ~ 20:00<br>(16: 00 ~ 17:00 브레이크타임/19:40 라스트오더)"
+          ],
+          [
+            "<a href=\"/reallive-2652-4/\">전주난장</a>",
+            "주중 10: 00 ~ 19:00<br>토요일 9: 30 ~ 19:30<br>일요일 9: 30 ~ 19:00"
+          ],
+          [
+            "<a href=\"/reallive-2652-6/\">팡팡 전동카트</a>",
+            "주중 10: 00 ~ 18:00<br>주말 10: 00 ~ 21:00"
+          ],
+          [
+            "<a href=\"/reallive-2652-7/\">풍년제과</a>",
+            "매일 8: 00 ~ 22:00"
+          ],
+          [
+            "<a href=\"/reallive-2652-8/\">완산벙커 더 스페이스</a>",
+            "매일 10: 00 ~ 19:00"
+          ],
+          [
+            "<a href=\"/reallive-2652-9/\">하숙영가마솥비빔밥</a>",
+            "매일 11: 00 ~ 20:30"
+          ],
+          [
+            "24시간 운영, 연중무휴",
+            "티벗퀴즈: <엄마의 밥상>에서 어머니가 45년동안 만들어온 돗자리의 재료는?"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "2TV 생생정보는 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 2TV 생생정보는 평일 오후 6시 35분 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "2652회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2652회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211899-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "2TV 생생정보 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "2TV 생생정보 2652회(11월 25일)에 나온 곳은 어디인가요?",
+      "a": "상운초등학교(경상북도 봉화군), 봉화탁구장(경상북도 봉화군), 공주쌍신집칼국수(충청남도 공주시), 전주난장(전북특별자치도 전주시), 전주한옥마을(전북특별자치도 전주시), 팡팡 전동카트(전북특별자치도 전주시), 풍년제과(전북특별자치도 전주시), 완산벙커 더 스페이스(전북특별자치도 전주시)입니다. 위 목록에서 이름을 누르면 주소와 전화번호가 나옵니다."
+    },
+    {
+      "q": "2TV 생생정보 2652회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「2652회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2652-1",
+      "name": "상운초등학교",
+      "desc": "11.25 · 엄청난 친구들의 아찔한 재능"
+    },
+    {
+      "slug": "reallive-2652-2",
+      "name": "봉화탁구장",
+      "desc": "11.25 · 엄청난 친구들의 아찔한 재능"
+    },
+    {
+      "slug": "reallive-2652-3",
+      "name": "공주쌍신집칼국수",
+      "desc": "11.25 · 결정적 한 수"
+    },
+    {
+      "slug": "reallive-2652-4",
+      "name": "전주난장",
+      "desc": "11.25 · 교통카드면 충분해"
+    },
+    {
+      "slug": "reallive-2652-5",
+      "name": "전주한옥마을",
+      "desc": "11.25 · 교통카드면 충분해"
+    },
+    {
+      "slug": "reallive-2652-6",
+      "name": "팡팡 전동카트",
+      "desc": "11.25 · 교통카드면 충분해"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.25 (수)) · KBS 공식 회차 데이터(2652회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-26",
+  "updatedAt": "2026-11-26T04:13:49+09:00"
+}
