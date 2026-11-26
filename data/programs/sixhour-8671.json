@@ -1,0 +1,224 @@
+{
+  "slug": "sixhour-8671",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 8671회 11월 26일 다시보기 맛집 위치 전화번호 총정리",
+  "name": "6시 내고향 11월 26일 8671회 방송 맛집·장소",
+  "shortName": "11.26 6시 내고향 8671회",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.26 (목) · 8671회",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8671.jpg",
+  "thumb": "/img/sixhour-8671.jpg",
+  "badges": [
+    "8671회 · 11.26",
+    "4곳"
+  ],
+  "facts": [
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8671회"
+    ],
+    [
+      "방송일",
+      "2026.11.26 (목)"
+    ],
+    [
+      "소개된 곳",
+      "4곳 (KBS 방송정보 기준)"
+    ],
+    [
+      "가격·영업시간 표기",
+      "1곳"
+    ]
+  ],
+  "next": null,
+  "intro": "2026.11.26 (목) KBS 1TV 6시 내고향 8671회에 나온 곳은 <b>4곳</b>입니다. <b>상주 아람곶감</b>, <b>찬누리영농조합법인</b>, <b>수랏간</b>, <b>느린세상</b> 입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8671회 다시보기",
+      "sub": "KBS 공식 · 11.26 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026202728-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "link",
+      "label": "KBS 공식 방송정보 원문",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11450"
+    }
+  ],
+  "quick": [
+    {
+      "label": "수랏간",
+      "url": "/sixhour-8671-1/",
+      "kind": "map"
+    },
+    {
+      "label": "느린세상",
+      "url": "/sixhour-8671-2/",
+      "kind": "map"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "오늘 나온 곳",
+      "heading": "11월 26일 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8671회 KBS 방송정보에 올라온 곳은 4곳입니다. 상호를 누르면 가게별 위치·전화 페이지로 이동합니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소",
+          "전화"
+        ],
+        "rows": [
+          [
+            "상주 아람곶감",
+            "곶감",
+            "—",
+            "010-3541-7074, 054-536-7319"
+          ],
+          [
+            "찬누리영농조합법인",
+            "샤인머스캣",
+            "—",
+            "010-3807-8212"
+          ],
+          [
+            "<a href=\"/sixhour-8671-1/\">수랏간</a>",
+            "식당",
+            "경북 상주시 상서문3길 119",
+            "054-535-8890"
+          ],
+          [
+            "<a href=\"/sixhour-8671-2/\">느린세상</a>",
+            "요리 공방",
+            "경상북도 상주시 화동면 선교1길 34-16",
+            "054-533-9292"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8671.jpg",
+          "cap": "6시 내고향 8671회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026202728-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8671회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8671회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026202728-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11450"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "코너별",
+      "heading": "11.26 6시 내고향 코너별로 어디가 나왔나요?",
+      "lead": "KBS 방송정보에 적힌 코너 순서 그대로입니다.",
+      "table": {
+        "head": [
+          "코너",
+          "나온 곳"
+        ],
+        "rows": [
+          [
+            "상주의 3色 보물을 찾아라!",
+            "상주 아람곶감, 찬누리영농조합법인, <a href=\"/sixhour-8671-1/\">수랏간</a>"
+          ],
+          [
+            "팔도 배달맨 - 슬리피, 요리 고수가 되다!?",
+            "<a href=\"/sixhour-8671-2/\">느린세상</a>"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec2b",
+      "tab": "가격·영업시간",
+      "heading": "11.26 6시 내고향 가격·영업시간 나온 곳은?",
+      "lead": "KBS 제작진이 방송정보에 가격·영업시간·주차를 적은 곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "KBS 방송정보 표기"
+        ],
+        "rows": [
+          [
+            "상주 아람곶감",
+            "온라인판매처: https://brand.naver.com/aram"
+          ]
+        ]
+      },
+      "paragraphs": []
+    },
+    {
+      "id": "sec3",
+      "tab": "방송 시간",
+      "heading": "6시 내고향은 언제 방송하고 다시보기는 어디서 하나요?",
+      "lead": "KBS 1TV 6시 내고향은 평일 오후 6시 방송합니다(KBS 공식 회차 편성).",
+      "paragraphs": [
+        "8671회 다시보기는 KBS 공식 홈페이지에서 볼 수 있습니다."
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8671회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026202728-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "6시 내고향 공식 홈페이지",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "6시 내고향 8671회(11월 26일)에 나온 곳은 어디인가요?",
+      "a": "수랏간(경북 상주시), 느린세상(경상북도 상주시)입니다. 위 목록에서 이름을 누르면 주소와 전화번호가 나옵니다."
+    },
+    {
+      "q": "6시 내고향 8671회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「8671회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8671-1",
+      "name": "수랏간",
+      "desc": "11.26 · 식당"
+    },
+    {
+      "slug": "sixhour-8671-2",
+      "name": "느린세상",
+      "desc": "11.26 · 요리 공방"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.26 (목)) · KBS 공식 회차 데이터(8671회)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-27",
+  "updatedAt": "2026-11-27T03:58:36+09:00"
+}

@@ -1,0 +1,289 @@
+{
+  "slug": "reallive-2653-3",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 광장시장 서울 종로구 위치 주소 11월 26일",
+  "name": "광장시장",
+  "shortName": "광장시장",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.26 (목) 방송 · 떠나요~이야기로(路)",
+  "status": "방송 장소",
+  "backdrop": "/img/reallive-2653.jpg",
+  "thumb": "/img/reallive-2653.jpg",
+  "badges": [
+    "2653회 · 11.26",
+    "떠나요~이야기로(路)",
+    "서울특별시 종로구"
+  ],
+  "facts": [
+    [
+      "상호",
+      "광장시장"
+    ],
+    [
+      "지역",
+      "서울특별시 종로구"
+    ],
+    [
+      "주소",
+      "서울특별시 종로구 창경궁로 88"
+    ],
+    [
+      "방송",
+      "KBS 2TV 생생정보 2653회 (2026.11.26 (목))"
+    ],
+    [
+      "코너",
+      "떠나요~이야기로(路)"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>광장시장</b>은 2026.11.26 (목) KBS 2TV 생생정보 2653회 「떠나요~이야기로(路)」(실향민들의 손맛으로 재탄생한 서울의 명물은?) 편에 나온 곳입니다. 주소는 <b>서울특별시 종로구 창경궁로 88</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2653회 다시보기",
+      "sub": "KBS 공식 · 11.26 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211900-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EA%B4%91%EC%9E%A5%EC%8B%9C%EC%9E%A5%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A2%85%EB%A1%9C%EA%B5%AC"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11450",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EA%B4%91%EC%9E%A5%EC%8B%9C%EC%9E%A5%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A2%85%EB%A1%9C%EA%B5%AC",
+      "kind": "map"
+    },
+    {
+      "label": "2TV 생생정보 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "광장시장 생생정보 어느 코너에 나왔나요?",
+      "lead": "2026.11.26 (목) KBS 2TV 생생정보 2653회 「떠나요~이야기로(路)」(실향민들의 손맛으로 재탄생한 서울의 명물은?) 편에 나온 곳입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.26 (목)"
+          ],
+          [
+            "회차",
+            "2653회"
+          ],
+          [
+            "코너",
+            "떠나요~이야기로(路)"
+          ],
+          [
+            "코너 제목",
+            "실향민들의 손맛으로 재탄생한 서울의 명물은?"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2653.jpg",
+          "cap": "2TV 생생정보 2653회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211900-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2653회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2653회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211900-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11450"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "광장시장 위치·주소·전화번호는?",
+      "lead": "주소는 서울특별시 종로구 창경궁로 88입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "광장시장"
+          ],
+          [
+            "주소",
+            "서울특별시 종로구 창경궁로 88"
+          ],
+          [
+            "지역",
+            "서울특별시 종로구"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EA%B4%91%EC%9E%A5%EC%8B%9C%EC%9E%A5%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A2%85%EB%A1%9C%EA%B5%AC"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.26 방송 전체",
+      "heading": "11.26 2TV 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2653회 KBS 방송정보에 올라온 곳은 모두 9곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "<a href=\"/reallive-2653-1/\">본옥</a>",
+            "오늘 또 방문: 스타밥집",
+            "서울특별시 강동구 강동대로 177 103, 104호"
+          ],
+          [
+            "<a href=\"/reallive-2653-2/\">속초대일호방어</a>",
+            "신(新)VJ특공대",
+            "강원특별자치도 속초시 중앙로147번길 16 6호"
+          ],
+          [
+            "<a href=\"/reallive-2653-3/\">광장시장</a>",
+            "떠나요~이야기로(路)",
+            "서울특별시 종로구 창경궁로 88"
+          ],
+          [
+            "<a href=\"/reallive-2653-4/\">황해도원조빈대떡</a>",
+            "떠나요~이야기로(路)",
+            "서울특별시 종로구 창경궁로 88 광장시장 동부A 73호"
+          ],
+          [
+            "<a href=\"/reallive-2653-5/\">청계천 판잣집 테마존</a>",
+            "떠나요~이야기로(路)",
+            "서울특별시 성동구 마장동 610"
+          ],
+          [
+            "<a href=\"/reallive-2653-6/\">진남포면옥</a>",
+            "떠나요~이야기로(路)",
+            "서울특별시 중구 다산로 108"
+          ],
+          [
+            "<a href=\"/reallive-2653-7/\">해방촌</a>",
+            "떠나요~이야기로(路)",
+            "서울특별시 용산구 용산동2가"
+          ],
+          [
+            "<a href=\"/reallive-2653-8/\">장충동족발골목</a>",
+            "떠나요~이야기로(路)",
+            "서울특별시 중구 장충단로 174"
+          ],
+          [
+            "<a href=\"/reallive-2653-9/\">뚱뚱이할머니집</a>",
+            "떠나요~이야기로(路)",
+            "서울특별시 중구 장충단로 174-1"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.26 생생정보 총정리",
+          "url": "/reallive-2653/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "광장시장 위치는 어디인가요?",
+      "a": "서울특별시 종로구 창경궁로 88입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "광장시장 방송 날짜와 코너는?",
+      "a": "KBS 2TV 생생정보 2653회 (2026.11.26 (목)) 「떠나요~이야기로(路)」 코너에 나왔습니다."
+    },
+    {
+      "q": "2TV 생생정보 2653회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「2653회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2653-1",
+      "name": "본옥",
+      "desc": "11.26 · 오늘 또 방문: 스타밥집"
+    },
+    {
+      "slug": "reallive-2653-2",
+      "name": "속초대일호방어",
+      "desc": "11.26 · 신(新)VJ특공대"
+    },
+    {
+      "slug": "reallive-2653-4",
+      "name": "황해도원조빈대떡",
+      "desc": "11.26 · 떠나요~이야기로(路)"
+    },
+    {
+      "slug": "reallive-2653-5",
+      "name": "청계천 판잣집 테마존",
+      "desc": "11.26 · 떠나요~이야기로(路)"
+    },
+    {
+      "slug": "reallive-2653-6",
+      "name": "진남포면옥",
+      "desc": "11.26 · 떠나요~이야기로(路)"
+    },
+    {
+      "slug": "reallive-2653-7",
+      "name": "해방촌",
+      "desc": "11.26 · 떠나요~이야기로(路)"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.26 (목) 2TV 생생정보 취재 연락처) · KBS 공식 회차 데이터(2653회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-27",
+  "updatedAt": "2026-11-27T03:58:36+09:00"
+}

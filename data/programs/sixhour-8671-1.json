@@ -1,0 +1,271 @@
+{
+  "slug": "sixhour-8671-1",
+  "type": "place",
+  "category": "맛집",
+  "series": "6시 내고향",
+  "seriesSlug": "sixhour",
+  "program": "sixhour",
+  "title": "6시 내고향 수랏간 상주 식당 위치 전화번호 11월 26일",
+  "name": "수랏간",
+  "shortName": "수랏간",
+  "subtitle": "",
+  "channel": "KBS 1TV 6시 내고향",
+  "airtime": "2026.11.26 (목) 방송 · 상주의 3色 보물을 찾아라!",
+  "status": "방송 맛집",
+  "backdrop": "/img/sixhour-8671.jpg",
+  "thumb": "/img/sixhour-8671.jpg",
+  "badges": [
+    "8671회 · 11.26",
+    "상주의 3色 보물을 찾아라!",
+    "경북 상주시"
+  ],
+  "facts": [
+    [
+      "상호",
+      "수랏간"
+    ],
+    [
+      "방송 메뉴",
+      "식당"
+    ],
+    [
+      "지역",
+      "경북 상주시"
+    ],
+    [
+      "주소",
+      "경북 상주시 상서문3길 119"
+    ],
+    [
+      "전화",
+      "054-535-8890"
+    ],
+    [
+      "방송",
+      "KBS 1TV 6시 내고향 8671회 (2026.11.26 (목))"
+    ],
+    [
+      "코너",
+      "상주의 3色 보물을 찾아라!"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>수랏간</b>은 2026.11.26 (목) KBS 1TV 6시 내고향 8671회 「상주의 3色 보물을 찾아라!」 편에 나온 곳입니다. 방송 메뉴는 「식당」입니다. 주소는 <b>경북 상주시 상서문3길 119</b>, 전화는 <b>054-535-8890</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "8671회 다시보기",
+      "sub": "KBS 공식 · 11.26 방송",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026202728-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%88%98%EB%9E%8F%EA%B0%84%20%EA%B2%BD%EB%B6%81%20%EC%83%81%EC%A3%BC%EC%8B%9C"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "054-535-8890",
+      "url": "tel:0545358890"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11450",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%88%98%EB%9E%8F%EA%B0%84%20%EA%B2%BD%EB%B6%81%20%EC%83%81%EC%A3%BC%EC%8B%9C",
+      "kind": "map"
+    },
+    {
+      "label": "6시 내고향 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/1tv/culture/sixhour",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "수랏간 6시 내고향 어느 코너에 나왔나요?",
+      "lead": "2026.11.26 (목) KBS 1TV 6시 내고향 8671회 「상주의 3色 보물을 찾아라!」 편에 나온 곳입니다. 방송에서 소개된 메뉴는 「식당」입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.26 (목)"
+          ],
+          [
+            "회차",
+            "8671회"
+          ],
+          [
+            "코너",
+            "상주의 3色 보물을 찾아라!"
+          ],
+          [
+            "방송 메뉴",
+            "식당"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/sixhour-8671.jpg",
+          "cap": "6시 내고향 8671회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026202728-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "8671회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "8671회 다시보기",
+          "url": "https://program.kbs.co.kr/1tv/culture/sixhour/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2000-0093&program_id=PS-2026202728-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11450"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "수랏간 위치·주소·전화번호는?",
+      "lead": "주소는 경북 상주시 상서문3길 119입니다. 전화는 054-535-8890입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "수랏간"
+          ],
+          [
+            "주소",
+            "경북 상주시 상서문3길 119"
+          ],
+          [
+            "지역",
+            "경북 상주시"
+          ],
+          [
+            "전화",
+            "054-535-8890"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%88%98%EB%9E%8F%EA%B0%84%20%EA%B2%BD%EB%B6%81%20%EC%83%81%EC%A3%BC%EC%8B%9C"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "054-535-8890",
+          "url": "tel:0545358890"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.26 방송 전체",
+      "heading": "11.26 6시 내고향에 나온 곳은 어디인가요?",
+      "lead": "8671회 KBS 방송정보에 올라온 곳은 모두 4곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "상주 아람곶감",
+            "곶감",
+            "—"
+          ],
+          [
+            "찬누리영농조합법인",
+            "샤인머스캣",
+            "—"
+          ],
+          [
+            "<a href=\"/sixhour-8671-1/\">수랏간</a>",
+            "식당",
+            "경북 상주시 상서문3길 119"
+          ],
+          [
+            "<a href=\"/sixhour-8671-2/\">느린세상</a>",
+            "요리 공방",
+            "경상북도 상주시 화동면 선교1길 34-16"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.26 6시 내고향 총정리",
+          "url": "/sixhour-8671/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "수랏간 위치는 어디인가요?",
+      "a": "경북 상주시 상서문3길 119입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "수랏간 전화번호는 몇 번인가요?",
+      "a": "054-535-8890입니다(KBS 공식 방송정보 표기)."
+    },
+    {
+      "q": "수랏간 6시 내고향에 나온 메뉴는 무엇인가요?",
+      "a": "식당입니다."
+    },
+    {
+      "q": "수랏간 방송 날짜와 코너는?",
+      "a": "KBS 1TV 6시 내고향 8671회 (2026.11.26 (목)) 「상주의 3色 보물을 찾아라!」 코너에 나왔습니다."
+    },
+    {
+      "q": "6시 내고향 8671회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「8671회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "sixhour-8671-2",
+      "name": "느린세상",
+      "desc": "11.26 · 요리 공방"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.26 (목) 6시 내고향 취재 연락처) · KBS 공식 회차 데이터(8671회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-27",
+  "updatedAt": "2026-11-27T03:58:36+09:00"
+}
