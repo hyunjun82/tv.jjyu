@@ -1,0 +1,288 @@
+{
+  "slug": "reallive-2654-1",
+  "type": "place",
+  "category": "맛집",
+  "series": "2TV 생생정보",
+  "seriesSlug": "reallive",
+  "program": "reallive",
+  "title": "생생정보 용천가든 천안 위치 전화번호 11월 27일",
+  "name": "용천가든",
+  "shortName": "용천가든",
+  "subtitle": "",
+  "channel": "KBS 2TV 생생정보",
+  "airtime": "2026.11.27 (금) 방송 · 맛집 맞수다",
+  "status": "방송 맛집",
+  "backdrop": "/img/reallive-2654.jpg",
+  "thumb": "/img/reallive-2654.jpg",
+  "badges": [
+    "2654회 · 11.27",
+    "맛집 맞수다",
+    "충청남도 천안시"
+  ],
+  "facts": [
+    [
+      "상호",
+      "용천가든"
+    ],
+    [
+      "지역",
+      "충청남도 천안시"
+    ],
+    [
+      "주소",
+      "충청남도 천안시 서북구 입장면 성진로 637"
+    ],
+    [
+      "전화",
+      "041-585-8959"
+    ],
+    [
+      "방송",
+      "KBS 2TV 생생정보 2654회 (2026.11.27 (금))"
+    ],
+    [
+      "코너",
+      "맛집 맞수다"
+    ]
+  ],
+  "next": null,
+  "intro": "<b>용천가든</b>은 2026.11.27 (금) KBS 2TV 생생정보 2654회 「맛집 맞수다」(김치의 두 얼굴! 김치찌개 vs 김치만두전골) 편에 나온 곳입니다. 주소는 <b>충청남도 천안시 서북구 입장면 성진로 637</b>, 전화는 <b>041-585-8959</b>입니다.",
+  "ctas": [
+    {
+      "kind": "kbs",
+      "label": "2654회 다시보기",
+      "sub": "KBS 공식 · 11.27 방송",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211902-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+    },
+    {
+      "kind": "map",
+      "label": "네이버 지도로 보기",
+      "sub": "위치 · 길찾기",
+      "url": "https://map.naver.com/p/search/%EC%9A%A9%EC%B2%9C%EA%B0%80%EB%93%A0%20%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%EC%B2%9C%EC%95%88%EC%8B%9C"
+    },
+    {
+      "kind": "tel",
+      "label": "전화 걸기",
+      "sub": "041-585-8959",
+      "url": "tel:0415858959"
+    }
+  ],
+  "quick": [
+    {
+      "label": "KBS 공식 방송정보",
+      "url": "https://iaudience.kbs.co.kr/broadcast/11451",
+      "kind": "link"
+    },
+    {
+      "label": "카카오맵에서 보기",
+      "url": "https://map.kakao.com/?q=%EC%9A%A9%EC%B2%9C%EA%B0%80%EB%93%A0%20%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%EC%B2%9C%EC%95%88%EC%8B%9C",
+      "kind": "map"
+    },
+    {
+      "label": "2TV 생생정보 공식 홈페이지",
+      "url": "https://program.kbs.co.kr/2tv/culture/reallive",
+      "kind": "link"
+    }
+  ],
+  "links": [],
+  "ott": [],
+  "sections": [
+    {
+      "id": "sec1",
+      "tab": "방송 내용",
+      "heading": "용천가든 생생정보 어느 코너에 나왔나요?",
+      "lead": "2026.11.27 (금) KBS 2TV 생생정보 2654회 「맛집 맞수다」(김치의 두 얼굴! 김치찌개 vs 김치만두전골) 편에 나온 곳입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "방송일",
+            "2026.11.27 (금)"
+          ],
+          [
+            "회차",
+            "2654회"
+          ],
+          [
+            "코너",
+            "맛집 맞수다"
+          ],
+          [
+            "코너 제목",
+            "김치의 두 얼굴! 김치찌개 vs 김치만두전골"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "images": [
+        {
+          "src": "/img/reallive-2654.jpg",
+          "cap": "2TV 생생정보 2654회 (KBS 공식 회차 이미지)",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211902-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03",
+          "kind": "kbs",
+          "label": "2654회 다시보기",
+          "wide": true
+        }
+      ],
+      "actions": [
+        {
+          "kind": "kbs",
+          "label": "2654회 다시보기",
+          "url": "https://program.kbs.co.kr/2tv/culture/reallive/pc/index.html?source=episode&sname=vod&stype=vod&program_code=T2014-0844&program_id=PS-2026211902-01-000&broadcast_complete_yn=N&local_station_code=00&section_code=05&section_sub_code=03"
+        },
+        {
+          "kind": "link",
+          "label": "KBS 공식 방송정보 원문",
+          "url": "https://iaudience.kbs.co.kr/broadcast/11451"
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "tab": "위치·전화",
+      "heading": "용천가든 위치·주소·전화번호는?",
+      "lead": "주소는 충청남도 천안시 서북구 입장면 성진로 637입니다. 전화는 041-585-8959입니다.",
+      "table": {
+        "head": [
+          "항목",
+          "내용"
+        ],
+        "rows": [
+          [
+            "상호",
+            "용천가든"
+          ],
+          [
+            "주소",
+            "충청남도 천안시 서북구 입장면 성진로 637"
+          ],
+          [
+            "지역",
+            "충청남도 천안시"
+          ],
+          [
+            "전화",
+            "041-585-8959"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "map",
+          "label": "네이버 지도로 보기",
+          "sub": "위치 · 길찾기",
+          "url": "https://map.naver.com/p/search/%EC%9A%A9%EC%B2%9C%EA%B0%80%EB%93%A0%20%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%EC%B2%9C%EC%95%88%EC%8B%9C"
+        },
+        {
+          "kind": "tel",
+          "label": "전화 걸기",
+          "sub": "041-585-8959",
+          "url": "tel:0415858959"
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "tab": "11.27 방송 전체",
+      "heading": "11.27 2TV 생생정보에 나온 곳은 어디인가요?",
+      "lead": "2654회 KBS 방송정보에 올라온 곳은 모두 6곳입니다.",
+      "table": {
+        "head": [
+          "상호",
+          "방송 메뉴·코너",
+          "주소"
+        ],
+        "rows": [
+          [
+            "목월빵집",
+            "시골빵집",
+            "—"
+          ],
+          [
+            "<a href=\"/reallive-2654-1/\">용천가든</a>",
+            "맛집 맞수다",
+            "충청남도 천안시 서북구 입장면 성진로 637"
+          ],
+          [
+            "<a href=\"/reallive-2654-2/\">철원솔향기</a>",
+            "맛집 맞수다",
+            "강원특별자치도 철원군 동송읍 금학로 31-10"
+          ],
+          [
+            "<a href=\"/reallive-2654-3/\">참치 공장 아르바이트</a>",
+            "해피 벌(고)쓰(고)데이- 코미디언 서태훈의 경기도 광주시",
+            "경기도 광주시 진토길 92 건영수산"
+          ],
+          [
+            "<a href=\"/reallive-2654-4/\">최미자 1관 소머리국밥</a>",
+            "해피 벌(고)쓰(고)데이- 코미디언 서태훈의 경기도 광주시",
+            "경기도 광주시 곤지암읍 도척윗로 24"
+          ],
+          [
+            "<a href=\"/reallive-2654-5/\">서핑라이더</a>",
+            "해피 벌(고)쓰(고)데이- 코미디언 서태훈의 경기도 광주시",
+            "경기도 광주시 능평로 116-21"
+          ]
+        ]
+      },
+      "paragraphs": [],
+      "actions": [
+        {
+          "kind": "link",
+          "label": "11.27 생생정보 총정리",
+          "url": "/reallive-2654/"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "episodes": [],
+  "faq": [
+    {
+      "q": "용천가든 위치는 어디인가요?",
+      "a": "충청남도 천안시 서북구 입장면 성진로 637입니다. 화면의 「네이버 지도로 보기」 버튼으로 지도를 열 수 있습니다."
+    },
+    {
+      "q": "용천가든 전화번호는 몇 번인가요?",
+      "a": "041-585-8959입니다(KBS 공식 방송정보 표기)."
+    },
+    {
+      "q": "용천가든 방송 날짜와 코너는?",
+      "a": "KBS 2TV 생생정보 2654회 (2026.11.27 (금)) 「맛집 맞수다」 코너에 나왔습니다."
+    },
+    {
+      "q": "2TV 생생정보 2654회 다시보기는 어디서 보나요?",
+      "a": "KBS 공식 다시보기에서 볼 수 있습니다. 화면의 「2654회 다시보기」 버튼을 누르면 이동합니다."
+    }
+  ],
+  "related": [
+    {
+      "slug": "reallive-2654-2",
+      "name": "철원솔향기",
+      "desc": "11.27 · 맛집 맞수다"
+    },
+    {
+      "slug": "reallive-2654-3",
+      "name": "참치 공장 아르바이트",
+      "desc": "11.27 · 해피 벌(고)쓰(고)데이- 코미디언 서태훈의 경기도 광주시"
+    },
+    {
+      "slug": "reallive-2654-4",
+      "name": "최미자 1관 소머리국밥",
+      "desc": "11.27 · 해피 벌(고)쓰(고)데이- 코미디언 서태훈의 경기도 광주시"
+    },
+    {
+      "slug": "reallive-2654-5",
+      "name": "서핑라이더",
+      "desc": "11.27 · 해피 벌(고)쓰(고)데이- 코미디언 서태훈의 경기도 광주시"
+    }
+  ],
+  "source": "KBS 시청자상담실 방송정보(2026.11.27 (금) 2TV 생생정보 취재 연락처) · KBS 공식 회차 데이터(2654회 방송일·이미지·다시보기)",
+  "imageCredit": "KBS 공식 회차 이미지",
+  "checkedAt": "2026-11-28",
+  "updatedAt": "2026-11-28T03:55:43+09:00"
+}
